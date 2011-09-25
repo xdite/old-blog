@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>My Octopress Blog</title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2011-09-26T04:57:26+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title>Playbook</title>
+  <link href="http://playbook.xdite.net/atom.xml" rel="self"/>
+  <link href="http://playbook.xdite.net/"/>
+  <updated>2011-09-26T05:15:18+08:00</updated>
+  <id>http://playbook.xdite.net/</id>
   <author>
-    <name>Your Name</name>
+    <name>xdite</name>
     
   </author>
 
