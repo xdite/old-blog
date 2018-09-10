@@ -1,0 +1,31 @@
+--- 
+wordpress_id: 619
+layout: post
+title: !binary |
+  RGVtb21vIFNob3cg57WQ5p6c5o+t5puJ
+
+date: 2008-08-04 08:19:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=619
+---
+第一名：<a href="http://bank.e04.us/">e04 黑特銀行</a>
+<a href="http://bank.e04.us/" title="Flickr 上 xdite 的 e04"><img src="http://farm4.static.flickr.com/3090/2730278748_e0144317d3_m.jpg" width="240" height="173" alt="e04" /></a>
+
+第二名：<a href="http://award.veryxd.net/">全球華文不及格大獎</a>
+<a href=http://award.veryxd.net/" title="Flickr 上 xdite 的 awardsveryxd"><img src="http://farm4.static.flickr.com/3052/2730283300_33b63fdbc5_m.jpg" width="240" height="173" alt="awardsveryxd" /></a>
+
+第三名：<a href="http://stickeraction.com/">貼紙後援會</a>
+<a href="http://stickeraction.com/" title="Flickr 上 xdite 的 stickeraction"><img src="http://farm3.static.flickr.com/2297/2730284320_5a86d88073_m.jpg" width="240" height="173" alt="stickeraction" /></a>
+
+參賽團隊：
+1. <a href="http://jMap.cc">jMap.cc 樂遊地圖 </a>
+2. <a href="http://ppt.cc">來個 PPT 短網址</a>  
+3. <a href="http://iwakela.com">早鳥網iwakela </a>
+4. <a href="http://comics.mmdays.com/ ">漫畫自動產生器</a> 
+5. <a href="http://bank.e04.us/">e04黑特銀行</a> 
+6. <a href="http://comic.sopili.net/">Sopili 漫畫邦</a>  
+7. <a href="http://stickeraction.com/">StickerAction 貼紙串連後援會</a> 
+8. <a href="http://kekeke.cc">即時科科科</a>  
+9. <a href="http://award.veryxd.net">全球華文不及格大獎</a>  
+10.成人觀賞影片下載 funPorn (兒童不宜所以沒有連結 XD）
+11.<a href="http://www.memode.com/">*memode RSS直播系統</a> 
+12.<a href="http://treemily.com">台灣傳家寶</a>

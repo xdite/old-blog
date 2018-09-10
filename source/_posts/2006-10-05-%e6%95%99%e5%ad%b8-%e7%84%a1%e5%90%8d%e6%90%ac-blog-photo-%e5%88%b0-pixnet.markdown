@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 156
+layout: post
+title: !binary |
+  W+aVmeWtuF0g54Sh5ZCN5pCsIEJsb2cgLyBQaG90byDliLAgUGl4bmV0
+
+date: 2006-10-05 17:02:59 +08:00
+wordpress_url: http://blog.xdite.net/?p=156
+---
+<a href="http://guide.xdite.net/pixbguide.htm">無名搬 Blog 至 Pixnet 圖示教學</a>（不用買 VIP 就能搬，而且搬家不會破圖喔！）<br /> <a href="http://guide.xdite.net/pixpguide.htm">無名搬 Photo 至 Pixnet 圖示教學</a> （注意：你必須要有 VIP 發的邀請碼或者<a href="https://bill.pixnet.tw/index2.php">本身就是 VIP</a>）<br /> <br /> <br /> 歡迎轉錄（請附上本 Blog 網址）。<br />

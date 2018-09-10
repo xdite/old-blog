@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 175
+layout: post
+title: !binary |
+  U0FA5Y+w5LitIDEwIOaciOS7vea8lOismw==
+
+date: 2006-10-24 23:50:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=175
+---
+<br />投影片下載：<a href="http://xdite.net/Web20.ppt">Web2.0的部落格迷失</a><br /><br />現場影片正在轉檔。<br /><br />我那天狀況不是很好，加上禮拜三到禮拜五我南北跑，連投影片都在遊覽車上寫的。正式講的時候，因為根本沒有加小標題和圖就硬幹直接講，神智恍惚下就漏了很多東西沒講，而且還亂講XD。如果我看完影片之後，覺得演講效果很爛的話。會直接根據投影片把講稿重新寫一份 public 在 blog 上，補償各位。敬請期待:p<br /><br />其實我當天的主題，是希望從探討 wretch / xuite 這兩個 -嗶- 到代表性的 BSP，探討他們缺點導致的失敗，勾勒出到底什麼是 against Web 2.0。從此引出 Web 2.0 的關鍵原則，再介紹代表性應用。最後再送一個 bonus session： Web 2.0 所帶來的 Security Issue。<br /><br />不過講整場下來，我發覺還是比較適合用寫的談這些東西。希望如果有機會下次再演講，不要像這次一樣糊成一團了 XD

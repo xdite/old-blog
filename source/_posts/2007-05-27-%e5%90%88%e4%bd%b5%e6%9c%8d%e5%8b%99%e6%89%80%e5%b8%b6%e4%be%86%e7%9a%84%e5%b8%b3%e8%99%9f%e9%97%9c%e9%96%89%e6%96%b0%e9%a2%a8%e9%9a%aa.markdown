@@ -1,0 +1,83 @@
+--- 
+wordpress_id: 358
+layout: post
+title: !binary |
+  5ZCI5L215pyN5YuZ5omA5bi25L6G55qE5biz6Jmf6Zec6ZaJ5paw6aKo6Zqq
+
+date: 2007-05-27 20:05:18 +08:00
+wordpress_url: http://blog.xdite.net/?p=358
+---
+呼，各位應該有注意到，筆者最近又開始在狂拖稿了。其實不是沒有 JOKE 可以寫，而是因為NDS 大作「應援團2」 在 5/16 上市。所以…XD 。前幾天，筆者終於把激烈 STAGE 的拯救地球關破了，所以才又開始…XD。
+
+
+好吧，回到正題。會寫這篇文章的誘因是，這個月看到的台灣兩篇有關於<b> Flickr 引起的 yahoo 帳戶關閉抱怨文</b>。以及一個讀者內線爆料：丁丁大站與其母公司已經開始寫好了整合帳號的機制流程，正在進行測試中…
+
+
+這兩篇抱怨文分別是：
+
+工頭堅的 <a href="http://worker.bluecircus.net/archives/2007/05/20_1.html" target="_blank">不怎麼2.0的一天：Flickr, Twitter, Jaiku</a>
+Bluena009 的 <a href="http://blog.yam.com/buena009/article/10088076">我的flickr被盜用,美國Yahoo鎖住整個帳戶.....</a>
+
+兩位朋友最後的下場都是帳號在不久後被盜用，盜用後的帳號被不法份子濫用，跟著 yahoo 帳號隨即被停止使用。即使經過帳號本人不斷的與 yahoo 公司申訴（是的，向美國總公司！台灣沒有權限處理）。仍然無法把帳號取回。對工頭損失比較慘重的應該是<font color="#ff0000"><b>從此只能再對這些照片乾瞪眼</b></font>。而 bluena009 <font color="#ff0000"><b>則是跟 flickr 服務綁住的長久聯繫用 yahoo 帳號內所有信件資料，完全泡湯</b></font>。
+
+
+
+雖然筆者跟工頭本人聯繫過後，得知個騙他的惡魔小女孩留言在當下已經被砍，在這篇文中缺乏例圖可以提醒大家注意。
+
+不過筆者卻可從他們這兩天 blog 文清晰的描述，大略的知道它們遇上什麼手法的詐騙。
+
+
+
+不知道各位還記不記得筆者在去年年底寫過的一篇文章「<a href="http://blog.xdite.net/?p=257">web 2.0 演伸出的網路安全問題</a>」。（<a href="http://xdite.net/Web20-security.pdf">PDF 下載</a>）
+
+當中提到現在最為流行，也是最常用被用來針對網站漏洞設計的一種攻擊手法 XSS ( Cross Site Scripting）。
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/515890178/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/236/515890178_1306b31e27.jpg" alt="whatisxss" height="376" width="500" /></a>
+
+通常駭客們會怎麼進行實做呢？
+
+<a href="http://www.flickr.com/photos/14765209@N00/515923363/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/192/515923363_0def7709dd.jpg" alt="flickrxss02" height="377" width="500" /></a>
+
+
+再看看工頭 Blog 文的敘述：
+
+<blockquote>惱人的是，在我flickr的某張照片下方看到一則長長的英文留言，大意是「<b>我和我先生很喜歡你的相片，﹝中略﹞...這裡有個禮物想要送給你，請按此連結。</b>」我沒防備地點了過去，要求再登入一次帳號，然後連到一張莫名其妙的小女生相片﹝還好不是什麼靈異或噁心的圖片﹞；<b>等我再點回自己的相簿時，赫然發現自己的頭像和第一頁相片的標題描述都亂掉了</b>。
+</blockquote>
+恰巧符合兩大特徵：
+<ol><li>社交工程法詐騙點擊，騙取個人資訊或者是 cookie / password。</li><li>頁面的輸出畫面可能被破壞。
+</li></ol>
+（註：何謂社交工程法？簡單的說，電話詐騙集團那一套就是社交工程法，這樣解釋有沒有很清楚 XD ）
+
+
+Flickr 尚是 Programming 功力較強的站台，筆者一個朋友，上次才在抱怨，他好不容易才測到 Flickr 有個 XSS 漏洞，正想多研究一下，沒想到一兩天之內竟然就被補好了。而在以往我們的認知上，網路帳號被盜用，通常只要向原公司出具本人證明，就能要回帳號，就算資料外洩，也只是在這個站的事。
+
+
+只是這次的 Flickr 被盜用導致整個 Yahoo Account 被鎖事件，卻讓筆者意識到了在併購趨勢下，將來可能會發生的一場大風波。
+
+<b><big>
+單服務被破，所有服務被停用</big></b>
+
+<blockquote>在 Flickr 帳號未被合併至前，帳號有問題只要向 Flickr 單向溝通就好，被鎖的服務也僅只侷限於相簿。但被合併進啞唬後，<b>Flickr 被盜用，將面臨的是整個帳號所有的服務都會被鎖定</b>。在台灣，因為啞唬當初併購的策略是買下奇摩整個入口站。因此台灣高達 90% 以上的人幾乎都有該站帳號，甚至使用該站的服務做為個人長期對外的聯絡管道（聯絡信箱、線上通訊軟體帳號、註冊網站認證 email address ）。
+</blockquote>
+
+<big><b>被併購的網站技術能力太差，成為大漏洞</b></big>
+
+<blockquote>Flickr 尚是被併購網站技術能力較強的，有洞還有辦法馬上補。而丁丁大站眾人皆知程式功力弱到爆，<a href="http://www.flickr.com/photo_zoom.gne?id=83440525&amp;size=m">1月就被警告的 XSS 漏洞</a>，遲至 11 月資料都已大幅外洩被爆料，才對外宣稱被破當時當時還與駭客進行網路攻防戰，並僅有 13 筆資料外洩（對岸 Hacker 戲稱應該是 13 萬筆 XD）。較有技術能力的國內外 Hacker，都知道丁丁因為能力差算是很好破的，補洞速度也慢。
+
+
+一旦雙方帳號合併，除了到時候不知道會不會因為服務重疊的問題，重新上演「<a href="http://blog.xdite.net/?p=221">樂蕃天</a>」事件。丁丁也會馬上變成眾人眼中的大肥肉，屆時你願意因為丁丁帳號被破，長久使用的啞唬帳號也一併淪陷，幾乎求助無門嗎？
+</blockquote>
+
+
+相關閱讀：
+
+xdite :「<a href="http://blog.xdite.net/?p=257">web 2.0 演伸出的網路安全問題</a>」。
+xdite : 「<a href="http://blog.xdite.net/?p=211">Web 2.0 時代的資安隱憂</a>」。
+
+
+-----
+
+只是想到，並不是特意。
+
+順便幫 <a href="http://hitcon.org">HIT 2007</a> 廣告一下，今年 Hacks In Taiwan Conference 2007 將在 7/21 7/22 於 國立臺灣科技大學 公館校區舉辦，歡迎投稿與參加，謝謝。

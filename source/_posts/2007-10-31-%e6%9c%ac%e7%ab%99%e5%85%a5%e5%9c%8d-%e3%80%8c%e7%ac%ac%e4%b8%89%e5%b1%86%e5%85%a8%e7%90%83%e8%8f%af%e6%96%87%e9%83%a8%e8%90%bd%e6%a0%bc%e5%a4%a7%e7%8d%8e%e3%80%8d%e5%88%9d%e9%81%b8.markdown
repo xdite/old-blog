@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 480
+layout: post
+title: !binary |
+  5pys56uZ5YWl5ZyNIOOAjOesrOS4ieWxhuWFqOeQg+iPr+aWh+mDqOiQveag
+  vOWkp+eNjuOAjeWInemBuA==
+
+date: 2007-10-31 09:24:32 +08:00
+wordpress_url: http://blog.xdite.net/?p=480
+---
+<br /><a href="http://blogaward.chinatimes.com" target="_blank"><img src="http://forums.chinatimes.com.tw/banner/first2007_info.gif" title="入圍年度最佳訊息／觀點部落格" border="0" /></a><br /><br />嗯，希望今年也能進決選啊 XD<br /><br />

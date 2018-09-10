@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 363
+layout: post
+title: !binary |
+  5LiA6YCx5bm06aCQ5ZGK
+
+date: 2007-05-30 10:16:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=363
+---
+<br />這個 blog 將在 7/22 滿一周歲生日。<br /><br />預告一下，在此日此後不會再專寫 bsp joke。<br />事實上走到這步這也是無心插柳啊 :pp<br /><br />當然可能更會肆無忌憚的拖稿，因為我想專心念書 / 專心寫網站 / 專心寫自己喜歡的題目了 :p<br /><br />不過不會收掉，丁丁大站有問題我還是照寫 XD。<br /><br />感謝各位這段時間的支持。<br /><br />

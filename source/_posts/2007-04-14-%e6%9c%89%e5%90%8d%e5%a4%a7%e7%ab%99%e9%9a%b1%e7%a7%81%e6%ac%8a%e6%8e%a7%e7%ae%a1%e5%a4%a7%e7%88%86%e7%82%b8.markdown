@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 315
+layout: post
+title: !binary |
+  5pyJ5ZCN5aSn56uZ6Zqx56eB5qyK5o6n566h5aSn54iG54K4
+
+date: 2007-04-14 07:41:04 +08:00
+wordpress_url: http://blog.xdite.net/?p=315
+---
+因為今天早上約了朋友見面，下午又要去 bof。為了儲備體力，早早就睡了。結果早上七點起床，信箱接到讀者的爆料信，指稱有名大站在凌晨出現隱私權控管大爆炸。有鎖的相簿變沒鎖，沒鎖的相簿變有鎖 orz。
+
+因為去晚了，筆者只能到某熱門看板撈討論屍體....
+
+<!--more-->
+
+<a href="http://www.flickr.com/photos/14765209@N00/458181042/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/231/458181042_5f57b231b8_o.jpg" width="637" height="952" alt="leak1" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/458185220/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/210/458185220_908bfdfcb4_o.jpg" width="632" height="997" alt="leak2" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/458198607/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/220/458198607_d0009dfa6a_o.jpg" width="633" height="988" alt="leak3" /></a>

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 126
+layout: post
+title: !binary |
+  54Sh56qu55uh55qE5aGe6LuK5Zmp5aSi
+
+date: 2006-09-21 13:52:39 +08:00
+wordpress_url: http://blog.xdite.net/?p=126
+---
+其實筆者認為負責「網誌首頁」的人真的很天兵。一來，上網誌首頁就是要看誰的文章或是誰的網誌比較紅，開來看而已。放一個影片做廣告已經很無厘頭了，因為僅有的頻寬都塞滿了影片....造成 lag 連連<br /><br /><br />二來，這個網頁設計的機制真的很蠢。每點一次用紅框框起來的選項，整個頁面就要重讀一次。<br /><br />
+<ol>
+    <li>點一次，你要重新下載所有在這個頁面上的廣告一次，而且你的電腦會強迫開啟它們</li>
+    <li>影片都是串流影音，所以你每開這個頁面一次，影片就會重開一次。已經下載的部分不算，又會向伺服器要求重送影音檔）</li>
+    <li>..... Hinet 用戶上這個頁面不就連切個頁面，瀏覽器都會當掉 -_-<br /></li>
+</ol>
+不愧是<span style="color: rgb(255, 0, 0); font-size: 180%;">灌流量大法</span> .....<br />筆者真是越來越懷疑有名大站流量的準確性了<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/248407855/"><img width="500" height="390" alt="videorequest" src="http://static.flickr.com/91/248407855_8c23181c0a.jpg" /></a>

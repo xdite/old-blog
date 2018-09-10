@@ -1,0 +1,48 @@
+--- 
+wordpress_id: 416
+layout: post
+title: !binary |
+  5LiN6Zui5LiN5qOE77yM55W25L2g5YyX5LiD
+
+date: 2007-07-20 10:34:10 +08:00
+wordpress_url: http://blog.xdite.net/?p=416
+---
+<center> <a href="http://www.flickr.com/photos/14765209@N00/855496547/" title="相片分享"><img src="http://farm2.static.flickr.com/1223/855496547_8acc37700a_m.jpg" width="182" height="240" alt="3ding" /></a>
+<strong>本圖截自本站美工超強讀者 seayat 之作品 <a href="http://seayat.googlepages.com/din.html">不離不棄，當你北七</a></strong>
+ </center>
+<br>
+
+這個禮拜正忙，週末也要去<a href="http://hitcon.org/hit2007/sch.htm"> HIT 講一小個 Track</a>，整個是燒到沒時間寫文章。才剛在 BBS 發拖稿求饒信，沒想到隔天竟然就又冒出現成的題材寫了。
+
+
+事情是這樣的，丁丁雙證件事件從 7/4 開始，持續不斷的延燒兩個禮拜之久。被鄉民擊鼓（申訴）擠爆的除了哈拉討論區外，還有幾個地方：官方BBS Sysop 板 以及 PTT 的無名板。
+
+
+不過，在 WebFaQ 系列正在哈拉討論區奮力的跟鄉民廝殺外，BBSFAQ 部份卻是靜悄無聲。官方 BBS Sysop 板幾百篇問題，兩個禮拜來絲毫不見 BBSFAQ 回文處理。BBSFAQ 所作的僅有，在事件爆發初期，悄悄的跑上 PTT 的無名板解答零星問題。
+
+
+當然，這件事很快就紙包不住火了。於是，在問題絲毫得不到回應的情況下，鄉民開始轉往 PTT。這時候，身為龜龜一族的 BBSFAQ 看到鄉民蜂擁而來，很快又躲起來了（隱形上站而且不開信）。
+
+
+如果事情如果只到這裡，那根本不值得我寫成一篇報導。反正 BBSFAQ 愛裝死已經不是新聞了。
+
+
+就在大家拿裝死的客服沒輒時，這位客服（其實我覺得應該極大可能是客服吳經理）竟然做了一件大家都想不到的事，再推一把把自己弄上本站首頁（大概是想出名想瘋了?）。
+
+
+<blockquote><b>這位客服偷偷在昨天的凌晨 2:30~ 4:30 砍光 PTT Wretch 板 7/4 ~ 7/20 期間一兩百篇文，把許多留言過的人浸水桶，並且把自己發表的文章下所有推文修光，還把看板的推噓權限設為只能推不能噓。</b>
+</blockquote>
+
+<a href="http://www.flickr.com/photos/14765209@N00/856243788/" title="相片分享"><img src="http://farm2.static.flickr.com/1275/856243788_ac99e23614.jpg" alt="date" height="251" width="500" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/856243906/" title="相片分享"><img src="http://farm2.static.flickr.com/1030/856243906_8a887c0184.jpg" alt="close" height="222" width="500" /></a>
+
+（選在這個時間作案真的很蠢，平常偷做還不會被抓到，凌晨是王建民主投日，一堆鄉民在線上不睡覺，選最多鄉民的時間幹壞事....）
+<b>
+在剛剛，因為這件新聞開始延燒，<a href="http://nopa.csie.org/7b3f3">客服還直接隱板了</a></b>。頓時，筆者覺得真的很妙。在以往，丁丁大站每當爆發事件時，大家都會開始揣測幾個原因。但是，通常最後正確的原因，都會是最不可能的 " 我就是當你北七" 的原因。這次最真實的原因，又是因為民怨太多，索性搞成一言堂甚至收到整個看板以杜浸幽幽之口了嗎? ....（趁你家林小光不在國內，大幹惡搞之事，不會被知道?)
+
+鄉民怒吼 : <a href="http://nopa.csie.org/6eca6">一</a>、<a href="http://nopa.csie.org/cd5cb">二</a>、<a href="http://nopa.csie.org/e50ea">三</a>
+
+update : 丁丁大站 Sysop 板也開始遭到大清洗
+
+<a href="http://www.flickr.com/photos/14765209@N00/856497714/" title="相片分享"><img src="http://farm2.static.flickr.com/1104/856497714_5257ad5f12.jpg" width="500" height="331" alt="delete" /></a>

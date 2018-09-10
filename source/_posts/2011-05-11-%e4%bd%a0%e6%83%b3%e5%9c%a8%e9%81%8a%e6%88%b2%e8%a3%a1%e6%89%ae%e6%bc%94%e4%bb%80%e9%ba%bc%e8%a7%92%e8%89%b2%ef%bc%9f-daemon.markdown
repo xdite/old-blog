@@ -1,0 +1,71 @@
+--- 
+wordpress_id: 2256
+layout: post
+title: !binary |
+  5L2g5oOz5Zyo6YGK5oiy6KOh5omu5ryU5LuA6bq86KeS6Imy77yfIC0gRGFl
+  bW9u
+
+date: 2011-05-11 00:18:17 +08:00
+wordpress_url: http://blog.xdite.net/?p=2256
+---
+<img src="http://im2.book.com.tw/exep/lib/image.php?image=http://addons.books.com.tw/G/F01/bc/7/F011570597_bc_01.jpg&width=200&height=280&quality=80" alt="" />
+
+上個月<a href="http://twitter.com/octw">老貓</a>在推特上，問我有沒有興趣試讀一本小說「<a href="http://www.owls.tw/post/1/942">Daemon</a>」。他的原話是這樣的，「<strong>XDite，有一份科幻驚悚的小說稿，一定要請你先讀。我相信網路相關的人讀後一定會非常有感覺。</strong>」。
+
+抱持著讀讀也無妨的心情，收了中文的 epub 檔之後就找了空檔灌到 iPAD 上準備休息時間看....
+
+一看就...「捷運坐過頭了」。我竟然....幹了也跟老貓一樣的事（他也是看這本小說結果坐過站...）。之前幾天還在推特上面嘲笑過他 XD 掩面 orz
+
+這本書實在精采非常。之前隨便發夢時，其實不是沒有思考過，如果 somebody 想透過網路與 AI 摧毀世界要怎麼做？
+
+well。這本書讓我看到頭皮發麻。這還是我生平第一次讀到這麼讓人有畫面感的科幻小說，隨著劇情走向，眼前彷如出現 FPS , MMORPG 內栩栩如生的場景。
+
+文章雖然滿章專有詞彙，但讀來卻並無胡亂搬弄之感。如果我是書中的那個電腦天才大魔王，的確就會這樣幹 ....用這樣的技術，掌握世界的呼吸脈動，玩弄眾人的人性達到目
+的。
+
+Well 不多劇透，我誠摯推薦大家去購買這本書，你一定不會後悔的。
+
+MMDays 的 Friday 也寫了一篇文章「<a href="http://mmdays.com/2011/05/07/%e5%a5%bd%e8%ae%80%e6%8e%a8%e8%96%a6%e3%80%8adaemon%e3%80%8b%ef%bc%9a%e7%95%b6%e9%9b%bb%e8%85%a6%e6%9c%89%e4%ba%86%e4%ba%ba%e5%b7%a5%e6%99%ba%e6%85%a7%e3%80%81%e7%95%b6%e9%81%8a%e6%88%b2%e4%b8%96/""> 好讀推薦《Daemon》：當電腦有了人工智慧、當遊戲世界化為真實 </a>」介紹這本書，歡迎大家也去看。
+
+=== 順便附上我在該書裡寫的推薦序 ===
+
+<blockquote>
+你想在遊戲裡扮演什麼角色？
+
+
+XDite
+
+下筆寫這篇推薦序前的某一天，亞馬遜（Amazon）雲端服務 AWS 美東區的多
+數服務突然陷入嚴重癱瘓，擊倒了不少將網站架設在 AWS的新創網路公司。
+
+由於事發當天就是二○○一年四月二十一日，《魔鬼終結者2》中的 「天
+網（Skynet）」攻擊人類的 審判日。於是就有人在推特開了這樣的玩笑
+：「Apparently Skynet decided the first step to destroy humanity was to shut down
+AWS. 」# by Dan Kubb
+
+當然，這不僅僅是玩笑，也是現實――
+
+在 AWS 的技術支援論壇上，有公司發文求救，他們的服務主要是負責監視在
+家自行護理的心臟病患的心跳，伺服器是放在 AWS 上。於是 AWS 停擺威脅到
+了這間公司服務病患們的生命……
+
+在讀《網路殺神》時，我不只多次想像，如果此書的情節在現實中成真，那麼
+Daemon 的逆襲會從何處發動？藉由《魔獸世界》網路遊戲入侵把所有玩家的
+電腦變成 大規模攻擊跳板？從 Amazon AWS 滲透，挾持所有重要服務？
+
+It really came true...
+
+這個非常巧合的災難事件，多次讓我想起了《魔鬼終結者》的「Skynet」。只
+不過 Daemon 不似 Skynet，它不是摧毀人性，而是藉由玩弄眾人的人性達到目
+的。Treat real humans as virtual characters in the GAME.
+
+我一頁一頁的讀下去，一頁一頁的被快速穿梭在腦海中的場景震到發寒。如果
+真實世界變成了一場殺戮遊戲，你想扮演什麼角色？
+
+先別那麼急著回答我，看完書再做決定吧……
+
+</blockquote>
+
+
+
+

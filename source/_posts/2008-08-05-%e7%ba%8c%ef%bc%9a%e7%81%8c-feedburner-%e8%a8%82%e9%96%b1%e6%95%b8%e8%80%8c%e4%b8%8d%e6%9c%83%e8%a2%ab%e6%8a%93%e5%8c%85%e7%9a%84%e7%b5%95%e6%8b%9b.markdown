@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 629
+layout: post
+title: !binary |
+  57qM77ya54GMIGZlZWRidXJuZXIg6KiC6Zax5pW46ICM5LiN5pyD6KKr5oqT
+  5YyF55qE57WV5oub
+
+date: 2008-08-05 05:13:10 +08:00
+wordpress_url: http://blog.xdite.net/?p=629
+---
+這是 <a href="http://www.techcrunch.com/2008/08/04/all-it-takes-to-inflate-your-feedburner-numbers-is-a-netvibes-account/">TechCrunch 今天公布的邪惡秘技</a> 。
+
+原理就在這個影片裡。
+
+<object width="400" height="251">	<param name="allowfullscreen" value="true" />	<param name="allowscriptaccess" value="always" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=1463913&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" />	<embed src="http://www.vimeo.com/moogaloop.swf?clip_id=1463913&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="251"></embed></object><br /><a href="http://www.vimeo.com/1463913?pg=embed&sec=1463913">Feedburner hacked!</a> from <a href="http://www.vimeo.com/thenextweb?pg=embed&sec=1463913">Boris Veldhuijzen van Zanten</a> on <a href="http://vimeo.com?pg=embed&sec=1463913">Vimeo</a>.
+
+如果看不懂的話，我可以解釋一下。
+
+<a href="http://www.netvibes.com/">Netvibes</a> 是一個很好用的個人化首頁服務，比 <a href="http://www.igoogle.com">iGoogle</a> 還早推出，相當好用。
+
+這種個人化首頁服務不免俗的會提供訂閱 RSS 功能。一般來說，阿宅們平常訂閱來看的 RSS 可能很多，你要阿宅們一行一行把他們平常在訂閱的 RSS 列表一行一行從 A 搬到 B可能會死人，因此 RSS Reader 通常會提供 OPML （註1）匯入匯出功能，方便搬動列表的「RSS 們」。
+
+這次的 Hack 技巧，就是在 opml 裡面重複的貼上幾千幾百條重複的 RSS feed，匯入 netvibes 帳號訂閱。因為n etvibes 不會阻擋訂閱重複訂閱，feedburner 也承認從 netvibes 來的訂閱者（註2），所以就可以大灌水....。
+
+好邪惡啊 XD
+
+註一：<a href="http://zh.wikipedia.org/wiki/OPML">OPML 在 wikipedia 上的條目解釋</a>。
+註二：在 netvibes 上重複訂閱是合法的（當然也沒有人會覺得這非法），FeedBurner 的規則是相信「大服務商」 送過去的訂閱數（如果你假造訂閱數，發送給 FeedBurner，而 Feedburner 不認識你這個服務商或認為你這來源不可靠的話，是不會鳥你的...）。在 netvibes 一個 item 視為一個訂閱者，幾萬個 item 視為幾萬個訂閱者，並且將此數字發送給 FeedBurner ，FeedBurner 又不疑有他的情況下，灌水技巧是有可能達成的 XD

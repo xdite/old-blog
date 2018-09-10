@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 251
+layout: post
+title: !binary |
+  5bi26LO95YaN5LiA5L6L
+
+date: 2007-01-04 21:41:10 +08:00
+wordpress_url: http://blog.xdite.net/?p=251
+---
+<br />Pixnet：Unable to connect to database! XD<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/345381805/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/158/345381805_d313ebe37c.jpg" alt="pixneterror" height="390" width="500" /></a>

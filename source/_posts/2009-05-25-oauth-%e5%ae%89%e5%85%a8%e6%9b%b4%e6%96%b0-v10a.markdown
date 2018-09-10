@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 1204
+layout: post
+title: !binary |
+  T2F1dGgg5a6J5YWo5pu05pawIHYxLjBhIA==
+
+date: 2009-05-25 00:34:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=1204
+---
+前陣子 (4 月底），Yahoo 和 <a href="http://blog.xdite.net/?p=1172">Twitter 因為 Oauth 安全性邏輯上的漏洞</a>，雙雙關閉 Oauth 認證，引起軒然大波。
+
+原因<a href="http://www.yeeyan.com/articles/view/sakinijino/38693">在這一篇有詳述以及翻譯</a>，算是蠻天的邏輯漏洞。
+
+Anyway，大概上個禮拜（5/12) Oauth 1.0a draft 3 也出來了，<a href="http://developer.yahoo.net/blog/archives/2009/05/oauth_update_3.html">Yahoo 在幾天前 （5/19) 也做出了相對應的 update</a>。
+
+1.0a draft3 的變更大致有
+
+
+
+<blockquote>1. providing an `oauth_callback` is now part of the Request Token stage (if the client cannot accept callbacks, the value MUST be _oob_)
+2. `oauth_callback_confirmed` MUST be present (and _true_) when the SP issues a Request Token to the client
+3. an `oauth_verifier` parameter is provided to the callback URL (or displayed if no callback URL was configured) and MUST be included when exchanging the Request Token for an Access Token</blockquote>
+
+
+
+相關內容：
+
+<a href="http://developer.yahoo.com/oauth/guide/oauth-auth-flow.html#oauth_request_auth_response">http://developer.yahoo.com/oauth/guide/oauth-auth-flow.html#oauth_request_auth_response</a> 解釋了新的 flow ...
+<a href="http://d.hatena.ne.jp/ritou/20090430/1241107345">http://d.hatena.ne.jp/ritou/20090430/1241107345</a> 蠻多相關內容的...
+<a href="http://gist.github.com/raw/113834/7292fb86a7e4796c1662ba54198935b4ac47f7c8/gistfile1.txt">http://gist.github.com/raw/113834/7292fb86a7e4796c1662ba54198935b4ac47f7c8/gistfile1.txt</a> 莫名其妙 google 到的...

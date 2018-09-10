@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 378
+layout: post
+title: !binary |
+  6LOH5paZ5aSn54iG54K4ICE/
+
+date: 2007-07-02 21:52:24 +08:00
+wordpress_url: http://blog.xdite.net/?p=378
+---
+Jun 20, 2007 4:56 PM<br /><br /><div class="entry-body"><div id=""><ins class="item-body"><div><p>16:10 update:</p><br /><p>順手測了一下，有名大站總共有 64 台主機。其中pic1~32 .pic.wretch.cc 全掛掉了…<br /><br />ping 的到，http 無法連 ..</p><br /><p>16:30 update :</p><br /><p>剛剛用暗黑密技直連照片網址，沒想到竟然照片跑得出來 …<br /><br />應該是 reverse proxy 掛了 :p</p><br /><p>HMMM….</p><br /><p>17:00</p><br /><p>全軍覆沒，有名大站連首頁都沉了</p><br /><p>–<br /><br /><br />傳聞在 15:30 有名大站的主機又出問題了，儲存樣式和相片的主機壞掉大半，而且<b>不少 VIP 也中獎</b>。</p><br /><p>大家快買雞排和紅茶，等著看何時修好吧? XD</p><br /><p>這實在很奇怪，不是說了 VIP 的資料是放在很貴的千萬級 NetApp 裡，怎麼會爆呢？XD</p><br /><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/574334769/" title="相片分享"><img src="http://farm2.static.flickr.com/1013/574334769_4a40165c46.jpg" alt="broken" height="390" width="500" /></a></p><br /><p>18:10 update:</p><br /><p>更爆笑的情形出現，筆者 reload 相簿十次，每次能開出來的圖都不一樣。<br /><br />取其中三次貼出來，最後連樣式都不見了…</p><br /><p><img src="http://farm2.static.flickr.com/1032/574733118_ee34dc9628_m.jpg" alt="" /><br /><br /><img src="http://farm2.static.flickr.com/1398/574733490_4acf8601b7_m.jpg" alt="" /><br /><br /><img src="http://farm2.static.flickr.com/1070/574763384_0d8e7d4b6a_m.jpg" alt="" /></p></div></ins></div></div><br /><br /><br /><p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>

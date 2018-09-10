@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 387
+layout: post
+title: !binary |
+  5Y2K5YO557ay55qE55yf55u4Pw==
+
+date: 2007-07-02 21:53:37 +08:00
+wordpress_url: http://blog.xdite.net/?p=387
+---
+<div class="entry-body"><div id=""><br />Jun 24, 2007 2:04 AM<br /><ins class="item-body"><div><p>這是數十分鐘前，PTT 某版的最新消息。</p><br /><p>上個月才爆過疑似<a target="_blank" href="http://blog.xdite.net/?p=357">資料外流</a>的事，這個月又？</p><br /><p>圖很長，要看請點開。</p><br /><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/612796956/" title="相片分享"><img src="http://farm2.static.flickr.com/1023/612796956_ec4d4f7f6d_o.jpg" alt="hafl01" height="768" width="986" /></a></p><br /><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/612823132/" title="相片分享"><img src="http://farm2.static.flickr.com/1087/612823132_73f498371c_o.jpg" alt="half02" height="768" width="986" /></a></p><br /><p><a target="_blank" href="http://nopa.csie.org/a78dd">原文備份在此</a>。</p></div></ins></div></div>
+
+過往 comment:
+
+<a href="http://www.flickr.com/photos/14765209@N00/712350955/" title="相片分享"><img src="http://farm2.static.flickr.com/1217/712350955_fd19818de3_o.png" width="522" height="4665" alt="net4p-comment" /></a>

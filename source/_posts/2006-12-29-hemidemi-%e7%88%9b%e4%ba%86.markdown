@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 241
+layout: post
+title: !binary |
+  SGVtaWRlbWkg54ib5LqGPw==
+
+date: 2006-12-29 23:09:05 +08:00
+wordpress_url: http://blog.xdite.net/?p=241
+---
+<br />我懷疑我被詛咒了，老是拍到難得一見網站噴掉的畫面 lol<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/337365244/"><img width="241" height="500" alt="hemidemibrk" src="http://farm1.static.flickr.com/149/337365244_d41f6c325b.jpg" /></a>

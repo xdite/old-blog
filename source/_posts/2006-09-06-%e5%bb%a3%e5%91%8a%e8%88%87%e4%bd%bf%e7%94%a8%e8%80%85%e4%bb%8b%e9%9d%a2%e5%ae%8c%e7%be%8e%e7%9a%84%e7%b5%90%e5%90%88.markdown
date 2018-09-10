@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 107
+layout: post
+title: !binary |
+  5buj5ZGK6IiH5L2/55So6ICF5LuL6Z2i5a6M576O55qE57WQ5ZCI
+
+date: 2006-09-06 23:13:24 +08:00
+wordpress_url: http://blog.xdite.net/?p=107
+---
+慶賀本站第100篇文章。不寫故事，放圖。<br /><br />以下這張圖出自starbugs@yam <a href="http://blog.yam.com/starbugs/archives/1142578.html">無名小站之有錢真好</a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/235996026/" title="Photo Sharing"><img width="360" height="266" src="http://static.flickr.com/91/235996026_9b1a8e9919_o.jpg" alt="adtoomuch" /></a><br />=====<br />Update : <font color="#ff0000"><strong>鄉民說這張太經典，一定要放置頂</strong></font>。出自本站 <a href="../../../../../?p=66" title="目前有 2 篇評論">無賴無誠才賺得了錢?</a><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/236083501/"><img width="500" height="375" alt="wretch" src="http://static.flickr.com/86/236083501_c665407f2a.jpg" /></a><br />=====<br />以下兩張圖出自本站。<br /><a href="http://blog.xdite.net/?p=101" title="目前有 18 篇評論">全國最大的 GSP (Garbage Service Provider)</a><br /><a href="http://blog.xdite.net/?p=103" title="目前有 5 篇評論">再續：全國最大的 GSP (Garbage Service Provider)</a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/233659398/" title="Photo Sharing"><img width="500" height="390" src="http://static.flickr.com/79/233659398_b2b43789f2.jpg" alt="wretchad5" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/232902016/" title="Photo Sharing"><img width="402" height="500" src="http://static.flickr.com/82/232902016_a6f92e24d3.jpg" alt="wretchad4ad" /></a>

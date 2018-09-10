@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 330
+layout: post
+title: !binary |
+  55m955mh55qE5o+Q6YaS54ax6Y21
+
+date: 2007-04-27 17:15:29 +08:00
+wordpress_url: http://blog.xdite.net/?p=330
+---
+熱鍵繼<a href="http://blog.xdite.net/?p=329">被上一篇提到的神奇理由鎖了</a>以後，有名大站大概怕被<b>沒看到<a href="http://www.wretch.cc/hala/viewtopic.php?t=241900">公告</a>的用戶以為功能故障報修到怕</b>。竟然又寫了一個熱鍵程式，只要是按 z x c v b 這五個熱鍵。就會跳出一個提醒窗，提醒你這是 VIP 功能。不過大概因為他們的 RD 實在太廢了，竟然發生一件爆笑的事情....<br /><br />當你的密碼裡有 zxcvb 這其中一個字母時，輸入密碼時就會被這個爛功能瘋狂的騷擾。<br /><br />偉哉 ! 丁丁大站 !<br /><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/474344618/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/168/474344618_86fa9bfb0e.jpg" width="500" height="292" alt="圖片 6.png" /></a>
+---------------------------
+附錄：「<a href="http://komica.dyndns.org/wiki/?%E6%88%90%E5%8F%A5%2F%E4%B8%81%E4%B8%81%E6%98%AF%E5%80%8B%E4%BA%BA%E6%89%8D">丁丁是個人才</a>」釋義。

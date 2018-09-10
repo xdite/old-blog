@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 394
+layout: post
+title: "NuWEB \xE9\x87\x8B\xE5\x87\xBA Alpha ?"
+date: 2007-07-02 22:03:01 +08:00
+wordpress_url: http://blog.xdite.net/?p=394
+---
+<p>Jun 29, 2007</p> <p><a target="_blank" href="http://blog.roodo.com/evilsmile/archives/3544717.html">下載網址在這裡</a></p> <p> </p><p>官方網站沒有寫任何釋出訊息，這條是在黑米的 Web 2.0 頭條上看到的。</p> <p> </p><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/657439302/" title="相片分享"><img src="http://farm2.static.flickr.com/1123/657439302_3b9edafb9d.jpg" alt="heminuweb" height="338" width="500" /></a></p> <p> </p><p>筆者還未對 NuWeb 做任何安全測試，只簡單的把玩了一下。（最近溫差太大，有點感冒，整天都昏昏沈沈的..）</p> <p> </p><p>目前應該是只能在未有防護的環境下運行，不能穿透內網。（如果前端的防火牆和 Router 都不歸你管的話，那就沒辦法讓人連）</p> <p> </p><p>（實驗環境：家裡電腦+ 8M/640 Hinet、A學網內網、B學網外網）</p> <p> </p><p>還有傳大檔的話，NuBraim 會當場掛掉。（筆者本來只是想測測看 Nuweb 上傳能承受的速度、壓力，看速度能衝多快，於是挑了一個 ubuntu 的 iso 扔上去。結果，結果，<a target="_blank" href="http://www.flickr.com/photo_zoom.gne?id=657506368&amp;size=o">它竟然掛掉了</a>…orz</p>

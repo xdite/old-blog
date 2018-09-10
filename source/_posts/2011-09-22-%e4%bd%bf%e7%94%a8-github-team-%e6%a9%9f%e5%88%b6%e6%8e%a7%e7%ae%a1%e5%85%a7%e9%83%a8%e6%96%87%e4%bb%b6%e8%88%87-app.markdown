@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 3125
+layout: post
+title: !binary |
+  5L2/55SoIEdpdGh1YiBUZWFtIOapn+WItuaOp+euoeWFp+mDqOaWh+S7tuiI
+  hyBBcHA=
+
+date: 2011-09-22 01:30:16 +08:00
+wordpress_url: http://blog.xdite.net/?p=3125
+---
+<p>今天在<a href="http://twitter.com">推</a>上看到 FronzenRails 2011 上的一個有趣的投影片 <a href="http://zachholman.com/talk/how-github-uses-github-to-build-github">How GitHub Uses GitHub to Build GitHub</a>。</p>
+
+<p>讓我感興趣的是 p.64 - p.70 這幾張投影片。投影片我就不附了。</p>
+
+<p>總之這幾頁講的 Idea 蠻酷的，就是推薦利用 Github 的 Team 機制 + Github OAuth2 做一些 Developer 才可以 access 的內部 App 權限控管。因為一般來說，其實在公司租的 Github 帳號上，<strong>通常就會針對職責和權限分 Team</strong> 了。如此一來很多 App 就不需要重造輪子打造權限系統了。其實還蠻有道理的....</p>
+
+<p>Talk 另外也附了一個 <a href="https://github.com/atmos/sinatra_auth_github">sinatra_auth_github</a> 的網址給聽眾參考。算是蠻有意思的想法...</p>

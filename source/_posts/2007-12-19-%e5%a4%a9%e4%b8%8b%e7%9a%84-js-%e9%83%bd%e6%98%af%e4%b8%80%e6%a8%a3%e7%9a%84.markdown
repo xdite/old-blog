@@ -1,0 +1,89 @@
+--- 
+wordpress_id: 517
+layout: post
+title: !binary |
+  57ay56uZ55uu5qiZ55u4562J77yM5omA5LulIEpTIOS5n+ebuOetie+8nw==
+
+date: 2007-12-19 17:09:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=517
+---
+恭喜 <a href="http://meeya.cc/">meeya</a> 今日開放 alpha。希望他們有朝一日也能成為台灣最厲害的 <a href="http://www.facebook.com/">facebook</a> (?)。
+
+因為是新站 alpha，程式錯誤難免，不管是在註冊過程中還是加入圈子時，筆者就見到了不少的 php error ...。呃，這也是新站剛開放有可能發生的情形，我也就不 blog 了。不過剛剛在 MSN 上卻不只一個讀者，都爆了一件同覺得很扯的事情給我。
+
+要說師法 facebook 的排版和功能也罷…大陸的網站也不是沒做過。例如<a href="http://hainei.com/">海內</a>的排版配置就幾乎如 facebook 一轍。但好歹改了 CSS ..各樣功能從 HTML 原始碼上看了一下，也應該是自己重刻的。
+
+但是他們都說因為試玩了 meeya ，發現許多基礎元素與 facebook 功能雷同，在想研究他們怎麼做的情況下，好奇的看了原始碼，結果也都發現了...
+
+<a href="http://www.flickr.com/photos/14765209@N00/2121722285/" title="Flickr 上 xuitejoke 的 javaxcript"><img src="http://farm3.static.flickr.com/2100/2121722285_d05fa2e9d8.jpg" alt="javaxcript" height="399" width="500" /></a>
+
+這一堆
+
+http://meeya.cc/js/base.js
+http://meeya.cc/js/extended.js
+http://meeya.cc/js/string.js
+http://meeya.cc/js/async.js
+http://meeya.cc/js/deprecated.js
+http://meeya.cc/js/apps_menu.js
+http://meeya.cc/js/dynamic_dialog.js
+http://meeya.cc/js/captcha.js
+http://meeya.cc/js/recaptcha_ajax.js
+http://meeya.cc/js/editgroup.js
+http://meeya.cc/js/editobject.js
+http://meeya.cc/js/editor.js
+http://meeya.cc/js/dialogpro.js
+http://meeya.cc/js/picture.js
+http://meeya.cc/js/global.js 
+http://meeya.cc/js/invitetool.js
+http://meeya.cc/js/typeahead_ns.js
+http://meeya.cc/js/suggest.js
+http://meeya.cc/js/error_data.js
+http://meeya.cc/js/typeaheadpro.js
+http://meeya.cc/js/search_typeaheadpro.js
+http://meeya.cc/js/animation.js
+http://meeya.cc/js/intl.js
+http://meeya.cc/js/vector.js
+http://meeya.cc/js/statuspro.js
+http://meeya.cc/js/home.js
+http://meeya.cc/js/poke.js
+
+與這一堆
+
+http://static.ak.facebook.com/js/base.js
+http://static.ak.facebook.com/js/extended.js
+http://static.ak.facebook.com/js/string.js
+http://static.ak.facebook.com/js/async.js
+http://static.ak.facebook.com/js/deprecated.js
+http://static.ak.facebook.com/js/apps_menu.js
+http://static.ak.facebook.com/js/dynamic_dialog.js
+http://static.ak.facebook.com/js/captcha.js
+http://static.ak.facebook.com/js/recaptcha_ajax.js
+http://static.ak.facebook.com/js/editgroup.js
+http://static.ak.facebook.com/js/editobject.js
+http://static.ak.facebook.com/js/editor.js
+http://static.ak.facebook.com/js/dialogpro.js
+http://static.ak.facebook.com/js/picture.js
+http://static.ak.facebook.com/js/global.js 
+http://static.ak.facebook.com/js/invitetool.js
+http://static.ak.facebook.com/js/typeahead_ns.js
+http://static.ak.facebook.com/js/suggest.js
+http://static.ak.facebook.com/js/error_data.js
+http://static.ak.facebook.com/js/typeaheadpro.js
+http://static.ak.facebook.com/js/search_typeaheadpro.js
+http://static.ak.facebook.com/js/animation.js
+http://static.ak.facebook.com/js/intl.js
+http://static.ak.facebook.com/js/vector.js
+http://static.ak.facebook.com/js/statuspro.js
+http://static.ak.facebook.com/js/home.js
+http://static.ak.facebook.com/js/poke.js
+
+
+
+嗯，老實說 ...就算 Javascript 就是 open 給大家看的，也不能這樣拷回來玩吧？說從 script.aculo.us 拿個 sample 回來改這 ok ...而且 script.aculo.us 本來的目的也是如此。
+
+但 facebook 的 JS 應該不是拿來給人這樣用的吧？
+
+....筆者還在思索，....為什麼 meeya 要這樣做....？
+
+---
+<a href="http://veryxd.net/temp/">晚間十點作的壓縮包</a>。

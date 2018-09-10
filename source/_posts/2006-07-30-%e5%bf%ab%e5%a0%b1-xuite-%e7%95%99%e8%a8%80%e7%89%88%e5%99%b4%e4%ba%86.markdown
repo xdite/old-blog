@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 31
+layout: post
+title: !binary |
+  W+W/q+WgsV0gWHVpdGUg55WZ6KiA54mI5Zm05LqG
+
+date: 2006-07-30 22:28:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=31
+---
+<p>今日筆者休刊出外遊玩一天，剛回到家裡。</p><p> 本來很累了，不打算打開專欄來寫的。</p><p>  於是只打算打開  <a href="http://blog.xuite.net/xuitejoke/xuitejoke">Xuitejoke@xuite</a> 看看有沒有人留言給我</p><p> 誰知道開了超久，於是筆者就去聊 irc 放著等他開....</p><p>等了好久終於開了，結果打開竟然不是 gbook.xuite 的畫面 是噴了的畫面。</p><p>  此畫面難得一見啊，於是放上來給各位看看。  </p><p><a href="http://www.flickr.com/photos/49274115@N00/201775858/" title="Photo Sharing"><img src="http://static.flickr.com/60/201775858_9046f9491a_m.jpg" border="0" alt="gbook01" width="240" height="192" /></a>  <a href="http://www.flickr.com/photos/49274115@N00/201778128/" title="Photo Sharing"><img src="http://static.flickr.com/68/201778128_d95adeb4da_m.jpg" border="0" alt="gbook02" width="240" height="192" /></a></p>

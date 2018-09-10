@@ -1,0 +1,74 @@
+--- 
+wordpress_id: 2986
+layout: post
+title: !binary |
+  5LiA5Lqb6ICB5qKX55qE56eB5oi/5o6o6Jam5pu4Li4u
+
+date: 2011-08-04 02:15:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=2986
+---
+最近被問到，新手應該看什麼書改變他們的人生。
+
+<a href="http://www.flickr.com/photos/xdite/5760108107/" title="自慢 1 - 何先生簽名 by xdite, on Flickr"><img src="http://farm3.static.flickr.com/2770/5760108107_4cd7ed844d.jpg" width="374" height="500" alt="自慢 1 - 何先生簽名"></a>
+
+我的藏書很廣，今天花了一點時間從書架中挑出，我覺得是這幾年改變我最多的書來分享：
+
+人生與做事態度：
+
+自慢 1
+自慢 4
+打不破的人生 30 個定律
+
+創業與行銷：
+
+蘋果滋味
+師父
+自慢 3
+
+工作態度：
+
+Rework
+Getting Real
+我的人生沒有偶然
+學徒模式
+Passionate Programmer
+
+專案管理：
+
+讓事情發生
+Ship It
+軟體快速開發
+
+管理學：
+
+賽局贏家：托瑞的洋基管理學
+自慢 2
+CEO 訓練班
+
+MySQL:
+
+MySQL性能调优与架构设计
+
+HTML: 
+
+Web 標準與 SEO 實踐
+
+Coding:
+
+重構（Ruby）
+設計模式(Ruby)
+Clean Code
+Woking Efficiency with Legacy Code
+Hard Code
+Code Complete
+Practices of an Agile Developer
+
+時間管理：
+
+與時間做朋友
+
+這二十幾本書的觀念對我來說都算是目前已經深刻到自己骨子裡的東西，我由衷推薦，希望對大家有幫助。
+
+不過因為書太多了，連結就不打算附了。請自行 Google 。
+
+念了越來越多書，加上身體力行實踐後。才越來越體悟到，人生真的處處儘是老梗。

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 188
+layout: post
+title: !binary |
+  6YqA5rKz57Sa55qEVklQ5pyN5YuZPw==
+
+date: 2006-11-06 00:39:03 +08:00
+wordpress_url: http://blog.xdite.net/?p=188
+---
+剛剛適逢<a href="http://blog.woixv.com/">紅色長角三倍速</a>的 <a href="http://blog.xdite.net/?p=184#comment-1543">Benjamin</a> 兄在本部落格為筆者留言加油打氣，就也想順手連回他的網誌禮尚往來 XD 。恰好看到他發表的一篇文章 ：「<a href="http://blog.woixv.com/?p=432">無名小站真的那麼爛嗎?</a>」<br /><br />文中對無名小站的頭號人氣 blogger <a href="http://www.wretch.cc/blog/cwwany">彎彎</a> 做出了質疑，最近有名大站技術上的失誤連連，難道一點都沒有影響到她嗎? <font color="#ff0000"><strong>是不是她享受了什麼 &quot;銀河級的服務&quot;?</strong></font><br /><br />本站讀者都知道<strong>筆者一向就是手賤</strong>，看到什麼可疑就想測。所以剛剛筆者就真的跑去測了，測完差點把網咖提供的柳橙汁噴到螢幕上。<br /><br />大家都知道，有名大站的機器一向「擋直連」，要直連絕對會被攔下來，噴一個錯誤訊息給你。剛剛測下去才知道。筆者站上<a href="http://blog.xdite.net/?p=133">具高度娛樂價值的 proxy</a>一文中，<strong>所出現的 srp7.wretch.cc 畫面並不是常態</strong>。<br /><br />一般人的相簿要是直連，吐出的錯誤訊息長這樣。（可以相信我在網咖了吧 XD）<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/289524252/"><img width="240" height="174" alt="mlchenerr" src="http://static.flickr.com/114/289524252_8ca4db03c2_m.jpg" /></a><br /><br />甚至連人氣第二高的艾瑪姊姊，也是吐一樣的錯誤訊息。<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/289524250/"><img width="240" height="174" alt="amaerr" src="http://static.flickr.com/113/289524250_37386450f4_m.jpg" /></a><br /><br />不過第一名彎彎呢？<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/251079665/"><img width="240" height="187" alt="fferrorie" src="http://static.flickr.com/103/251079665_2fd901a3a6_m.jpg" /></a><br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/251081637/"><img width="500" height="171" alt="proxyhead" src="http://static.flickr.com/83/251081637_d4bcab3023.jpg" /></a><br /><br />嗯，銀河級待遇果然不一樣呢？<br /><br />---<br />本文因 spam 太多，故禁止回覆與 trackback ! 0rz

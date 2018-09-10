@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 143
+layout: post
+title: !binary |
+  5bel5ZWG5buj5ZGK5pmC6ZaT
+
+date: 2006-10-01 21:58:17 +08:00
+wordpress_url: http://blog.xdite.net/?p=143
+---
+<br />
+<ul>
+    <li>想要一起作本站 T 恤請到&nbsp; <a href="http://blog.xdite.net/?page_id=140">XDite's T-Shirt</a> 這篇簽名<br /><br /></li>
+    <li>2006 年 10 月 21 日 StudyArea@台中 「<a href="http://phorum.study-area.org/viewtopic.php?p=210163">Web2.0的部落格迷失</a>」 由 xdite 主講</li>
+</ul>
+因應場地為公家機關要補課，所以順延一週

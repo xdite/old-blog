@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 379
+layout: post
+title: !binary |
+  55+t5pqr55qE5LiW55WM56ys5LiA
+
+date: 2007-07-02 21:52:29 +08:00
+wordpress_url: http://blog.xdite.net/?p=379
+---
+Jun 20, 2007 7:56 PM<br /><br /><div class="entry-body"><div id=""><ins class="item-body"><div><p>這是點點點大賽第六戰剛起跑幾小時候的驚鴻一瞥，我們光榮的站上了世界第一。</p><br /><p><a target="_blank" href="http://www.wretch.cc/album/show.php?i=Yearwood&amp;b=10&amp;f=o1999118615.jpg">原出處</a></p><br /><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/574894608/" title="相片分享"><img src="http://farm2.static.flickr.com/1353/574894608_113fa400fd.jpg" alt="o1999118615" height="300" width="500" /></a></p><br /><p>雖然 6/20 19:00 的剛剛，被日本幹掉了，變成 <a target="_blank" href="http://www.clickclickclick.com/rank.asp">世界第二</a> ~_~</p><br /><p>還需奮鬥才能站上世界第一。</p><br /><p>不過台灣剛開發出了新兵器，<b>欲參戰鄉民請至 PTT HOT_GAME 版領取新武器</b>，一起為台灣衝刺，愛台灣吧！</p><br /><p>相關閱讀：<a target="_blank" href="http://blog.xdite.net/?p=376">鄉親！這就是愛台灣啊！</a></p></div></ins></div></div><br /><br /><br /><p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>

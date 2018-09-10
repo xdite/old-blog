@@ -1,0 +1,45 @@
+--- 
+wordpress_id: 510
+layout: post
+title: !binary |
+  5L2/55SoIFJPUiAsIDEwIOWIhumQmOWBmuWHuuS4gOWAiyBmYWNlYm9vayBh
+  cHAgIQ==
+
+date: 2007-12-12 22:21:51 +08:00
+wordpress_url: http://blog.xdite.net/?p=510
+---
+就在晚上七點多，筆者又推出了<a href="http://apps.facebook.com/opmrsix/">中肯鑽石網的 facebook 版</a>。
+
+<a href="http://apps.facebook.com/opmrsix/" title="Flickr 上 xuitejoke 的 fb"><img src="http://farm3.static.flickr.com/2063/2104815997_0d67f8b20b.jpg" alt="fb" height="304" width="500" /></a>
+
+msn 上的朋友一見到這個版本，直斥我是喪心病狂！難道是寫上了癮嗎…？
+
+非也，因為作這個版本一共只花了我 10 分鐘。既然一點難度都沒有，當然就順手也寫了一個版本。說到這裡，大家一定會好奇，為什麼我可以花這麼少的時間就寫出 facebook 的版本?
+
+一如大家所知，ROR 的 Web App 是採 MVC 架構，分開設計的。大家看到的<a href="http://opmr6.veryxd.net/">紅黑版本</a>，其實是我寫好原型以後，套上 <a href="http://hlb.yichi.org/blog/">hlb </a>大大開發的 <a href="http://happydesigner.org/blog/2006/12/26/30">Yullio</a> plugin 產生的 theme。
+
+所以 <a href="http://opmr6.veryxd.net/fb">真正的原型</a> 是長成這副陽春的樣子。
+
+<a href="http://www.flickr.com/photos/14765209@N00/2105795280/" title="Flickr 上 xuitejoke 的 facebook-fb"><img src="http://farm3.static.flickr.com/2305/2105795280_33c37cdced.jpg" width="500" height="304" alt="facebook-fb
+
+而 ROR 上除了好心的 hlb 大大外，又有熱心的人士開發了 <a href="http://rfacebook.rubyforge.org/">rfacebook</a> 的 gem 和 plugin。瞬間把開發的難度與時間降了一千倍。<a href="http://rfacebook.rubyforge.org/quickstart.html">安裝的方式可看此</a>。
+
+我所做的也只是安裝 plugin 後，跑去 facebook 申請 api key 和設定一下 facebook.yml 。
+
+<a href="http://www.flickr.com/photos/14765209@N00/2104993199/" title="Flickr 上 xuitejoke 的 facebook02"><img src="http://farm3.static.flickr.com/2395/2104993199_b46c071dbd.jpg" alt="facebook02" height="132" width="500" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/2104992817/" title="Flickr 上 xuitejoke 的 facebook01"><img src="http://farm3.static.flickr.com/2097/2104992817_3458751d08_o.jpg" alt="facebook01" height="132" width="513" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/2104992623/" title="Flickr 上 xuitejoke 的 facebook03"><img src="http://farm3.static.flickr.com/2178/2104992623_2b7839d4f1_o.jpg" alt="facebook03" height="223" width="516" /></a>
+
+其實就只是等於幫 <a href="http://opmr6.veryxd.net/fb">原型</a> 多穿一件衣服而已。
+
+使用 rfacebook，可以很輕鬆的把將 facebook 結合原來的 web app 作更多發揮。這也就是為什麼我可以只花十分鐘就做出 <a href="http://apps.facebook.com/opmrsix/">Facebook 版本</a> 的原因。（其實這也跟我上禮拜在家偷練過，所以很熟悉操作步驟有關係 XD）
+
+你心動了嗎？快來學習 ROR 吧！
+
+延伸參考教材：
+
+<ul><li><a href="http://www.sameshirteveryday.com/2007/08/17/hello-facebook-in-rails/">Hello Facebook in Rails</a></li><li><a href="http://josephhsu.com/rubyonrails/rfacebook-experience/">rFacebook experience</a></li><li><a href="http://www.liverail.net/articles/2007/6/29/tutorial-on-developing-a-facebook-platform-application-with-ruby-on-rails">Tutorial on developing a Facebook platform application with Ruby On Rails
+</a></li></ul>
+

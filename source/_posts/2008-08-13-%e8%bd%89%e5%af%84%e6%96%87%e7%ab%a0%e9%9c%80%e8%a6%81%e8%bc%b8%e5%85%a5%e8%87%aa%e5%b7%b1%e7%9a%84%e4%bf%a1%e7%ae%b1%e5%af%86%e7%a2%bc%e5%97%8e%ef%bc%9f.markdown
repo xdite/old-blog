@@ -1,0 +1,39 @@
+--- 
+wordpress_id: 640
+layout: post
+title: !binary |
+  6L2J5a+E5paH56ug6ZyA6KaB6Ly45YWl6Ieq5bex55qE5L+h566x5a+G56K8
+  5ZeO77yf
+
+date: 2008-08-13 13:47:25 +08:00
+wordpress_url: http://blog.xdite.net/?p=640
+---
+今天看完奧運，慣例的打開自己的 browser，收看友站 Mr.6 的部落格，無意中發現了部落格上多了一個貼心的新 feature：<strong>轉寄給朋友</strong>。
+
+<a href="http://www.flickr.com/photos/xdite/2758486397/" title="Flickr 上 xdite 的 圖片 3"><img src="http://farm4.static.flickr.com/3154/2758486397_cee0578474.jpg" width="500" height="168" alt="圖片 3" /></a>
+
+只是令我詫異的是，很常見的信箱轉寄功能竟然要求輸入 google 的密碼？看了一下 form 要導到的位置 (vooeasy.com.tw) 以及"標榜轉給 Gmail 上的 contact list"，我也只能猜測也許是要幫頹靡不振的 vooeasy 作 promotion。
+
+在網際網路上公然要使用者的密碼，雖然已經是許多 SNS 的招收常態，但是總會帶給人這樣的疑問「站方是否會偷儲存我的密碼？」、「站方是否會利用我的 contact list 廣發  spam？」
+
+過去 Facebook 和一些其他的 SNS 惹人爭議的地方，也在於在註冊過程中引導使用者獻出他們的 contact list，然後用巧妙的心理盲點讓使用者「忘記過濾」不需要發送邀請函的朋友。
+
+看到這種需要輸入密碼的功能，筆者總會手癢的弄個新帳號測一下，看看別人家是怎麼樣做的。不過當我輸入測試帳號密碼後，經過一兩秒的畫面閃動（post information 需要的時間），nothing happened ....
+
+What？這功能是故障了嗎？
+
+不，看起來沒有故障，只是這個「轉寄給 Gmail 上的好友」功能的設計出乎我意料的，直接沒有經過我的允許，在背後直接發送了廣播信<a href="http://www.flickr.com/photos/xdite/2758460549/">給我聯絡人上的所有好友</a>，而沒有給我選擇的餘地。
+
+<a href="http://www.flickr.com/photos/xdite/2758460469/" title="Flickr 上 xdite 的 圖片 1"><img src="http://farm4.static.flickr.com/3216/2758460469_fe1da8da60.jpg" width="500" height="138" alt="圖片 1" /></a>
+
+而且更爆笑的一點是，寄件人上<strong>還多了一個我不認識的人</strong>，我在猜測也許是上一個誤踏這個陷阱的讀者的 email？
+
+ORZ ...
+
+簡單整理，此舉有兩大誇張之處 : 
+1. 未經使用者允許，廣播至所有好友
+2. 雖然是採 bcc, 但是竟然得的到也許是上個使用者所留下的 email address？
+
+結論：還是不太能理解，身為趨勢大師的 Mr.6 為何會做出這等匪夷所思的舉動，以及踏到這種最基本但也是使用者最無法忍受的 SPAM 大地雷 ...。
+
+FYI:<a href="http://www.flickr.com/photos/xdite/2759303224/" title="Flickr 上 xdite 的 mr6">轉寄信全文</a>

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 214
+layout: post
+title: !binary |
+  56We5aWH55qE5Yqg6YCf6ISr6KGj5Zmo
+
+date: 2006-11-28 18:31:46 +08:00
+wordpress_url: http://blog.xdite.net/?p=214
+---
+有名大站昨晚約七點開始，據說機房路由器出現故障。所以凡是掛在 http://www.wretch.cc/album/ 下的任何服務，使用站方提供的加速器通通會連不上。筆者看到這則消息時已經是深夜了。再者當時 bbsFAQ 已經公告修復完畢，雖然看起來是沒有修好 !@#$%^。但是畢竟同時間發生的 webs-tv 無預警收回域名這件事比較大條，於是筆者就沒有理加速器這件事。<br /><br /><br />沒想到，筆者今天一開網誌，就有<a href="http://blog.xdite.net/?p=204#comment-2743">讀者 Chris 在部落格上 post&nbsp; comment</a>：<br /><font color="#ff0000"><strong>彎彎的部落格被脫衣了</strong></font>。<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/308534884/"><img width="500" height="378" alt="naked03" src="http://static.flickr.com/115/308534884_fbbeb1ff1f.jpg" /></a><br /><br /><br />本來筆者還丈二摸不著頭緒，到底發生了什麼事，因為當時看彎彎部落格還是好好的，換了幾個 proxy 測也是一樣，只好當作我又 lag 了。回家時，突然想到我好像還有&quot;有名大站的加速器&quot;還沒測。<br /><br />掛上去以後，果然是看誰的部落格，誰的部落格衣服就被剝光。（活像 sony 當年出的某款神奇攝影機，完全無視尼龍料衣物的遮蔽作用，噗）<br /><br /><br />某長輩說：大概是掛上加速器以後，跑得太快，衣服都掉了吧 XD <br /><br /><big><big><strong><br /><font color="#990000">偉哉，加速脫衣器！</font></strong></big></big>

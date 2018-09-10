@@ -1,0 +1,64 @@
+--- 
+wordpress_id: 2315
+layout: post
+title: !binary |
+  56ys5LiA5qyh5Ye65pu45bCx5LiK5omLIOKAkyBSYWlscyAxMDEg55qE55Sx
+  5L6G
+
+date: 2011-06-13 19:00:54 +08:00
+wordpress_url: http://blog.xdite.net/?p=2315
+---
+會出「<a href="http://blog.xdite.net/?p=2301">第一次學 Rails 就上手</a>」這本書，又是個玩笑話被激出來的敏捷實踐...
+
+故事是這樣開始的：
+
+台灣 Rails 圈頂頂有名的神人 <a href="http://ihower.tw">ihower</a> 喊著要<a href="http://ihower.tw/rails3">出書</a>已經喊很久了...
+
+雖然 ihower 還是有持續在寫書，但是因為過程實在拖太久了，原先大家的期待也漸漸變成不耐。
+
+很多玩笑話也開始漸漸冒出來了....
+
+<a href="http://www.flickr.com/photos/xdite/5827703437/" title="螢幕快照 2011-06-13 下午6.07.45 by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5101/5827703437_2d389250c6.jpg" width="500" height="158" alt="螢幕快照 2011-06-13 下午6.07.45"></a>
+
+逼的 ihower 最後也只好<a href="http://ihower.tw/rails3/whenpublished ">公告</a>這本書在暑假會出版。
+
+<a href="http://www.flickr.com/photos/xdite/5827708919/" title="螢幕快照 2011-06-13 下午6.10.27 by xdite, on Flickr"><img src="http://farm4.static.flickr.com/3635/5827708919_324a59d2fc_m.jpg" width="240" height="203" alt="螢幕快照 2011-06-13 下午6.10.27"></a>
+
+（雖然另外一輪玩笑話又變成了：沒有寫是哪一年的 summer ....XDD）
+
+這個玩笑似乎還沒有停止的跡象...<a href="http://twitter.com/evenwu">Evenwu</a> 在五月初做了這個開玩笑的 book cover
+
+<a href="http://www.flickr.com/photos/xdite/5828239030/" title="Rails 3 XD by xdite, on Flickr"><img src="http://farm4.static.flickr.com/3450/5828239030_0c3feb7794_m.jpg" width="200" height="240" alt="Rails 3 XD"></a>
+
+笑 ihower 要是再不出，就換我出了...XD。
+
+我看了以後也覺得蠻有意思的，想說真的來寫看看好了。
+
+說不定有機會比 ihower 早出 XD
+
+不過照我以往的個性，每次搞這種長途抗戰都半途而廢。主題發散，沒有毅力....。這次來做本比較小的，看看有沒有機會完成好了。
+
+為了能夠流暢的寫作，我還特地自己<a href="http://xdite.logdown.org">打造一個編輯器後台</a>方便寫作排版。不過就在我興奮的跟「某位朋友」分享這件事之後，他潑了我一盆冷水，告訴我出版沒這麼簡單啦。寫稿、編稿、發行那些事情很繁瑣，要花上很多時間和成本。plus 銷量<strong>他也不覺得會有多高</strong>。
+
+<a href="http://www.flickr.com/photos/xdite/5827728803/" title="螢幕快照 2011-06-13 下午6.19.38 by xdite, on Flickr"><img src="http://farm3.static.flickr.com/2186/5827728803_51e5c2e682_m.jpg" width="240" height="218" alt="螢幕快照 2011-06-13 下午6.19.38"></a>
+
+認識我比較久的人都知道我<strong>最恨人家說我辦不到</strong>。
+
+就在他潑完我冷水之後的那個週休二日，我躺在床上一口氣把八十頁的內容寫完了 XDDD
+
+接著，次個週末，我又花了一天找了朋友來幫我校稿，自己再花了七八個小時排版。最後花了幾個小時用 Rails + Heroku 把<a href="http://rails-101.logdown.com">整個官網</a>和 Billing Solution 做完了...
+
+如果不是整套 billing solution 自己幹有點花時間，<a href="http://www.digitaldeliveryapp.com/">買現成來串</a>成本低很多的話，我很可能一個衝動又把它寫完...
+
+標準「<strong>為了喝杯牛奶蓋了整座牧場</strong>」的行為 XDDD。
+ 
+這大概是因為我自己就是建築工人（同時精熟寫作和創作網站）才幹得出這麼瘋狂的事吧 XD
+
+目前這套 solution 還是半自動的，接下來大概有個頭緒怎樣把整套的出版流程自動化（寫完 markup language 、選項再勾一勾，上傳 cover，就自動轉成 pdf/epub/mobi，同時 integrate billing），所以之後寫書的動作應該還可以更快，到時候就請各位拭目以待.. XD
+
+弄完以還才發現 ihower 好像真的一不小心就被我順手婊到了....雖然我的原意不是要搞他 XD
+
+anyway, <a href="http://blog.xdite.net/?p=2301">enjoy this book</a>
+
+----
+有什麼想看的題目還請不吝建議。

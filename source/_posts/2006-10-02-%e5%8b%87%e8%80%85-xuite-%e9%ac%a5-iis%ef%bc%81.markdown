@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 144
+layout: post
+title: !binary |
+  5YuH6ICFIFh1aXRlIOmspSBJSVPvvIE=
+
+date: 2006-10-02 17:26:38 +08:00
+wordpress_url: http://blog.xdite.net/?p=144
+---
+<a href="http://www.flickr.com/photos/14765209@N00/258403537/" title="Photo Sharing"><img src="http://static.flickr.com/117/258403537_8a002787d3.jpg" alt="xuiteiis" height="390" width="500" /></a>

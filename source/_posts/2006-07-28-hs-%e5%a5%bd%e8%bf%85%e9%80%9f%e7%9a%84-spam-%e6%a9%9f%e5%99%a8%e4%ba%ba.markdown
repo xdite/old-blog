@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 27
+layout: post
+title: !binary |
+  W0hTXSDlpb3ov4XpgJ/nmoQgU3BhbSDmqZ/lmajkuro=
+
+date: 2006-07-28 20:02:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=27
+---
+<p>尤記筆者才在 <a href="http://xuite-joke.blogspot.com/2006/07/hsspam-safe.html">[HS]Spam Safe !?</a> 一文中提到在 Q&amp;A 暴露 mail 被 spam 的危險性。</p><p> 話音剛落，筆者就收到了 spam mail -_- (<font color="#ff0000"><strong>怒</strong></font>)</p><p>  本來筆者是不應該開啟該封 spam mail的，這樣以後將遭受到 spam 的繼續掃射</p><p> 但是為了服務讀者，筆者只好忍痛犧牲了</p><p>   很明顯接到 spam 的原因是因為筆者在 Q&amp;A 善意留下了 mail ，而 xuite 又不小心(或者是故意)讓它曝了光。（您可以點選該圖，看看該 mail 從何而來）</p><p>  筆者是在 7/22 留下 e-mail，於7/28收到 spam</p><p>  <a href="http://www.flickr.com/photos/49274115@N00/200236485/" title="Photo Sharing"><img src="http://static.flickr.com/78/200236485_ed45724c42_m.jpg" border="0" alt="spambot" width="240" height="202" /></a>  </p><p><font color="#ff0000"><strong>此系列僅提供安全資訊，請勿以身試法，本站將不負任何法律責任</strong></font></p>

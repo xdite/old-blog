@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 39
+layout: post
+title: !binary |
+  W+W/q+WgsV0g5paH56ug57eo6Lyv5Zm05o6J5LqG
+
+date: 2006-08-03 15:25:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=39
+---
+<p><a href="http://blog.xuite.net/blog/baby/7508327">《Blog公告》日誌使用問題的發表處(95年08月)</a> 多位使用者反應他們的網誌無法修改文章、無法上傳照片。簡而言之，就是 blog.xuite 再一次嚴重的噴掉。  </p><p>搞什麼鬼，這是商業服務上的日誌耶。又不是辦家家酒 !? </p><p> 使用者一天沒辦法寫日記就很生氣了，竟然一直爛這個爛那個還要一直等等等。</p><p><font color="#ff0000"> 我為什麼不會想搬走 -_-</font></p>

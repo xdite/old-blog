@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 438
+layout: post
+title: !binary |
+  6YKE5oiRIOOAjOiogumWseWIsCAgR29vZ2xlIFJlYWRlcuOAje+8gQ==
+
+date: 2007-08-18 01:36:17 +08:00
+wordpress_url: http://blog.xdite.net/?p=438
+---
+update: 8/21 iGoogle 又重施故技。zh-TW 優先的瀏覽器，訂閱到 Google Reader 的頁面又被拿掉。
+update : <strong>早上十點我起床時，修正回來了 ...</strong>
+----
+
+<p>這次真要大聲罵句 <big><strong style="FONT-SIZE: 1.2em; COLOR: #ff0000">Fucking iGoogle</strong></big> 了。</p>
+<p>iGoogle 似乎是因為推不起來，現在要強迫大家一定要用了 -_-</p>
+<p>剛剛在訂閱大陸某 blog 時，照例按了 firefox 的訂閱。以往的情形都會<strong>出現兩大區塊，讓你選擇訂閱到 Google 首頁或是 Google Reader</strong>。我按了訂閱到 Google Reader，很神奇的被重導到訂閱到 ig 的頁面去了。</p>
+<a href="http://www.flickr.com/photos/14765209@N00/1152444394/" title="相片分享"><img src="http://farm2.static.flickr.com/1439/1152444394_33d2107cca.jpg" width="500" height="301" alt="igoogle" /></a>
+<p>本來我還以為是我太想睡，失神按錯。</p>
+<p>結果<strong>換了幾個瀏覽器和幾個帳號測，甚至我還呼叫了 MSN 上還醒著的朋友測</strong>，結果都是一樣。</p>
+<p><br/>我切到 feedburner 提供的訂閱頁面去看看怎麼回事，才發現：</p>
+<p><a href="http://www.flickr.com/photos/14765209@N00/1151035778/" title="相片分享"><img width="360" alt="igoogle01" height="135" src="http://farm2.static.flickr.com/1034/1151035778_f3c8557a90_o.jpg"/></a></p>
+<p>的原始網址 <a href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fxxddite">http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fxxddite</a></p>
+<p>現在不論如何，都會被導到 <a href="http://www.google.com/ig/adde?moduleurl=http://feeds.feedburner.com/xxddite">http://www.google.com/ig/adde?moduleurl=http://feeds.feedburner.com/xxddite</a></p>
+<p><a href="http://www.flickr.com/photos/14765209@N00/1150189671/" title="相片分享"><img width="500" alt="igoogle02" height="423" src="http://farm2.static.flickr.com/1014/1150189671_27a7ce7c43.jpg"/></a></p>
+
+<p><big><big><strong> Holy Crap ，把訂閱到 Google Reader 的選項給我還來 -_-</strong></big></big></p>
+
+
+

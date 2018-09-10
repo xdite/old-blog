@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 185
+layout: post
+title: !binary |
+  57ay6KqM5qyK6ZmQ6aGe5Li75Lq6ICE/
+
+date: 2006-11-05 20:44:31 +08:00
+wordpress_url: http://blog.xdite.net/?p=185
+---
+原文： PTT2&nbsp;  「XDite」看板 第 348 篇，<a href="http://infinity426.googlepages.com/wretch.jpg">原圖位址</a>。<br /><br />看別人網誌會自動&quot;類&quot;主人 XD<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/289344258/" title="Photo Sharing"><img width="500" height="43" src="http://static.flickr.com/107/289344258_6b823afefe.jpg" alt="wretchtrouble" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/289344257/" title="Photo Sharing"><img width="500" height="303" src="http://static.flickr.com/99/289344257_2f8b7a3075.jpg" alt="wretch" /></a>

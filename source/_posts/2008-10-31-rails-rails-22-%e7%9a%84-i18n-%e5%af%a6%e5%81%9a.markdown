@@ -1,0 +1,101 @@
+--- 
+wordpress_id: 785
+layout: post
+title: "[Rails] Rails 2.2 \xE7\x9A\x84 i18n \xE5\xAF\xA6\xE5\x81\x9A"
+date: 2008-10-31 17:33:53 +08:00
+wordpress_url: http://blog.xdite.net/?p=785
+---
+Rails 最近終於推出了 2.2 RC 版，這次推出的兩大特點一個是 Thread Safe、一個是內建 i18n（ 有閒錢的話可以買 <a href="http://envycasts.com/products/ruby-on-rails-22-package-deal">EnvyCast 推出的 Rails 2.2 What's new Video & PDF</a> 一探究竟）。
+
+剛剛幫手上的某 project 一次升上了 Rails 2.2 順便練習如何操作內建的 i18n。
+
+這一篇是步驟（是的，我已經踩過雷了（註））：
+
+1. 安裝 Rails 2.2
+
+- Install
+gem install rails -s http://gems.rubyonrails.org -v 2.2.0
+- 修改 config/environment.rb 
+[ruby]
++ RAILS_GEM_VERSION = '2.2.0' unless defined? RAILS_GEM_VERSION
+- RAILS_GEM_VERSION = '2.1.0' unless defined? RAILS_GEM_VERSION
+[/ruby]
+
+2. 安裝 plugin 
+
+- localized_dates
+ruby script/plugin install git://github.com/clemens/localized_dates.git
+- 一些簡單的翻譯例子，可從 <a href="http://github.com/clemens/i18n_demo_app/tree/master/config/locales">rails i18n demo app</a> 下載，扔到 config/locales
+
+3. 修改 config 檔
+config/environment.rb
+在最末加入以下幾行
+[ruby]
+I18n.default_locale = 'en-US'
+
+LOCALES_DIRECTORY = "#{RAILS_ROOT}/config/locales/"
+LOCALES_AVAILABLE = Dir["#{LOCALES_DIRECTORY}/*.{rb,yml}"].collect do |locale_file|
+  File.basename(File.basename(locale_file, ".rb"), ".yml")
+end.uniq.sort
+[/ruby]
+
+新增 initializers/locale.rb 內置
+[ruby]
+I18n.load_path += Dir[ File.join(RAILS_ROOT, 'lib', 'locale', '*.{rb,yml}') ]
+[/ruby]
+
+4. 在 app/controller/application.rb 設置一個 before_filter 設定 locale
+[ruby]
+    before_filter :set_locle
+
+    def set_locale
+      # update session if passed
+      session[:locale] = params[:locale] if params[:locale]
+
+      # set locale based on session or default
+      I18n.locale = session[:locale] || I18n.default_locale
+
+    end
+[/ruby]
+5. 修改 layout 以及放置 demo, 在 app/vies/layout/application.html.erb 找個地方放置
+[ruby]
+        <% form_tag '' do %>
+          <%= select_tag("locale", options_for_select(LOCALES_AVAILABLE, I18n.locale
+    ), { :index => nil, :onchange => 'this.form.submit()'}) %>
+        <% end %>
+            <h1><%= I18n.t 'txt.main_title' %><span id="claim"><%= I18n.t 'txt.sub_title
+        ' %></span></h1> 
+[/ruby]
+
+這樣就完成了。
+
+註：我是參考 <a href="http://http://github.com/clemens/i18n_demo_app/tree/master">rails i18n app demo</a> 完成的。但是它的 set_locale 那一段有一些問題。load_translations 是 undefined method。
+
+[ruby]
+  before_filter :set_locale
+ 
+  def set_locale
+    # update session if passed
+    session[:locale] = params[:locale] if params[:locale]
+ 
+    # set locale based on session or default
+    I18n.locale = session[:locale] || I18n.default_locale
+ 
+    # load locale from settings
+    @locale_files = []
+    ['yml', 'rb'].each do |type|
+      locale_file = "#{LOCALES_DIRECTORY}#{I18n.locale}.#{type}"
+      if File.exists?(locale_file)
+        @locale_files << locale_file
+        I18n.load_translations locale_file
+      end
+    end
+  end
+[/ruby]
+
+原因出在 demo app 的 rails 是 freeze 當時 trunk 版的，而正式 Rails 2.2 RC 卻把"load_translations"這一段閹掉了。卻沒有人注意到這個問題。envycasts 跟 官方公告 都推薦看這個 demo app，但 demo app 是有地雷的，但卻一直沒人發現。
+
+跟 <a href="http://ihower.idv.tw">ihower</a> 討論這件事，ihower 開玩笑的說：「<big><big><strong>騙子!! 大家都沒有做i18n!!</strong></big></big>」
+
+----
+寫完這一篇 blog 才發現<a href="http://rails-i18n.org/wiki/pages/i18n-rails-guide">這一篇 wiki</a> ，裡面教的是正確的方法。

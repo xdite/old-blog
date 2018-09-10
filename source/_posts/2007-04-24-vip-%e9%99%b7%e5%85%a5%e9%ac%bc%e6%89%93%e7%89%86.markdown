@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 326
+layout: post
+title: !binary |
+  VklQIOmZt+WFpemsvOaJk+eJhiE/
+
+date: 2007-04-24 00:17:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=326
+---
+<a href="http://www.flickr.com/photos/14765209@N00/470068325/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/221/470068325_8f3811602b_o.png" width="424" height="421" alt="圖片 5.png" /></a>
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/470053566/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/230/470053566_9cbcd89337_o.png" width="489" height="198" alt="圖片 3.png" /></a>
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/470068403/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/184/470068403_6d899de20d_o.png" width="417" height="278" alt="圖片 11.png" /></a>

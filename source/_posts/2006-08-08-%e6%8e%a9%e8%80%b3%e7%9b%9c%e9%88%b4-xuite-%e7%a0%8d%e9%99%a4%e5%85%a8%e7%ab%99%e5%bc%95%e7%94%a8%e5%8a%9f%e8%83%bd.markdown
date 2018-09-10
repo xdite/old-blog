@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 52
+layout: post
+title: !binary |
+  5o6p6ICz55uc6Yi0PyEgWHVpdGUg56CN6Zmk5YWo56uZ5byV55So5Yqf6IO9
+
+date: 2006-08-08 12:44:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=52
+---
+<p>續 <a href="http://xuite-joke.blogspot.com/2006/08/blog-post_05.html">[快報] 引用功能壞掉了</a> 一文。此文刊出後，筆者收到讀者來信，指稱他在自己的網誌發送引用到 <a href="http://blog.xuite.net/xuitejoke/xuitejoke">xuitejoke@xuite</a> 成功。於是筆者改換其他家的 Blog 帳號再進行測試。</p><p>  結果發現，不管是從 <a href="http://blox.pixnet.net">blog.pixnet</a>、<a href="http://blog.yam.com">樂多日誌</a>、<a href="http://blog.wretch.cc">有名大站</a>甚至是筆者自行架設的 Tatter Tools Blog，都發送成功，<strong><font color="#ff0000">唯獨由 xuite自己本身發送的引用公告絕對不會成功</font></strong>，不管是發送至 xuite 內其他 blog 或是其他 BSP 都一樣。送不出去就是送不出去。</p><p>  挖靠，這是腦羞嗎？全站引用功能說砍就砍，發個引用管理準則後，順便就把引用功能關了！Blog.xuite，你們把用戶權益放在哪裡？</p><p>&nbsp;</p><p>   相關閱讀：<a href="http://xuite-joke.blogspot.com/2006/08/blog-post_05.html">[快報] 引用功能壞掉了</a> 、<a href="http://blog.xuite.net/xuitejoke/xuitejoke/7514977">[快報] 偷砍公告成性!?</a>、<a href="http://blog.xuite.net/blog/baby/7523950">《Blog公告》Xuite 日誌公告區之引用管理準則</a></p>

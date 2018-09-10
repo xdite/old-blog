@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 51
+layout: post
+title: !binary |
+  5p+Q5YWI55Sf55qE6L6m5YWs5qGM
+
+date: 2006-08-08 07:47:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=51
+---
+<p>大家還記得 <a href="http://www.furl.net/forward.jsp?id=10829575" title=" [Rated 3 in Hs on Aug 4, 2006]">[HS] 沒有「看的到」的欄位就不可以 XSS? (Photo.xuite)</a>  一文中榮獲 GJ (Good Job)標章的 Qoo Audi 先生嗎？經過鍥而不捨的持續跟蹤此消息後，筆者終於知道 Qoo Audi 先生的真實身份了!  </p><p>今天我們就要介紹它的辦公桌讓大家看。<a href="http://photo.xuite.net/photo/2/2.jpg">原圖在此</a>  為了備份一份，所以筆者也貼了一份在自己相簿內。（沒有要侵害版權的意思喔）。  <a href="http://www.flickr.com/photos/49274115@N00/209546926/" title="Photo Sharing"><img src="http://static.flickr.com/83/209546926_b9ad438922.jpg" border="0" alt="qooaudi" width="500" height="444" /></a>   </p><p>怎麼樣，筆者的數學還不是蓋的吧。光是<font color="#ff0000">利用邏輯就證明出來 Qoo Audi 先生是 Hinet 工程師</font>了呢!</p>

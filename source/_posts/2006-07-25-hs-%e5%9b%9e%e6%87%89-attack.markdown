@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 22
+layout: post
+title: "[HS] \"\xE5\x9B\x9E\xE6\x87\x89\" Attack"
+date: 2006-07-25 22:54:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=22
+---
+<p>很抱歉，這次筆者忘了拍圖...</p><p> 因為想起來的時候，真相已經被砍掉了。</p><p>  在 <a href="http://xuite-joke.blogspot.com/2006/07/hsspam-safe.html">[HS]Spam Safe !?</a>中筆者曾經提供一張圖，是有關於&quot;回應&quot;的<a href="http://static.flickr.com/62/198001947_320be85c9a_o.jpg">發表畫面</a>  </p><p>&nbsp;</p><p>看起來很正常，沒什麼大問題啊!?  </p><p>錯了，問題大的很。   從畫面中可以看到 Xuite 完全沒有任何檢核<font color="#ff0000"><strong>機器人</strong></font>機制</p><p> 只要你通過 login 了，便可以任意的留言</p><p> which means .... *grin*</p><p>  <font color="#ff0000"><strong>此系列僅提供安全資訊，請勿以身試法，本站將不負任何法律責任</strong></font></p>

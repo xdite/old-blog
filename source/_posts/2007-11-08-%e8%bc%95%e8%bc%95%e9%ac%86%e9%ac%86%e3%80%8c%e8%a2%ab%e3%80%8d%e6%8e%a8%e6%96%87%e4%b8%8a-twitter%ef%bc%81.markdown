@@ -1,0 +1,68 @@
+--- 
+wordpress_id: 487
+layout: post
+title: !binary |
+  6LyV6LyV6ayG6ayG44CM6KKr44CN5o6o5paH5LiKIFR3aXR0ZXLvvIE=
+
+date: 2007-11-08 12:33:20 +08:00
+wordpress_url: http://blog.xdite.net/?p=487
+---
+為免有讀者看這篇文章一頭霧水，我先貼簡介一下 Twitter 是什麼。（當然你直接 google 一下 Twitter 可能更快）。
+
+<a href="http://www.flickr.com/photos/14765209@N00/1913184427/" title="相片分享"><img src="http://farm3.static.flickr.com/2218/1913184427_24437766bd_m.jpg" alt="twitter" height="187" width="240" /></a>
+
+
+<a href="http://twitter.com">Twitter</a>， 有人說他是 microblog（微型部落格），但對我個人來說，它更像一個網頁版 IRC 聊天室。因為長度的關係，這裡很適合輸入一小段一小段的東西。這個網站，要說有什麼作用？其實也沒什麼。不過大凡只要是人類，都會遇到一種情形，不管是在上班、上課、寫作業，總會有那種窮極無聊或靈光一閃的時刻，心裡衝出一串碎碎念。
+
+而這些零碎絮語，幸運的話，旁邊有同學可讓你發洩。不幸運的話，跟同事批哩啪啦一陣還會被當神經病。而 Twitter 就是一個可以讓你自在解放的地方（隨地便溺的快感？）。一句話一句話的零碎片段並沒有什麼，不過當自己的主頁出現許多旁人的一句一句話，就會激起許多好玩的效應。而 Twitter 因為可以綁定 IM ( MSN/Yahoo Messenger / Gtalk 等等...），還可以透過手機更新。這種隨時隨地互動的感覺，讓只要是剛上手的人都會喜歡上它。
+
+這次去北京中文網誌年會，不管是台灣團，或者是大陸的朋友，每個人幾乎都是無時無刻拿著手機或筆電在「推特」或是在「唧歪」。而每當交換名片的時候，大家總會多補上一句，「那您的 twitter 帳號是？」。可見它的魅力。
+
+<a href="http://www.flickr.com/photos/14765209@N00/1776236443/" title="相片分享"><img src="http://farm3.static.flickr.com/2203/1776236443_e0b1fb2138_o.jpg" alt="名片6" height="158" width="261" /></a>
+
+（這裡就不得不佩服本人的預見先知了，早一 步的在年會上用的名片上印了 twitter 帳號 ）
+
+Anyway，因為充分具備了「一句話」的特性，所以很多人嘗試在上面綁定服務玩出各式各樣的創意。（<a href="http://blog.xdite.net/?p=435">twitter 也是很好的 SEO 場</a>）
+---------------
+而部落格與 Twitter 界接 當中，最簡單又頻繁的運用的就是 <img src="http://s3.chuug.com/chuug.twitthis.resources/twitthis_grey_72x22.gif" alt="TwitThis" style="border: medium none ;" /> 。
+
+只要網誌上的文章有加了 TwitThis 的語法，別人就可以方便的把這篇文章推上 Twitter 去，告訴它的朋友自己在讀這篇文章。（類似推書籤的意思，只是可以更快速的告訴你的朋友群在讀這篇文章）
+
+<a href="http://www.flickr.com/photos/14765209@N00/1913437583/" title="相片分享"><img src="http://farm3.static.flickr.com/2366/1913437583_3425da397b_m.jpg" alt="twitthis" height="240" width="177" /></a>
+
+但是，TwitThis 還是有一個缺點。「它」只能被放在「單篇文章」的頁面裡。也就是語法只能抓到正在看的文章的這篇連結和標題而已。這就有點小小困擾。萬一，我就是想要在前面這「第一頁」推文，不想點進去再推文這麼麻煩呢？
+
+（因為如果把語法放在 wordpress 的 index.php ，我要推 index.php 上的 http://blog.xdite.net/?p=435 這篇文章，原先的設計就只會抓到 blog.xdite.net，如此一來，放置這段語法的推薦的意義就沒有了。）
+
+----
+為了解決這個小小的麻煩。我做了一個 for wordpress 版的小小 hack，分享給大家。如果其他朋友有興趣的話，也可開發出其他 BLOG 的版本。
+
+首先，你要做的是做出一個自己版本的 javascript。可以抓 <a href="http://s3.chuug.com/chuug.twitthis.scripts/twitthis.js">Twitthis 提供的 javascript</a> 回來改改好後放在自己的空間裡，然後需要使用時，再呼叫自己這個版本。
+
+我只做了小小更動。（懶得學的可以直接抓<a href="http://blog.xdite.net/twitthis.js">我改好的</a>）
+
+原先的版本是
+
+<code>var TwitThis = {
+	pop : function () {
+		window.open("http://twitthis.com/twit?url="+encodeURIComponent(location.href)+"&amp;title="+((document.title) ? encodeURIComponent(document.title.replace(/^\s*|\s*$/g,'')) : ""), "TwitThisPop", "width=600, height=500, location, status, scrollbars, resizable");
+	}
+}</code>
+
+我將之改成
+<code>
+var TwitThis = {
+	pop : function (postlink,posttitle) {
+		window.open("http://twitthis.com/twit?url="+encodeURIComponent(postlink)+"&amp;title="+((posttitle) ? encodeURIComponent(posttitle.replace(/^\s*|\s*$/g,'')) : ""), "TwitThisPop", "width=600, height=500, location, status, scrollbars, resizable");
+	}
+}</code>
+
+另外在自己的 blog 中的 index.php 裡加了這一段
+<code>
+&lt;script type="text/javascript" src="http://blog.xdite.net/twitthis.js"&gt;&lt;/script&gt;
+
+&lt;a href="javascript:;" onclick="TwitThis.pop('&lt;?php the_permalink() ?&gt;','&lt;?php the_title(); ?&gt;');"&gt; 將此篇文章推上 Twitter！&lt;/a&gt; 
+</code>
+
+如此一來，大家就可以馬上看、馬上在下面推了。
+

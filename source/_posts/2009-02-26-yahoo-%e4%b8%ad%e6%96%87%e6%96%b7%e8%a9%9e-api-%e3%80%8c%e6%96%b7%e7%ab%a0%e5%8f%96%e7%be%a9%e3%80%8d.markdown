@@ -1,0 +1,34 @@
+--- 
+wordpress_id: 971
+layout: post
+title: !binary |
+  WWFob28g5Lit5paH5pa36KmeIEFQSSAtLSDjgIzmlrfnq6Dlj5bnvqnjgI0=
+
+date: 2009-02-26 21:47:35 +08:00
+wordpress_url: http://blog.xdite.net/?p=971
+---
+今天下午在 twitter 上看到有人在說 Yahoo 今天(2/26)推出了 <a href="http://tw.developer.yahoo.com/cas/">斷詞服務「斷章取義」</a>。覺得還蠻有趣的（雖然中文取名讓人很囧），因此隨手就花了一點時間<a href="http://github.com/xdite/asiasearch/tree/master">寫了一隻 Ruby Library，放在 github 上，歡迎取用</a>。
+
+使用方法很簡單：
+
+1. 請隨便註冊一支 API Key。
+2. 然後輸入這個網址啟用剛剛申請的 API key access 這個服務的權限：http://asia.search.yahooapis.com/cas/v1/AuthBootUp.php?appid=APIKEY。
+3. 使用方法，請拙參照看我附在裡面的 <a href="http://github.com/xdite/asiasearch/blob/e957d364715cb104856a1c9affc3c473fb81ea9a/demo.rb">demo.rb</a>，以及<a href="http://github.com/xdite/asiasearch/blob/e957d364715cb104856a1c9affc3c473fb81ea9a/demo.rb">官方網站</a>（上面有 API spec）。
+
+准不准呢？其實我也不知道，不過我在 demo.rb 裡用的文章是 Mr.6 的這一篇經典文章：<a href="http://mr6.cc/?p=1095">Voofox跳身社群紅海，一年磨三劍，直搗甜蜜銷魂點</a>
+
+得出以下的結果 XD。
+
+<blockquote>score:203.5935,token:超級星光大道
+score:163.572137,token:喬治
+score:161.603723,token:武俠小說
+score:146.820783,token:腦力激盪
+score:112.231682,token:第一次
+score:99.0600443,token:樂透中獎號碼
+score:99.0600443,token:樂透
+score:97.60466,token:創業
+score:95.4818036,token:摸摸
+score:92.9991608token星座
+</blockquote>
+
+目前想到的就是，如果這項服務能用來惡搞，對文章自動下 TAG ，感覺會還蠻不賴的。有想要做 wordpress plugin，不過可能要有時間才行 ...

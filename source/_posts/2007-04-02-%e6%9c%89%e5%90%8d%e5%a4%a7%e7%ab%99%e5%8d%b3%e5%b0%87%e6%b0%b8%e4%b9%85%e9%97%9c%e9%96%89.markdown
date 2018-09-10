@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 306
+layout: post
+title: !binary |
+  5pyJ5ZCN5aSn56uZ5Y2z5bCH5rC45LmF6Zec6ZaJIT8=
+
+date: 2007-04-02 13:51:58 +08:00
+wordpress_url: http://blog.xdite.net/?p=306
+---
+<br />前幾天，陸續<a href="http://nopa.csie.org/6ab09">有幾位使用者在有名大站 0Sysop 陸續抱怨聊天室有小白鬧場</a>，意外引發討論熱潮，使用者並建議站方對聊天增設功能。<br /><br /><a href="http://nopa.csie.org/4d101">當中並有人亂入，代為假設</a> bbsFAQ 的回答也許又可能是<br /><br /><blockquote><b>你好!<br /><br />我們會將問題回報給工程師<br /><br />感謝您的建議</b><br /></blockquote><br />沒想到，今天 bbsFAQ 果然不負大家的眾望所託，貼出了更令人吃驚的以下 POST<br /><br /><blockquote>&nbsp;作者&nbsp; bbsFAQ (客服中心)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 看板&nbsp; 0Sysop<br />&nbsp;標題&nbsp; [公告] 聊天室即將永久關閉<br />&nbsp;時間&nbsp; Mon Apr&nbsp; 2 11:44:16 2007<br />───────────────────────────────────────<br /><br />&nbsp;&nbsp;&nbsp; 各位BBS的用戶好,<br /><br />&nbsp;&nbsp;&nbsp; 因為 BBS 的聊天室管理不易<br /><br />&nbsp;&nbsp;&nbsp; 同時觀察聊天室的使用人數也不是很多<br /><br />&nbsp;&nbsp;&nbsp; 在多方考量之下<br /><br />&nbsp;&nbsp;&nbsp; 我們決定關閉 BBS 的聊天室服務<br /><br />&nbsp;&nbsp;&nbsp; 造成不便請多多包涵<br /><br />&nbsp;&nbsp;&nbsp; 謝謝<br /></blockquote><br /><br /><a href="http://nopa.csie.org/e1d9e">並在公告後的 5 分鐘後，把聊天室內的二十幾個人踢出去</a>，永久關閉聊天室。造成目前 0sysop 版越來越多憤怒鄉民聚集抗議。<br /><br /><br />這個舉動也是是有名大站近期內無預警關閉的第二項服務。<br /><br /><br />上一個被關閉的服務是「申請取回看板備份」，而導火線也是因為站方覺得「人力有限」。（該公告後來不知怎麼悄悄被砍除了，<a href="http://nopa.csie.org/90e89">只留下屍體</a>）<br /><br /><br />自啞唬收購有名大站以來，不難發現漸漸呈現一個特殊趨勢：只要使用者覺得某某頻繁使用服務的功能難用或會造成使用困擾，向站方提出建議。站方<b>不再像以前裝傻跳過不看</b>，而是<b>立即會以人力不足或是管理不易馬上<font color="#ff0000">斬殺該服務的提供</font></b>。<br /><br /><br />人力不足或是功能管理不易絕對是網站成長到一定規模會出現的問題，但是絕對不是事事的藉口，甚至是無預警關閉服務的理由。絕大多數人認為啞唬買下有名大站後，唯一的好處應該是，有名大站從此應該更有餘力增添人手或者程設功力進添去降低使用者的困擾。結果現在看起來反而是相反的？<br /><br /><br />只要有使用者抱怨就關閉。那我想照有名大站各樣糟糕的功能，被使用者投訴下去，不用幾個月，我想，大概該站過幾個月後，就會貼出「本站即將永久關閉」的字樣了吧？<br /><br /><br /><br /><br />

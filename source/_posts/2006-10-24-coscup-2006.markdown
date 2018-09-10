@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 174
+layout: post
+title: COSCUP 2006
+date: 2006-10-24 23:31:39 +08:00
+wordpress_url: http://blog.xdite.net/?p=174
+---
+我一直忘了 po 廣告文，乃特大會砍死我 ....orz<br /><br /><br />今年<a href="http://2006.icos.org.tw/"> ICOS 2006</a> ，據說太&quot;使用者導向&quot;。大家對該活動的感想不是很-嗶-，就是根本不想去。<br /><br />於是在眾人的激盪下，就有了號稱 真‧ICOS 2006的 的 <a href="http://coscup.tossug.org/">COSCUP</a> 誕生，議程保證精彩豐富，還有精彩的真人布丁秀可看。更多 blah 你可以看<a href="http://coscup.tossug.org/">官方網頁</a>，我實在掰不下去了 XD 總之身為 Coder / User / Promoter 的你，絕對不能錯過，<a href="http://coscup.tossug.org/index.php?option=com_facileforms&amp;Itemid=31">報名從速喔!</a><br /><br /><br />時間： 10/28（六）9:30 -18:00<br />地點：台大綜合體育館<br /><br /><br />---<br />筆者會去這場 conf，但我不是speaker ....<br />中場休息時歡迎找我聊天，只要嘴巴沒塞滿餅乾的話 :p<br /><br />這場應該不會像那次 web 2.0 conf 3000 人裡找我那麼困難了 XD<br />如果我忘記帶 T-shirt ，會在背上黏 &quot;XD&quot; mark ，說到做到!

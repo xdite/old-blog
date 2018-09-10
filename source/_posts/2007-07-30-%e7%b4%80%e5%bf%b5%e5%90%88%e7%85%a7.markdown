@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 426
+layout: post
+title: !binary |
+  57SA5b+15ZCI54Wn
+
+date: 2007-07-30 11:44:58 +08:00
+wordpress_url: http://blog.xdite.net/?p=426
+---
+<br />這是筆者與<a href="http://blog.xdite.net/?p=418">本站第一百萬位讀者</a>在貳兩燒肉的紀念合照。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/946140281/" title="相片分享"><img src="http://farm2.static.flickr.com/1040/946140281_1656bf2edb.jpg" alt="DSCF1987-ma" height="266" width="500" /></a>

@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 2041
+layout: post
+title: !binary |
+  54af57e05belICggSm91cm5leW1hbikg6IiH5bir5YKFICggTWFzdGVyICkg
+  55qE5beu5Yil
+
+date: 2011-02-14 04:10:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=2041
+---
+讀書（<a href="http://book.douban.com/subject/4924164/">軟件開發者路線圖：從學徒到高手</a>）瞄到，隨手摘要：
+
+<blockquote><strong>做熟練工意謂著什麼</strong>
+（摘錄）
+熟練工關注如何構建一些能彰顯其技藝的更大的應用程序，他在不同的項目和師傅之間移來移去，力求拓展其技藝組合的廣度和深度，他力求提昇自己在社區中的位置，並努力為成為師傅做好準備。
+</blockquote>
+
+<blockquote><strong>做師傅意謂著什麼</strong>
+（摘錄）
+精通意味著行使學徒或熟練工的所有職能，同時還要關注如何將行業向前推進。「達到技能和技術的爐火純青」只是一個開端。<strong>精通還包括掌握一種技能，然後把它變成一個能將其他人的技能提昇幾個數量級的放大鏡。</strong>這會表現為創造直擊軟件開發本質的新工具，也可能是訓練一代熟練工，使之青出於藍更勝於藍。或者，它會表現為我們還沒想到的某種形式。總之，師傅將高級技能的獲取、使用和分享看成是身為軟件技師的重要面。</blockquote>
+

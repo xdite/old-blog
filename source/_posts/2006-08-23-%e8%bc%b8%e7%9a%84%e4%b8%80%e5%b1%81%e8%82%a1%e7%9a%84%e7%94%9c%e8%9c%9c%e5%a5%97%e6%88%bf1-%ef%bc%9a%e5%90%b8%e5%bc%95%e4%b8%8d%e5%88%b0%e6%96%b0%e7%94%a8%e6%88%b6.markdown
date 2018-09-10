@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 76
+layout: post
+title: !binary |
+  6Ly455qE5LiA5bGB6IKh55qE55Sc6Jyc5aWX5oi/KDEpIO+8muWQuOW8leS4
+  jeWIsOaWsOeUqOaItg==
+
+date: 2006-08-23 13:29:43 +08:00
+wordpress_url: http://blog.xdite.net/?p=76
+---
+<br />吸引不到用戶的原因有很多種，但是揭根究底來說，筆者認為 Xuite 吸引不到新用戶的因素是：<strong>推廣活動不知所云</strong>以及<strong>使用動線雜亂</strong>。<br /><br /><br />諸凡推廣一個商品，首重的是要讓產品名在使用者間琅琅上口，這樣才有辦法達到看完廣告後一個傳一個的宣傳效果。但是， Hinet 除了在電視上推出了<a href="http://blog.xuite.net/xuite/vod/4401122">這麼一支令人三條線的廣告</a>外，就幾乎什麼也沒做了。撇開「<strong>網路族群根本不會因為看到電視廣告去申請網路服務</strong>」這個笑點外，最重要的名稱就被忽略掉了。現在使用者對 Xuite 的印象念法還是這幾種：「Hinet 的 Blog 服務」、「X、U、I、T、E」、「Shoot」。到底有誰知道這個產品叫做「Sweet」? <strong>就連要推廣都不知道怎麼說</strong>。<br /><br />再來討論新用戶的來源，今天某 Web Service 的新註冊用戶，通常是受到某些站台的廣告影響或者是某些熟識的人的推介才會來申請。這就是剛剛說的網路服務就應該就要抓著網路族群打廣告。但是這方面根據 <a href="http://blog.xuite.net/event/angel">Xuite 活動小天使</a> 網頁，做的都是一些很奇怪的 promo ，幾乎沒有什麼可以挖動用戶駐站的活動。在網路族群的討論中「可以感覺出」 的是 Xuite 除了頻寬優勢外，好像幾乎沒什麼優點 ？那<strong>跳脫連線速度的考量因素，為何我要選擇 Xuite 的相關服務</strong>呢？<br /><br />---<br /><br />另外在操作上，<strong>Xuite 的動線雜亂也是筆者生平僅見</strong>，就算是網路重度使用者的我當初也花了好大一段時間去熟悉操作，常常搞不清楚自己目前位於什麼操作台，或者是跳錯畫面老要按上一步。<br /><br />Blog 之所以迅速風靡全世界，是因為以目前的設計機制來說：即使是電腦新手，也可以輕易的創造屬於自己的頁面或者是站台，開始寫下關於自己的點點滴滴。比起以往需要熟悉 HTML 編輯器（Dreamwaver、 FrontPage ）或者是 HTML 標籤才能撰寫頁面，門檻低了不少。<br /><br />但， Xuite 除了動線設計雜亂外，<strong>各樣教學幾乎是隨處堆置</strong>，<strong>搜尋引擎分析功能又差勁的要命</strong>。這幾項「<font color="#ff0000">優點</font>」都很容易使用戶失去耐性習慣這個平台 ...更何況是連自救都不懂的新用戶了 ....<br />

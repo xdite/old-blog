@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 16
+layout: post
+title: !binary |
+  5aSa6IOe6IOO55qE55yf55u4
+
+date: 2006-07-24 02:48:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=16
+---
+在號稱打造 myown Blog 的今日
+各家 BSP (Blog Serive Provider) 都將自訂 CSS 設為基本配備
+
+既然可以自訂 CSS ，那就意味著可以自由改變 Blog 的陳設位置，擁有與眾不同的面貌
+
+但是Xuite 的多胞胎 (每個使用者 Blog都長的一模一樣，只是膚色不同) 一直讓我百思不解
+它不是也推出自訂 CSS 嗎？為什麼還是多胞胎呢？
+
+就在剛剛，我終於找到了<a href="http://blog.yam.com/Asadream/archives/57031.html">真相</a>
+
+
+使用 Xuite，與眾相同!!
+
+真酷，快來申請一個 <a href="http://blog.xuite.net">Xuite Blog</a> 吧

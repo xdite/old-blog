@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 257
+layout: post
+title: !binary |
+  W+aKleW9seeJh10gV2ViIDIuMCDooY3kvLjlh7rnmoTntrLot6/lronlhajl
+  lY/poYw=
+
+date: 2007-01-11 03:03:28 +08:00
+wordpress_url: http://blog.xdite.net/?p=257
+---
+<br />此為上週日在 <a href="http://www.hemidemi.com.tw/group/Ubi-Sunrise/home/index">Ubi-Sunrise</a> 讀書會分享的主題：「<b>Web 2.0 衍伸出的網路安全問題</b>」<br /><br />點此 <a href="http://xdite.net/Web20-security.pdf">下載 PDF Version</a>。<br /><br />本投影片內之<font color="#ff0000">漏洞皆已被業者修復 (?)，所以請勿以身試法</font>。<br /><br /><br />因為本份投影片援引多份非為筆者所撰寫之資料以及圖檔，所以採取 some rights reserved。<br /><br /><ul><li>轉載此份投影片請附本 blog 原始連結。</li><li>內文所出現之 Blog 文章或圖片之轉載修改請恰原出處網站。<br /></li></ul><br /><br />

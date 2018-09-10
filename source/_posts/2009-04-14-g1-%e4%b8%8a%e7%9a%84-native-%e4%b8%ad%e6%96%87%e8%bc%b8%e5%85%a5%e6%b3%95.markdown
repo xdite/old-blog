@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1144
+layout: post
+title: !binary |
+  RzEg5LiK55qEIG5hdGl2ZSDkuK3mlofovLjlhaXms5U=
+
+date: 2009-04-14 04:10:02 +08:00
+wordpress_url: http://blog.xdite.net/?p=1144
+---
+<a href="http://www.flickr.com/photos/xdite/3438623295/" title="Flickr 上 xdite 的 G1 中文"><img src="http://farm4.static.flickr.com/3389/3438623295_0b7fc5263e_m.jpg" width="240" height="234" alt="G1 中文" /></a>
+
+已經支援 native 中文輸入法，有注音、倉頡、手寫……等等。新版打中文真的超級快 .....可以扔掉科科輸入法了，科科……XD
+
+延伸閱讀：<a href="http://android.cool3c.com/article/7322">HTC Magic 韌體 for G1 v5.0.1</a>
+
+再來一發好消息：現在刷韌體不會洗掉原先手機裡面的資料了（我測過了）。

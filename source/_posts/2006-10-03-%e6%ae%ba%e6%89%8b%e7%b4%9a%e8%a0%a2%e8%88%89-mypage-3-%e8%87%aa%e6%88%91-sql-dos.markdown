@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 147
+layout: post
+title: !binary |
+  5q665omL57Sa6KCi6IiJIG15cGFnZSAoMykg6Ieq5oiRIFNRTCBEb1M=
+
+date: 2006-10-03 00:15:11 +08:00
+wordpress_url: http://blog.xdite.net/?p=147
+---
+一般網頁程式設計師都知道，製作互動式頁面利用到資料庫時（例如 MySQL），通常我們只會送出一次連線，再做 QUERY TABLE 的動作（抓取資料）。但是筆者看了這一個 ERROR 畫面，才知道有名大站的 RD 這麼厲害，把送一次連線搞定的事，弄成要送很多次連線，<strong>新服務 mypage 每經過使用者開啟一次，等於送非常多次 REQUEST，活生生把資料庫主機轟爛</strong>。(DoS 意思指 Denial of Service）<br /><br />導致一堆使用者開頁面都會吐出這個爆炸畫面。（大概是因為資料庫主機忙碌，無法接受連線，才會吐 ERROR）<br /><br />新服務根本沒有經過測試就上線，筆者只能說有名大站膽子夠大、超級厲害。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/258542585/" title="Photo Sharing"><img width="500" height="390" src="http://static.flickr.com/82/258542585_d159283a2d.jpg" alt="wretchsql" /></a>

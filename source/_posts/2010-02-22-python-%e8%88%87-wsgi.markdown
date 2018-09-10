@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 1578
+layout: post
+title: "Python \xE8\x88\x87 WSGI"
+date: 2010-02-22 21:32:32 +08:00
+wordpress_url: http://blog.xdite.net/?p=1578
+---
+基本上只要 將我上一篇文章 <a href="http://blog.xdite.net/?p=1557">Rack 與 Rack middleware</a> 裡的 Ruby 與 Rack 換成 Python 與 WSGI 就又是一篇了 XD
+
+延伸閱讀： Wikipedia : <a href="http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface">Web Server Gateway Interface</a>
+
+這大概是我這個部落格內容最短的一篇文章了吧 orz
+
+---
+但 Django middleware 並不與 WSGI compatible，這使得 Django 難以跟其他 framework 接軌。而 Rack 相較於 WSGI，多的是 Rack 並不僅只是一套規範而已，它同時還是一套 library。詳細的 Post 可見 Yehuda Katz 的這篇 <a href="http://yehudakatz.com/2009/03/02/rack-as-a-transformative-figure/">Rack as a Transformative Figure</a>。

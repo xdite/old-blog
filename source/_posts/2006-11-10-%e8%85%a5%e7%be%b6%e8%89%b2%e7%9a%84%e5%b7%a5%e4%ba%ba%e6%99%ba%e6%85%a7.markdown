@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 196
+layout: post
+title: !binary |
+  6IWl57626Imy55qE5bel5Lq65pm65oWn
+
+date: 2006-11-10 19:09:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=196
+---
+最近真的很無聊，轟的都是一些有名大站的人為自爆的蠢措施措施。甚少檢討有名大站站體，本身提供的服務到底有什麼問題。（消費者應該付出更多關注的是這個議題吧）　　　　　　　　　　　　　　　　　　　　　<br /><br /><br />有名大站長久以來，都把廣告的主體定在首頁，更首創超蠢的「<a href="http://blog.xdite.net/?p=116">變色龍首頁</a>」播放策略。<a href="http://blog.xdite.net/?p=104">種種手段</a>都是為了要把使用者的目光從個人 blog 、相簿，轉到首頁本身。此外之外，它們也拉了不少名人駐在該站，並闢了一個專區為首頁製造賣點。<br />　　　　　　　　　　　　　　　　　　　　　<br /><br />首頁本來就是要拿來賣廣告的，這並不是什麼壞事。但筆者最近卻發現，有名大站為了製造賣點，卻已經達到了不擇手段的地步。一直以來，筆者以為所謂的名人專區，上面的標題，應該都是程式自己去抓取 blog 文章標題產生的，所謂 web 2.0 的網站，策略應該都是主打 user provide 的 content 才是，例如 <a href="http://www.hemidemi.com">HEMIDEMI （書籤網站）</a>的首頁，都是依照<b>被使用者收藏的多寡數、討論數</b>，產生的內容。但筆者這個天真的想法卻大錯特錯，我把有名大站想得太單純了。　　　　　　　　　　　　　　　　　　　　　<br /><br />比如這一個標題「<font color="#ff0000"><b>她被當眾拖到一個小房間去輪暴</b></font>」，看標題名稱你應該會覺得是一件社會事件的網誌文章吧。錯了，這篇文章是入圍<a href="http://blogaward.chinatimes.com">華文部落格大獎</a>年度最佳生命紀錄部落格「<a href="http://www.wretch.cc/blog/zoing">雞肉丸子部落格</a>」裡的一篇文章「<a href="http://www.wretch.cc/blog/zoing&amp;article_id=2753677">美名之路---向一位了不起的女性致敬</a>」。內容是關於一位巴基斯坦偉大女性的書與心得。　　　　　　　　　　　　　　　　　　　　　<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/293667569/" title="Photo Sharing"><img src="http://static.flickr.com/115/293667569_9736521c8e_o.jpg" alt="未命名 -1拷貝" height="373" width="485" /></a><br /><br />　　　　　　　　　　　　　　　　　　　　　<br />又例如這一篇「<b><font color="#ff0000">另一半走了&nbsp; 身體很寂寞</font></b>」，光看標題你一定會以為是某個中年婦女/男子的寂寞性告白，錯了，這是模特兒「<a href="http://www.wretch.cc/blog/angelma">冬冬的私家小棧</a>」中的一篇文章「<a href="http://www.wretch.cc/blog/angelma&amp;article_id=10283608">上野動物園的貓熊很寂寞....</a>」，內容也完全不是你想的色情文章。　　　　　　　　　　　　　　　　　　　　　<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/293667571/" title="Photo Sharing"><img src="http://static.flickr.com/109/293667571_4a08b2c151_o.jpg" alt="未命名 -2拷貝" height="365" width="474" /></a><br />　　　　　　　　　　　　　　　　　　　　　<br />這可以用什麼機器的人工智慧開脫嗎？這根本就是<b>腥羶色的工人智慧</b>吧？利用名人的網誌打打首頁人氣賣個廣告無可厚非，但是也不用那麼煽色的標題改人家原意吧？被這樣亂曲解的 blogger ，如果知道他的文章標題被有名大站亂改成這樣招睞人氣，肯定也會氣瘋吧 :(<br />　　　　　　　　　　　　　　　　　　　　　<br /><br />一個站台尊不尊重他的客戶，從小地方就可以知道。<br /><br /><br />

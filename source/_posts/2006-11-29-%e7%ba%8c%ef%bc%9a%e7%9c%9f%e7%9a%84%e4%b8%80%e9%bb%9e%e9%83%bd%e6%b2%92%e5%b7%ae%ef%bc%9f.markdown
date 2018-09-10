@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 217
+layout: post
+title: !binary |
+  57qM77ya55yf55qE5LiA6bue6YO95rKS5beu77yf
+
+date: 2006-11-29 12:44:24 +08:00
+wordpress_url: http://blog.xdite.net/?p=217
+---
+剛剛稍早，筆者在自己 <a href="http://blog.xdite.net/?p=215#comment-2814">blog 看到 comment </a>。指稱 webs-tv 盜用樂多的圖片。筆者本來丈二摸不著頭緒。明明用右鍵檢視圖片，上面的圖片資訊為 blog.yam.com 所有。到底是哪裡盜圖的呢？看起來像是完美的匯入 (?) 吧 。<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/309213939/"><img width="500" height="375" alt="ugly2" src="http://static.flickr.com/110/309213939_f410a133f3.jpg" /></a><br /><br />結果才剛右鍵檢視下去，囧，被 redirect 到樂多那邊去，哇靠，有沒有偷抓圖這麼可恥的啊。<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/309213937/"><img width="500" height="361" alt="ugly1" src="http://static.flickr.com/112/309213937_2fdd782971.jpg" /></a><br /><br />而且不知道是不是這件消息迅速在網路上炸開 ....12:30 左右筆者再檢視這一張圖時，又被 redirect 去 webs-tv 自己的圖庫。<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/309213942/"><img width="500" height="361" alt="ugly3" src="http://static.flickr.com/117/309213942_cf2c8d73b0.jpg" /></a><br /><br /><br />看起來一整個就是來不及抓圖匯入，只好先偷偷抓人家圖來擋一陣，卻旋即被抓包的可笑故事啊 XD

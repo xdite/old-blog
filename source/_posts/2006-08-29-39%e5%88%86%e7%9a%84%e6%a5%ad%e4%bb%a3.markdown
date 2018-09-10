@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 93
+layout: post
+title: !binary |
+  MznliIbnmoTnhKHlkI3mpa3ku6M=
+
+date: 2006-08-29 19:17:14 +08:00
+wordpress_url: http://blog.xdite.net/?p=93
+---
+XDite是採用 Wordpress 所架設的，為了阻擋垃圾訊息，而裝了 Spam Karma 去過濾。這兩天因為有些長輩回應過於熱烈，頻頻被 Spam Karma 幹掉，而找上筆者抱怨。<br /><br />為了不讓各位長輩的精彩意見被埋沒，因此筆者幾乎有空就巡視一下垃圾 comment 夾，搜看看有沒有被誤判的 comment。<br />結果不小心看到了這個<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/228116722/" title="Photo Sharing"><img src="http://static.flickr.com/78/228116722_3e74a33adb_o.jpg" border="0" alt="ip" width="923" height="118" /></a><br /><br />而從<a href="http://blog.xdite.net//?p=87#comments">這篇回應</a>我們知道 59 分先生應該是被 spam karma 檔到不爽才變身成為 39 分先生。<br />既然我們知道 39 分先生的來源 ip 了，當然要 nslookup 一下。<br />因為 <a href="http://blog.xdite.net//?p=88">39 分先生不爽他被抹成業代</a>嘛，我們要查查到底他是誰，才能洗刷他的清白。<br /><br /><br />nslookup 出來是 <strong>A.Dorm11.NCTU.edu.tw</strong>。筆者再將<a href="http://www.google.com.tw/search?hl=zh-TW&amp;q=%22A.Dorm11.NCTU.edu.tw%22&amp;amp;amp;btnG=Google+%E6%90%9C%E5%B0%8B&amp;meta=">該 DN 丟進去 Google找</a>。<br />得出驚人的結果，原來 2003 年該 DN 的使用者是<font><strong>-嗶-</strong></font>。<br /><br />當然這還是不能證明，2006年該 DN 的使用者是<font><strong>-嗶-</strong></font>。<br />我們只能合理猜測，因為<font><strong>-嗶-</strong></font><strong>現在在交通大學念博士班，而且沒人會沒事換 DN</strong>。<br />所以這個 39 分的的先生極有可能是<font><strong>-嗶-</strong></font>而已。<br /><br />---<br />當然 2006 的現任使用者，我們可能還是要連線在交大臥底的記者幫我們查證。<br />請不要轉台，有任何  update 本站將為您熱辣奉上。<br /><br />---<br />Update :使用者說怕 Google 搜尋被洗掉 ..所以筆者備份畫面<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/232909707/" title="Photo Sharing"><img src="http://static.flickr.com/90/232909707_d5a07d9033_m.jpg" border="0" alt="anctu" width="240" height="144" /></a>

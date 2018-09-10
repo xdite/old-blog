@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 588
+layout: post
+title: !binary |
+  6Kqw6LOj5LqGIFBUVD8=
+
+date: 2008-06-08 00:42:46 +08:00
+wordpress_url: http://blog.xdite.net/?p=588
+---
+在 數位之牆的 產業動態，竟然看到了這一則：<a href="http://www.digitalwall.com/scripts/displaypr.asp?UID=10308">PTT全廣告方案 讓您一網打盡潛在客戶</a>
+
+<blockquote>
+本公司透過PTT內部人員,取得超過100萬筆台灣最大BBS網站PTT之帳號密碼
+
+購買後讓您輕鬆查看PTT會員之生日、地址、電話、職稱、性別、信箱等等私密資料
+
+您更可以使用任何一個您想要的帳號在各版打廣告,不用辛苦養帳號, 更不怕被水桶!
+
+PTT全廣告專案三大好處:
+
+1.PTT同時在線人數高達10萬人次, 讓您輕鬆將人潮變為錢潮
+
+2.帳號無限使用, 不用辛苦養帳號,廢了就換
+
+3.輕鬆取得會員個人資料, 直接銷售更簡單</blockquote>
+
+# 噗 ....
+# 不知道會不會是<a href="http://blog.xdite.net/?p=462">在這個事件洩漏出去的資料</a>？

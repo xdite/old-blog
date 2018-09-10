@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 43
+layout: post
+title: !binary |
+  W+W/q+WgsV0g5byV55So5Yqf6IO95aOe5o6J5LqG
+
+date: 2006-08-05 10:15:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=43
+---
+<p>剛剛筆者照例要在 <a href="http://blog.xuite.net/xuitejoke/xuitejoke">xuitejoke@xuite</a> 照例發送一下引用的時候，竟然發現它....壞掉了。挖靠，真誇張。本來筆者還以為是筆者的帳號不受歡迎，發送不會成功。沒想到請朋友檢測的結果也是一樣！</p><p>  我想大概是 xuite 對<a href="http://blog.xuite.net/xuitejoke/xuitejoke/7530319"> 踢爆 xuite 重大缺失者，刪無赦！</a>的公開回應吧 !? <font color="#ff0000">關閉所有人的引用功能</font>，口桀口桀。</p><p>&nbsp;</p><p>  相關閱讀：<a href="http://blog.xuite.net/xuitejoke/xuitejoke/7514977">[快報] 偷砍公告成性!?</a>、<a href="http://blog.xuite.net/blog/baby/7523950">《Blog公告》Xuite 日誌公告區之引用管理準則</a></p>

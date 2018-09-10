@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 367
+layout: post
+title: !binary |
+  5LiB5LiB5aSn56uZ6Kej6Zmk54ax6Y216ZmQ5Yi277yf
+
+date: 2007-06-05 00:06:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=367
+---
+<br />現在時間是 6/5 凌晨 12:00。看來 <a href="http://blog.xdite.net/?p=332">眾人的怨念</a> 好像是發生功效。<br /><br />丁丁大站解除 VIP 才能使用熱鍵的限制了。XD<br />

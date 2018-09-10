@@ -1,0 +1,36 @@
+--- 
+wordpress_id: 332
+layout: post
+title: !binary |
+  5LiB5LiB57WC57WQ6ICF77yB
+
+date: 2007-04-28 20:21:09 +08:00
+wordpress_url: http://blog.xdite.net/?p=332
+---
+這是幫一位讀者 <a href="http://cornguo.twbbs.org/">cornguo </a>義務廣告的。他在昨天設計出了以下產品「丁丁終結者」。
+
+
+丁丁終結者的設計出發點，就是「<font color="#ff0000"><big><big><big><b>救熱鍵，砍廣告！</b></big></big></big></font>」
+
+
+徹底逆轉你被<a href="http://www.wretch.cc">丁丁大站</a>丁丁化的相簿。
+
+
+使用方式很簡單，只要在你想看的相簿網址前面加上
+「<font color="#ff0000"><b>http://pllab.cs.ntou.edu.tw/~cornguo/getRidDingDing/?url=</b></font>」
+這一段字串，就可以<strong>除廣告以及再度使用「zxcvb」等熱鍵</strong>。
+
+原始碼<a href="http://pllab.cs.ntou.edu.tw/%7Ecornguo/getRidDingDing.tar">下載點</a>。（windows使用者請下載後請將副檔名 .tar 改成 .gz。（作者歡迎大家抓回去自己的機器架設、分擔流量，因為他也怕自己機器被打掛...）
+
+
+你如果也想一起提供服務的話，方法也很簡單，抓回去放在你的網頁上伺服器上，提供服務的網址改成「http://sitename/folder/?url=丁丁相簿網址」就可以使用了。
+
+
+當然，這祇是解一時之急，最重要的還是，快把你的東西打包搬離丁丁大站吧....
+
+
+--------
+
+
+歡迎各位讀者提供更短網址以及速度更快等機器讓大家反丁丁，意者請在架設完畢後在底下 comment 推網址，謝謝！
+

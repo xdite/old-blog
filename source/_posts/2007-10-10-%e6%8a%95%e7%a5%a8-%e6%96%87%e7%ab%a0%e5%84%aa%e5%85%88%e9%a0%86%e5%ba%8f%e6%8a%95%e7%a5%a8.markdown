@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 475
+layout: post
+title: !binary |
+  W+aKleelqF0g5paH56ug5YSq5YWI6aCG5bqP5oqV56Wo
+
+date: 2007-10-10 22:20:13 +08:00
+wordpress_url: http://blog.xdite.net/?p=475
+---
+因為我最近 code 債與稿債纏身。寫 blog 速度有點慢。
+（最近看到的還有在發的文章，都是寫來發洩鳥氣的，沒啥品質。）
+
+為了怕忘記自己要寫啥，所以我把有大綱的積稿名稱寫在 twitter 上。剛剛豬小草說如果這些選項可以「推」就好了。
+
+於是我辦了一個投票給大家推。成長速度最快的一個選項，我會當作第一篇發的稿子。以此類推。（但我無法保證本週會寫幾篇）
+
+[poll=4]
+

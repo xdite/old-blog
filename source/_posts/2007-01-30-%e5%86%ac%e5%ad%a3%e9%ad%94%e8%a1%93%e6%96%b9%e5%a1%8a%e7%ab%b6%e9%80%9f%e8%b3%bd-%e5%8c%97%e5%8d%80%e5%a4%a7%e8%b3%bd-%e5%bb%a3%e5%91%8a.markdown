@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 271
+layout: post
+title: !binary |
+  5Yas5a2j6a2U6KGT5pa55aGK56u26YCf6LO9LeWMl+WNgOWkp+izvSAo5buj
+  5ZGKKQ==
+
+date: 2007-01-30 01:08:20 +08:00
+wordpress_url: http://blog.xdite.net/?p=271
+---
+因為我最近在學習魔術方塊，為感謝師傅的免費教學以及割愛原廠黑方塊，因此貼個廣告文充當學費。<br /><br />---<br /><br />一、活動名稱：<br />冬季魔術方塊競速賽-北區大賽<br /><br />二、活動背景說明：<br />魔術方塊在幾十年前曾引發一股熱潮，而過了那麼多年，仍然有眾多愛好者存在，而年輕的方塊玩家漸漸多了起了，未來可能再吹起一陣方塊旋風，但是在這充斥著 聲光和刺激的社會中，推廣這個遊戲缺乏「機會」，所以我們以「推廣」為目的，創造機會讓大眾一同來認識魔術方塊的魅力，並且在台灣找出玩方塊的菁英,，把 紀錄推向世界，讓全球的方塊迷能認識台灣這個寶島也有世界級的玩家。<br /><br />三、活動時間：<br />中華民國九十六年二月四日星期天(13:00~17:00)。<br /><br />四、活動地點：<br />台北地下街-噴水池廣場後面-一號廣場<br /><br />註：現場會有免費教學<br /><br />
+
+<strong><a href="http://nctuyoyo.twbbs.org/phpBB2/viewtopic.php?t=3476">報名網址與詳細辦法點此</a></strong>。
+---<br /><br />另外我師傅說他想紅，因此我順便幫他貼個他挑戰白方塊優惠方案的 YouTube 影片 XD<br /><br /><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/4uh4LW843ss"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/4uh4LW843ss" type="application/x-shockwave-flash" wmode="transparent" height="350" width="425"></object>

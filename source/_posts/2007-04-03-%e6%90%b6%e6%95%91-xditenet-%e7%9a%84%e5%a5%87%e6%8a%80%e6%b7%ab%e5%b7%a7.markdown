@@ -1,0 +1,65 @@
+--- 
+wordpress_id: 307
+layout: post
+title: !binary |
+  5pC25pWRIHhkaXRlLm5ldCDmiYDnlKjnmoTlpYfmioDmt6vlt6c=
+
+date: 2007-04-03 21:46:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=307
+---
+貼出<a href="http://blog.xdite.net/?p=300"> Dreamhost sucks !</a>一文之後。信箱收到不少對 "Dreamhost suck" 心有戚戚焉的迴響。這幾天聽到的案例，有跟我一樣囤貨被查緝的案例，更有用到一半突然遭到 DH 莫名其妙退款，然後也根本不給任何理由就直接鎖 panel 的倒楣事（當然資料、DN 通通卡在裡面）。
+
+
+所以很多人好奇，到底我是用什麼樣的*奇技淫巧*，在短時間把 xdite.net 的域名搶回來，並且毫無時間差的把 wordpress 資料庫 dump 回來到新的主機，並克服轉碼問題。
+
+
+因為筆者太懶，同樣的信不想重複貼很多遍。所以將奇技淫巧公開在下面，希望還能幫上在絕望中的各位一點忙：
+
+
+1. 如果你的 DN 還在 Dreamhost，<font color="#ff0000"><big><b>請趕快 transfer 出來</b></big></font>，再指回去。<b>我的 DN 從來未搶救出來</b>，筆者的 DH plan&nbsp; 裡用上的四個 domain name，只有 xdite.net 當初是因為請朋友幫忙從 enom.com 註冊，加上我懶惰，沒有作 transfer 動作，只有作 CNAME 指定，所以才得以在浩劫中倖存。
+
+一旦<b>你被 DH 停權，則你在 panel 裡的所有權利會被凍結，所以連帶你的 DN 也會泡湯</b>。寫 ticket 保證沒用，因為我懷疑 disabled account 的 ticket 是沒有機會到達客服人員手上的。因為我所有收到回音的投訴信，都是透過 <a href="http://www.dreamhost.com/contact.cgi">Contact Us</a> 這邊寄過去的，ticket 那邊的則音訊杳然、石沈大海。
+
+
+不過有回信也是沒用的。你對 DN 被凍結的抗議大概只會收到以下回音。
+
+<blockquote><b>You are entitled to and still own any domain registrations, but that is
+all.</b>
+</blockquote>靠夭，我要一個只會 show 這種訊息：
+
+<blockquote><h1>Site Temporarily Unavailable</h1>  We apologize for the inconvenience. Please contact the webmaster/ tech support immediately to have them rectify this<p>  </p><font size="2">error id: "bad_httpd_conf"</font></blockquote><p>   </p>
+的 Domain Name 幹什麼，有講跟沒講一樣。所以趁你現在還沒被鎖，儘早 transfer 吧。
+
+
+2. 至於筆者的 wordpress 資料庫是怎樣幹回來的呢？老實說，筆者很懶得備份，所以當時手上最新的一筆 database backup 也是 07/01/23 的。本來是想說資料庫拿不回來的話，只好去 Google Reader 把 RSS 上的文章通通拷回來一份，1/23 後的 comment 部分就捏著 ** 向廣大讀者說抱歉。
+
+被強制關閉的一兩天後，在 IRC 上有人提到，DH 的 dn 只是只是鎖 panel 不讓更改，設定應該沒有砍除才是。我忽然靈機一動，那來連看看 DH 提供用來管理 sql 的 phpmyadmin （獨立 sub DN) 好了。結果，竟然可以進去 ...-_-|||。甚至是新架一個 wordpress，修改 config.php 指到原先的 sql 主機也 work。（意味著 SQL 主機帳號並沒有連動，它們所做的只是把 空間砍掉， panel 鎖住）
+
+當然，<b>myphpadmin dump 出來的 sql 中文會變成亂碼</b>，當然也不能用。所以我作的動作便是參考對岸同胞寫的「<a href="http://zhiqiang.org/blog/359.html">搞定亂碼，Wordpress 搬家到 Dreamhost</a> 」(XD) 這篇指南。
+
+<blockquote>1. 在新租的 host 上架好 blog.xdite.net 這個空 blog
+2. 改寫 config.php，把 sql 指到當初 DH 提供的主機上。
+3. 進入後台後，使用 wp-db-backup 這個 plugin，把資料庫 dump 出來。
+4. 用文字編輯器打開 sql，將<font color="#ff0000"><b>裡面所有的 「DEFAULT CHARSET=latin1」改成 「DEFAULT CHARSET=utf8」</b></font>後存檔。
+5 .打開新租 host 的 phpmyadmin，把資料倒進去。
+6. 改寫 config.php，把 sql 指到新 host 的 sql 主機上。
+</blockquote>
+
+Yes。至此，我的 blog 就搶救完畢了。雖然 blog.xdite.net 下的 plugin / theme&nbsp; / config ，xdite.net 下的 的一些資料和整個 guide.xdite.net（這個宿舍有備份，等我度完假後傳回去）都毀了。但是起碼沒有完全毀掉那麼慘。
+
+
+希望這篇文章的發表，能讓跟我有相同處境的人，減少一點損失。
+
+
+而我在這件事中學習到的心得有幾個：
+
+1. 圖片還是放在第三方如 flickr 的好，不然空間商一收掉你的空間，圖也一起不見。
+2. 空間商和域名商絕對不要同一個。
+3. 一定要定期作備份。
+
+最後就是
+
+4. <font color="#ff0000"><big><b>Dreamhost Sucks！</b></big></font>
+
+
+發洩完畢 :p

@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 395
+layout: post
+title: !binary |
+  5pys6YOo6JC95qC85oWY6YGt5qC454iG5LmL6YGT5q2J5ZWf5LqL
+
+date: 2007-07-03 16:28:10 +08:00
+wordpress_url: http://blog.xdite.net/?p=395
+---
+AS WE SEE，本部落格慘遭核爆。
+
+沒有啦，是因為部落格硬碟突然間就壞掉抓不到，機器主人沒有備，我這個豬頭也忘記去抓 wp-cron，每小時寄信，然後就 ….!@#$%%^
+
+我把文章從 Google Reader 撈回來了，時間等這兩天有空校正時再修回來。（7/2 , 7/3 這段時間在忙）
+
+至於comment 就…..（精彩的真業代假業代戰爭就這樣的…!@#$%)
+
+不過 feed 還有留存，只是我不知道怎樣倒回去而已 ><
+
+真是對不起這段 6/17 ~ 6/30 這段時間留言的讀者了。阿阿阿….<( _ _ ) >

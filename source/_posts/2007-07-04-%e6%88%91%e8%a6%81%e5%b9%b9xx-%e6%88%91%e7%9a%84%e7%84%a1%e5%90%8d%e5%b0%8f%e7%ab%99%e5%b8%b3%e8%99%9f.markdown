@@ -1,0 +1,54 @@
+--- 
+wordpress_id: 398
+layout: post
+title: !binary |
+  W+aIkeimgeW5uVhYXSArIOaIkeeahOeEoeWQjeWwj+ermeW4s+iZnw==
+
+date: 2007-07-04 17:01:12 +08:00
+wordpress_url: http://blog.xdite.net/?p=398
+---
+update : 本站製作的 <a href="http://blog.xdite.net/?p=399">網誌、相簿備份 搬家教學</a>。
+update : Wenli 製作的 <a href="http://sdkfz251.blogspot.com/2007/07/facsimile.html">丁丁雙證件掃瞄檔</a>，可供此次活動使用。
+<blockquote>update : 大豆 剛剛 在 他的 剝落殼裡 的這篇  <a href="http://hsuans.blogspot.com/2007/07/noname.html">收起雙證件，選擇遠離無名</a> 提及：提供雙證件，可能使 <strong>誤放違法影音的使用者 更容易被確認身份而被警察抓</strong> ....</blockquote>
+<blockquote>update : 昨天本來在退信率高清單只有 hotmail 以及 pchome ，今天竟然又多加了一個 <strong>msa.hinet.net</strong> 。奇怪，msa.hinet.net 不是很少退人信嗎？還是其實啞唬已經是 spam 大戶被列進 hinet 黑名單了...所以才....</blockquote>
+<blockquote>update : 新聞：<a href="http://tw.news.yahoo.com/article/url/d/a/070705/57/gte5.html">《網路快報》Yahoo!第一波整合未事先公告 無名小站更新密碼</a>
+<a href="http://www.flickr.com/photos/14765209@N00/721845981/" title="相片分享"><img src="http://farm2.static.flickr.com/1193/721845981_5347d8365d.jpg" width="500" height="115" alt="notfiymail" /></a>
+這是睜眼說瞎話吧，根本沒人收到通知信。還是等到大家震怒了再趕快寄，再謊稱說因為分批寄送所以延遲送達？....新聞稿最後兩行也很妙。「人工認證需要 24 小時」與「可以隨時隨地改密碼」（改密碼需要認證 e-mail，email 失效還是要人工認證，有講等於沒講）是兩回事吧，寫在一起是想轉移焦點嗎？</blockquote>
+
+
+---
+今天筆者的 mail 信箱突然間又被灌信了，用膝蓋想就知道某大站又出包了。
+
+PTT 黑特版幾乎是被此類恨文洗版。到底是發生了什麼事勒？
+
+原來是某丁丁大站突然間搞了個全面的密碼更改作業。
+
+<a href="http://www.flickr.com/photos/14765209@N00/714186242/" title="相片分享"><img src="http://farm2.static.flickr.com/1249/714186242_f79fa5d406.jpg" alt="changepassword" height="390" width="500" /></a>
+
+
+帳號必須要重新認證才可以繼續使用，而認證信箱預設是當初申請時所填的 e-mail。
+
+如果 e-mail 現在已經無效，必須要用掃瞄的雙證件申請變更 e-mail
+
+<a href="http://www.flickr.com/photos/14765209@N00/714185900/" title="相片分享"><img src="http://farm2.static.flickr.com/1292/714185900_bf50e6e74b.jpg" alt="ident" height="253" width="500" /></a>
+
+X 他 X 的媽媽樂拉，每個人的帳號幾乎都是用 2004~2005 年時的 e-mail 申請的，之後因為大容量免費信箱的盛行，<b>幾乎都轉跑道了，誰還用原先的信箱</b>。
+
+
+丁丁大站漏洞一堆，連密碼都管不好了（<a href="http://blog.xdite.net/?p=209">詳見上次的事件</a>，對岸駭客的說法是資料外洩筆數比站方宣稱的萬倍以上），現在還要我們把雙證件掃瞄檔交出來？他媽的雙證件掃瞄檔可以拿去幹多少壞事你知道嗎？現在大家提防詐騙集團連單證件影本都不太願意交了，就算要交都會用斗大紅字在上面註明「僅供XXX用途使用」。
+
+
+若是嫌會員數太多只要大家改密碼就算了，不交雙證件證件就形同你的資料就此就鎖在丁丁大站。
+
+
+自己的資料要拿回來，還要寫封 [我要XXX] + 我的無名小站帳號 附上 <b><font color="#ff0000"><big><big>什麼都能辦的</big></big></font> </b>（現金卡、手機、信用貸款...)雙證件掃瞄檔，去 help.check@wretch.cc 討回來。
+
+
+要是我，我只會寫封&nbsp; [我要幹XX] + 我的無名小站帳號 去給他而已。What a f**king site ..
+
+
+---
+update :
+
+有長輩說，那一個注意事項漏寫了一條： <strong>請不要使用yahoo信箱，吃信率極高</strong>。
+我去哈拉區一看 ...真的...XD 有會員的信已經被吃了 XD

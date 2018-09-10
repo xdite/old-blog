@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 95
+layout: post
+title: !binary |
+  5raI5aSx55qENTXokKzogqE/
+
+date: 2006-08-31 14:02:15 +08:00
+wordpress_url: http://blog.xdite.net/?p=95
+---
+猶記得有名大站前陣子為白金會員<font color="#ff0000"><strong>至少500股</strong></font>的優先認股權吵的沸沸揚揚。經過這次盈餘轉增資後，各大股東持有的股份當然有增有減。因為筆者是數學系的，對數字有天生的敏感度。看了股權結構變動以後一直覺得數字怪怪的，雖說是有增有減，但是增和減的幅度怎麼兜不起來。<br /><br />於是就用計算機稍稍按了一下。<br /><br />依照<a href="http://www.wretch.cc/blog/wretch&amp;article_id=1719098">本篇的記載</a>，當時的股權結構總計是 2643000股。<br /><br /><blockquote>  統一編號: 27568554 公司狀況: 核准設立 (備註)<br /> 公司名稱:無名小站股份有限公司<br /> 資本總額:45,000,000<br /> 實收資本額:20,000,000<br /> 序號 職稱 姓名 所代表法人 持有股份數 <br /> 1 董事長 簡志宇 180,000 <br /> 2 董事 吳緯凱 177,000 <br /> 3 董事 林弘全 160,000 <br /> 4 董事 張文勇 匯通數位服務股份有限公司 983,000 <br /> 5 董事 廖家蔚 匯通數位服務股份有限公司 983,000 <br /> 6 監察人 邱建熹 160,000 <br /></blockquote> <br />後來筆者又<a href="http://www.wretch.cc/hala/viewtopic.php?t=89967">根據這一篇</a>，算出經過增資後的總股數是2093320股<br /><br /><blockquote><span class="postbody">  統一編號 27568554  </span><br /><span class="postbody">  公司狀況 核准設立 (備註)   </span><br /><span class="postbody">  公司名稱 無名小站股份有限公司   </span><br /><span class="postbody">  資本總額  45,000,000   </span><br /><span class="postbody">  實收資本額  32,800,000   </span><br /><span class="postbody">  </span> 序號 職稱 姓名 所代表法人 持有股份數 <br /><span class="postbody">0001 董事長 簡志宇   98,400  </span><br /><span class="postbody"> 0002 董事 吳緯凱   109,880  </span><br /><span class="postbody"> 0003 董事 林弘全   262,400  </span><br /><span class="postbody"> 0004 董事 李世宜 永駿投資股份有限公司 762,120  </span><br /><span class="postbody"> 0005 董事 廖家蔚 永駿投資股份有限公司 762,120  </span><br /><span class="postbody"> 0006 監察人 邱建熹   98,400  </span><br /><span class="postbody"></span></blockquote> <span class="postbody">  <br /><br /> </span><font color="#ff0000"><big><strong>減少了將近 55 萬股</strong></big></font>。雖然筆者不太玩股票，但還是大概知道<strong>增資後總股數應該是會增加</strong>的。<br /><br />接下來筆者又不小心在 <a href="http://blog.yam.com/starbugs/archives/1640576.html">與谷歌相提並論的無名小站─中時</a>的底下署名<strong>南方鳥</strong>人得知未經證實的小道消息：<br /><blockquote>關於無名小站的頻寬應該已經解決了，現在到gcis.nat.gov.tw查公司登記的資料可以看到無名的實收資本額從原來的2000萬已經增加到3280萬，最近發行的新股有大多數是支付過去的頻寬費用，等於讓IDC入股，以上是小道消息，但與經濟部資料對照蠻可信的。<br /></blockquote><br /><br />筆者猶記得<br />
+<ol>
+    <li>發行新股是要讓白金會員先認的</li>
+    <li>vvkvvu先生一直強調盈餘轉增資是無法讓外界入股的，如果這些消失的股票真的是給了 IDC ，那之前的說法不就變成了謊言？</li>
+    <li>持有 55 萬股的 IDC 為何不用申報?<br /></li>
+</ol>
+<br /><br />這些都是未解的疑問。

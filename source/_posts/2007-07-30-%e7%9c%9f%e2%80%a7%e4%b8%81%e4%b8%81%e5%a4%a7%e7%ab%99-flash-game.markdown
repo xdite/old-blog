@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 425
+layout: post
+title: !binary |
+  55yf4oCn5LiB5LiB5aSn56uZICggRmxhc2ggR2FtZSAp
+
+date: 2007-07-30 00:05:37 +08:00
+wordpress_url: http://blog.xdite.net/?p=425
+---
+點本站認證區可連至 flash game 。大家對偉大的讀者 seayat 致敬吧! XD<br /><br />
+每次的作品都創意十足啊！<br />
+
+貼紙語法是：
+<blockquote>&lt;a href="http://seayat.googlepages.com/din.html"&gt;&lt;img src="http://seayat.googlepages.com/sticker.gif" border="0" /&gt;&lt;/a&gt;</blockquote>
+
+三天後我再移到 sidebar 去放吧 XD

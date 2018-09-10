@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 108
+layout: post
+title: !binary |
+  57qM77ya44CM55CG5oCn55qE6KiO6KuW44CN
+
+date: 2006-09-07 17:46:35 +08:00
+wordpress_url: http://blog.xdite.net/?p=108
+---
+前情提要：<a title="目前有 4 篇評論" href="../../../../../?p=99">「理性的討論」</a><br /><br />出處引自<a href="http://www.wretch.cc/etc/viprules.php">無名小站VIP服務使用規定</a><br /><br /><blockquote> 3. 退費<br />      1. <strong>如因可歸責於無名小站之事由致無名小站無法繼續提供VIP服務時</strong>，無名小<br />         站得通知終止提供VIP服務，於此等情形，無名小站將按賸餘之使用期間比例返還費用予VIP服務之使用者，惟使用者應負擔合理之郵資，代收款項成本與其他手續工本費，無名小站得就應返還使用者之款項中逕予扣除之。<br /></blockquote><br />出處 0Vip 2941 <a target="_blank" href="http://nopa.csie.org/6d79e">原文備份</a><br /><blockquote> 作者  wkwu (用嘴巴寫程式)                                  看板  0VIP<br />標題  Re: [問題] 14:55 現在的速度<br />時間  Tue Sep  5 23:45:01 2006<br />───────────────────────────────────────<br /><br />※ 引述《rstpiopxo (沉澱)》之銘言：<br />&amp;gt; &amp;gt; 光這一點, 就表示無名對你很重要, 如果我是你<br />&amp;gt; 不...這點我只想突顯無名的無能罷了   別的站都可以  為什麼無名不行<br /><br />對不起，這是無名的生死問題，真的必須要說對不起<br /></blockquote><br /><a href="http://www.iproducts.com.tw/public/cusprotect.html">消費者保護法</a><br /><blockquote><strong>第十三條</strong><br />第契約之一般條款未經記載於定型化契約中者，企業經營者應向消費者明示其內容；明示其內容顯有困難者，應以顯著之方式，公告其內容，並經消費者同意受其拘束者，該條款即為契約之內容。<br /><br /></blockquote><br />讓我們「理性的討論」看看。<br /><br />因為對 Hinet 的網路交通過慢，有名大站站無法讓使用 Hinet ADSL 或 FTTB 購買金卡、銀卡 VIP服務者使用服務。而有名大站<strong>承認它們買不起頻寬</strong>。是否應該退費呢？<br /><br />VIP 條款<strong>並未記載使用 Hinet 會幾乎無法使用 VIP 的事實</strong>，即使鑑於<strong>所謂的公司內部機密</strong>無法提供詳細證據，有名大站是否應<font style="color: rgb(255, 0, 0);"><strong>該顯著公告此項事實，並在該契約之內容加註呢</strong></font>？<br /><br />--<br /><br />建議各位可以好好的跟站方「理性的討論」一下 :p

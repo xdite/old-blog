@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 329
+layout: post
+title: !binary |
+  57qM77ya5pyJ57mz6Yyi55qE5omN5piv55So5oi2IT8=
+
+date: 2007-04-26 12:58:15 +08:00
+wordpress_url: http://blog.xdite.net/?p=329
+---
+用鍵盤按，到底會造成什麼沈重負擔？ XD 這不是貽笑大方嗎？
+
+<a href="http://www.wretch.cc/hala/viewtopic.php?t=241900">公告原文</a>。
+
+<a href="http://www.flickr.com/photos/14765209@N00/473263835/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/189/473263835_03bc913cf3_o.jpg" width="692" height="299" alt="heavy" /></a>

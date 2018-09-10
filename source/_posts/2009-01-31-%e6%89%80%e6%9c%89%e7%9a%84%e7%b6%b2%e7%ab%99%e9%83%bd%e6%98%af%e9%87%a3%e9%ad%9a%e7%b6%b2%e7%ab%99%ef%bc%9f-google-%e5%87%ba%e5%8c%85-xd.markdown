@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 913
+layout: post
+title: !binary |
+  5omA5pyJ55qE57ay56uZ6YO95piv6Yej6a2a57ay56uZ77yfIEdvb2dsZSDl
+  h7rljIUgWEQ=
+
+date: 2009-01-31 22:53:29 +08:00
+wordpress_url: http://blog.xdite.net/?p=913
+---
+很懷疑今天到底是不是什麼<strong>世界釣魚日</strong>。<a href="http://blog.xdite.net/?p=902">繼 Xuite 今天被域名商烏龍的標示釣魚網站之後</a>，Google 在剛剛出了大包，不管你搜尋什麼網站，結果都會標示為有害網站。使用 Firefox 連過去會阻擋並警告 XD。
+
+<strong>[Update] </strong><a href="http://googleblog.blogspot.com/2009/01/this-site-may-harm-your-computer-on.html">Google 官方回應</a>是：有人在 Stopbadware.org 的 List 裡手滑打了「/」，然後就……全數中獎了，激歡樂 XD。
+
+<a href="http://www.flickr.com/photos/xdite/3240662501/" title="Flickr 上 xdite 的 google-error"><img src="http://farm4.static.flickr.com/3412/3240662501_dda7db2bca.jpg" width="476" height="500" alt="google-error" /></a>

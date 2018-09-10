@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 114
+layout: post
+title: !binary |
+  6Jmb54Sh55qE5pCc5bCL5byV5pOO
+
+date: 2006-09-11 19:22:16 +08:00
+wordpress_url: http://blog.xdite.net/?p=114
+---
+還記得本站最初的第一篇文就是以探討 Xuite 的「國王的搜尋功能」做為開頭，最後撰寫成一串探討 Xuite 上弊病叢生的系列文章。<br /><br /><br />今天，我們也要探討「有名大站」的搜尋功能。跟 Xuite 恰好相反的是，該站並不是個人搜尋功能有問題，而是<strong>全域搜尋功能有嚴重問題</strong>。該站全域搜尋據筆者的記憶是外包給廠商 Scupio 作，以前還堪用，不知從何時就開始爛掉，但站方卻一直視而不見。<br /><br /><br />乍聽朋友抱怨時，筆者也快速的衝去測試這個搜尋引擎（因為又有材料可以寫了 XD）。但一時之間真不知道測什麼關鍵字好。剛好上面有<strong>熱門關鍵字</strong>，筆者就按看看，想見識傳說中的搜尋引擎是多麼可笑。<br /><br /><br />結果一測，筆者就笑到不支倒地的了。筆者在 Blog 測試的是&quot;<a href="http://www.flickr.com/photo_zoom.gne?id=240382153&amp;size=o">青藏鐵路</a>&quot;、&quot;<a href="http://www.flickr.com/photo_zoom.gne?id=240382076&amp;size=o">白色巨塔</a>&quot;，相簿測試的是 &quot;<a href="http://www.flickr.com/photo_zoom.gne?id=240384383&amp;size=o">5566</a>&quot; XD<br />結果，囧，通通跑不出結果。......那<strong>熱門搜尋是怎樣來的</strong>啊，高興自己加的嗎?<br /><br /><br />更寶的是，筆者故意測試簡董事長 wretch 的網誌，利用網誌 id「<strong>wretch</strong>」、網誌敘述「<strong>笑吧，笑有出頭天</strong>」當關鍵字丟下去。結果前者出的來，後者出不來。搞笑也不是這樣搞的吧，這樣我幹嘛要搜尋功能，直接在 http://www.wretch.cc/blog 後面打 wretch 就好了，幹嘛需要搜尋功能。<br /><br /><br />另外，<strong>自己號稱有 250 萬會員的最大 BSP 無名小站。自己沒有搜尋功能，還委請外包廠商做一個殘缺的搜尋功能</strong>，會不會太諷刺了一點? （另外，250萬會員的數字是假的，據線民爆料給筆者的真正數字只有<strong> 220 萬</strong>而已，這個也能灌...真是的）<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/240384333/"><img width="240" height="187" alt="king04" src="http://static.flickr.com/88/240384333_931c1b58ce_m.jpg" /></a><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/240384278/"><img width="240" height="187" alt="king05" src="http://static.flickr.com/89/240384278_c6ae14a61a_m.jpg" /></a>

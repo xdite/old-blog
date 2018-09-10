@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 1182
+layout: post
+title: !binary |
+  UnVieSBUdWVzZGF5IOS6lOaciOWgtCg1LzE5KemWi+Wni+WgseWQjQ==
+
+date: 2009-05-12 15:14:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=1182
+---
+Ruby Tuesday 開始報名囉，講者時間地點都確定好了 :)
+
+時間是 2009/05/19（週二）晚上七點到九點。
+地點在  <a href="http://tba.tw/contactus.jsp">台北市 台灣部落格協會 </a> 台北市復興南路一段79巷2號5樓之3
+議程有
+# Streaming Service upon Flex and Rails, Kevin Jong (睿碼科技)
+# Designing Web Interfaces on Rails, ihower (和多)
+# Lightning talks
+
+報名請前往 <a href="http://registrano.com/events/ruby-tuesday-09-may">http://registrano.com/events/ruby-tuesday-09-may</a>

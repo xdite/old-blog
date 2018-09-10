@@ -1,0 +1,87 @@
+--- 
+wordpress_id: 2525
+layout: post
+title: !binary |
+  6YKB5ZCRIFJhaWxzIOmrmOe0muaWsOaJiyAtIOS9oOaJgOmcgOimgeefpemB
+  k+eahOS4gOS6m+efpeitmA==
+
+date: 2011-06-27 01:44:45 +08:00
+wordpress_url: http://blog.xdite.net/?p=2525
+---
+不確定這會不會是下一本書的主題。不過先寫出來重點讓大家參考。如果你有其他有興趣的主題，歡迎在本篇文章底下留言讓我知道。
+
+<h2>關於 MVC</h2>
+
+<ul>
+<li>什麼東西應該放在 View
+<ul>
+<li>什麼是 helper</li>
+<li>什麼是 partial</li>
+<li>什麼是 collection partial</li>
+<li>什麼東西應該放在 partial / 什麼東西應該放在 helper</li>
+<li>yield in view</li>
+<li>不應該放在 view 裡的東西</li>
+<li>form</li>
+<li>essential helpers</li>
+<li>helper patterns</li>
+</ul></li>
+<li>什麼東西應該放在 controller
+<ul>
+<li>filters : before_filter, after_filter, around_filter</li>
+<li>render :template</li>
+<li>render :layout</li>
+<li>render :text</li>
+<li>render options</li>
+<li>redirec_to 與 render</li>
+<li>respond_to 與 respond_with </li>
+<li>builders</li>
+</ul></li>
+<li>什麼東西應該放在 model
+<ul>
+<li>has<em>many :through</li>
+<li>validation</li>
+<li>scope</li>
+<li>ids</li>
+<li>collect(&amp;:id)</li>
+<li>includes </li>
+<li>counter_cache</li>
+<li>STI</li>
+<li>Polymorphic Assoiciaion</li>
+<li>不要把該放在 helper 的東西放在 model 裡</li>
+<li>refactor controller code to model</li>
+</ul></li>
+</ul>
+
+<h2>關於 Rails</h2>
+
+<ul>
+<li>RESTful</li>
+<li>Routing</li>
+<li>Rack</li>
+<li>Bundler</li>
+<li>Unobtrusive Javascript</li>
+<li>I18n</li>
+</ul>
+
+<h2>關於 Ruby</h2>
+
+<ul>
+<li>Ruby syntax</li>
+<li>String / Array / Hash</li>
+<li>map</li>
+<li>lambda</li>
+<li>self</li>
+<li>block</li>
+<li>instance method / class method</li>
+<li>instance variable / class variable</li>
+<li>Mixin / Extend / Inheritance</li>
+<li>override</li>
+</ul>
+
+====
+<blockquote>
+
+廣告：
+<a href="http://rails-101.logdown.com/">書：第一次學 Rails 就上手</a> - 7 天之內學會 Rails（USD $9.99）
+<a href="http://registrano.com/group/rubytaiwan">聚會：Rails Tuesday</a> Rails 社群聚會 （免費）2011/06/28
+</blockquote>

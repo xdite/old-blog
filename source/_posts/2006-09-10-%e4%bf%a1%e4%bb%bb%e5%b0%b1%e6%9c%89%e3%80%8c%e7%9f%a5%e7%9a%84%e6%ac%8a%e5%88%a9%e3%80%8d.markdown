@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 111
+layout: post
+title: !binary |
+  5L+h5Lu75bCx5pyJ44CM55+l55qE5qyK5Yip44CNPw==
+
+date: 2006-09-10 14:08:56 +08:00
+wordpress_url: http://blog.xdite.net/?p=111
+---
+摘自 <a href="http://www.itmag.org.tw/magazine/article_single_140.htm"><b>無名小站──簡志宇的創業驚奇</b></a> ：<br /><br /><blockquote>首先，簡志宇在網站寫了一封題名為「我想跟各位說 的一段話」公開信，親自向無名小站的會員說明網站目前的經濟狀況與未來走向。為什麼要公開向會員說明？簡志宇認為「<font color="#ff0000"><b>既然人家願意使用無名小站，就表示人家信任你，自然就有知的權利。</b></font>」從這一點可以看出，<b>網友的回應與看法，在簡志宇心中永遠佔有重要的位置</b>。</blockquote>摘自 <a href="http://blog.xdite.net/?p=102" rel="bookmark" title="Permanent Link: 續：全國最大的 GSP (Garbage Service Provider)">續：全國最大的 GSP (Garbage Service Provider)</a>　<br /><br /><blockquote> 作者  wkwu (用嘴巴寫程式)                                  看板  0VIP<br />標題  Re: [建議]關於VIP<br />時間  Mon Sep  4 09:26:50 2006<br />─────────────────────────────────────── <p>您好, 這部份我們會視情況說明</p><p>但請您諒解並不是所有內容都可以公佈的<br /><b>公司內部的資料大多數是有保密問題</b>囉</p></blockquote> <br />除廣告政策說是內部機密資料之外，在包括談判頻寬上，凡是站方不想回答的問題，都是如此的說法。<br /><br />信任真的就有「知的權利」？依該公司的歷史看應該是「被欺騙的義務」吧。<br /><br />

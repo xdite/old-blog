@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 153
+layout: post
+title: !binary |
+  5YWN5oiw6YeR54mM5aSn57WV5oub
+
+date: 2006-10-03 21:48:09 +08:00
+wordpress_url: http://blog.xdite.net/?p=153
+---
+這篇是奉我妹之命寫的。我妹一向是個純樸的女鄉民，平時以打楓之谷為樂（100級刀賊，夠神經病吧）。唯一會用到有名大站相簿的機會是打寶時拿來貼閃光圖。鑑於不能炫耀她會死，這次維修害她快抓狂了。她昨天跑來抱怨已經有兩三天了，完全不能上傳也不能刪除 ....不知道要維修到民國幾年才會好，要我貼文修理一下他們<br /><br />筆者跑去看首頁。果然真的是這樣耶 ....<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/259745560/" title="Photo Sharing"><img width="408" height="41" src="http://static.flickr.com/117/259745560_fc517a969d_o.jpg" alt="maintain02" /></a><br /><br />有名大站這次被罵到乖了，這個公告有連到一個<a href="http://www.wretch.cc/etc/repair.php">維修公告</a>的頁面。<br />不過<strong>有公告跟沒公告</strong>一樣。只說會儘速修理。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/259745629/" title="Photo Sharing"><img width="500" height="138" src="http://static.flickr.com/88/259745629_c8aaaf9789.jpg" alt="maintain03" /></a><br /><br />結果有一個鄉民剛剛終於忍不住了，跑去 <a href="http://nopa.csie.org/25db0">0Sysop 版 7472 </a>問。<br />從推文時間看，這個問題大概是 9/30 之前就發生了。<br /><blockquote>Ryan0802:剛剛詢問工程師  硬體出現故障重新掃瞄  需要再兩天 10/03 18:15<br /></blockquote> <br />若是沒有問我們還不知道要再修兩天，<font color="#ff0000"><strong>反正沒付錢的客戶也不用補時嘛，慢慢修是合理的</strong></font>。<br /><br />而且筆者還發現這招真是太妙了，各大 BSP 應該都學起來！<br />只要在首頁上掛一個小小的 logo 說明現在有機器是壞掉的（管那台是不是專門拿來抓 A 片的!?），就可以把站上所有異常的狀況通通都推卸掉。<br /><br /><strong><big><big>多完美的一招免戰金牌大絕招啊</big></big></strong>！

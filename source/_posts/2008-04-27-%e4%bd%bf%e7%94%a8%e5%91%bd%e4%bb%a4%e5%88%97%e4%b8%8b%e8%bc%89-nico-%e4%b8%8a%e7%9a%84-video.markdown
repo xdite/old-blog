@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 578
+layout: post
+title: "Ruby \xE7\x89\x88\xE7\x9A\x84 Nico Video Wrapper"
+date: 2008-04-27 21:52:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=578
+---
+因為對每次逛 nicovideo 都用瀏覽器加外掛軟體，手動保存影片感到很煩。
+
+剛剛終於跑去 survey 了一下用 command 抓影片的方式，結果發現 rubyforge 上已經有強者把 wrapper 寫好放出來了 ...
+
+gem 的名稱也是直接叫做「<a href="http://rubyforge.org/projects/nicovideo/">nicovideo</a>」。
+
+使用的方式也很簡單。
+
+安裝：
+
+<strong>gem install nicovideo</strong>
+
+使用：
+
+可以參考把 gem unpack，在 sample 裡面有幾個寫好的 rb 檔。
+
+這裡是 sample 裡面附的 <a href="http://nopa.csie.org/b7da5">nv_download.rb</a>
+
+先將 account.yml 建好。
+內容填入
+
+<blockquote>mail: YOUR_MAIL_ADDRESS
+password: YOUR_PASSWORD</blockquote>
+接著在 command 列輸入： ruby nv_download.rb smXXXXX ，程式就會自動下載 smXXXXXX.xml 以及 smXXXXXX.flv。相當的方便。看起來可以用 Rails 寫出一些邪惡的 app ...
+

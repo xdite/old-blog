@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 58
+layout: post
+title: !binary |
+  5bCK6YeN5YKz57Wx5paH5YyWIQ==
+
+date: 2006-08-11 15:43:36 +08:00
+wordpress_url: http://blog.xdite.net/?p=58
+---
+<a href="http://xuite-joke.blogspot.com/2006/08/blog-post_11.html">[快報] 空頭支票!</a> 一文中午刊出後，筆者在 irc 上收到讀者迴響。<br />以下為讀者想像情境，如有雷同，純屬巧合。<br /><br /><blockquote>14:06 &lt;@aSir&gt; XJ: 在這裡要向您說明一下,我們Xuite小組為了維護傳統文化,所以我們所說的8/2指的是<strong><font color="#ff0000">陰曆的8/2</font></strong>;至於網頁公告上未清楚表示造成您誤會的部份; Xuite小組在此致上最誠摯的歉意<br /><br />14:06 &lt;@aSir&gt; XJ: 一個多月後萬一還是沒修好不要找我<br /><br />14:09 &lt;@aSir&gt; XJ: 也不要來拍我辦公桌!Xuite不是我殺的</blockquote><p><br /><br /><br />BTW，今天是陰曆 7/18，今年又是閏七月。所以正確修好的日期應該是 (30-18)+30+2=44 天後。<font><strong>陽曆民國 95年 9月23日</strong>。</font></p><p><font><br /> 偉哉，Xuite!</font> <br /></p>

@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 437
+layout: post
+title: !binary |
+  5YWo5LiW55WM55qE6ZuF6JmO55So5oi25rOo5oSP5LqG
+
+date: 2007-08-16 23:20:30 +08:00
+wordpress_url: http://blog.xdite.net/?p=437
+---
+剛剛看到<a href="http://www.ithome.com.tw/itadm/article.php?c=44887"> ithome 這篇報導</a>的最後一段。
+
+
+
+<blockquote>今年初Yahoo!奇摩和無名小站的整合經驗深受John Linwood讚許，他認為<strong>這樣的整合能夠擴大社群發展</strong>，並加強服務內容。他指出，<strong>台灣Yahoo!奇摩有許多做法都值得其他國家學習，尤其像整合無名小站的經驗更值得推展到全球其他國家</strong>。事實上2001年Yahoo!和奇摩站的整合就非常成功，將兩家公司的文化、管理以及技術層面都成功整合。</blockquote>
+
+一陣惡寒爬上身啊 .....
+
+整合經驗是指無預警換掉大家密碼，並且用雙證件來贖嗎？
+筆者是不太覺得雅虎美國敢斗膽來跟用戶要 SSN 或是 PASSPORT copy ....啊 XD
+
+
+不過這篇報導也暴露了一件事：到底是不是有人在欺上瞞下啊？
+
+這麼糟糕的手法和經驗怎麼會是值得其他國家效法的呢？
+

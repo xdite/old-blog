@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 318
+layout: post
+title: !binary |
+  57qM77ya5pyJ5ZCN5aSn56uZ6Zqx56eB5qyK5o6n566h5aSn54iG54K4
+
+date: 2007-04-15 08:52:32 +08:00
+wordpress_url: http://blog.xdite.net/?p=318
+---
+上一篇的「<a href="http://blog.xdite.net/?p=315">有名大站隱私權控管大爆炸</a>」提到：昨日，有名大站在昨天凌晨，突然發生所有上鎖相簿通通失靈，不管是誰，都可以一窺他人隱私，時間長達 3hr。
+
+事件發生後，有名貼出的<a href="http://www.wretch.cc/hala/viewtopic.php?t=229421">官方說法兼道歉稿</a>是：
+
+<a href="http://www.flickr.com/photos/14765209@N00/459221872/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/203/459221872_5fbc07b68d_o.jpg" width="589" height="317" alt="leak4" /></a>
+
+評語：筆者覺得怎麼這篇公告看起來根本不像是描述密碼失靈的大事，倒好像是發生了什麼相簿突然不能連之類的不痛不癢的小事，連道歉都沒有一絲絲誠意...!@#$%
+

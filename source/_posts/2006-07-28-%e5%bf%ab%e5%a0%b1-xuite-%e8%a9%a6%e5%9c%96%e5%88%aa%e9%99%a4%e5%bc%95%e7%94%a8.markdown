@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 26
+layout: post
+title: !binary |
+  W+W/q+WgsV0gWHVpdGUg6Kmm5ZyW5Yiq6Zmk5byV55SoIT8=
+
+date: 2006-07-28 18:50:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=26
+---
+<p>筆者在架設這個網誌後，接收到眾多朋友的迴響。</p><p> 其中有幾位朋友提到，何不<a href="http://blog.xuite.net/xuitejoke/xuitejoke">在 xuite 也架設一個 xuitejoke 的網誌</a>作為 host 呢？</p><p>  因為筆者不太會用 blogger 的引用功能，於是在架設分站的時候</p><p> 分站的文章是有去做引用文章內提及post的功能的</p><p> 其中當然也有引用到 <a href="http://blog.xuite.net/blog/baby/">Xuite BLOG 台長</a> 的文章</p><p>  由於 blog 文章並不是像 BBS 文章一樣會留下痕跡的。</p><p> 但是筆者又沒那種閒功夫每天盯著文章看</p><p> 於是就寫了一支小小的程式來 monitor 所關注的頁面</p><p>  就在幾分鐘前筆者連回工作站，突然發現了一件不尋常的事情</p><p> <a href="http://blog.xuite.net/blog/baby/7045124"> 7月份 Q&amp;A</a> 的 size 變小了!?  這裡是筆者壓的<a href="http://kydd.info/xuite7web.tar.gz">網頁備份檔</a></p><p><img src="http://static.flickr.com/67/200220503_a45ddeca6a_o.jpg" border="0" />  </p><p>這是怎麼可能的事!?文章只會越變越大的不是嗎? 於是筆者對文章做出了比對。</p><p>  <img src="http://static.flickr.com/62/200220501_e8922d3cd8_o.jpg" border="0" />  </p><p>少了一則引用通告!!</p><p>&nbsp;</p><p>  <img src="http://static.flickr.com/66/200220502_64c5ca5e74_o.jpg" border="0" />  難道站方在對於刪除我的引用通告做暖身嗎? <a href="http://blog.xuite.net/blog/baby/7045124">let us keep an eye on this post!!</a></p>

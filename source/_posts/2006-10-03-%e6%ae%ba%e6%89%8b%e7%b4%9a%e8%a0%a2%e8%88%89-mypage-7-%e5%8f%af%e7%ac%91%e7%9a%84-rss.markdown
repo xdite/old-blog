@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 151
+layout: post
+title: !binary |
+  5q665omL57Sa6KCi6IiJIG15cGFnZSAoNykg5Y+v56yR55qEIFJTUw==
+
+date: 2006-10-03 17:48:50 +08:00
+wordpress_url: http://blog.xdite.net/?p=151
+---
+撇開 RSS 功能<strong>在昨晚上架時根本根本是一個沒寫好的東西</strong>（<a href="http://www.flickr.com/photo_zoom.gne?id=259614190&amp;size=o">IE 截圖</a>、<a href="http://www.flickr.com/photo_zoom.gne?id=259614125&amp;size=o">FF 截圖</a>）。<br /><br />筆者一直以為，有名大站這次放出來的功能，應該是自己開發的 RSS Reader，之前千方百計檔掉 bloglines 等 RSS Reader，讓這些站上面看 <strong>RSS feed 絕對叉燒包連連</strong>，或者是<strong>文章顯示看到一半就跳出請連回無名本站看</strong>，都是為了這個殺手級新功能而鋪路。況且，如果不殺手級的話，<strong><font color="#ff0000">他們怎麼敢那麼無恥的連「 RSS 訂閱」這種功能都要分多少 feed 收多少錢?<br /></font></strong><br /><a href="http://www.flickr.com/photos/14765209@N00/259621190/" title="Photo Sharing"><img width="762" height="136" src="http://static.flickr.com/97/259621190_ca8515588d_o.jpg" alt="new01-1" /></a><br /><br />..........沒想到，筆者完全猜錯了，RSS 訂閱竟然只能訂標題而已，筆者徹底的仆街。果然人類的愚蠢極限是無法預估的。囧囧囧。而且這個 RSS Reader 產生出來的連結，完全不能免俗的是連回彎彎自己的個人網誌看（一般市面上其他 Reader 的行為可能是直接顯示標題，然後抓回來的內容幫你收摺起來，要看再展開。或是整個就是展開）。<strong>幹，那我在一個那麼 lag 的站上訂 RSS 到底要幹嘛？</strong><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/259617917/" title="Photo Sharing"><img width="375" height="167" src="http://static.flickr.com/89/259617917_2f0cb319a3_o.jpg" alt="rssreader" /></a>

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 98
+layout: post
+title: !binary |
+  VXNlciDllpzmraHnmoTmmK/kuro=
+
+date: 2006-09-02 19:43:32 +08:00
+wordpress_url: http://blog.xdite.net/?p=98
+---
+<p>在 Bussiness Next 137 期 P.53 ，<strong>致力客戶服務弭平收費爭議</strong>一段中：</p><blockquote><p>吳緯凱表示，付費一定 要讓網友覺得值得，無名一向以線上討論區回答網友問題，在回答問題前，社群溝通服務部的同仁會花時間徹底瞭解用戶，甚至連它的留言版、相簿和網誌都要逛一 遍，清楚用戶的困難，然後才作答，「<strong>不是機器人回答的，User 喜歡的是人</strong>，」吳緯凱一板一眼的說著。<br /></p></blockquote><p>（這一段笑話本來被筆者寫在「<a href="http://blog.xdite.net/?p=97" title="Permanent Link: XDite 的過去、現在與未來">XDite 的過去、現在與未來</a>」中，有長輩提醒這樣笑話可能會被埋起來，另外開一篇重寫過會比較好。）<br /></p><p><br />被標起來的這一段真的<strong>超級好笑又諷刺</strong>的，如果您上<a href="http://www.wretch.cc/hala/search.php">無名哈拉討論區的搜尋</a>頁面，在發表人欄位輸入「vipblog」、顯示模式選取「文章」，再執行搜尋。您會得到的是<font color="#ff0000">一篇又一篇的 op (old post)文</font>。這跟毫無創意的機器人有什麼分別 ?<br /></p><p><br />有啦，還是有分別。在上面問問題，除了<a href="http://www.wretch.cc/hala/viewtopic.php?t=91360">爭議敏感的（白金會員認股權）主題會被鎖定</a>，用戶會被迫發表新開主題外。使用者只要抓到站方邏輯相左且毫無誠信的言論時，站方就會祭出江湖上傳說已久的小白大絕招「<strong>不夠理性的討論，恕不奉陪</strong>」。.....完全是一個比機器人更 g8 的客服體系。<br /></p><p><br />這叫「<strong>付費一定要讓網友覺得值得</strong>」? 筆者資質駑頓，看不出來哪裡值得。一有問題就把問題丟給中華電信，叫網友自行去抗議，這個就叫客服喔（<a href="http://blog.xdite.net/?p=90">更何況根本不是中華電信的錯</a>）?那幹嘛還請客服人員，直接設個 forward ，把 post 通通寄到中華電信客服信箱就好嘛。（不准抄襲喔，要付授權費喔，不然我告你）<br /></p><p><br />可惜，這麼差勁（op,跟網友對嗆,損傷公司名譽...) 的 <strong>社群溝通部協理</strong> 用戶還不能請無名小站公司 fire 他，因為他本身就是董事之一。無名小站的用戶，你們還是繼續忍耐吧 :P<br /></p><p><br />---<br />下一篇本站將繼續介紹什麼是「<strong>理性的討論</strong>」，請不要轉台 :)<br /></p><p>另外，本篇名稱本來要取名為 「<font color="#ff0000"><strong>User 喜歡的不是 g8 人</strong></font>」，但長輩提醒有人身攻擊之嫌，且格局過小，故做罷，讀者們笑笑就好。<br /></p><p><strong>再徵 Bussiness Next 137 期全文掃瞄圖，筆者家裡沒有掃描器，無法服務網友。有興趣分享本站讀者的朋友，請寄信給筆者，謝謝。</strong><br /></p>

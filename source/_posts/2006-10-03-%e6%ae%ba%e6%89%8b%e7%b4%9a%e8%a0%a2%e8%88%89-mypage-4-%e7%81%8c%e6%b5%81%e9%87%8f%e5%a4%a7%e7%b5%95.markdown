@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 148
+layout: post
+title: !binary |
+  5q665omL57Sa6KCi6IiJIG15cGFnZSAoNCkg54GM5rWB6YeP5aSn57WV
+
+date: 2006-10-03 05:19:16 +08:00
+wordpress_url: http://blog.xdite.net/?p=148
+---
+更絕的是有名大站將所有人預設的布景弄成周董的依然范特西頁面。這樣一來，<strong>連 VIP 都一併婊了，直接強迫他們看廣告</strong>。而且這招最絕的是，<strong>有名大站把所有服務都開成 all on</strong> 。所以所有人一 load my page ，就會狂讀影音以及音樂，<font color="#ff0000"><strong>沒有拒絕被灌流量的權力</strong></font>。喂喂，為什麼人家外國都是 all off ，你們都是 all on 啊。<br /><br />其中又尤其好笑的便是「我的影音」這一塊，普通使用者根本沒有權利上傳影音檔案，那打開這一塊的人是<strong>免費幫有名大站播廣告</strong>嗎？<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/259603745/" title="Photo Sharing"><img width="500" height="390" src="http://static.flickr.com/92/259603745_252c68116d.jpg" alt="allopen" /></a>

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 509
+layout: post
+title: !binary |
+  5Lit6IKv5oSP6KaL6ZG955+z57ay
+
+date: 2007-12-12 13:27:04 +08:00
+wordpress_url: http://blog.xdite.net/?p=509
+---
+今天早上看到 Mr.6 這一篇文章： <a href="http://mr6.cc/?p=1206">Web 2.0的下一步：抓出每人心中所有的鑽石</a><br /><br /><blockquote>好久好久以前，我自己曾想過一個小小的點子，OpinionsAboutMe.com，中文翻成「中肯的意見」。目前許多網站都有開放這種東西，但都抓不到人們心中的鑽石。譬如餐館的官方網站貼一個「意見箱」，有任何意見都可以寫，除非真的有很不愉快的經驗，我就算被強迫填寫，也一定是亂寫一通，草草過關了事；雖然所有社群網站、ＢＳＰ其實早就讓個人可以接收「悄悄話」，不過這種留言目前仍是很散的。有時，我們或許都需要大量周邊的朋友，為我們「提供某件事情的中肯建議」？<br /><br /></blockquote>真是令人驚豔的點子！所以，我也根據它的點子，刻了一個 <a href="http://opmr6.veryxd.net">OpinionsAboutMr6</a> XD。（僅供 demo，到本週六我關站）。<br />
+
+該站使用 ROR 撰寫，所以才花了我一個多小時，讓大家感受一下 ROR 的高速開發魅力 :p。<a href="http://rapidshare.com/files/75982322/mr6release.tgz.html">原始碼開放</a>，歡迎 clone。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/2105510820/" title="Flickr 上 xuitejoke 的 2104377851_5e6f845f17_o"><img src="http://farm3.static.flickr.com/2280/2105510820_835317074f.jpg" width="500" height="390" alt="2104377851_5e6f845f17_o" /></a>
+---
+<strong>update </strong>19:00 時我又花了"幾分鐘"搞定 facebook 版的<a href="http://apps.facebook.com/opmrsix/">中肯意見鑽石網</a> XD。
+<a href="http://www.flickr.com/photos/14765209@N00/2104815997/" title="Flickr 上 xuitejoke 的 fb"><img src="http://farm3.static.flickr.com/2063/2104815997_0d67f8b20b.jpg" width="500" height="304" alt="fb" /></a>

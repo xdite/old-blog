@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 799
+layout: post
+title: !binary |
+  6buR57GzIFYuUy4g6YWq5qKo
+
+date: 2008-11-08 04:19:11 +08:00
+wordpress_url: http://blog.xdite.net/?p=799
+---
+今天逛 Alexa，無聊測的。覺得還蠻有趣就是了....
+
+<a href="http://www.flickr.com/photos/xdite/3009765043/" title="Flickr 上 xdite 的 Hemidemi"><img src="http://farm4.static.flickr.com/3034/3009765043_6a7dda55b4.jpg" width="500" height="359" alt="Hemidemi" /></a>

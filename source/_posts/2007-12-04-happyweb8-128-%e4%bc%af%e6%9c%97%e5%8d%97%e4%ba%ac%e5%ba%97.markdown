@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 504
+layout: post
+title: !binary |
+  SGFwcHlXZWI4IDEyLzgg5Lyv5pyX5Y2X5Lqs5bqX
+
+date: 2007-12-04 11:32:31 +08:00
+wordpress_url: http://blog.xdite.net/?p=504
+---
+<p>就在這個 12/8 週六的伯朗咖啡南京東路電 3F 喔(建國北路南京東路交叉口)
+現場可以索取傳說中的<a href="http://www.flickr.com/photos/14765209@N00/1776236443/">真叉滴名片</a> XD<br /> </p>
+
+按 continue reading 打開有報名 widget 
+<!--more--> 
+<br /><script type="text/javascript" src="http://happyweb.tw/eventWidget/eventWidgetInc.djs?width=380&amp;height=400&amp;type=side&amp;color=DDDDDD&amp;backgroundColor=FFFFFF"></script><br /><br />----<br /><br />

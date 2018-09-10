@@ -1,0 +1,43 @@
+--- 
+wordpress_id: 336
+layout: post
+title: !binary |
+  5pWI6IO95L2O6JC95qC55pys5piv6Ieq5om+55qEPw==
+
+date: 2007-05-03 03:02:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=336
+---
+今天要睡之前，IRC 頻道上的長輩，突然問『丁丁大站文章上有個金元寶的是什麼意思?』。筆者乍聽之下，完全摸不著頭緒，於是就請長輩提供連結或畫面一下。
+
+搞了半天，原來就是<a href="http://www.wretch.cc/blog/cwwany">彎彎網誌上</a>的：
+
+<a href="http://www.flickr.com/photos/14765209@N00/481680164/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/209/481680164_dc82fb9575_o.jpg" alt="yuanbao01" height="113" width="219" /></a>
+
+這個時候，當然要開原始碼研究一下到底是什麼囉。結果筆者在原始碼撈 .gif 和 撈 .jpg 撈到一半，無意中看到一個無比壯觀的東西竟然嵌在原始碼裡：
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/481691315/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/217/481691315_54af64a526.jpg" alt="yuanbao02" height="374" width="500" /></a>
+
+<font color="#ff0000"><b><big><big><big>大驚！</big></big></big></b></font>
+
+
+中略幾百行 ....
+
+<a href="http://www.flickr.com/photos/14765209@N00/481680122/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/196/481680122_23f7e047df.jpg" alt="yuanbao03" height="374" width="500" /></a>
+
+搞屁啊，這是什麼東西啊....。研究了一會才發現原來這個在原始碼裡佔了高達 910 行的巨無霸髒 code ，就是：
+
+<a href="http://www.flickr.com/photos/14765209@N00/481691235/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/170/481691235_bd7706e1d8_o.jpg" alt="yuanbao04" height="186" width="251" /></a>
+
+差點昏倒。
+
+筆者還是第一次看到有人在大規模商業站台是這樣寫 widget 的。
+
+<blockquote>1. 這個播放中相簿很明顯是動態去撈相簿裡有多少照片，即時產生放在程式碼裡的。也就是彎彎今晚要是有十萬人瀏覽人次，資料庫就要被問十萬次，然後產生十萬次這段 code。
+
+<b>不是常常變更的東西，為什麼不寫成一支 .js cache 起來，要這樣產生</b>，真是莫名其妙。
+
+2.  這段 code 會造成只要人家一開彎彎這個網誌，就會間斷的發出三百個 request 去抓縮圖檔。<b>十萬人瀏覽就是發出 3000 萬次 request</b>。
+</blockquote>
+
+ㄟ，不是口口聲聲說機器吃緊，頻寬很貴。結果寫出這種程度的程式，亂浪費資源，<a href="http://blog.xdite.net/?p=329">再來限縮使用者資源</a>，這是在搞笑嗎？

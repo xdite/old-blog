@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 546
+layout: post
+title: !binary |
+  T1NEQy50dyDplovmlL7loLHlkI0sICA0LzEyLTQvMTMg5paH5YyW5aSn5paw
+  6aSo
+
+date: 2008-02-20 11:49:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=546
+---
+as we known, tw opensource 界一大 Conference，<a href="http://osdc.tw">OSDC</a> 又即將到來了。
+
+將在 4/12 - 4/13 假 中國文化大學推廣教育部博愛校區 - 大新館 舉辦
+
+詳情議程以及報名連結請洽 <a href="http://osdc.tw">OSDC.tw 官方網頁</a>。
+
+btw, 此次報名平台 host 在 和多公司的 <a href="http://registrano.com">http://registrano.com</a>，是使用 Rails 2.0 寫的，大家如果有什麼需要報名的活動，也可利用此平台做報名管理喔 :p

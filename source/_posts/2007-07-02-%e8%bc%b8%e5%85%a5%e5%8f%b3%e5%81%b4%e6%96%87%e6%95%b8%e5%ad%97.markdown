@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 389
+layout: post
+title: !binary |
+  5L6154qv5bqV57ea55qEIEJsb2dnZXJhZHM=
+
+date: 2007-07-02 21:53:56 +08:00
+wordpress_url: http://blog.xdite.net/?p=389
+---
+<p>本站宣告暫時移除 <b>Bloggerads</b> 的擺設。</p> <p>昨天起，就有讀者陸續向筆者反應，最近一檔雪山飛狐的廣告頗討厭，滑鼠移過去，就會開始播放 Flash 影音廣告「黃秋生 …方中信..」。</p> <p>因為筆者昨天因為出門開會，之後又跑去跟朋友聚會，加上「只是」移過去才會播廣告，所以便沒什麼處理。（雖然當下筆者覺得這樣放廣告的人很聰明，從後台看 照 <b >Bloggerads</b> 的規則，似乎沒有點擊是不用錢的，偵測滑鼠游標 的作法可以省下更多的廣告費）</p> <p>可是今天筆者在出門前，查看讀者的 comment 時，突然間察覺一件事。</p> <p>1. <b>我的 blog 開啟速度變慢了</b>，似乎在 load 什麼東西。
+2.<font color="#ff0000"><b>load 完自動開啟影音廣告</b></font>，耳機馬上傳來清晰的「黃秋生…方中信」</p> <p>（紅框處會自動 load 廣告並且馬上播放）</p> <p><a href="http://www.flickr.com/photos/14765209@N00/616723778/" title="相片分享"><img src="http://farm2.static.flickr.com/1091/616723778_c3f78fc3a2_o.jpg" alt="blogads" height="505" width="206" /></a></p> <p>搞什麼鬼，再想打廣告也不用這樣吧？難道你們不知道一般讀者，最忌諱的就是這種自動播放影音的干擾行為嗎？（而且還大大拖慢了開啟速度）</p> <p>很有創意，但是這種動作之所以之前沒有人做，是因為這是踩線行為。</p> <p>Therefore，我生氣了，我移除了 <b >Bloggerads</b>。</p>
+
+原始 comment :
+
+<a href="http://www.flickr.com/photos/14765209@N00/712329243/" title="相片分享"><img src="http://farm2.static.flickr.com/1344/712329243_63a71e3710_o.png" width="522" height="25513" alt="bloggerads-comment" /></a>

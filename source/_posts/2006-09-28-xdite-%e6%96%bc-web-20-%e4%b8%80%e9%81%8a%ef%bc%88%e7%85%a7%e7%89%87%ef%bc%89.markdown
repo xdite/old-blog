@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 136
+layout: post
+title: !binary |
+  WERpdGUg5pa8IFdlYiAyLjAg5LiA6YGK77yI54Wn54mH77yJ
+
+date: 2006-09-28 16:25:13 +08:00
+wordpress_url: http://blog.xdite.net/?p=136
+---
+<a href="http://www.flickr.com/photos/14765209@N00/254728789/" title="Photo Sharing"><img src="http://static.flickr.com/95/254728789_03253cae79.jpg" alt="web20" height="375" width="500" /></a><br /><br />上面這張是回來之後拍的。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/254728757/" title="Photo Sharing"><img src="http://static.flickr.com/107/254728757_2e45c977fa_o.jpg" alt="XditeW20" height="511" width="342" /></a><br /><br />此張照片摘自 <a href="http://picasaweb.google.com/writers.idv.tw">水瓶子's Public Gallery</a>
+      
+
+      
+        » <span class="lhcl_deadnavlink">20060926 Web2.0 研討會</span>

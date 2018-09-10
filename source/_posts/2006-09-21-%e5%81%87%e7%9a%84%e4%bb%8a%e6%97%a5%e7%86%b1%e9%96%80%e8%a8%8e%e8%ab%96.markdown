@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 128
+layout: post
+title: !binary |
+  5YGH55qE5LuK5pel54ax6ZaA6KiO6KuW
+
+date: 2006-09-21 14:32:26 +08:00
+wordpress_url: http://blog.xdite.net/?p=128
+---
+<a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/248409877/"><img width="387" height="409" alt="fuzzy" src="http://static.flickr.com/88/248409877_c0db4e96b0.jpg" /></a><br /><br />先不要提這根本不是今日熱門討論文章。<br /><br />除了<font style="font-weight: bold; color: rgb(255, 0, 0);">每天都一樣熱門</font>（永遠不變）外，他還是有名大站站內會員廣告大集合 ....<br />CSS 還做到游標上去反而變成亮黃色糊掉 ....orz<br /><br />我還蠻懷疑有名大站有沒有產品測試的部門，還是大家東西做好，扔上去就可以了 ?

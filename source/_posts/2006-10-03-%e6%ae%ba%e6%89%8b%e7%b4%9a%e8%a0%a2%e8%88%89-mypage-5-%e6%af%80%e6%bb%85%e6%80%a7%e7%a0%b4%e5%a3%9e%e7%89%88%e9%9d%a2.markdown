@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 149
+layout: post
+title: !binary |
+  5q665omL57Sa6KCi6IiJIG15cGFnZSAoNSkg5q+A5ruF5oCn56C05aOe54mI
+  6Z2i
+
+date: 2006-10-03 05:50:53 +08:00
+wordpress_url: http://blog.xdite.net/?p=149
+---
+在眾多抗議聲中，最多的便是使用者不爽自己精心設計的的 user profile 看起來像被轟炸過一樣。據筆者仔細檢視這個問題，發現原因是出自於有名大站<font color="#ff0000"><strong>擅自更動 CSS 的結構，造成版面上呈現毀滅性的破壞</strong></font>。<br /><br />再加上 mypage 吃的使用者資料跟 profile一樣， profile 可以吃 html 語法，而 mypage 不能上 html 語法。<strong>因此只要在 mypage 更改資料，口桀口桀 ....</strong>爛掉是很正常的事<br /><br />再次質疑這種品質連 beta 版都不如的東西，真的有經過內部嚴厲的測試？

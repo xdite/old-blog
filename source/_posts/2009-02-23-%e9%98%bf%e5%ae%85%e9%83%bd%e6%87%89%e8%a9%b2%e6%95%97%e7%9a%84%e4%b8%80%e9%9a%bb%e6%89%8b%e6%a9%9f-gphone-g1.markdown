@@ -1,0 +1,59 @@
+--- 
+wordpress_id: 933
+layout: post
+title: !binary |
+  6Zi/5a6F6YO95oeJ6Kmy5pWX55qE5LiA6Zq75omL5qmfIC0tIEdwaG9uZSBH
+  MQ==
+
+date: 2009-02-23 02:37:38 +08:00
+wordpress_url: http://blog.xdite.net/?p=933
+---
+<a href="http://www.flickr.com/photos/xdite/3299630063/" title="Flickr 上 xdite 的 gphone"><img src="http://farm4.static.flickr.com/3603/3299630063_fe65d636f2_m.jpg" width="240" height="180" alt="gphone" /></a><a href="http://www.flickr.com/photos/xdite/3300262399/" title="Flickr 上 xdite 的 gphoneback"><img src="http://farm4.static.flickr.com/3350/3300262399_43c5912e32_m.jpg" width="240" height="180" alt="gphoneback" /></a>
+
+這是昨天才入手的手機，因為這兩天試玩的感覺實在太棒了，因此特地浮上來寫一篇。
+
+入手 G1 的原因，本身就是一個故事了。
+
+我的上一隻手機是去年五月買的 Nokia 5610 ，那支手機是我生平第一支破萬的手機。但高價並沒有高表現，用沒有幾個月就來了一次螢幕故障。過幾個月又出現了旅充不能（檢查結果是手機本體問題 =_=+。因為無法旅充，導致我每天都需要一直拔電池替換充電，很煩。送修又需要時間（我不能長達一個禮拜沒有手機），於是決定乾脆就買一隻廉價手機（預算大概 2-3k)當這段時間手機的替代品。兩個禮拜前，上了推特請大家給點建議。結果收到這個：
+
+<a href="http://www.flickr.com/photos/xdite/3299874320/" title="Flickr 上 xdite 的 圖片 26"><img src="http://farm4.static.flickr.com/3488/3299874320_431a2ddd62.jpg" width="500" height="259" alt="圖片 26" /></a>
+
+預算只有 2-3k，結果推我一隻 23k 的手機 -_-|||。當下就覺得 <strong><big><big><a href="http://blog.gslin.org">壞人 DK 長輩</a>是來亂的</big></big></strong>，直接 ignore XD
+
+上個禮拜跑去<a href="http://blog.xdite.net/?p=841">卡坦</a>（桌遊），回家的時候長輩 demo 了他的 G1 給我看，說明了為什麼「<a href="http://twitter.com/gslin/statuses/1202502173">Gphone is quite useful for busy people</a>」。
+
+<a href="http://www.flickr.com/photos/xdite/3299878079/" title="Flickr 上 xdite 的 Gmail"><img src="http://farm4.static.flickr.com/3461/3299878079_5fa3fa52fd_m.jpg" width="175" height="240" alt="Gmail" /></a><a href="http://www.flickr.com/photos/xdite/3300069603/" title="Flickr 上 xdite 的 Google map"><img src="http://farm4.static.flickr.com/3415/3300069603_a3999fe56d_m.jpg" width="201" height="240" alt="Google map" /></a>
+
+
+<blockquote>基本上 Gphone 上關於 Google 的 Solution 都整合得相當好。Gmail 與 GCalendar 都是另外寫的 Application 接 API，使用上非常直覺。如果你需要到處跑、很常開會、信箱裡面總有部門寄給你看不完的信，這支手機真的可以幫上你相當大的忙。Youtube 的 Video 也是有處理過，用 3G 跑得超順，迷路時也打開手機內建 GPS 抓座標（那天是坐車時 demo 移動狀態抓座標，相當有 feel）。短短的車程中的這些功能 demo，瞬間就震撼了我 XD。</blockquote>
+<a href="http://www.youtube.com/watch?v=1G_anKcBaW8" title="Flickr 上 xdite 的 Youtube"><img src="http://farm4.static.flickr.com/3600/3300901174_31b00eef3a.jpg" width="500" height="258" alt="Youtube" /></a>
+
+於是當我隔天開雅虎拍賣，看到有一台價格還落在我預算範圍（ <15k ）的二手 G1，毫不猶豫就「立即買」了....（默)。手機是前天(2/21）面交的。
+
+<blockquote>入手自己把玩之後，更是愛不釋手。我稍微講一下為什麼喜歡這支手機的原因吧？基本上我的一天是這樣開始的，睡醒開電腦做五件事：「<strong>看信、開 Twitter、上 BBS、上 IRC 、看 RSS</strong>」。做完一遍再梳洗開始工作。工作到無聊或者是出門等車無聊時，打開筆電接 3G 再來一次循環：「<strong>看信、開 Twitter、上 BBS、上 IRC 、看 RSS</strong>」。XD
+<a href="http://www.flickr.com/photos/xdite/3301110982/" title="Flickr 上 xdite 的 ptt1"><img src="http://farm4.static.flickr.com/3419/3301110982_2467339c30_m.jpg" width="240" height="124" alt="ptt1" /></a><a href="http://www.flickr.com/photos/xdite/3301111078/" title="Flickr 上 xdite 的 ptt2"><img src="http://farm4.static.flickr.com/3364/3301111078_374ea9d723_m.jpg" width="240" height="123" alt="ptt2" /></a>
+所以有了 Gphone 之後，現在當我一睡醒，就變成可賴床，看飽再去梳洗 XDDD。坐計程車也不需要開筆電接 3G，打開手機就直接用。
+
+<a href="http://www.flickr.com/photos/xdite/3301110838/" title="Flickr 上 xdite 的 twidroid"><img src="http://farm4.static.flickr.com/3659/3301110838_72a78b1530_m.jpg" width="177" height="240" alt="twidroid" /></a>
+
+這些功能，因為都有定製的 Application（而不需要另開 Browser 瀏覽），使用上也相當順手不費力。Browser render 網頁與 Javascript 的速度非常快。而且因為我有用 Google Web Application 記事的習慣，所以出門忘記什麼事就可以直接打開來 search（Gphone 內建可打字小鍵盤，也有 3rd party 中文輸入法）。</blockquote>
+
+<strong><big><big>完完全全就是阿宅理想手機！</big></big></strong>
+
+買了以後果然是感覺一點都不貴，連之前想買小筆電的念頭都一併打消了orz（其實買小筆電的用途也是那五件事而已）。DK 長輩我錯怪你了 XD……
+
+----------
+列了優點也來列缺點一下好了：
+
+<blockquote>
+1. 很傷電。但比 Iphone 好，因為 Gphone 電力比 Iphone 長相當多，而且電池可拆換（台灣可買到電池與座充）。
+2. 軟體與遊戲比 Iphone 少（正常）。
+3. 外觀看起來很宅，沒有雅痞的感覺（意思就是不漂亮）。
+4. 只有英文介面（但是可以讀寫中文）
+5. 無法 藍芽傳檔（據說之後的韌體會有這個功能，時間未定）
+5. 要記得辦 3G 吃到飽，不然錢會燒很大 ...
+6. 很貴。（現在水貨全新價格大概也要 17k以上）</blockquote>
+
+如果無法接受我會建議不要買。
+
+個人是覺得這支非常適合工程師（特別是 Google fans），當作一隻可打電話兼純當 viewer 功能的小筆電更顯適合。喜歡的人快衝吧！XD

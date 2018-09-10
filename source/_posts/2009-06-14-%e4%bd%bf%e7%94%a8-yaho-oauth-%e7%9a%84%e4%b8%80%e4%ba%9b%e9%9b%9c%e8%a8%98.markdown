@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 1280
+layout: post
+title: !binary |
+  5L2/55SoIFlhaG8gT2F1dGgg55qE5LiA5Lqb6Zuc6KiY
+
+date: 2009-06-14 14:11:28 +08:00
+wordpress_url: http://blog.xdite.net/?p=1280
+---
+凌晨在寫 Yahoo OAuth。先是試了 FireEagle 那邊的認證，沒什麼問題。
+
+值得注意的是，因為 Yahoo Oauth Implement 了 OAuth 1.a，所以 OAuth Ruby Gem 版本需 upgrade 到 0.35 版，以及 fireeagle 的 <a href="http://github.com/mojodna/fireeagle/tree/master">gem 需要用 mojondna fork 出來的版本</a>。
+
+不過在申請 Yahoo OAuth 那邊卡了大關 :/ 
+
+1. 首先是<a href="https://developer.yahoo.com/dashboard/createKey.html">申請頁面</a>怎麼那麼難找啊 ...
+2. 另外就是一直卡 Domain Verification Failed 。換了幾個 domain 都一樣。看起來也許是 Yahoo 的問題？
+
+跑到 <a href="http://developer.yahoo.net/forum/index.php?showforum=42">YDN Forum</a> 上面看，一狗票人中獎，似乎到現在都沒有修好啊？ :/

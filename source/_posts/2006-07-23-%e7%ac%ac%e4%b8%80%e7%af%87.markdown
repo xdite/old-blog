@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 6
+layout: post
+title: !binary |
+  56ys5LiA56+H
+
+date: 2006-07-23 17:47:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=6
+---
+用力 test

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 436
+layout: post
+title: !binary |
+  5LuA6bq85pW45a2X6YO96KaB5ZC55LiA5LiLPw==
+
+date: 2007-08-16 09:44:49 +08:00
+wordpress_url: http://blog.xdite.net/?p=436
+---
+[這個好像有幫有名大站廣告他們新服務之嫌。不管了，反正我不貼連結 kekeke]<br /><br />今天有人在 irc 貼上<a href="http://tw.news.yahoo.com/article/url/d/a/070815/4/it9j.html">有名大站 video 上傳已高達 400 萬支的新聞</a>，乍聽之下筆者就覺得應該又是在灌水了。好像什麼數字他們不灌一下就會週身癢的感覺。於是我決定來實測一下到底有多少支影片。<br /><br />影片連結大概是這樣的格式<br /><br />http://www.wretch.cc/video/USERID(string)&amp;func=single&amp;vid=VIDEOID(number)<br /><br />從首頁上不管怎麼看，流水編號都只有兩百萬上下之譜。（噗）<br /><br />不過，因為沒有辦法用 bot 掃瞄序號，所以筆者也沒辦法知道確切到底有多少萬支影片。於是，我想到了一個絕頂聰明的辦法：「自己上傳...」XD 這樣總能看到最新狀態了吧？<br /><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/1131902659/" title="相片分享"><img src="http://farm2.static.flickr.com/1389/1131902659_0e802f2fd5_o.jpg" alt="myvideo" height="252" width="404" /></a><br /><br />嗯，影片的編號只有 213 萬多 ...。<font color="#ff0000"><b>跟 400 萬好像差的太遙遠了</b></font>吧？<br /><br />至於每天是不是有20000支影片，我想明天同一時間我再測一下，應該就知道了 :p<br />

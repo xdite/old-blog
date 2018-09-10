@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 89
+layout: post
+title: !binary |
+  6ZG955+z5Y2h6Ieq5YuV5pS5IGxpbmsg5pyN5YuZICjnhKHos7TnhKHoqqAp
+
+date: 2006-08-28 11:29:11 +08:00
+wordpress_url: http://blog.xdite.net/?p=89
+---
+<blockquote><p><span class="commentnum">1.</span>59分 said &hellip;<em>on 28 八月 2006 am</em> 			 						 			</p>你的文章很好笑, 但越來越偏了<br /> bbs 上的文章都有說明, 無名會先用程式自動轉換<br /> 無名應該是好意提醒而已<br /> 不然常看無名討論區有<br /><a href="http://www.wretch.cc/hala/viewtopic.php?t=91838" onclick="javascript:urchinTracker (&#39;/outbound/www.wretch.cc&#39;);">http://www.wretch.cc/hala/viewtopic.php?t=91838</a><br /></blockquote> <br />看來有名大站應該要<strong>先推個鑽石卡服務，保證自動會改 link </strong>，以防止&quot;程式&quot;沒改到讓 VIP 鄉民改到死的窘境..<br />這種事情改個 dns 不就搞定了嗎？<br /><br />幹嘛<font color="#ff0000"><strong>好意的搞一個笑話出來</strong></font>？<br /><br />

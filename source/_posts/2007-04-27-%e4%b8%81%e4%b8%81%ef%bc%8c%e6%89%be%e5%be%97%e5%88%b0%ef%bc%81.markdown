@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 331
+layout: post
+title: !binary |
+  5LiB5LiB77yM5om+5b6X5Yiw77yB
+
+date: 2007-04-27 22:49:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=331
+---
+繼上一篇白癡的熱鍵之後，丁丁大站似乎在昨天又推出一個超強功能，名為：「<big><b><big>丁丁，找得到！</big></b></big>」<br /><br />這個功能神奇的地方是：<a href="http://www.wretch.cc/hala/viewtopic.php?t=242516">開世界先例</a>，把全世界慣例的大家的「<b>點擊網誌標題 -&gt; 展開文章</b>」的功能，改成「<font color="#ff0000"><b>點擊網誌標題 -&gt; 相關搜尋</b></font>」。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/474548960/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/210/474548960_78364236e6.jpg" alt="dingdingsearch02" height="385" width="500" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/474567072/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/232/474567072_18844f34a0.jpg" width="500" height="390" alt="dingdingsearch01" /></a>嚴重造成使用者困擾不說。也諷刺的是，其實<font color="#ff0000"><b>只要奇怪一點的標題，它是完全找不到的</b></font>！<br /><br /><br />而照理說，這個丁丁搜尋器這麼棒，棒到有名大站要無預警就推上來…理應<b>誰來抗議都不讓，堅持立場</b>才是。沒想到....<a href="http://www.wretch.cc/hala/viewtopic.php?t=242681">VIP 抗議了一下</a>，結果它們的網誌標題就恢復正常了。<br /><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/474553030/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/230/474553030_880db532a1.jpg" alt="dingdingsearch03" height="298" width="500" /></a><br /><br /><br />不僅讓使用者有一國兩制使用習慣錯亂感不說，更間接了承認 <big><big><b>唯有「交錢」或是「搬家」才能免受丁丁大站無止盡的丁丁攻擊</b></big></big>？ XD<br /><br />偉哉！丁丁大站！<br /><br /><br /><br /><br />
+
+---------------------------
+附錄：「<a href="http://komica.dyndns.org/wiki/?%E6%88%90%E5%8F%A5%2F%E4%B8%81%E4%B8%81%E6%98%AF%E5%80%8B%E4%BA%BA%E6%89%8D">丁丁是個人才</a>」釋義。

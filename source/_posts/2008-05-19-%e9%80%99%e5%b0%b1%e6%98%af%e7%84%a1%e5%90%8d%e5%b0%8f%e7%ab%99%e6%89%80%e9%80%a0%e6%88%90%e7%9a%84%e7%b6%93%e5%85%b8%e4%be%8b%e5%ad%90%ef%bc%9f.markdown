@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 586
+layout: post
+title: !binary |
+  6YCZ5bCx5piv54Sh5ZCN5bCP56uZ5omA6YCg5oiQ55qE57aT5YW45L6L5a2Q
+  77yf
+
+date: 2008-05-19 03:34:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=586
+---
+這是今天晚間在 PTT i-enterprise （網路創業版）所看到的一個討論串。我本來以為是反串，不過作者好像是認真的。
+
+是一個創業家 (?) 上來請大家評估他的網站所需使用頻寬，衍生出的後續討論串。
+
+<a href="http://www.ptt.cc/bbs/i-enterprise/M.1211124827.A.2F8.html ">Re: [請益] 關於web 2.0網站頻寬</a>
+
+
+（<a href="http://nopa.pixnet.tw/index.php?id=4fc0655ce5">備份點</a>）

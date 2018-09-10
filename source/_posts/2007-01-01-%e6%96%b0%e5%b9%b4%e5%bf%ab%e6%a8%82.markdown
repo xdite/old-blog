@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 244
+layout: post
+title: !binary |
+  5paw5bm05b+r5qiC
+
+date: 2007-01-01 00:25:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=244
+---
+<a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/339743484/"><img width="500" height="77" alt="happynewyear" src="http://farm1.static.flickr.com/135/339743484_30b1a34a5c_o.jpg" /></a>

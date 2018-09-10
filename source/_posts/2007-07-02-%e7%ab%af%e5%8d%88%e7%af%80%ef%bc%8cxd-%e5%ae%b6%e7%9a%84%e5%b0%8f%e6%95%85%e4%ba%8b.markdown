@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 382
+layout: post
+title: !binary |
+  56uv5Y2I56+A77yMeGQg5a6255qE5bCP5pWF5LqL
+
+date: 2007-07-02 21:52:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=382
+---
+Jun 21, 2007 9:06 PM<br /><br /><div class="entry-body"><div id=""><ins class="item-body"><div><p>Well，這篇是 <a target="_blank" href="http://blog.xdite.net/?p=268">快半年前的一篇文章</a> 的續集，本來寫完那一篇之後不到一週內這一篇就要生出來了。只是當時忘記什麼事情耽擱了？好像是寒假 + NDSL 吧？XD</p> <p>這次端午節假期，跟老爸互動的幾天，又勾起了我寫這篇的衝動。也順便把這半年的一些心得集結寫出來吧。先講故事，等一下再寫心得，不然會太長。</p> <p>起因是<b>：我爸要寫部落格，使用的平台是無名小站</b> XD</p> <p>他要用無名小站寫部落格這件事，除了我不解（那他每天看我部落格是看假的嗎？），我妹妹也不齒，在旁邊噓他：「用什麼無名小站，沒人在用了，改用 <a target="_blank" href="http://www.pixnet.net/">Pixnet</a> 啦！」。我爸只有很無奈的回答：「<b>沒辦法，老師只有教無名小站……</b>」（他在東海大學進修電腦課程）</p> <p>因為我難得回家，又算是部落格專家（？）。所以我爸就趁著連假我在家的時候，想先預習有關於無名小站的課程，這樣他使用時，一出錯就馬上能找到人問。</p> <p>結果，我這四天連假在家跟我爸的互動過程是這樣的。</p> <blockquote><p><b>場景：客廳&nbsp;&nbsp; 時間：下午</b></p> <p>(xdite 正在用 X32 專心的看影集 …）</p> <p>xd 爸：ㄟㄟ過來一下</p> <p>(xdite 很不爽的按暫停…）</p> <p>xdite：幹嘛</p> <p>xd 爸：無名小站這怎麼弄？</p> <p>(xdite 接手電腦，按了幾下）</p> <p>xdite：靠，這是無名小站的問題啦。</p> <p>xd 爸：喔。</p> <p>xdite：無名小站這麼爛你幹嘛要用。</p> <p>xd 爸：………</p></blockquote> <p>這段對話，每天不斷 repeat 重複 3~4 次，我都快抓狂了。發生的問題都很狗皮倒灶：諸如 css 爛掉，上傳小幫手在 firefox 為預設瀏覽器下會完全裝不起來，網誌送出不一定馬上出現等等…但是 xd 爸始終不信邪。</p> <p>叫他不要用還是一直用。一直到了我要回去台北的最後一天，才變成</p> <blockquote><p><b>場景：客廳&nbsp; 時間：早晨</b></p> <p>(xdite 正在用 X32 專心的看影集 …）</p> <p>xd 爸：ㄟㄟ過來一下</p> <p>(xdite 很不爽的按暫停…）</p> <p>xdite：幹嘛</p> <p>xd 爸：ㄟ 昨天晚上我傳了十幾張照片，可是在縮圖中。我昨天晚上還跑去<b>其他網站</b>先<b>逛了一小時</b>。結果還是沒縮完，我就跑去睡了。結果現在還在縮耶 =_=</p> <p>xdite：正常現象，無名小站就是這樣。</p> <p>xd 爸：可是我之前用 picasa 都不會這樣耶。</p> <p>xdite：啊我就跟你講過，<b>只要你在無名小站發生問題，絕對都不是你的問題，都是無名小站的問題</b>。之前講你都不信。</p> <p>xd 爸：真的喔，哪有網站像它們這樣子的啊？好離譜喔。</p> <p>xdite：叫妹妹教你用其他家的啦</p> <p>xd 爸： …….再研究看看</p></blockquote></div></ins></div></div><br /><br /><p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>

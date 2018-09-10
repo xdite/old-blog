@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 624
+layout: post
+title: !binary |
+  5YWo55CD6I+v5paH5LiN5Y+K5qC85aSn542O
+
+date: 2008-08-04 08:33:28 +08:00
+wordpress_url: http://blog.xdite.net/?p=624
+---
+<a href="http://award.veryxd.net">全球華文不及格大獎</a>，是我做出來惡搞「<a href="http://blogaward.chinatimes.com/2008/index.htm">全球華文部落格大獎</a>」的一個網站。這個網站在大概 3 月份時，我就完成了第一版...當初只是想小搞笑而已。沒想到才剛在 twitter 上請大家低調測試時，就造成了轟動。發表完沒幾個小時，竟然就<a href="http://mag.udn.com/mag/digital/storypage.jsp?f_ART_ID=114151">上了 UDN 的報導</a>...囧。
+
+不過當初沒有把網站構思的很好，上線以後也發現還有許多問題待克服，於是幾天之後就把網站撤下來了 ...。趁著這次報名 <a href="http://blog.xdite.net/?p=600">Demomo Show</a> 的機會，就用心的重新把程式碼整理了一下（其實是整個重寫了），再加上許多機車的功能，重新推出 XD 
+
+（揭露：雖然自己是 Demomo Show 主辦人，可是絕對沒有作弊，<a href="http://blog.xdite.net/?p=619">得獎</a>之後馬上把獎金捐給大家吃飯去了...XD）
+
+歡迎試玩，下面是筆者參賽時用的簡報投影片。
+
+
+<div style="width:425px;text-align:left" id="__ss_539430"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/xuitejoke/demomo-award-veryxd?src=embed" title="Demomo- Award Veryxd">Demomo- Award Veryxd</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=demomo-1217706834148567-8&stripped_title=demomo-award-veryxd" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=demomo-1217706834148567-8&stripped_title=demomo-award-veryxd" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">view <a style="text-decoration:underline;" href="http://www.slideshare.net/xuitejoke/demomo-award-veryxd?src=embed" title="View Demomo- Award Veryxd on SlideShare">presentation</a></div></div>

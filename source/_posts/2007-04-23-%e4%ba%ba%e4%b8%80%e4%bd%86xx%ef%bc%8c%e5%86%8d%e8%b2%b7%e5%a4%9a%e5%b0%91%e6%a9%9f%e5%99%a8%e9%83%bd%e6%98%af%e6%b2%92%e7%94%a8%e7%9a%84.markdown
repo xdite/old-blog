@@ -1,0 +1,83 @@
+--- 
+wordpress_id: 325
+layout: post
+title: !binary |
+  5Lq65LiA5L2GeHjvvIzlho3osrflpJrlsJHmqZ/lmajpg73mmK/mspLnlKjn
+  moQhPw==
+
+date: 2007-04-23 20:12:05 +08:00
+wordpress_url: http://blog.xdite.net/?p=325
+---
+前情提要，中國時報報導 : <a href="http://0rz.tw/a62DA">網友批無名小站「變相收費」</a>
+以及本站：<a href="http://blog.xdite.net/?p=323"> 這就是「可以做的事」?</a>
+
+
+根據有名大站的說法，就是機器不堪負荷，所以才會在擴充的機器買回來之前，禁止使用者在尖峰時間登入。
+
+根據強者台<a href="http://nopa.csie.org/76eda">大數學系楊教授</a>的名言
+
+<blockquote>九、(有人問白痴問題時)一發問就把你的程度洩漏出來！
+
+六十一、我翻譯的時候，人名永遠不會翻成中文，Laplace就Laplace，絕對不會去翻成什麼拉普拉斯，更糟糕的是還有人翻拉普拉西安算子，不這樣嘛，那是拉普拉斯算子，這樣翻就顯得你英文程度相當差，不要把你的程度洩露出來嘛！全世界只有布爾代數，絕對沒有什麼布林代數，Boolean algebra翻譯成布林代數，這個是神風翻譯隊。
+
+</blockquote><ul><li><b>一講話就把自己的程度洩漏出來!</b></li><li><b>有名大站以這樣的官方說法，就顯得自己的程式能力相當的差</b>。
+</li></ul>
+
+其實光從時間線、流量報表、和異常狀況，根本就不難猜出根本原因在哪。
+
+(筆者自從三個月前就發現原因了，一直不想貼，就是想看看他們到底什麼時候才會知道自己作了什麼蠢事)
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/469805628/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/219/469805628_9c6c78b9c2.jpg" width="500" height="287" alt="traffic" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/469822645/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/228/469822645_e783f2dcf4.jpg" width="500" height="294" alt="pageviews" /></a>
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/469822717/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/199/469822717_55c5c41464.jpg" width="500" height="295" alt="reach" /></a>
+
+從 Reach / Traffic / Pageviews 可以很明顯的看出，有名大站<font color="#ff0000"><b>自從去年十月十一月後，各項數據到訪數根本是一直在往下狂降</b></font> ...
+
+<!--more-->
+
+<b>所謂的網路造成的"大流量"根本是胡扯的一件事</b>。
+
+
+因為，有名大站在各項數字最高峰的十月前，這些諸如
+<blockquote><ol><li>相簿張數異常</li><li>相簿無限等候縮圖中</li><li>圖片被吃掉</li><li>Blog 文被吃掉</li><li>人氣數字異常</li></ol></blockquote>等種種問題根本都是不存在的。
+
+但這些問題卻很明確(而且非常明顯)的透漏出一個共同現象，<big><big><b>資料庫主機負荷不了</b></big></big>。導致各項只要是經過呼叫資料庫才能完成的動作，會因為資料庫無法即時回應處理，通通暴走。
+
+
+----------------
+
+那 9~11 月期間到底他們寫了什麼東西，把資料庫從此整個打爛呢? 來回顧一下本站文章吧。
+
+<ol><li>10/3 <a href="http://blog.xdite.net/?p=147">Mypage 推出，結果程式寫的極搞笑，把自己 SQL 主機打爆</a>。</li><li>11/5 <a href="http://blog.xdite.net/?p=200">把舊人氣系統換成一個爛的新人氣人氣系統，結果打爆自己，還因此聲稱 遭攻擊 / 週一症候群</a> ，最後改善人氣機制的目的不但沒有做到，還從此限制人氣計算 ( 這樣算出的人氣更不準吧 (翻桌) 。
+</li></ol>
+另外，它們還在 11/3 推出一個對使用者無啥小路用，但是對想幹壞事的人很有用的"有名好友"。
+
+
+前兩者對資料庫的殺傷力，超級強大，顯而易見。那為什麼筆者還要提"有名好友"? 
+
+
+有名好友潛藏的風險便是，以前要寫去 parse 使用者的 profile / album / blog 去取得好友名單進行人際關係分析，程式複雜度以及門檻較高。自從這個無啥小路用的服務出來以後 ...頓時成為學術研究者中的肥羊。根本不需要寫複雜的程式了，有名大站直接吐給你。全部跑完一次所有使用者大概要送出 200 多萬 request。而資料要新就要幾天就重抓一次，而且全台灣?對不只一個 team 這份 list 有興趣 (早在<a href="http://warm.stu.edu.tw/">樹德的 warm </a>之前，筆者就知道好幾個 team 在注意這幾百萬資料了，只是那時候沒有 "有名好友" ，門檻高了點) 
+
+
+這個服務要是寫的爛，光有名大站被不同 team cite 大概就 !@#$% 了。
+
+
+再加上據小道消息，有名大站不但程式架構爛，內部的 SQL 主機群規劃也是做的奇爛無比。更別提....上新服務應該從來也沒有在 monitor 效能和 debug，想改就改。
+
+
+這在當初一上，就可以發現不對勁的服務，遲至限制客服存取，上報紙頭版引發民怨，才要想辦法解決。機器可以買，程式可以修，但人一但xx，是再買多少機器加下去，真的就有用的嗎?XDD
+
+
+更何況<a href="http://blog.xdite.net/?p=194">上次飛到大海的那批機器</a>前車之鑑告訴我們，最可能的結果就是
+
+<blockquote><ol><li>加了機器，還是沒用</li><li><a href="http://blog.xdite.net/?p=194">機器飛了一個月，還是會在太平洋上面</a>
+</li></ol></blockquote>
+程式爛架構爛就敗家進機器。收益又不斷負成長。(有名大站搬去 hinet 一個月的成本，<a href="http://nopa.csie.org/6bb1b">據 39 分幫學弟測流量客服估算要 2300 萬</a>，但是雜誌報載有名大站一年營業額不到 2 億)
+
+
+檯灣啞唬雖然是富媽媽，富到留油。但最近辦完認養手續的這個兒子，敗家程度這麼誇張，家產真的夠燒嗎? XD
+

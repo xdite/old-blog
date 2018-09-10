@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 49
+layout: post
+title: !binary |
+  44CM5LiN6ZyA5o6l5Y+X44CN5oiW44CM54Sh5qKd5Lu25o6l5Y+X44CN5L2/
+  55So6ICF5qKd5qy+Pw==
+
+date: 2006-08-07 13:22:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=49
+---
+<p>&nbsp;</p><p>筆者在撰寫 <a href="http://xuite-joke.blogspot.com/2006/08/xuite_07.html">Xuite 用戶沒有備份的權益</a> 一文，而進行蒐集資料時。一直有個疑問：<strong>為什麼我根本沒看過日誌使用條款啊？</strong>每個免費 services 在開啟使用功能之前，不是都會跳出個框，裡面寫了一堆密密麻麻的字，看的眼花撩亂，讓你不得不隨手就亂勾同意而接受嗎？但是在筆者印象中 Xuite 根本沒有要我做這件事啊！</p><p>  於是筆者決定查個究竟！....良久之後，筆者發現一件非常荒謬的事情：按下 <img src="http://static.flickr.com/98/208779854_bc1f71157c_o.jpg" border="0" />之後，竟然不會進行同意使用者條款的動作，直接進入設定細節的頁面。<strong><font color="#ff0000">那，這是「不需接受」使用者條款囉？萬歲！</font></strong>（如果讀者們不相信的話，可在自己 Xuite 帳號下新增日誌，證明筆者所言不虛。歡迎在此文下回應幫筆者作證。）</p><p>  <a href="http://www.flickr.com/photos/49274115@N00/208779043/" title="Photo Sharing"><img src="http://static.flickr.com/60/208779043_521124e143.jpg" border="0" alt="noshame01" width="500" height="390" /></a>   </p><p>&nbsp;</p><p>.....但是，事情要是有這麼簡單就好了 ~&quot;~ 。筆者為了寫備份權益一文，當然要想盡辦法找出使用者條款到底在那裡。找了很久，才找到一份 2005-05-10 發表的<a href="http://blog.xuite.net/blog/baby/214090?st=c&amp;re=list&amp;amp;amp;amp;amp;amp;amp;p=6&amp;w=1833">《北鼻公告》日誌使用條款已修改</a>，相信這已經是<strong>現今能找到最新的條</strong>款了。但是讓筆者跌破眼鏡的竟然是其中的這條  </p><blockquote><strong>14. 本服務條款如有增訂或修改，您同意自該修訂條款於本網站公告之時起受其拘束，本分公司將不對會員個別通知。如您於公告後繼續使用本服務，則視為您已經同意該修訂條款 。</strong> </blockquote><p> 所以，這篇<strong>條款經日誌小組發表後就視為公告</strong>，所以用戶根本也不用勾選同意了嘛！只要使用者在日誌上點選任何一個功能，即被視為繼續使用，而<font color="#ff0000"><strong>等同於同意此條款</strong></font>.....多麼棒的如意算盤啊！  </p><p>&nbsp;</p><p>更棒的是，它還說此條款如果有增訂或修改的話，不對會員個別通知！所以說你又只要在日誌上點擊任何一個連結（視為繼續使用），您就<strong>同意了Xuite增訂或修改的任何部分</strong>喔。  </p><p>&nbsp;</p><p>那太棒了.....那如果我是 Xuite 小組的話，我一定要在條款裡面加一條&quot;<font color="#ff0000">用戶每在本日誌發表一篇文章，將要強制繳納一千新台幣整予 Xuite 小組</font>&quot;，反正<strong>那麼久之前的公告誰會去看，偷改也沒證據抓我</strong>（好像小組也不是第一次偷改了），<strong><font color="#ff0000">用戶一定也會被迫無條件同意的嘛</font></strong>！</p><p>&nbsp;</p><p>   偉哉！Xuite！</p>

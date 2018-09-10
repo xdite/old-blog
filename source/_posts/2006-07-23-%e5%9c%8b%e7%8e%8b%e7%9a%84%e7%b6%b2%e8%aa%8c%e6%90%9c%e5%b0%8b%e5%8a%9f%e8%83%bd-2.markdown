@@ -1,0 +1,42 @@
+--- 
+wordpress_id: 8
+layout: post
+title: !binary |
+  5ZyL546L55qE57ay6KqM5pCc5bCL5Yqf6IO9ICgyKQ==
+
+date: 2006-07-23 18:25:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=8
+---
+發現了這個驚人事實的我，第一個念頭就是"應該趕快告訴 xuite 這件事吧?"
+於是我很好心的上了 <a title="日誌使用問題的發表處" href="http://blog.xuite.net/blog/baby/7045124">07月  -日誌使用問題的發表處</a> 發表了這篇文章
+
+<a href="http://www.flickr.com/photos/49274115@N00/196005665/" title="Photo Sharing"><img src="http://static.flickr.com/58/196005665_5cf792d763_o.jpg" alt="xuitejoke001" height="237" width="554" /></a>
+
+請它們趕快把搜尋引擎上線，以免淪為大家的笑柄。
+
+但是隔天(2006/7/23)下午 1:00 我打開 <a href="http://blog.xuite.net/blog/baby">blog台長</a> 的日誌 囧
+
+<a href="http://www.flickr.com/photos/49274115@N00/196014315/" title="Photo Sharing"><img src="http://static.flickr.com/57/196014315_576df16968_o.jpg" alt="xuitejoke002" height="114" width="195" /></a>
+
+blog 唯一客服處隱藏中，這到底是什麼情形啊 ~"~
+是在商討什麼秘密的對策嗎?
+
+
+
+不死心的我，一邊聊 irc 一邊每個小時 reload 一次
+下午 4:00 多，客服處終於開了...
+
+不過見到的卻是這種情形
+
+<a href="http://www.flickr.com/photos/49274115@N00/196017593/" title="Photo Sharing"><img src="http://static.flickr.com/68/196017593_300a2fb7b9_o.jpg" alt="xuitejoke003" height="152" width="220" /></a>
+
+<a href="http://www.flickr.com/photos/49274115@N00/196017596/" title="Photo Sharing"><img src="http://static.flickr.com/67/196017596_674af0c1e6_o.jpg" alt="xuitejoke004" height="128" width="213" /></a>
+
+........... 3月 ~ 6月的 Q&amp;A 被砍掉了
+
+關了幾個小時的客服處，竟然做出的回應是砍證據。
+真是太令人生氣了 ....
+
+
+但偉大的 firefox 與 google desktop search 紀錄了 "<a href="http://kydd.info/xuitebackup.zip">歡聚歡笑的每一刻</a>"
+感謝它們的貢獻吧!

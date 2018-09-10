@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 390
+layout: post
+title: !binary |
+  6Ly45YWl5Y+z5YG05paH5pW45a2XPw==
+
+date: 2007-07-02 21:54:01 +08:00
+wordpress_url: http://blog.xdite.net/?p=390
+---
+<p>Jun 25, 2007 9:14 PM</p>   <div> <p>這是 C 鄉民剛剛在閱讀 google news  發現的一個大 joke。</p> <p> </p><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/621333543/" title="相片分享"><img src="http://farm2.static.flickr.com/1214/621333543_f4ec3b5ad9.jpg" alt="20070625_GoogleNewsTypo" height="375" width="500" /></a></p> <p> </p><p>本來以為單純只有這則新聞錯亂就算了。</p> <p> </p><p>沒想到認真搜尋下去，竟然會出現一排的 …</p> <p> </p><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/622079098/" title="相片分享"><img src="http://farm2.static.flickr.com/1060/622079098_d7dd080100.jpg" alt="20070625_GoogleNewsTypo2" height="375" width="500" /></a></p> </div>

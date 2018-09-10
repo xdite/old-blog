@@ -1,0 +1,44 @@
+--- 
+wordpress_id: 1781
+layout: post
+title: !binary |
+  W1JhaWxzM10gUmFpbHNDb25mMjAxMCAtICDmnInpl5wgUmFpbHMzIOeahOmH
+  jem7nuaVtOeQhg==
+
+date: 2010-06-17 03:32:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=1781
+---
+RailsConf2010 落幕了，大會釋出了<a href="http://en.oreilly.com/rails2010/public/schedule/proceedings">一些投影片</a>。
+
+今年 Rails3 當然是熱門主題。花了一點時間整理了相關的 Talk，如下：
+
+
+
+<blockquote>Rails3 的 General Introduction
+<a href="http://en.oreilly.com/rails2010/public/schedule/detail/14135">DHH 的 keynote</a> 
+Gregg Pollack : <a href="http://en.oreilly.com/rails2010/public/schedule/detail/14137">The Rails 3 Ropes Course</a>
+大會上也釋出了一系列官方教學影片：<a href="http://rubyonrails.org/screencasts/rails3">http://rubyonrails.org/screencasts/rails3</a>
+
+Bundler: 
+André Arko : <a href="http://en.oreilly.com/rails2010/public/schedule/detail/14231">Bundler: Painless Dependency Management</a>
+
+ActionMailer:
+Mikel Lindsaar: <a href="http://en.oreilly.com/rails2010/public/schedule/detail/14225">Itch Scratching the ActionMailer API</a>
+
+Rack, Metal, ActionController, Plugin, Railties, Engine, Generator
+Jeremy McAnally : <a href="http://en.oreilly.com/rails2010/public/schedule/detail/13631">Rails 3 Deep Dive</a>
+
+ActiveModel , ActiveRelation 
+Adam Keys :Rails' Next Top Model: <a href="http://en.oreilly.com/rails2010/public/schedule/detail/14144">Using ActiveModel and ActiveRelation</a>
+
+RVM ( Rails 3 通常搭配 Ruby 1.9.2 運行)
+Wayne E. Seguin: <a href="http://en.oreilly.com/rails2010/public/schedule/detail/11232">Ruby Version Manager (rvm) - An Overview</a>
+
+respond_with 
+Fabio Akita : <a href="http://en.oreilly.com/rails2010/public/schedule/detail/14219"> Making Rails really RESTful with Restfulie</a>
+
+
+
+
+</blockquote>
+

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 375
+layout: post
+title: !binary |
+  5pu05pS55biD5pmv54mI6Z2i6YWN572u
+
+date: 2007-06-13 20:52:38 +08:00
+wordpress_url: http://blog.xdite.net/?p=375
+---
+<br />最近手癢，一直想改版面配置。但是找來找去都沒有滿意的。<a href="http://themes.wordpress.net/columns/3-columns/3447/black-green-15/">最近看到一個布景</a>，感覺很不錯，它的配置是直接將 Recent Post 和 Recent Comment 扔上最上面的黃金板塊，這很震撼到我。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/543824360/" title="相片分享"><img src="http://farm2.static.flickr.com/1002/543824360_f59980e878_o.jpg" alt="3447-medium" height="300" width="400" /></a><br /><br />好吧，其實也沒什麼好震撼的。只不過要是我的話，還蠻希望人家 Blog 這樣擺的啊。以往大家的這兩個區塊，頂多頂多都只可能被擺在 sidebar 旁較上較顯眼的位置。可是，我想<strong>不論是讀者還是我自己，應該都蠻希望一連進來就是看到最新文章和最新迴響的啊！</strong>這樣的設計，真是原本顛覆了我原本 wp themes 只能那樣擺的認知。<br /><br />於是我當下就決定依樣畫葫蘆的照做（其實是抓它的來改成本站的 xd 風格很耗時間，最後決定硬幹原本 themes 的 CSS 用仿的），砍掉廣告欄位這一塊改掛點有營養的東西。<br /><br />雖然這樣做的風險其實蠻大的，首頁黃金版塊瞬間變成決鬥場 XD<br /><br />先放個幾天看看，請大家給意見。如果不喜歡，我再撤掉囉，thanks all :)<br />

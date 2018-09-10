@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 601
+layout: post
+title: !binary |
+  5LiJ5qiT5Lim5LiN5piv5rKZ55m8
+
+date: 2008-07-03 20:56:11 +08:00
+wordpress_url: http://blog.xdite.net/?p=601
+---
+今天見到不少人都在討論的一個詭異事件，無名小站將留言回覆自行加上了X樓的標示，並自行在 1-5 樓加上了俏皮變形。先撇開這種俏皮到底妥不妥當（個人就覺得一點都不好笑也不適當），其中三樓典故更有相當的誤用。
+
+<a href="http://www.flickr.com/photos/xdite/2633896760/" title="Flickr 上 xdite 的 3floor"><img src="http://farm4.static.flickr.com/3029/2633896760_8f122a55ab_o.jpg" width="206" height="68" alt="3floor" /></a>
+
+沙發是大陸用語 sf，展開來的意思是 second floor。英國用法的 second floor 的確是指一般樓房的三樓沒錯，但是沙發的典故是出於一般論壇的帖子的"首篇回應"，也就是頭推，稱之2樓(second floor）。
+
+誤解鄉民文化，將沙發解讀成三樓，真是大大糗了一回啊。
+
+
+---
+揭露 : 自 2008/05 筆者已在 <a href="http://www.pixnet.net">PIXNET</a> 開始兼任網路分析師一職，此言論不代表公司立場。

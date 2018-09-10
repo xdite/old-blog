@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 256
+layout: post
+title: !binary |
+  5qiC6JWD5aSp55qE5b6M6YG655eH
+
+date: 2007-01-10 12:23:23 +08:00
+wordpress_url: http://blog.xdite.net/?p=256
+---
+<a href="http://blog.roodo.com/wearethepig/">weatherpig@roodo</a> 的主人今天到 PTT2 xdite 版，投訴他的 blog 在樂蕃天事件事件後。原先在 yam 的 blog 內容已遭新主人取代。....但是原先側欄的好友連結與相簿卻還都是原主人的 XD<br /><br />引述他部落格上的<a href="http://blog.roodo.com/wearethepig/archives/2634220.html">抱怨文</a>：<br /><br /><blockquote>「這是在天空蕃薯和本格同名的一個<a href="http://blog.yam.com/wearethepig">部落格</a> ，有段時間這個連結和我現在的連結是互通的，看出什麼不對勁了嗎。拎盃當年留在上面的資料還在，好友聯結和相簿都還是拎盃的。和我熟的人如果進了這個格大概以為我頭腦燒掉或是精神分裂了吧。」<br /></blockquote><br /><a href="http://blog.roodo.com/wearethepig/">weatherpig@roodo</a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/352517526/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/135/352517526_2857ffd379.jpg" alt="webstv" height="500" width="247" /></a><br /><br /><a href="http://blog.yam.com/wearethepig/">weatherpig@yam</a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/352517527/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/131/352517527_c71c7de01d.jpg" alt="webstv3" height="500" width="218" /></a><br />

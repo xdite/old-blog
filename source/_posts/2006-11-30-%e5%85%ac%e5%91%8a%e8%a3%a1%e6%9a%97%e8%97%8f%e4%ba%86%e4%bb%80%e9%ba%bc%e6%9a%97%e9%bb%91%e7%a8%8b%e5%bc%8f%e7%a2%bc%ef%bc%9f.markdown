@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 219
+layout: post
+title: !binary |
+  5YWs5ZGK6KOh5pqX6JeP5LqG5LuA6bq85pqX6buR56iL5byP56K877yf
+
+date: 2006-11-30 10:19:13 +08:00
+wordpress_url: http://blog.xdite.net/?p=219
+---
+昨天不少人都知道，blog.roodo.com 在 下午 4:30 之後，又是在&quot;無預警&quot;的狀態下出現完全不通（這真的很詭異，我很少看到樂多停機的）。而當時 www.roodo.com 與 auction.roodo.com 完全是暢通無阻的。（感謝 Powerop 提供 資料）<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/309900703/" title="Photo Sharing"><img width="500" height="387" src="http://static.flickr.com/120/309900703_a44cd7cb3d.jpg" alt="tracert" /></a><br /><br />雖然坊間持續有謠言在謠傳，透過樂多自己的 intranet （內部網路）可以 access 到 blog.roodo.com，但大家所使用的&nbsp; internet 對該台電腦的通訊卻始終是不通的。這個情形一直持續到晚間八九點以後還是相同（幾點通的我不知道，因為我九點多跑去睡 ...zzz）<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/309917874/" title="Photo Sharing"><img width="500" height="189" src="http://static.flickr.com/105/309917874_d04797ccd2.jpg" alt="tracert2" /></a><br /><br />本來筆者還以為真的可能是 roodo 自身機器故障的問題。可是稍晚起床的時候，blog.roodo 就可以連了。但是樂多卻把當時的公告從首頁撤下了 ....更神奇的是，首頁撤下一般公告通常僅是撤連結而已，不會把公告整個刪掉。但是，那時候的兩篇公告竟然消失了....<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/309917877/" title="Photo Sharing"><img width="500" height="361" src="http://static.flickr.com/122/309917877_0fb484ebba.jpg" alt="tracert3" /></a><br /><br />不禁讓人聯想到，這兩篇公告到底跟網路停擺事件到底是有什麼相關性。還是裡面內含了什麼嚴重的 bug，害的 blog.roodo.com 整個網路連線停擺 XD？真是越看越奇妙<br /><br /><br />不過雖然公告全文已經被刪除了，這世上幸好還有一個叫 Hemidemi 的社會書籤，上面的書籤<a href="http://www.hemidemi.com/bookmark/info/362326">摘要裡還保留了原始全文</a>。筆者還真想來研究研究裡面的字句，說不定公告裡面真的可能暗藏了什麼暗黑程式碼，可以把機器對 internet 的網路害到 down 掉呢 :P<br /><br />咦，等一下。這樣一貼出來會不會連害三台機器網路斷掉啊。Hemidemi 斷，本站斷，Flickr 也斷。....管他的。反正都不是我的機器。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/309917879/" title="Photo Sharing"><img width="500" height="361" src="http://static.flickr.com/111/309917879_0d96a375fc.jpg" alt="tracert4" /></a>

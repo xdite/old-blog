@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 35
+layout: post
+title: !binary |
+  W+W/q+WgsV0gWHVpdGUg56CN6Zmk5pys56uZ55qEIuW8leeUqCI=
+
+date: 2006-08-01 23:05:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=35
+---
+<p>筆者今日下午四點發佈了甜蜜的搜尋服務(2)一文</p><p> 引用了八月的Q&amp;A，並質疑了Xuite官方的維修速度  隨即在晚上，就見到了 xuite 在八月份公告中砍除了本文的引用</p><p> 以下是截圖  下午 4:00 引用還在</p><p> <a href="http://www.flickr.com/photos/49274115@N00/203922475/" title="Photo Sharing"><img src="http://static.flickr.com/65/203922475_e87e28bbfc_o.jpg" border="0" alt="xuite08backup" width="240" height="192" /></a>  </p><p>晚上 22:30 就不在了</p><p>  <a href="http://www.flickr.com/photos/49274115@N00/203922477/" title="Photo Sharing"><img src="http://static.flickr.com/72/203922477_d5ace09ecf_o.jpg" border="0" alt="xuite08backup02" width="240" height="192" /></a></p><p>  而且連七月份的引用都被刪了</p><p>   <a href="http://www.flickr.com/photos/49274115@N00/203936340/" title="Photo Sharing"><img src="http://static.flickr.com/68/203936340_9fd47d9640_o.jpg" border="0" alt="xuite08backup03" width="240" height="192" /></a></p>

@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 567
+layout: post
+title: !binary |
+  T1NEQy50dyDnrKzkuIDlpKnkuIrljYjloLTnn63oqZU=
+
+date: 2008-04-12 11:11:29 +08:00
+wordpress_url: http://blog.xdite.net/?p=567
+---
+<strong>點心很棒，而且多到吃不完</strong>。（據說多到可以帶便當盒打包）
+
+<strong><a href="http://people.debian.org.tw/~chihchun/">網路暴力的順</a> ....</strong>
+
+Yahoo 和 Google 都有來擺攤。<strong>Y 與 G 的公關 (?) / 工作人員都蠻正的</strong>。兩邊都有送贈品，但是<a href="http://blog.xdite.net/?p=570"> Google 送的筆記本超級酷</a>，很多人搶著要。（3D 封面做出 Google Earth ...）
+
+100 分。（不過這可能是因為我有搶到電源，現場唯一的缺點是電源很少，很多人因為沒有搶到在哀嚎...）
+
+第一場 Openfoundry
+第二場 YUI
+第三場 Google Gears

@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 602
+layout: post
+title: "[\xE5\xBB\xA3\xE5\x91\x8A] HIT 2008 2008/07/19-20"
+date: 2008-07-07 08:43:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=602
+---
+<a href="http://www.hitcon.org/hit2008">Hacks In Taiwan（台灣駭客年會）</a> 2008 又來了。
+
+今年比較晚幫忙廣告 XDD
+
+會議地點: 國立臺灣科技大學公館校區-國際廳
+會議時間: 2008/07/19~2008/07/20
+（報名截止日 7/13）
+
+
+據說傳說中的超級前輩 gasgas 這次又會出來演講了 XD

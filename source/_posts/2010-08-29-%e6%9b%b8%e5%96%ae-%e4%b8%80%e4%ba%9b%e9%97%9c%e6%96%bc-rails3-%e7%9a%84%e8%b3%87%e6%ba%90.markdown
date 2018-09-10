@@ -1,0 +1,35 @@
+--- 
+wordpress_id: 1851
+layout: post
+title: !binary |
+  W+abuOWWrl0g5LiA5Lqb6Zec5pa8IFJhaWxzMyDnmoTos4fmupA=
+
+date: 2010-08-29 15:32:17 +08:00
+wordpress_url: http://blog.xdite.net/?p=1851
+---
+整理了一下現在付費的資源：
+
+
+
+<blockquote>Manning 的 <a href="http://www.manning.com/katz">Rails 3 in action</a> / $27.5 
+
+Pragmatic BookShelf 的 <a href="http://pragprog.com/titles/rails4/agile-web-development-with-rails">Agile Web Development with Rails, 4th Edition</a>  $24 
+
+Apress 的 <a href="http://apress.com/book/view/9781430224334">Beginning Rails 3</a> $27.99
+
+<a href="http://www.railsupgradehandbook.com/">Rails 3 Upgrade Handbook</a>  $12
+
+<a href="http://thinkcode.tv/catalog/upgrading-rails-3/">Upgrading applications to Rails 3</a>   $8.99
+
+<a href="http://railstutorial.org/">Ruby on Rails Tutorial: Learn Rails by Example</a> $39 </blockquote>
+
+
+
+免錢的資源：
+
+
+
+<blockquote><a href="http://rubyonrails.org/screencasts/rails3">Dive in to Rails 3</a>  $0 
+
+RailsCast 的 <a href="http://railscasts.com/tags/27">Rails3 Tag</a> $ 0 </blockquote>
+

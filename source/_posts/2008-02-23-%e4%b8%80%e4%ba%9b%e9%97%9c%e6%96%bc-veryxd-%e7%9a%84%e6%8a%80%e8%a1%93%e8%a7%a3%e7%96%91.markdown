@@ -1,0 +1,136 @@
+--- 
+wordpress_id: 548
+layout: post
+title: !binary |
+  5LiA5Lqb6Zec5pa8IFZlcnlYRCDnmoTmioDooZPop6PnlpE=
+
+date: 2008-02-23 14:37:49 +08:00
+wordpress_url: http://blog.xdite.net/?p=548
+---
+整理一下最近常被問到的問題和答案，順便把 <a href="http://blog.xdite.net/?p=543">HappyWeb 9</a> 上一些投影片沒詳述的細節補上。如果還有有關技術性上的疑問可以在 comment 發問，我會持續補充。
+
+<strong>Q1: <a href="http://veryxd.net/">VeryXD</a> 為什麼寫這麼快?
+A1:</strong>
+
+RoR 開發網頁程式有一定的速度，基本上對 Web Developing Skill 越熟悉，寫起 Rails 會越來越快。如果你不熟，那寫起來還是會很慢...
+
+<strong>Q2: VeryXD 的機器配置? （是否用了巨型機器以及巨型頻寬）
+A2: </strong>
+VeryXD 的後端配置很簡單
+
+用了 1 台 Web Application Server ( 1 apache + 10 mongrel ) + 1 台 MySQL Sever + 1~4 條 10/2m ADSL + 40G <a href="http://webamp.giga.net.tw/">WebAmp</a> Reverse Proxy。
+
+Web Application Server : P3 + 3G ram + Fedora 7
+<strong>
+Q3: VeryXD 為什麼要用到 10 mongrel ?
+
+A3:</strong> 
+因為不管是 mongrel 或 fcgi 都很容易只要一個用戶 hang 住，就會造成其他用戶無法連線。而 Rails 的 Web Server 普遍無法承受太大量的 Request 而會面臨 crash，所以必須內部先做 load balancing 。至於開到 10 支(在同一台上）是因為我懶得測開起來的 mongrel 量才夠。不過當 VeryXD 達到歷史高峰 16 萬 pageview / day 時，這樣的量是受得了的（當然，靜態 file 也要交給 apache cache 起來，不 cache 起來開 10 支也擋不住，這是實測過的）。
+
+<strong>Q4: 為什麼不把 VeryXD 架在國外的 Rails VPS?
+A4:
+</strong>
+剛開始寫 VeryXD 時，我只考慮到一個問題，就是開圖速度。根據之前寫 blog 或架網站的經驗，租外國的 Virtual Host 或 VPS ，提供的存放空間大是大，線租是夠粗，可是往往看的到用不到（因為台灣出國頻寬小小小的緣故）。所以才會考慮放在台灣，但是機房專線不是我租的起的，於是最後解決的 Solution 就是用 10M/2M ADSL + 國內的 Reverse Proxy。
+
+VeryXD 平日的 PV 約是一天2萬，歷史尖峰是16萬。平常開一條就夠，歷史尖峰那次開了四條。Reverse Proxy 的用量大概是平常一天 5~7G，歷史尖峰 42G 。這樣就足夠達到開圖很順的效果。
+
+另外，後來正式營運的時候筆者才發現一件寫小網站時不知道的事，就是 Rails 是個巨大的怪獸，非常非常非常的吃記憶體。VeryXD 在運行時，CPU 與 DB 都很閒，但是就是記憶體吃了非常非常多。如果當初是租外國的 VPS 的話，足夠讓 VeryXD 活下去的規格是我 租‧不‧起的。還好當初這個 project 不是跑在絕望網租的 <a href="http://www.slicehost.com/">slicehost.com</a> 之 256slice（抖）
+
+事實上，如果要放 slicehost.com 上，大概要租到 2048 slice 才夠。但是，開圖一樣會很慢 ...
+
+<strong>Q5: <a href="http://veryxd.net/photos/hot">熱門素材</a>是怎麼做的？不會很吃記憶體嗎。
+A5:</strong>
+當然是只要多一張創作就會在原素材的 num_gphoto +1 囉。我想會有這種疑問可能是Ruby on Rails 提供了很方便的寫法 XXX.count 可以回資料庫迅速查詢目前有多少筆資料，因為太方便了，在寫功能時就會很順手的寫上去。但是這是 Web Application，也許這種寫法在單機軟體上可行，要是熱門素材是的即時回去算每一張圖有多少衍生素材，光開這一頁就會耗掉非常多資料庫主機資源。這種不需即時的參考數據，建議自己先算或做暫存。
+
+筆者的建議是，多看 development.log ，看看 ActiveRecord 幫你下了什麼樣的 query，如果太耗資源，建議用其他的方式改寫掉。
+
+<strong>Q6: VeryXD 用了哪一些 gem / plugin 以及 opensource 資源 ?
+A6:</strong>
+
+
+<blockquote>Ruby On Rails -
+<a href="http://clarkware.com/cgi/blosxom/2007/02/24">attachement_fu</a> 上傳圖片 
+<a href="http://rmagick.rubyforge.org/">Rmagick</a> 合圖
+<a href="http://wiki.rubyonrails.org/rails/pages/Acts_as_authenticated">Acts_as_authenicated</a> 會員管理
+<a href="http://projects.jkraemer.net/acts_as_ferret/">ferret</a> 搜尋
+CSS -
+<a href="http://www.freecsstemplates.org/css-templates/">freecsstemplate.org</a>
+JS - 
+<a href="http://www.defusion.org.uk/code/javascript-image-cropper-ui-using-prototype-scriptaculous/">js crooper</a>
+<a href="http://www.free-color-picker.com/">free colorpicker</a>
+字形 -
+<a href="http://veryxd.net/veryxd/fonts">各種中文 GPL 字體</a>。</blockquote>
+
+
+<strong>
+Q7: 如何在圖片上合成字?
+A7:</strong>
+
+合圖步驟是 : 上傳圖 -> 給出定位點 -> 傳給 library 合成
+
+上傳功能用 <a href="http://clarkware.com/cgi/blosxom/2007/02/24">attachment_fu</a> 做掉，給出定位點用了 <a href="http://www.defusion.org.uk/code/javascript-image-cropper-ui-using-prototype-scriptaculous">js cropper</a> 定位，噴字是用 Rmagick 的 annotate 去做的。
+
+官方範例是
+
+<blockquote>require 'RMagick'
+
+clown = Magick::ImageList.new("clown.jpg")
+text = Magick::Draw.new
+text.annotate(clown, 0, 0, 0, 60, "My friend!") {
+    self.gravity = Magick::SouthGravity
+    self.pointsize = 48
+    self.stroke = 'transparent'
+    self.fill = '#0000A9'
+    self.font_weight = Magick::BoldWeight
+    }
+clown.write('annotate.jpg')
+
+</blockquote>
+
+但與 js cropper 結合必須將 Magick::SouthGravity 改成 Magick::NorthWestGravity，<a href="http://d.hatena.ne.jp/sesejun/20061210/p1">詳細定位點指南</a>可以參考這一篇文章（花了三小時才在網路上找到這一篇，發現問題點）。
+
+所以我的 controller 是這樣寫的：
+
+<blockquote>
+text.annotate(clown,@textset.width,@textset.height,@textset.x1,@textset.y1,@t\
+extset.font_subtext)
+{
+         self.gravity = Magick::NorthWestGravity
+         self.font='******/******/'+font_type
+         self.pointsize = font_size
+         self.stroke = 'transparent'
+         self.fill = font_color
+         self.font_weight = Magick::BoldWeight
+       }</blockquote>
+
+<strong>Q8: 圖片為何可以搜尋?
+A8:</strong>
+ 對於每個使用者做的圖片，不但存圖並且存字，所以可以倒進搜尋引擎 index。
+
+Q9: 如何將網址加密?
+A9: 多加一個欄位 permalink，例如使用 show 就用 find_by_permalink 去做
+
+產生方法如下，在 model 裡加入如下設定
+
+<blockquote>
+
+before_create :generate_permalink
+
+     def generate_permalink
+       # 定義permalink的產生方式
+       self.permalink = Digest::MD5.hexdigest( self.filename + Time.now.to_s)
+     end
+</blockquote>
+
+<strong>Q10: 為何你的中文搜尋可以 work?
+A10: </strong>
+請<a href="http://blog.xdite.net/?p=529">參考筆者過往文章</a>。
+
+<strong>Q11: 你建不建議裝 ferret ? 
+A11: </strong>
+如果你的站規模小，db 也小，我覺得裝 ferret 是加分。但是如果量太大，我會建議你不要裝或是獨立弄一台 drb server 來專做搜尋這件事。因為 ferret 有效能及 memory leak 問題。我現在配置的架構是穩上 16萬 pv/day 沒問題的，但是加了 ferret 後，大概四萬左右就會開始不穩定。
+
+<strong>Q12: 如何記錄 ip ?
+A12: </strong>
+用這一行捕捉
+ @request.env_table['HTTP_X_FORWARDED_FOR'] || @request.env_table['REMOTE_ADDR']

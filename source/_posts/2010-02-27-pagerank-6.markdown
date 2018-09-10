@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 1595
+layout: post
+title: "PageRank 6 "
+date: 2010-02-27 22:49:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=1595
+---
+不知不覺的，這個 blog PageRank 6 了。
+
+賀 XD

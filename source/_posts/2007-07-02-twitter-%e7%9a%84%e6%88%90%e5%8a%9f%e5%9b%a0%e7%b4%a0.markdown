@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 385
+layout: post
+title: !binary |
+  dHdpdHRlciDnmoTmiJDlip/lm6DntKA/
+
+date: 2007-07-02 21:53:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=385
+---
+Jun 22, 2007 10:07 AM<br /><br /><div class="entry-body"><div id=""><ins class="item-body"><div><p>前情提要：<a target="_blank" href="http://mr6.cc/?p=930">Twitter微型一日記錄的千年意義</a></p><br /><p>早起看到 Mr.6 的這篇，心得只有 agree 「並不是每個人都適合大量的寫作」，其他通通 disagree。我想大概是因為筆者跟 Mr.6 對 twitter 認知差異太大，才會從開頭到結尾論述都不同。</p><br /><p>我認為 twitter 的成功，並不是 what are you doing? 和字數少所以可以逼人講重點。所以後面也不可能有那麼多 blahblah。</p><br /><p>更精確的，我認為是</p><br /><blockquote><ol><li><b>每個人心裡無時無刻都有 murmur 「I am doing something at someplace right now」的衝動</b>，但是並不適合都發表出來，因為 blog 是屬於適合長篇大論的地方。<b>twitter 提供了給大家釋放這種衝動的機會</b>。 BBS 個人版十分盛行就是如此，因為個人版非常適合 murmur&nbsp; 一兩句，而且大多數的個人版幾乎都是這種類型 … <br /></li><li><b>精要的意義 只需要幾句話就能說明，而且往往是靈光一現</b>的。很多部落格好文章都是由幾句重點加上一堆例子堆積而成。但寫出一篇好文<br />章必須要花上2~3小時堆砌，而也並非人人都具有寫長文功力。但 人人 都有辦法寫出好句子，寫一段大概只需要 2<br />分鐘。會出現精闢句子並非是字數問題，因為靈感湧現時，常見的就是在 twitter 自己頻道上洗版 …<br /></li><li><b>與 im（線上通訊軟體） 的結合</b>。人人未必會時時開著網頁，但是卻會時時開著 im 。大量訊息的快速傳遞與即時 update 使 event 不斷的發生，促使更多的訊息被丟上來，這才是熱潮不褪的原因。而與 im 的結合更使得大家根<b>本就把 twitter 當作 im 在玩</b>，不時上演大廣播或大亂鬥戲碼。<br /></li><li><b>Follow message 意外的出路</b> 。原本 Follow 的功能立意只讓你盯住朋友的動態。有很多(短的）重要訊息寫部落格太浪費，散播速度更是慢（雖然現在已經有<a target="_blank" href="http://www.anothr.com/">哪吒</a>這種用 im 傳遞 feed 的東西）。不過 follow 加上 message 無意間被發展成官方或名人可大量廣播即時訊息的工具（美國的總統候選人歐巴馬、希拉蕊用來廣播競選行程等等 …）。名人效應更使得知名度大增，fans 成為會員的速度大增 …<br /></li><li><strong>隨時可丟 funny stuff .. no need more description </strong><br /></li></ol><br /></blockquote><br /><p>等等更多原因…</p><br /><p>而它傳達的最重要意義是，設計出抓住人類渴望而且非常<b>滿足需求</b>的工具，就能夠爆紅。 Mr.6 這篇從心靈寄託衍伸到宗教，我只覺得越講越誇張 ….</p></div></ins></div></div><br />
+
+過往 comment :
+
+<a href="http://www.flickr.com/photos/14765209@N00/712350985/" title="相片分享"><img src="http://farm2.static.flickr.com/1400/712350985_832846972e_o.png" width="521" height="3442" alt="twitter-comment" /></a>

@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 167
+layout: post
+title: PATH LEAK
+date: 2006-10-16 14:42:51 +08:00
+wordpress_url: http://blog.xdite.net/?p=167
+---
+這是上一篇給我的靈感<br /><br /><strong>site:www.wreth.cc </strong>關鍵字 <strong>/home/www/</strong><br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/271062603/"><img width="500" height="390" alt="pathleak2" src="http://static.flickr.com/107/271062603_9d4b12c878.jpg" /></a><br />

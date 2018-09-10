@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 560
+layout: post
+title: !binary |
+  6KuL5bmr5b+Z55uj77yI54GM77yJ56Wo77yB
+
+date: 2008-03-22 17:43:53 +08:00
+wordpress_url: http://blog.xdite.net/?p=560
+---
+ <strong>20:00 update: 活動結束，數據已釋出，請到<a href="http://tvvote.veryxd.com/">這裡下載</a>，有 SQL 也有 CSV 格式。</strong>
+
+這是筆者下午兩點投票回來時，偶然<a href="http://twitter.com/pipperl/statuses/775282263">在 twitter 上看到的提議 (by pipperl )</a>
+
+<strong>有鑑於各次選舉各電視台灌票實在太嚴重，灌到最後還要下修</strong> XD
+
+所以今年我們決定自行監媒體的（灌）票！ XD
+
+看到這個提議，我覺得很有趣，於是拼了老命，在下午四點準時把監票站台寫出了，<del datetime="2008-03-22T12:20:37+00:00"><big><big><a href="http://tvvote.veryxd.com/">如果你賭爛這個灌票現象，請共襄盛舉</a></big></big></del>。

@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 568
+layout: post
+title: !binary |
+  T1NEQy50dyDnrKzkuIDlpKnkuIvljYjloLTlsI/oqJg=
+
+date: 2008-04-12 14:13:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=568
+---
+有插座也沒用，因為吃一個午餐回來，發現筆電開始電力衰弱，結果是被人被拔掉了 :X，想插回去發現沒孔了 =_=（怒）。
+
+gslin 長輩叫我換位子去他那一區，有空位可以插。正想換過去……全場插座突然紛紛跳電，跳到最後連外面走廊飲水機都沒電了 XD
+
+Google 的筆記本在上午場發完了，Yahoo 的還有剩。據說某大站似乎明天會搬一箱來放。
+
+下午場議程
+
+(1) Bekerley DB
+(2) Hadoop

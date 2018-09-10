@@ -1,0 +1,44 @@
+--- 
+wordpress_id: 2287
+layout: post
+title: !binary |
+  Um9SIOmWi+eZvOeSsOWig+WuieijneaVmeWtuOiBmuacgyA2LzEy
+
+date: 2011-06-01 02:27:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=2287
+---
+這個聚會是第一次試辦，我也不知道會有多少人來。
+
+最近 Startup 當紅，不少人想嘗試學習 RoR。
+RoR 有很多 feature 相當著名，但新手的學習門檻也是出了名高的嚇人。
+
+連裝個環境在 clean 的 Mac 或者是 Ubuntu 上都會把一堆人整垮。
+一堆 bug 冒出來，腦袋就當機了 :/
+
+其實沒有人喜歡自己的開發環境骯髒，但實在從來沒有人教過如何建置出一個相當漂亮又 bug free 的開發環境。或者是如何解決裝機遇到的 issue。
+這個教學聚會就是為不得其門而入的人設計的。
+
+我會用一個下午的時間，教大家怎樣 setup 出來漂亮又 bug free 的開發環境 ( best practices )。並協助排除建置環境時會遇到的疑難雜症。
+
+費用是 1500 NTD 整。你可以問相關問題問到滿意為止。
+
+請帶著你的 Mac 或 Ubuntu 筆電過來。乾淨或裝到一半的都可以。（不過建議不要太髒，太髒可能我也救不了...orz）
+
+我們下週末(6/12)見！
+
+報名網址在：<a href="http://registrano.com/events/f59fe9">http://registrano.com/events/f59fe9</a>
+
+===
+
+FAQ : 
+
+(1) Q: 這跟每週 Rails Tuesday 有何不同？
+     A: Rails Tuesday 是完全免費的社群聊天，你可以帶著你手邊的問題過來請大家幫忙解答。但囿於時間與問題難度，且高手的桌子永遠都是滿的，你可能很難在一個晚上就把問題解光。
+
+(2) Q: 如果我只是新手，不會寫任何語言可以參加嗎？
+     A: 基本上我認為不會寫 Ruby / Rails 沒關係，但「必須」要會操作 Linux Command Line，否則你學 Rails 會非常非常辛苦。
+(3) Q: 1500 的收費好像有點高？
+
+     A: 這是一個 step by step 的入門教學，而且其實我也曾經釋出了怎樣在 clean Mac 上安裝整套開發環境的 best practices。如果你覺得自己看看就搞定了，那麼你不用來參加這個聚會。但如果你曾經自己裝過 Rails，你真的會知道在裝機過程中，步驟一亂或環境不標準，馬上就會踩到非常非常多的地雷。這些雷會讓一個新手完全不知所措，而且也不知道要去哪裡找人幫忙解這些問題。這天我會花一整個下午教大家怎樣在 ubuntu / mac 上裝出漂亮的環境。（使用 pow / mod_rails ) ，並且協助 debug 與回答任何你想知道原理的問題。
+
+        坦白來說，我覺得對於真正想搞定這件事的人，1500 NTD ($50 USD) 會是很高的價格。 It's a fairy price of a professional developer's billing hour.

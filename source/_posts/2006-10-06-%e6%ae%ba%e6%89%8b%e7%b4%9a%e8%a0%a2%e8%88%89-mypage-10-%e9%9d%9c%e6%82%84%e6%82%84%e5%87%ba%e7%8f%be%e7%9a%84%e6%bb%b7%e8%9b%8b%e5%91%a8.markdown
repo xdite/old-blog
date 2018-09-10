@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 158
+layout: post
+title: !binary |
+  5q665omL57Sa6KCi6IiJIG15cGFnZSAoMTApIOmdnOaChOaChOWHuuePvuea
+  hOa7t+ibi+WRqA==
+
+date: 2006-10-06 13:39:24 +08:00
+wordpress_url: http://blog.xdite.net/?p=158
+---
+這同樣是一則<a href="../../../../../?p=157" rel="bookmark" title="Permanent Link: 殺手級蠢舉 mypage (9) patch 後的新 bug -_-">patch 後的新 bug -_-</a>，筆者是在測試「個人首頁關閉」功能拍圖的時候拍到的。<br /><br />當時就覺得很不對勁。因為在前兩天，滷蛋周只會出現在「你沒登入自己個人首頁」，或去瀏覽「別人的個人首頁」的時候。要測「個人首頁關閉」的功能時，<strong>我應該處於登入狀態才對....那個該死的滷蛋周怎麼還不滾</strong>。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/262049518/" title="Photo Sharing"><img width="500" height="390" src="http://static.flickr.com/114/262049518_06af5a372d.jpg" alt="nodragable" /></a><br /><br />原來有名大站在這一波修補中，順便把這個 &quot;bug&quot; (會員登入後沒廣告)一併修掉了。而且最令人不爽的是 ....<font color="#ff0000"><strong>廣告是不能拖拉的-_-</strong></font><br /><br />e04，這是怎樣，強迫中獎嗎？其他客戶迫切需要的功能不先修，廣告商的問題你們倒先列入第一順位？

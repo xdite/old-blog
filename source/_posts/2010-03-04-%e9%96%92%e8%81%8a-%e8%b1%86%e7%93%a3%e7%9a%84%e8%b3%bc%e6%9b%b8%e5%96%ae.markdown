@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1744
+layout: post
+title: !binary |
+  W+mWkuiBil0g6LGG55Oj55qE6LO85pu45Zau
+
+date: 2010-03-04 01:25:19 +08:00
+wordpress_url: http://blog.xdite.net/?p=1744
+---
+最近要買一些大陸書看，就上了豆瓣找評價，發現多了這個新功能：購書單....
+
+如果我是大陸地區的消費者，這功能真的還蠻棒的就是了...:D
+
+可惜當年博客來的<a href="http://home.books.com.tw/">松鼠窩</a>沒做起來啊 :(
+
+<a href="http://www.flickr.com/photos/xdite/4403705639/" title="豆瓣購書單 by xdite, on Flickr"><img src="http://farm3.static.flickr.com/2733/4403705639_a1649957c8.jpg" width="500" height="360" alt="豆瓣購書單" /></a>

@@ -1,0 +1,57 @@
+--- 
+wordpress_id: 2478
+layout: post
+title: !binary |
+  5LiN6KaB55uy55uu55qEIEJERCAvIFRERO+8jOaIkeWwjeWvq+a4rOippuea
+  hOeci+azlQ==
+
+date: 2011-06-23 20:23:09 +08:00
+wordpress_url: http://blog.xdite.net/?p=2478
+---
+因為最近還蠻常私下被問 Rails BDD / TDD 的一些議題，但是回答之中，卻發現對方對 BDD / TDD 的想像有些奇怪，因為對不同人重複講了好幾遍，乾脆整理一下我對這件事情的看法好了。
+
+我個人的看法是認為在大多數的情形下，你需要對你的「軟體」寫 "Test"，而且是要先寫 "Test" 再行撰寫程式，也就是 Test-Driven Development。因為程式碼會逐漸龐雜，沒有人可以 write code without bug，也不可能每次都有辦法用手測出來，加上有時候寫錯程式時的損失不是事後修理就有辦法彌補的，所以我們必須要寫 Test Case，及早抓出問題。
+
+這是所謂寫測試的重要性。
+
+然而，我要強調，這卻不是<strong>程式設計師「可以」不合時宜的盲目在「任何類型」的專案強行導入 BDD / TDD 的藉口</strong>。
+
+而上個月看到 The Rails3 Way 的作者 Obie Fernandez 在 Rails Conf 2011 的 lightning talk  <a href="http://de.favstar.fm/users/obie/status/70907985500708865">Why BDD is Poison For Your Early Stage Startup</a> 後寫的這篇文章 <a href="http://blog.obiefernandez.com/content/2011/05/the-dark-side-beckons.html">The Dark Side Beckons?</a> 更強化了我這樣的看法。
+
+這世界上沒有所謂治百病的蛇油，不是用了 XX 就能 XX 。任何 Solution 都有 Pros / Cons。
+
+1.「 寫測試 + 寫程式」 所花的時間，大概是純寫程式的 1.5 -2 倍時間。
+2. 「會寫 Test」、「正確的測到該測的部份」、「寫出好的測試」，都需要學習時間以及功力。
+
+很多程式設計師因為厭倦了維護在之前的專案後期的維護因為修改程式碼，而一再發生的問題（無論是小問題，大問題），而決定在下個專案，無論專案類型都要導入 TDD / BDD，在我眼中認為這是相當不正確的事情。
+
+我的理由是如此的：
+
+
+
+<blockquote>1. 每個專案類型不盡相同，有的是要求高正確性且牽扯到金流問題且開發時間充裕。有的純粹只是 event，用過極丟。有的是幫人外包，只要求規格正確，開發時間不寬裕。有些則是混合型。有些部分的程式碼則是相當難以寫測試（如 View），C/P 值極低。應該考慮每個專案的類型甚至是 component 去決定哪部分該嚴厲的規定寫測試，而哪些部分可有可無。
+
+2. Startup 前期應不應該導入 TDD/BDD ? 我認為不應該。為什麼，很多人都認為 TDD / BDD 是為了確保「程式的正確性」，所以無論如何我們都應該執行。卻忽略了 Startup 的成功要素是<strong>「快速驗證你的 Idea 的正確性」、「快速應付市場變化調整的速度」、「在市場廝殺中節省成本存活下來」</strong>。
+
+3. 寫測試只是為了要能自動驗證「程式的正確性」、降低「程式出錯的機率」，但團隊合作開發程式最重要的是<strong>團隊中的「溝通」</strong>，<strong>大家對 function 和架構要有一定程度以上的理解，共同撰寫程式要有一定程度以上的 convention。變更任何重大架構（如 core function, db schema, 底層設計前）都要提醒大家</strong>。
+
+如果每個人都只寫自己的，然後想改什麼東西照自己心情，沒有人想舉手之勞通知大家、跟隊友溝通。坦白說，那寫測試有個屁用，可能只是不會爆 production code，development 拉下來還是爛光光，還是要修到死。
+
+完全不溝通、不制定規範，卻期待寫測試能夠解決一切，這樣的想法不是很奇怪嗎？
+
+4. 無論如何，就算寫了再完美的測試，再完美的程式碼。程式還是可能在你完全預期不到的狀況爆掉，所以應該做的是要接受無論如何就是要修 bug 的這件事，然後想辦法把修 bug 的成本儘量壓低，也把因為 bug 會產生的損失也儘量壓低。
+
+不要期待測試是萬靈丹。否則期待越大，失望也大。
+
+</blockquote>
+
+這是我對於寫測試的一些看法，歡迎各位指教。
+
+
+====
+<blockquote>
+
+廣告：
+<a href="http://rails-101.logdown.com/">書：第一次學 Rails 就上手</a> - 7 天之內學會 Rails（付費）
+<a href="http://registrano.com/events/f56f33">課程：RoR 開發環境安裝教學</a> - 打造 bug free Rails 開發環境（付費） - 2011/07/03
+</blockquote>

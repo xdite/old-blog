@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 299
+layout: post
+title: !binary |
+  54Sh5ZCN5bCP56uZ6K6K5b+r5Y+I56mp5a6a5ZuJPw==
+
+date: 2007-03-23 19:02:39 +08:00
+wordpress_url: http://blog.xdite.net/?p=299
+---
+最近有名大站開始狂發廣告信，幾乎每個會員人人都會收到一封。收到這種「廣告似乎不實」的信，各位讀者心中想必很幹了。<br /><br />但是，筆者更幹 ....<br /><br />為什麼勒？因為筆者收到十幾位讀者轉寄給給我這封廣告信 .........=_=，<strong>所以我有十幾倍的幹</strong>。<br /><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/431267580/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/172/431267580_a917b53970_o.jpg" alt="quick2" height="501" width="572" /></a><br /><br /><br />其中最令大家最覺得有趣的就是 <big><b>2. 無名小站全面性資料備份功能</b></big>，因為全面備份幾乎屬於基本常識，但是<a href="http://blog.xdite.net/?p=230">有名大站死不備份，要吃了大虧</a>才肯作。<br /><br />更有趣的還是，剛廣告完就打了自己一個大嘴巴，<a href="http://www.wretch.cc/hala/viewtopic.php?t=201533">使用者付錢了也找不回來</a>。（這篇文章並不是特例，哈拉討論區一堆）。只能說，因為廣告只宣稱「有機會」嗎？<br /><br /><br />另外，加入 VIP 更有機會作完整備份嗎？看看<a href="http://xdite.net/paste/20070323.txt">另外一個因為有名大站給不出交代，而進入找消保官程序的 VIP 案子</a>。（VIP 照片傳完之後過兩年，離奇從 Server上消失，而且<a href="http://xdite.net/paste/20070323-2.txt">同時間並不只一例</a>）。<br /><br /><br />為這些不幸的會員默哀。

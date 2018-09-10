@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 44
+layout: post
+title: !binary |
+  W+aVtOeQhl0g5pys6YCxKDcvMjl+OC81KSDniIbngrjmjIfmlbg14piF
+
+date: 2006-08-05 18:51:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=44
+---
+本週至目前為止，Xuite Blog 一共發生五起爆炸
+
+<ol><li>CSS無法變更式樣，或無法讀取，整個 blog 變形。
+</li><li>留言版不是噴錯誤訊息，就是無法開啟。</li><li>編輯功能發生嚴重故障，無法修改文章或是新增異常</li><li>無法上傳照片至文章內</li><li>引用功能故障</li></ol>更多慘狀請參考相關文章：<a href="http://blog.xuite.net/blog/baby/7045124">《Blog公告》日誌使用問題的發表處(95年07月-這是過去式)</a>、<a href="http://blog.xuite.net/blog/baby/7508327">《Blog公告》日誌使用問題的發表處(95年08月)</a>
+
+
+想想當個 Xuiter 還真可憐，商業服務一週出現一個重大失誤就該打屁股了，一週竟然出現五起!更糟糕的是，客服人員根本就不鳥用戶 ....
+
+Blogger.com 還是穩定太多了

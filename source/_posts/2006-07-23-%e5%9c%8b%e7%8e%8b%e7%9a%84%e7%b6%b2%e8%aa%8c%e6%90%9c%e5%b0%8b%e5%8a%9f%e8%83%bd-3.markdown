@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 12
+layout: post
+title: !binary |
+  5ZyL546L55qE57ay6KqM5pCc5bCL5Yqf6IO9ICgzKQ==
+
+date: 2006-07-23 21:55:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=12
+---
+剛剛亂翻看到這一篇文章 <a href="http://blog.xuite.net/blog/baby/7027863">Xuite Blog  滿意度問卷調查結果</a>
+不小心就笑了出來
+
+<a href="http://www.flickr.com/photos/49274115@N00/196103385/" title="Photo Sharing"><img src="http://static.flickr.com/70/196103385_ad98f0e5e6_o.jpg" alt="xuitejoke009" height="216" width="554" /></a>

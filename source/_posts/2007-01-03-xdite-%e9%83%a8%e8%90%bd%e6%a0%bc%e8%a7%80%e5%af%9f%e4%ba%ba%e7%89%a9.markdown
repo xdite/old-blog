@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 248
+layout: post
+title: !binary |
+  WERpdGUgQCDpg6jokL3moLzkurrniak=
+
+date: 2007-01-03 13:22:47 +08:00
+wordpress_url: http://blog.xdite.net/?p=248
+---
+<br />中時部落格人物 &gt;&gt; <font size="4"><a href="http://blogger.chinatimes.com/blognews/archive/2007/01/03/140746.aspx">網路界的QC部落客： XDite</a></font><br /><br />這是日前接受 VISTA 專訪的一篇報導，文中內附官方照片乙張（臉紅）XD。<br /><br />---<br />update :<br />該文很棒，感謝 Vista 。不過當中有一點點小錯誤，已請 Vista 去函報社修正。「當年Jedi在推廣Movable Type的時候，他還只是個高中學生」，這個時間點我念大二了:p....

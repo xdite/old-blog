@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 374
+layout: post
+title: !binary |
+  5LiN5Y+v5LulLi4uPw==
+
+date: 2007-06-13 18:55:48 +08:00
+wordpress_url: http://blog.xdite.net/?p=374
+---
+這是今天吃晚餐時，在 ptt 的 in2 版上看到的糟糕秘技。害我粥喝一喝差點嗆到。<br /><br />傳說中只要打入「不可以」，Google 就會建議你 ...<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/543743362/" title="相片分享"><img src="http://farm2.static.flickr.com/1035/543743362_bc8abd1328_o.jpg" alt="bky" height="391" width="557" /></a>

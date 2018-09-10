@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 9
+layout: post
+title: !binary |
+  5LiW55WM5aWH5pmv55qE5bm06ZGR5byPUSZhbXA7QQ==
+
+date: 2006-07-23 19:14:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=9
+---
+<div> <a href="http://www.flickr.com/photos/49274115@N00/196032912/" title="photo sharing"><img src="http://static.flickr.com/61/196032912_67482e4193_m.jpg" alt="" /></a>
+  <a href="http://www.flickr.com/photos/49274115@N00/196032912/"></a>
+</div>這是在寫 <a href="http://xuite-joke.blogspot.com/2006/07/1.html">國王的網誌搜尋功能 (1)</a>、 <a href="http://xuite-joke.blogspot.com/2006/07/2.html">國王的網誌搜尋功能 (2)</a>中的眾多發現中的其中一個發現
+
+
+你有看過哪一間 BSP 的客服處是採用年鑑式的Q&amp;A？而且沒有搜尋功能的嗎？
+
+what an amazing blog!

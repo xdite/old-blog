@@ -1,0 +1,71 @@
+--- 
+wordpress_id: 1526
+layout: post
+title: !binary |
+  UmFpbHMzIOaetuani+iIh+mAsuWxlSBQYXJ0LjIgLSBtb2RlbA==
+
+date: 2010-02-15 05:05:53 +08:00
+wordpress_url: http://blog.xdite.net/?p=1526
+---
+2. <strong><big>ActiveModel 與 Arel 的誕生與導入</big></strong>
+
+<strong>ActiveModel</strong>
+
+大家都知道，Rails 的 default ORM 就是 ActiveRecord，它與 Rails 是密不可分的。ActiveRecord 很好很強大，但 DataMapper 也不賴。ActiveRecord 是陪伴 Rails 一起成長的，但因為當時開發的一些歷史背景還有 core developer 不是很夠力，其實不少人不是很滿意 ActiveRecord 的一些實做方式。
+
+<a href="http://www.merbivore.com/">Merb </a>就是這時候橫空出世的，Merb 當時強調的一點就是 ORM-agnostic，想接 AR 、DM 、Sequel 隨便你。後來 Merb 跟 Rails 合併了，ORM-agnostic 就也成為了這次 Rails3 的一大實做方向。
+
+<a href="http://www.flickr.com/photos/xdite/4357104166/" title="Flickr 上 xdite 的 active-record"><img src="http://farm5.static.flickr.com/4033/4357104166_67a7f1d3ae_o.png" width="500" height="307" alt="active-record" /></a>
+
+以往在 Rails 下 sql query 的方式是這樣的，使用 AR 的 method，再配合 SQL generator 加上不同的 DBAdapter 產生 query command。
+
+能夠不強迫使用 AR 當然很高興，但不用 AR 之後，一些問題又浮現了 。AR 一些內建的 API ，諸如 callbacks, validations, serialization, observing, dirty tracking 等等 ...大家在 AR 裡用得很開心，但在其他 ORM 未必有，那就很不開心了 :(。加上一些涉及資料庫行為的 plugin （例如 熱門 plugin : <a href="http://github.com/mislav/will_paginate">will_paginate</a>），可能只吃 AR 的 object，plugin 作者如果每出一套 ORM 都要追加開發，那不就累死了嗎？XD
+
+（ 筆者之前有一段時間跑去寫 merb，還有之前用其他 ORM 搭過 Rails 寫程式，遇到這方面的問題特別的痛啊...）
+
+所以這次 ORM-agnostic 的一大方向，就是把 ActiveRecord 的內建 API 統統抽出來，變成 ActiveModel 的 API。任何 Ruby Class 只要符合 ActiveModel 定義的 API，再 inlcude AM 中需要的 module，這樣不同的 ORM 也可以輕鬆的使用原先 AR 獨家擁有的 API。詳情可見 Yehuda 的這一篇：<a href="http://yehudakatz.com/2010/01/10/activemodel-make-any-ruby-object-feel-like-activerecord/">ActiveModel: Make Any Ruby Object Feel Like ActiveRecord</a>
+。
+
+符合 ActiveModel 定義的 API 還有什麼好處呢？原先 Rails 裡的 helper 有一些是只有 AR object 才能使用的，如 active_record_helper 裡的 form_for, error_messages_for, error_message_on 等等...換了不同 ORM 等於這些超讚的 helper 也不能用了啊 orz。不過別擔心，Rails3 ORM-agnostic 的設計中，helper 的改造也被包括進來了，active_record_helper 被換成了 active_model_helper，這件事的意義在於：只要你使用的 ORM 符合 ActiveModel 的 API，helper 也能一併搭配！
+
+super awesome!!!
+
+=======
+
+<strong>Arel</strong>
+
+這次的 ORM 變革還有一個重點，就是 <a href="http://github.com/rails/arel#readme">Arel</a> 的誕生，以及 Arel 將取代原先 ActiveRecord 的 SQL generator。
+
+什麼是 Arel？
+
+<blockquote>Arel is a <a href="http://en.wikipedia.org/wiki/Relational_algebra">Relational Algebra</a> for Ruby. It 1) simplifies the generation complex of SQL queries and it 2) adapts to various RDBMS systems. It is intended to be a framework framework.</blockquote>
+
+ActiveRecord 因為改用了 Arel，整個 query interface 也做了大的改變，詳情可見 <a href="http://m.onkey.org/2010/1/22/active-record-query-interface">ActiveRecord Query Interface 3.0</a> 這篇文章。
+
+具體的總結就是 AR 將變成 "everything is named_scope"
+
+Fine, 這件事的確很酷。那為什麼有必要一定要做到換掉像整個 SQL generator 這麼大的變更呢？這就是一個很長的故事了...
+
+古早古早之前，Rails 是沒有 named_scope 這個玩意的，要撈資料只能用 method 配合 finder 實做。
+
+<script src="http://gist.github.com/304240.js?file=product.rb"></script>
+
+運用這個方法，可以單獨得到 Product.recent 或者是 Product.hot，但是如果要同時取出 recent 和 hot 呢？很抱歉，那就必須再寫一個叫做 recent_and_hot 的 method。這種方法很醜，而且會製造出很多並不是那麼必要的 code（想想看，換個條件就要多寫一個 method ....）。
+
+所以有一個好心的開發者 Nick Kallen，寫出了一個 <a href="http://ryandaigle.com/articles/2008/3/24/what-s-new-in-edge-rails-has-finder-functionality">has_finder</a> 的 plugin，它能很方便讓你將條件變成用串的（畢竟為了一些小條件的變更再寫一個 method 蠻蠢的）。最終，has_finder 在 rails 2.1 中，變成了官方標準 API，也就是人人稱頌的 <a href="http://www.scribd.com/doc/4019122/Rails-21-">named_scope</a>。
+
+<script src="http://gist.github.com/304248.js?file=product.rb"></script>
+
+named_scope 可以讓你很輕易的就寫出容易閱讀的 code，同時生好你要的複雜 query 。
+
+比如：<script src="http://gist.github.com/304258.js?file=product.rb"></script>
+
+串到你爽為止 XD
+
+但 Nick Kallen 在寫完 named_scope 之後，就開始問自己，named_scope 畢竟是外加上去的，並不是原生的規則。如果讓 scope 一開始就是 AR 原生的呢？很不幸的，不久後它就意識到要作這件事，必須把 AR 整個 rewrite 掉 orz
+
+但雖然是這麼龐大的工程，他還是決定下去嘗試了，但不是每個想拯救世界的超人都會有美好結局，他失敗了！XD
+
+後來整個研究方向才改成去開發 Arel，用 Relational Algebra 去生 sql query 。( 更多細節請看 Nick Kallen 的這篇：<a href="http://magicscalingsprinkles.wordpress.com/2010/01/28/why-i-wrote-arel/">Why Arel</a>? )
+
+named_scope 已經很暴力了對吧？新的 AR 的 "everything is named_scope" 哲學甚至可以讓你寫出這種 code 啊!!   <script src="http://gist.github.com/304259.js?file=product.rb"></script>

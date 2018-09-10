@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 45
+layout: post
+title: !binary |
+  W+W/q+WgsV0g5YCL5Lq65pel6KqM6aaW6aCB54ib5o6J5LqG
+
+date: 2006-08-06 09:32:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=45
+---
+<p>剛剛有位<a href="http://blog.xuite.net/aboutme.phtml?mid=10142289">靚媽咪</a>上<a href="http://blog.xuite.net/blog/baby/7508327">《Blog公告》日誌使用問題的發表處(95年08月)</a>投訴它的個人日誌首頁爛掉了，同時也有人附和。</p><p>  筆者為了查證就點進去看看，果不其然爛了</p><p> ..... 又是一則線上維修不顧客戶權益的例子啊</p><p>  備份圖在這邊：(PS. 靚媽咪，筆者無意盜用您的版權，只是幫您拍照備份而已）</p><p>  <a href="http://www.flickr.com/photos/49274115@N00/207632844/" title="Photo Sharing"><img src="http://static.flickr.com/60/207632844_d4829e2fae.jpg" border="0" alt="broken01" width="500" height="400" /></a></p>

@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 482
+layout: post
+title: !binary |
+  5paw5aKeIGZlZWQg5L6G5rqQIChmb3Ig5aSn6Zm477yJ
+
+date: 2007-11-04 12:26:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=482
+---
+本站的 feed 仍是 <a href="http://feed.feedsky.com/xxddite">http://feeds.feedburner.com/xxddite</a>
+
+但新增一個 feedsky 的新 feed：<a href="http://feed.feedsky.com/xxddite">http://feed.feedsky.com/xxddite</a> 供大陸朋友訂閱。

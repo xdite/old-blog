@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 1119
+layout: post
+title: !binary |
+  VWx0cmFzcGhpbngg5pCc5bCL5LiN5Yiw5Lit5paH55qE6Kej5rG65pa55rOV
+
+date: 2009-03-31 21:40:50 +08:00
+wordpress_url: http://blog.xdite.net/?p=1119
+---
+<a href="http://www.sphinxsearch.com/">Sphinx</a> 是一個俄國的 Opensource Search Engine。是自建搜尋引擎除了 <a href="http://ferret.davebalmain.com/">Ferret</a> 外的另一個選擇。Rails 有個 Plugin 叫 <a href="http://github.com/fauna/ultrasphinx/tree/master">UltraSphinx</a> 可以輕鬆的存取 Sphinx。同事 ihower 也為了 <a href="http://ihower.idv.tw/blog/archives/1716">UltraSphinx 寫了中文斷詞</a>，讓大家能夠輕鬆的作出有中文搜尋的 Rails Application。
+
+不過最近在跟 <a href="http://gugod.org/">gugod</a> 合作寫一個網站，gugod 一直抱怨他的本機端只能搜尋到英文，對於中文毫無反應。我幫他想了幾種的可能（像是 sphinx 的版本不對）但都不是主因。這件事就一直 pending。
+
+今天我想起在 <a href="http://blog.xdite.net/?p=529">acts_as_ferret 中文問題</a>時，我遇過 ferret 搜不到中文的問題。猜想會不會是同樣的毛病，沒想過果然也是在 config/database.yml 加一行 <strong>encoding: utf8</strong> 就馬上解決了。
+
+為文記之。

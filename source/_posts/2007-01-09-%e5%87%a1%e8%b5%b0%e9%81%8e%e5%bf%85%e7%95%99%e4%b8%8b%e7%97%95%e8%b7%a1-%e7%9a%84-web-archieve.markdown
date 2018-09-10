@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 255
+layout: post
+title: !binary |
+  5Yeh6LWw6YGO5b+F55WZ5LiL55eV6LehIOeahCB3ZWIgYXJjaGl2ZQ==
+
+date: 2007-01-09 22:46:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=255
+---
+昨天其實在某兔站長個人版發現就有人推介這個站，但是不知道來歷。稍微翻找了一下，果然發現幾筆被刪除的珍貴資料..:p 連 Blog 舊文都搜的到。<br /><br />又看到朱大哥在 comment 講了這個站的歷史，就貼上來分享給大家了 :p<br /><br />引述 <a href="http://blog.xdite.net/?p=254#comment-4183">朱大頭 comment</a>。<br /><blockquote>我曾經跟Brewster Kahle開過會，他用他創辦eBay的錢出來進行公益活動，辦了一個收藏人類創作，推廣知識共享的網站：archive.org，這個網站除了收集影像創作之外，還有一個叫做Way Back Machine的計畫是收藏人類所有網站資料的典藏計畫，說實話，我當時覺得這樣做很白痴，不知道能夠拿來幹嘛。但當時他們說可以用這個系統來看到一個網站在不同時間點的演變和內容，其實很有歷史紀念價值。<br /><br />今天，在交大研發長，IEEE Fellow、NCC委員林一平帥氣發表「無名從來沒有在教育網路上牟利」的言論之後，我終於知道這個系統好用之處在哪裡了，原來它可以保留的是真相。</blockquote><br />記錄了有名大站的一路走來 :p<br /><br /><a href="http://web.archive.org/*/http://www.wretch.cc/">http://web.archive.org/*/http://www.wretch.cc/</a><br /><a href="http://web.archive.org/*/http://wretch.twbbs.org/">http://web.archive.org/*/http://wretch.twbbs.org/</a><br /><br /><br />昨天翻找的成果包括：<br /><br /><a href="http://web.archive.org/web/*/http://www.csie.nctu.edu.tw/%7Ewkwu/wretch/donater.php">2004 年被砍除的贊助名單</a>（含廠商與個人）。<br /><a href="http://web.archive.org/web/20050521021751/www.wretch.cc/etc/vip.php">2005 年招收 2000 名白金會員的廣告詞</a>。<br />甚至還有當年的 <a href="http://web.archive.org/web/20050602011322/www.wretch.cc/blog/vipblog&amp;article_id=1750117">銀卡與白金會員比較表</a> 。<br /><br />非常值得人流連啊 :pp<br />

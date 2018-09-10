@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 492
+layout: post
+title: !binary |
+  5Lul6LaF6YCj57WQ5qij5byP55qE5paw5Z6L5oWL6KmQ5qy65omL5rOV
+
+date: 2007-11-10 16:37:50 +08:00
+wordpress_url: http://blog.xdite.net/?p=492
+---
+這是國外最近討論熱烈的一種新行詐騙方式，使用比 iframe 更簡單的方式蓋台詐欺。具體實做方式也很簡單，只要在網頁中的隨便一個位置，貼上
+
+一段 code
+
+<blockquote>&lt;a href="想連到的位址"style="background-image:url(誘騙的網頁快照); position:absolute; left:0px; top:0px; height:8000px; width:1000px; "&gt;&lt;/a&gt;</blockquote>
+
+即可蓋台。
+
+我作了一個 <a href="http://blog.xdite.net/testcover.html">demo 網頁</a>，效果很成功。這個網頁我只貼了一段 code
+
+<blockquote>&lt;a href="http://tw.yahoo.com"style="background-image:url(http://farm3.static.flickr.com/2124/1943386981_6bf79a0d5b_o.png); position:absolute; left:0px; top:0px; height:8000px; width:1000px; "&gt;&lt;/a&gt;</blockquote>
+
+
+最早發現這種方法的是 <a href="http://explabs.blogspot.com/2007/11/alicia-keys-myspace-page-is-hacked.html">資安研究員 Roger Thompson</a>，講解如下。
+
+<object height="355" width="425"><param name="movie" value="http://www.youtube.com/v/_VipylmHnII&amp;rel=1"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/_VipylmHnII&amp;rel=1" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425"></object>
+
+簡單的說，是因為很多網站都不會對 html 中的&nbsp; &lt;a&gt; 這個標籤（超連結標籤）作過濾，所以更容易達到詐欺方式，而 MySpace 就可以被這種方式蓋台。
+
+而這段 code 的運作原理是這樣的，使用 absolute 的屬性覆蓋其他內容，並將區域設定為高 8000px 寬 1000px，蓋掉整個頁面。如此一來，按下任何地方，就只會連到詐欺者想你連到的任何網頁。
+
+剛剛我測試了幾家 BSP 和 兩家書籤網站：包括 無名、Pixnet、天空、樂多、Blogger.com、Funp、黑米，<b>留了以上內容的 comment</b>。發現 <a href="http://blog.roodo.com/xxddite/archives/4458515.html">樂多</a> 和<a href="http://www.hemidemi.com/user/xdite/comment/bookmark"> 黑米</a> 可被這種方式蓋台。請儘速修復。
+
+另外，以 Lifetype 架設的 Blog （測試 Verison 1.2.4，1.2.5 我還沒有測）也可被這種方式蓋台。

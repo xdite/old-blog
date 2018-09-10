@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 337
+layout: post
+title: !binary |
+  ZGlnZyDlpKfmmrTli5U=
+
+date: 2007-05-03 09:51:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=337
+---
+有人已經捷足先登寫了一篇：
+
+<a href="http://www.kennyp.cn/2007/05/02/09-f9-11-02-9d-74-e3-5b-d8-41-56-c5-63-56-88-c0-let-me-understand-the-power-of-web-2-0-of-users/">09 F9 11 02 9D 74 E3 5B D8 41 56 C5 63 56 88 C0 让我见识了 Web 2.0 用户的力量</a>
+
+這種事件怎麼看起來很眼熟呢？ XD
+
+延伸閱讀：
+
+<a href="http://dbai.biz/blog/?p=427#comments">再談多數暴力</a>

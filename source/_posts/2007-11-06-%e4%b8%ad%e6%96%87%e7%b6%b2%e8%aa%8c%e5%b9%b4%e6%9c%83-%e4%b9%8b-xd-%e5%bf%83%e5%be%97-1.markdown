@@ -1,0 +1,69 @@
+--- 
+wordpress_id: 484
+layout: post
+title: !binary |
+  5Lit5paH57ay6KqM5bm05pyDIOS5iyBYRCDlv4PlvpcgKDEp
+
+date: 2007-11-06 19:12:59 +08:00
+wordpress_url: http://blog.xdite.net/?p=484
+---
+這是我從北京中文網誌年會歸來的第一篇<strike>心得</strike> 雜記。
+
+身為一個口味重鹹的工程師，以往若是什麼聚會與 opensource 研討會撞期的話，我個人都是會選擇後者，因此一些人對我這次選擇自費飛去北京參加中文網誌年會，而不去 COSCUP 感到訝異（<a href="http://video.google.com/videoplay?docid=3010954748415204631&hl=en">睡睡這次竟然只吞了 16 顆布丁</a>，太令人失望了）。
+
+大致上的原因是這樣的，這個 blog 是我一年多前無心插柳，結果莫名其妙長成一棵參天大樹的作品。（之前寫的網誌都是三天打魚兩天曬網的 install note 與 murmur 綜合體，推銷給同學還會被嫌棄的那種。）。所以這也是我當知名 blogger 的頭年 XD 
+
+其實筆者並不是最近才接觸大陸互聯網，大約 2000 年開始，我就已經一同胡混了。我的簡體字書寫與漢語拼音是由大陸 Mud 開始學的，我的 （-嗶-） 都是從大陸（-嗶-） 的，甚至我看美劇還走火入魔到參加過大陸字幕組（說到這兒，同桌的人都非常訝異）。要從那裡要搞到什麼五花八門神秘的資源，我大概比絕大多數人清楚。不過我覺得即使在網上浸淫再久，要了解一些他們的發展現況，最好的方法還是飛到對岸，與對岸紅火的 Blogger 與實際經營 Web 2.0 Site 的朋友聊聊天，比較實際和直接。
+
+於是我忍痛犧牲了剛到手的 Google Adsense 支票，付了團費，與其他人一同前往北京。
+
+----
+
+本團團友有：<a href="http://kenworker.bluecircus.net">Kenworker</a>、<a href="http://carol.bluecircus.net">Carol</a>、<a href="http://blog.xdite.net">XDite</a>、<a href="http://www.pocketshark.com/blog/page/tempo">Tempo</a>、<a href="http://www.pocketshark.com/blog/page/cjin">Cjin</a>、<a href="http://blog.vista.tw">Vista</a>、<a href="http://www.mw.net.tw/user/kaurjmeb">KaurJmeb</a>、<a href="http://alicereiko.com">Alice</a> 與 <a href="http://yumau.com">史萊姆</a>。
+
+這幾天很高興能夠見到面或聊到天的有：
+
+香港的 <a href="http://sidekick.myblog.hk">sidekick</a> 、<a href="http://moliuology.mysinablog.com/">阿鏗</a>、<a href="http://blog.hoiking.org/">Alex</a>
+
+大陸最牛的Blogger <a href="http://keso.cn">keso</a>
+
+傳說中<a href="http://blog.donews.com/keso/archive/2006/06/21/922603.aspx">在德國斷了一隻手後失蹤</a>又特愛唱歌，現在在 <a href="http://www.feedsky.com">Feedsky</a> 當戰略總監的 <a href="http://webleon.org/">Webleon</a>
+
+
+
+<blockquote>反波是時事性特強的酷 PODCAST</blockquote>
+
+<a href="www.antiwave.net/">反波</a>的 「豬布斯」<a href="http://www.flypig.org/">飛豬</a>、<a href="http://buchimifan.blogcn.com/">平客</a>同學！（<a href="http://www.flypig.org/002209.html">飛豬的 presentation </a>特好，據說是研究了大量 Steve Jobs 後的專業心得）
+
+
+<blockquote>豆瓣目前很有名，是個書評網站，目前營業範圍還擴及 影視、音樂、Blog 等 ..。另外阿北託我向朱學恆對於<a href="http://blogs.myoops.org/lucifer.php/2007/09/17/douban">豆瓣綁架事件</a>代為轉達歉意，豆瓣九點將會改成輸出摘要。</blockquote>
+
+
+
+<a href="http://douban.com">豆瓣</a>的 CEO 楊勃（阿北）
+
+
+
+
+
+<blockquote>feedsky 是在類似 feedburner 燒製 feed 一類的網站服務。</blockquote>
+
+
+<a href="http://feedsky.com">Feedsky</a> 的 CEO 呂欣欣
+
+
+<blockquote>唧歪是類似 twitter 的服務。起源於 zixia 特愛大話西遊，「唧歪」一詞這是取材孫悟空抱怨唐僧太過囉唆的一個橋段。但是 zixia 一直到本屆年會才貌似從我們台灣團口中得知「唧歪」在台灣是一個特不雅之詞 XD。</blockquote>
+
+
+
+<a href="http://jiwai.de">唧歪</a> 的 CEO 李卓桓 （zixia）
+
+
+
+
+
+
+
+聯絡家的 CTO <a href="http://brucewang.net/">number5</a>
+
+<a href="http://www.isaacmao.com/">毛主席向輝</a>、<a href="http://www.cnbeta.com/%20">CNBeta</a> 的張濤、<a href="http://blog.timetide.net/">文心</a>、<a href="http://herock.net/">夏炎</a> 以及報導過重慶釘子戶也同時鬧過谷歌前台的<a href="http://www.zuola.com/">周曙光</a>、

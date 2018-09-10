@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 581
+layout: post
+title: !binary |
+  54Sh5ZCN5bCP56uZ5pS56K6K57ay5Z2A57WQ5qeL
+
+date: 2008-05-06 17:24:02 +08:00
+wordpress_url: http://blog.xdite.net/?p=581
+---
+無名小站在今天無預警的改變網址結構，舉例 : 從 http://www.wretch.cc/blog/billypan101&article_id=8891814 改成 http://www.wretch.cc/blog/billypan101/8891814 。
+
+使用 301 Moved Permanently
+
+原先的網址還能連，只是書籤網站的推文狀態就消失了，像獨孤木今天就在<a href="http://funp.com/blogs/info.php?blog_id=383">靠背他在 funp 的狀態被洗牌</a>了 XD

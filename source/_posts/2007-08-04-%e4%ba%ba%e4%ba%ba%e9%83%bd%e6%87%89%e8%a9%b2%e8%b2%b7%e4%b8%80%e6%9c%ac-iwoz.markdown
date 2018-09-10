@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 429
+layout: post
+title: !binary |
+  5Lq65Lq66YO95oeJ6Kmy6LK35LiA5pysIGlXT1o=
+
+date: 2007-08-04 18:17:12 +08:00
+wordpress_url: http://blog.xdite.net/?p=429
+---
+<a href="http://www.flickr.com/photos/14765209@N00/1006321620/" title="相片分享"><img src="http://farm2.static.flickr.com/1141/1006321620_58327ec63b_o.jpg" alt="0010373492" height="270" width="200" /></a><br /><br />你可以在這裡買到：<br /><br /><a href="http://www.books.com.tw/exep/prod/booksfile.php?item=0010373492">http://www.books.com.tw/exep/prod/booksfile.php?item=0010373492</a><br /><br /> 人人（不管是不是工程師）都應該去買一本沃茲尼克的書，閱讀他的書實在太 exciting 了。<br /><br />（PS. 我在三個小時前剛剛拿到，就馬上把它讀完了）<br /><br />大三時修過數位邏輯電路，很明白它在說些什麼。親手開發一個東西並望著他成長受歡迎，那種感覺實在太棒了。（如果你有成功打造過一樣酷玩意的話，你應該明白我在說什麼）。<br /><br />看這本書不太像是看一本他的傳記，而像是自己親手做出奶油蘇打電腦、蘋果一號那種歷歷在前的感覺！強烈推薦大家去買一本。<br /><br /><br /><br />PS. <b>我並沒有參加博客來的夥伴計畫</b> :p <br /><br /><br />

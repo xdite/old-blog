@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 793
+layout: post
+title: !binary |
+  5a6I6K235a2p5a2Q77yM5a6I6K235Y+w54Gj
+
+date: 2008-11-05 16:20:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=793
+---
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/UgHz5mrrT8Y&hl=zh_TW&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UgHz5mrrT8Y&hl=zh_TW&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+才半年前的競選廣告，現在看起來感觸好大。尤其是最新的 comment 
+
+<big><strong>他12歲時 警察可以毆打遊行的民眾 現在又可以了耶 </strong></big>
+
+<a href="http://www.flickr.com/photos/xdite/3005099920/" title="Flickr 上 xdite 的 圖片 2"><img src="http://farm4.static.flickr.com/3019/3005099920_ab2d72bf61_o.png" width="477" height="137" alt="圖片 2" /></a>

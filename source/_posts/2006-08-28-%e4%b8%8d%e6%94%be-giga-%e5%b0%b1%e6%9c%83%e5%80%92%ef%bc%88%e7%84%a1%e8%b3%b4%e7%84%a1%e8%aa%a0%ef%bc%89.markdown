@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 90
+layout: post
+title: !binary |
+  5LiN5pS+IEdpZ2Eg5bCx5pyD5YCS77yI54Sh6LO054Sh6Kqg77yJ
+
+date: 2006-08-28 12:36:14 +08:00
+wordpress_url: http://blog.xdite.net/?p=90
+---
+<p><a href="http://blog.xdite.net/?p=87">談頻寬又不是談遊覽車!(無賴無誠) </a><br /><a href="http://blog.xdite.net/?p=88"> 續：談頻寬又不是談遊覽車（無賴無誠）</a><br /><br />在筆者上述這兩篇文中，可以很清楚的看到：<strong>當初 wkwu 說不肯搬去 Hinet 機房的原因是太貴</strong>。<br /><br />太貴是多貴呢？wkwu 當初說的牌價是 <font color="#ff0000"><strong>NT$ 7500 /mb</strong></font>&nbsp; （這也就是 CustomWu 說的完全沒談過的價錢）沒有談過最惠價就去跟使用者說 Hinet 太貴，<strong>只好委屈你們用 Giga ...再請你們換 ADSL</strong>!好偉大的公司啊 ...</p><p><br />那到底要多少錢才能接受呢? 從<a href="http://blog.xdite.net/?p=87#comment-51">這篇回應</a>我們又知道，即使有該 39分先生說的：1折還是2折? <strong><font color="#ff0000">$ NT 750/mb 也是不夠便宜的</font></strong>。不過我們還是可以從<a href="http://blog.xdite.net/?p=88#comment-58">這篇回應</a>知道，無名可以接受的價格是 <font color="#ff0000"><strong>NT$ 100萬/月</strong></font>（筆者想大概這就是 Giga 開出來的價格）。<br /><br />至於<strong>其他 ISP 的機房呢？想都別想</strong>，因為 wkwu 說<br /><br /></p><blockquote><strong><span class="q">除了 Giga, 其他家都因為與 Hinet 直連, 成本一樣貴(約便宜 5~7成, 但也是超貴)</span></strong><br /></blockquote><span class="q"><br />結論就是最大無名用戶群（ 使用Hinet ADSL者），不管你們交多少 VIP 費都是不可能改善的。<br />因為<strong>不放 Giga ，無名就會倒</strong>。這就是真相。而不是<strong>拉拉扯扯所謂 peering 的戰爭 </strong>...<br /><br />誰沒辦法給無名這麼低廉的價格<font color="#ff0000"><strong>$NT100萬 / 3Gb</strong></font>，誰就有錯...<br />不過這麼優惠的價格，筆者也真想用這種價格租一條線呢ccc<br /><br /><br />----<br />講到這裡，筆者想到一個小故事。<br /><br />有一天，某大學畜牧系的學生在學校私下開了一間牛排館，因為它們偷宰了學校的牛來當原料，所以它們牛排賣的很便宜，因此吸引了很多人來吃，包括外校的鄉民都湧進來吃。學校知道了，就把他們趕出去開牛排館，也不給它們牛了。但這間牛排館的老闆就說，嗚嗚嗚，為什麼我要被趕出來，這好像住在家裡被媽媽收房租一樣傷心....<br /><br />出來開牛排館以後，牛排變得只有原先的 1/100 大小而已，又超級難吃。於是鄉民就抗議，為什麼我們現在付了原先10倍的價錢買牛排，而牛排卻只有原先的 1/100大小。<br /><br />老闆卻說：「我們原本要跟那間最大的A超市進貨啊，它們說一盒100元，我們買不起，你們不爽的話可以叫它們便宜賣給我啊，這樣你們就可以吃到還可以一點的牛排了。」<br /><br />老闆再說：「而且不要說1盒100元啦，1盒10元我都買不起，買了一定倒店。我現在用的就是10盒1元的肉~你們要是可以叫A超市以這種價錢賣給我，一定可以吃到跟以前一樣等級的肉~這裡是A超市的電話: 0800-080-412~快打客服去抗議吧」<br /><br />---<br /><br />這個故事筆者就不想評論了，不過歡迎鄉民發表意見</span>

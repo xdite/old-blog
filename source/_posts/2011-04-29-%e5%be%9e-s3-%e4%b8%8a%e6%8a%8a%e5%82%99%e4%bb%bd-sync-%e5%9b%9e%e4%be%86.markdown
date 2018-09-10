@@ -1,0 +1,49 @@
+--- 
+wordpress_id: 2201
+layout: post
+title: !binary |
+  5b6eIFMzIOS4iuaKiuWCmeS7vSBzeW5jIOWbnuS+hg==
+
+date: 2011-04-29 16:07:43 +08:00
+wordpress_url: http://blog.xdite.net/?p=2201
+---
+最近<a href="http://www.techbang.com.tw">網站</a>還在成長（今天看已經是 alexa 126 了），一些 failover 的需求也開始浮現出來。
+
+像今天站又倒了。本來正想下週要來做 HA，結果又提前被巴了一次。
+
+Anyway，經過<a href="http://blog.xdite.net/?p=2190">上次事件</a>後，磁碟陣列因為目前還沒處理好，於是備份我們就扔上了 S3。今天倒站就是用 Capistrano 把 project deploy 到別台，DNS 改過去。至於圖片就是先切 CDN，再從 S3 拉回來補...。
+
+備份去 s3 我們是用 <a href="http://blog.xdite.net/?p=2190">backup</a> 這個 gem，拉回來就是用 <a href="https://github.com/drnic/s3sync">s3sync</a> 這個 gem。
+寫一下拉回來的步驟。
+
+通常有裝 backup 機器上也已經會有 s3sync。
+所以需要做的只是把 config 設好。
+
+config 是放在 ~/.s3conf/s3config.yml
+
+內容是: 
+
+
+
+<blockquote>AWS_ACCESS_KEY_ID: 'xxxx'
+AWS_SECRET_ACCESS_KEY: 'xxx'</blockquote>
+
+設好之後就可以跑
+
+<strong>s3cmd listbuckets </strong>
+
+看看能不能動。
+
+OK 之後，回存資料指令：以 techbang 為例
+
+在 /srv/approot/techbang/ 下
+
+<strong>s3sync -r tech-techbang-backup:backups/system shared</strong>
+
+把資料從 s3 倒回 shared/system 下
+
+這樣就可以開始拉檔了...
+
+===
+
+補：其實應該先把 cdn 的 origin 指到 s3 上，這樣就不用等補圖。剛剛犯蠢....。

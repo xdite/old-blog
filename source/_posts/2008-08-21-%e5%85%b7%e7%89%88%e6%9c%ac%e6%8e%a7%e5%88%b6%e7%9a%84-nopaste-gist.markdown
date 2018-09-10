@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 652
+layout: post
+title: !binary |
+  5YW354mI5pys5o6n5Yi255qEIG5vcGFzdGUgLSBHaXN0
+
+date: 2008-08-21 02:30:54 +08:00
+wordpress_url: http://blog.xdite.net/?p=652
+---
+身為程式設計師和 IRC 愛用者，最常遇到的問題就是討論片段 CODE 或轉貼軼文是要怎麼處理，直接貼上頻道絕對會造成大洗頻 ....這時候就會有人出來幹 ... 不要再貼了 ....no paste ...。這就是 nopa service 以及名稱的由來（如果我沒記錯的話?）
+
+Anyway, nopaste service 拿來轉貼文章和 Code 蠻好用的，我常在用的大概就是<a href="http://nopa.csie.org"> nopa.csie.org</a>，<a href="http://nopa.pixnet.tw">nopa.pixnet.tw</a>（國外的 nopaste 有時候會有中文問題...）。
+
+不過最近因為常把 code 往 <a href="http://github.com">github</a> 上丟，就又發現他們新推出的一個還不賴的 nopaste service - <strong><a href="http://gist.github.com">Gist</a></strong>。
+
+<a href="http://www.flickr.com/photos/xdite/2781231951/" title="Flickr 上 xdite 的 gist"><img src="http://farm4.static.flickr.com/3124/2781231951_3eecc06dda_m.jpg" width="240" height="151" alt="gist" /></a>
+
+Gist 有什麼特點呢？
+
+可 Download，支援中文，可針對語言上色，可 Edit ，可 Private 這都不出奇 ...
+
+比較值得讚賞的是<strong>可 embed</strong>。（如果眼尖注意到的話，<a href="http://blog.xdite.net/?p=649">上一篇文章</a>的 Ruby Code，我並不是用 Plugin 效果做出來的，是使用 Gist 提供的外連 JS）
+
+<strong>有 Revision</strong> XD
+
+還有<strong>可 Fork</strong> （是的，類似開一個自己專屬的 branch 的意思 XDD，超惡搞...）
+
+難得看到這麼歡樂的 nopaste ... 推薦給大家 XD

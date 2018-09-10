@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 350
+layout: post
+title: !binary |
+  55m+6JCs6YSJ5rCR56uZ5Ye65L6GIQ==
+
+date: 2007-05-13 18:20:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=350
+---
+這是某鄉民長輩丟給我的連結 <a href="http://www.sholfen.com/rously/blog/index.php?load=read&amp;id=73">[無名] 反丁丁大站! 百萬鄉民站出來!</a>
+
+是一頁七幅的連環畫。<a href="http://www.sholfen.com/rously/blog/index.php">copyright by rously</a>
+
+
+<iframe width="500" height="500" scrolling="no" src="http://www.flickr.com/slideShow/index.gne?set_id=72157600209361195"></iframe>

@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 556
+layout: post
+title: !binary |
+  My8yOSDkuIvljYggSGFwcHlEZXNpZ25lciDogZrmnIM=
+
+date: 2008-03-15 04:47:07 +08:00
+wordpress_url: http://blog.xdite.net/?p=556
+---
+各位親愛的鄉親，第三次的 HappyDesigner 聚會要舉辦啦，時間是在<strong> 3/29 下午，地點是在新竹</strong>。
+
+因為這次的講者幾乎都是長輩級人物，也多半是有趣且具深度的主題，因此筆者個人是強烈推薦大家參加！我個人也會去喔:p
+
+（<a href="http://registrano.com/events/happydesigner3">更多詳情可見報名網站</a>）
+
+<a href="http://happydesigner.org/blog/2008/03/13/32">引述 HD 官網介紹</a>
+
+
+<blockquote>這次主題是“Template, Library, and Framework”，也就是「模板、函式庫與框架」。
+
+我們邀請到的來賓有：
+
+    * ericsk: jQuery & UI
+    * tcc: 眾軟成頁
+    * gugod: SPA網頁設計、pQuery與JavaScript
+    * ihower: Rails2’s template 可以怎麼玩 (Rails’s respond_to method)
+    * EvenWu: 網頁識別與彈性
+    * 阿修: 談Eee PC的使用者介面設計</blockquote>
+
+歡迎大家踴躍報名 XD

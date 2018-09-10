@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 213
+layout: post
+title: !binary |
+  d2Vicy10diDnhKHpoJDorabpl5zplonmqILlpJrln5/lkI0hPw==
+
+date: 2006-11-28 00:04:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=213
+---
+<br />前情提要：樂多與 yam 本身並不是子公司或子服務關係，是合作關係。這個合作關係在 Webs-tv 買下 yam 後便生變了。生變以後難免分手，可是這兩家分手的戲碼卻是十分的難看。繼上次 Webs-tv 無預警關掉會員系統，強制切進合併會員畫面後這個無禮的事件後，類似的情形又再上演了<br /><br /><br />這次是 webs-tv <font color="#ff0000"><strong>無預警收回 blog.yam.com 域名</strong></font>。筆者一向是傅瑞德繼續貼的忠實讀者，今天連上長輩的站台，竟然迸出了一個神奇的公告。連回筆者以前自己放在該 BSP 的 blog 也是相同情形 ....<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/307746325/" title="Photo Sharing"><img width="240" height="187" src="http://static.flickr.com/118/307746325_6a4cb0bb21_m.jpg" alt="frad" /></a><br /><br /><br />噗，本來筆者猜 webs-tv 收回 blog.yam.com 這個域名也是遲早的事，只是早或晚罷了。不過再怎麼樣，使用者是無辜的。再<strong>收回域名之前兩家廠商可能會會作好協調與公告吧</strong>，畢竟這牽涉到很多人的 RSS，文章 link，人氣等等，不僅僅只是 BSP 間的戰爭而已。如果真的無預警暫停域名與轉移真是很 XD 的事。<br /><br /><br />雖然這個搬移動作只是 blog.yam.com -&gt; rblog.yam.com，但按照這個公告，卻<strong>幾乎等同於搬家</strong>。很多人就算當初要從 wretch 搬家到 pixnet，卻也會用上<a href="http://www.boggy.idv.tw/WREdirectr/"><img alt="" src="http://static.flickr.com/104/288512668_f674b45dac_m.jpg" /></a>在部落格上作搬家轉向的動作。<br /><br /><br /><br />本來，筆者也以為這是樂多沒盡好公告之責，但是連回 <a href="http://blog.roodo.com">blog.roodo.com</a> 去看，卻絲毫沒有相關於此事的公告。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/307757794/" title="Photo Sharing"><img width="500" height="390" src="http://static.flickr.com/105/307757794_6bc548714b.jpg" alt="roodocann01" /></a><br /><br />點進去公告內容，迸的也是與上上張圖一樣的內容。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/307757709/" title="Photo Sharing"><img width="240" height="187" src="http://static.flickr.com/118/307757709_6f4409b85a_m.jpg" alt="roodocann02" /></a><br /><br /><br />看到此景，筆者寧願相信是樂多被婊了，而不是毫無事先公告。而且選的時間也是 11/27 17:00 以後轉移，大概是吃定下班時間轉移對方毫無反擊能力。筆者不得不稱讚此舉真是高超，收回域名以及絕不作轉向動作肯定會大大打擊 roodo 的營運。只是，手法有必要這麼難看嗎？在天空部落格尚未成為一個好用的部落格（是的，筆者認為它非常的難用，而且使用 FF 觀看，layout 絕對爛掉）之前，這麼難看的手法，恐怕只徒增壞名聲而已吧.....<br /><br /><br />看到兩次這麼蠻橫的手段， roodo 的客戶即使流失了，恐怕也很難說服它們過去使用 webs-tv 吧？<br /><br />----<br />update:<br /><br />又想到一點，<a href="http://look.urs.tw">部落格觀察</a>的 roodo blog 以後要怎麼作計算 XD啊?

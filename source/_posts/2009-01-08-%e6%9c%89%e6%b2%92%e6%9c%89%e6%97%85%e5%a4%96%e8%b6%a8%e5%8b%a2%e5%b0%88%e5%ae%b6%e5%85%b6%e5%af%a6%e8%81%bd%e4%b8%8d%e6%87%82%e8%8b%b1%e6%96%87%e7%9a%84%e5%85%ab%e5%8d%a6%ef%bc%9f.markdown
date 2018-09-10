@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 844
+layout: post
+title: !binary |
+  5pyJ5rKS5pyJ5peF5aSW6Lao5Yui5bCI5a625YW25a+m6IG95LiN5oeC6Iux
+  5paH55qE5YWr5Y2m77yf
+
+date: 2009-01-08 01:47:23 +08:00
+wordpress_url: http://blog.xdite.net/?p=844
+---
+本來是不想發的，可是我看到了某一段註記文字實在太過經典了。所以也來跟個潮流好了。標題格式是仿 PTT 八卦版的問卦文。
+
+如果你有興趣的話，可以先看這兩篇。
+
+朱恐龍：<a href="http://blogs.myoops.org/lucifer.php/2009/01/07/mattfake">Matt Harding跳的傻舞......</a>
+Mr6：<a href="http://mr6.cc/?p=2701#more-2701">VISA廣告跳舞的「Matt」竟是假的，從頭到尾是在美國拍攝？</a>
+
+如果還是看不懂的話，我發揮以前寫 blog 時最厲害的專長「做懶人包」好了。
+
+事情是這樣的，知名趨勢專家 Mr.6 先生昨天 (2009/01/07) 發表了一篇新文章「<a href="http://mr6.cc/?p=2701#more-2701">VISA廣告跳舞的「Matt」竟是假的，從頭到尾是在美國拍攝？</a>」，是有關於 <a href="http://blogs.myoops.org/lucifer.php/2008/08/03/astupidthing">愛跳舞的 Matt </a>（非常知名，常被拿來當勵志樣版）跳舞的影片其實是假的。照往例，大家對於翻譯過的外電新聞很少去質疑或去聽完內容（除非是錯得太離譜）。但因為「愛跳舞的 Matt 是假的」這件事情實在令人太過震撼了，因此瞬間網路上到處都在談論這件事。
+
+但是，如果你其實不懶惰、英文有點程度，看了整段並不算長（13分鐘）的 Video。你會發現知名趨勢專家 Mr.6 對這則影片完全解讀錯誤。Matt 這段演講 *很清楚的* *完全* <strong>是在反擊嘲諷那些指稱他跳舞是作假的人，作假是多麼的不可能</strong>。
+
+所以朱恐龍發了這一篇「<a href="http://blogs.myoops.org/lucifer.php/2009/01/07/mattfake">Matt Harding跳的傻舞......</a>」，清楚的要停止這個很烏龍的網路謠言。
+
+如果這件事，在 知名趨勢專家 Mr.6 承認沒看過這則影片，或是有可能在只看過其他 Blog 報導之後就開始寫文章。那這件事情應該就結束了。不過當我看到這篇文章底下的緊急附註聲明：
+
+<a href="http://www.flickr.com/photos/xdite/3176714789/" title="Flickr 上 xdite 的 mr6-crop"><img src="http://farm4.static.flickr.com/3504/3176714789_0ab08a8651_o.jpg" width="576" height="241" alt="mr6-crop" /></a>
+
+（附上截圖 link：<a href="http://wherethehellismatt.typepad.com/blog/2009/01/san-francisco-california-.html">
+真的是假，假的是真</a> 。）
+
+<strong>我笑了</strong>。我終於理解為什麼為什麼他每篇外電翻譯、或者是外電心得，80% 以上跟正常懂英文的人理解的不太一樣 ....。原來從頭到尾都不是 Mr6 為了耍噱頭，或者是我英文不夠好的原因.....

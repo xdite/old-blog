@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 371
+layout: post
+title: !binary |
+  5pyq57aT5pu46Z2i5YWB6Kix77yM5LiN5b6X5oOh5pCePw==
+
+date: 2007-06-08 12:02:54 +08:00
+wordpress_url: http://blog.xdite.net/?p=371
+---
+<strong>24:43 update:</strong> 
+
+和解了。
+
+獨孤木：<a href="http://www.wretch.cc/blog/phopicking&article_id=10408973">剛剛跟葛力在msn上面聊天</a> 
+Qing：<a href="http://www.javaworld.com.tw/roller/page/qing?entry=2007_6_8_the_official_view_point_of_HEMiDEMi">黑米站方對外掛程式的想法及觀點</a>
+----
+<br />抱歉，我知道我承諾了休刊三天，要好好休養。<br />只不過我剛剛看到了一個消息，覺得實在太震驚太爆笑了，所以貼上來。<br /><br />因為我現在打字負擔很重，我就不寫 comment 只貼連結了。<br /><br />獨孤木：<a href="http://www.wretch.cc/blog/phopicking&amp;article_id=10401097">剛剛有人告訴我，黑米改了使用者條款</a><br />Jedi： <a href="http://jedi.org/blog/archives/005601.html">Web Kuso</a><br /><br />這樣是不是連搜尋引擎，貼紙服務等等都要書面申請呢 ...*沈思*<br />
+<br /><br />
+update :
+Qing：<a href="http://www.javaworld.com.tw/roller/page/qing?entry=2007_6_8_HEMiDEMi%27s_new_user_term">嘖嘖，這是黑米丁丁化的開始嗎？</a>
+

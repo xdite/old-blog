@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 77
+layout: post
+title: "[HS]Xuite \xE6\x81\x90\xE6\x80\x96\xE7\x9A\x84 Pingback ?"
+date: 2006-08-24 12:31:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=77
+---
+<a href="http://blog.gslin.org">gslin 長輩</a> 昨天在他的 blog 發表了一篇文章 <a href="http://blog.gslin.org/archives/2006/08/23/711/" title="Permanent Link to &quot;Xuite Blog 的 Pingback 或是 Trackback&quot;">Xuite Blog 的 Pingback 或是 Trackback</a>。<br />提到了 pingback 後<font color="#ff0000"><strong>竟然會送 java script 回來</strong></font> 0rz......（該文內有圖，請自行點閱）<br /><br /><br />

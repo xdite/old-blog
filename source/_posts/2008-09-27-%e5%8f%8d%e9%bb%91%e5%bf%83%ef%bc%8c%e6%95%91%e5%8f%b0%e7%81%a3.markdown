@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 726
+layout: post
+title: !binary |
+  5Y+N6buR5b+D77yM5pWR5Y+w54GjIA==
+
+date: 2008-09-27 18:43:36 +08:00
+wordpress_url: http://blog.xdite.net/?p=726
+---
+這是剛剛在 PTT 八卦版上，看到熱血鄉民為了台灣三聚氰胺污染奶粉、奶製品事件作的廣告。原作者希望大家大力推廣這個影片，於是筆者也轉貼過來。
+
+不要再欺騙人民用一些文字遊戲包庇廠商，0 ppm 才是正確的標準。
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/T4afFYz0ftk&hl=zh_TW&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/T4afFYz0ftk&hl=zh_TW&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+
+另附有高畫質版本下載
+
+<a href="http://www.badongo.com/vid/889413">http://www.badongo.com/vid/889413</a>
+170MB 高畫質 便當狗下載

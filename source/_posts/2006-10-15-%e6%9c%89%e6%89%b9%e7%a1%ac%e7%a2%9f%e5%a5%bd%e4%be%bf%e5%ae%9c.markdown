@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 165
+layout: post
+title: !binary |
+  5pyJ5om556Gs56Kf5aW95L6/5a6cIT8=
+
+date: 2006-10-15 03:59:01 +08:00
+wordpress_url: http://blog.xdite.net/?p=165
+---
+筆者剛剛吃完宵夜，本來要去睡覺了。<br />結果不小心在有名大站的 BBS 上看到好玩的。<br /><br /><font color="#ff0000"><strong>只要在看板上砍文章，整個版的文章都會消失</strong>。</font><br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/269480906/"><img width="500" height="390" alt="bbspanic" src="http://static.flickr.com/89/269480906_c71a2491b1.jpg" /></a><br /><br />根據筆者曾經擔任5年校站 BBS系統站長的經驗推測，這個情況很可能是 .DIR 爛掉了。（文章不是蒸發了，而是目錄夾會有一個 Index 檔叫 .DIR，BBS程式會去吃 .DIR 然後把文章按照順序 Display 出來，當然如果這個檔爛掉了，你就會在看板看不到任何文章）<br /><br />.DIR 爛掉原因有很多種，有程式 bug ，也有檔案系統不知為何原因不能寫入的。出現不能寫入的情況，po文、轉文就會先變成石頭文。然後如果更幸運的話，一刪東西，.DIR 要重新寫，寫不進去爛掉了，噹噹，整個看板文章通通不見:p<br /><br />不禁令人聯想最近發生的 RAID 故障事件。我只想問，你們到底是不是進了&quot;有批硬碟好便宜!?&quot;啊 XD<br /><br />----<br />連 BBS 的機器都罷工，哀，阿彌陀佛～

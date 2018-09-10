@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 709
+layout: post
+title: !binary |
+  5ZKM5aSa57m957Sb5qiCIHByZS1yZWxlYXNl
+
+date: 2008-09-20 17:18:53 +08:00
+wordpress_url: http://blog.xdite.net/?p=709
+---
+<a href="http://www.flickr.com/photos/xdite/2872985649/" title="Flickr 上 xdite 的 圖片 15"><img src="http://farm4.static.flickr.com/3255/2872985649_a11501725b.jpg" width="500" height="218" alt="圖片 15" /></a>
+
+這是敝社<a href="http://zh.handlino.com">和多</a>參加此次 <a href="http://hackday.ithome.com.tw/yahoo/">Yahoo Open Hack Day</a> 的參賽作品：「<a href="http://bingo.handlino.com">和多繽紛樂</a>」。因為 backend 的部份我們已經完成，只剩下少部份的 fronend 需要修飾，現場朋友反應似乎很好，所以決定 pre-release 給大家試玩。
+
+基本上「<a href="http://bingo.handlino.com">和多繽紛樂</a>」 就是一台有趣的賓果機，你可以將你想要轉的東西丟進去亂轉，再吐一個有趣的結果給你。比如說和多的同事每個月都會聚在一起吃個飯，但是每次吃什麼都要討論半天，就可以利用使用「<a href="http://bingo.handlino.com">和多繽紛樂</a>」，在 Slot 部份選擇 Yahoo 生活家，然後設定條件"新竹燒肉"，拉一下...就可以決定我們這個月要吃些什麼 XD。
+
+<a href="http://bingo.handlino.com/machines/3" title="Flickr 上 xdite 的 圖片 14"><img src="http://farm4.static.flickr.com/3236/2871527935_e9bc92517b.jpg" width="500" height="200" alt="圖片 14" /></a>
+
+我們除了提供自訂 TEXT AREA 外，還提供了 <a href="http://tw.local.yahoo.com/">Yahoo 生活家</a>、<a href="http://www.wretch.cc">無名熱門美女相簿</a>以及 <a href="http://www.diggirl.net">Diggirl 今日熱門</a>等選項，歡迎試玩。本站提供 <a href="http://openid.net/">OpenID</a> 以及<a href="http://developer.yahoo.com/auth/"> Yahoo BBAuth 登入方式</a>。

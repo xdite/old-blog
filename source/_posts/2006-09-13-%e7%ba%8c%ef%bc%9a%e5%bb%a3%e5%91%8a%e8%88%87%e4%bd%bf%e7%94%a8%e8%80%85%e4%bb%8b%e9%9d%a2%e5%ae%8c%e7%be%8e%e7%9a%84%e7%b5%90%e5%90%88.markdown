@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 115
+layout: post
+title: !binary |
+  57qM77ya5buj5ZGK6IiH5L2/55So6ICF5LuL6Z2i5a6M576O55qE57WQ5ZCI
+
+date: 2006-09-13 18:01:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=115
+---
+在  <a href="http://blog.xdite.net/?p=107">廣告與使用者介面完美的結合</a>中，本站提供了相當多的圖做為佐證。其中有一張鄉民拍攝的圖十分經典，<strong>整個圖片蓋住了登入區域</strong>。<font color="#ff0000">這次更經典，連登入選項都沒有</font>。真是佩服該站無比的「變色龍」創意。<br /><br />而在前文刊出後，也引起廣大的迴響，使用者紛紛向站方抗議它們不要這麼多吃資源的怪獸。該站也信誓旦旦的保證對於廣告過度吃資源的問題，以及現有廣告制度問進行將檢討改進。但事實證明它們的誠意還實在讓人嘆為觀止，實在不顧使用者權益到了極點。除了這個版面出現的廣告全為 30K flash 外，主題的廣告竟然也是肥大的 swf 檔，還足足有 150 KB 之多 0rz。<br /><br />本站 <a href="http://blog.xdite.net/?p=104" title="目前有 3 篇評論">GSP (Garbage Service Provider) 的詭計</a> 一文中，也提到了<strong>該站相簿使用者在自己的頁面登入會被強制導向首頁</strong>。唉，真為相簿使用者嘆聲無奈啊 ...不管誰登入，都要強迫吃下不願意的 150+30+30 =210 KB 的 Garbage ~&quot;~...<br /><br />無誠的站台，還是不要期待太多比較好 ...<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/242250806/" title="Photo Sharing"><img width="371" height="500" src="http://static.flickr.com/85/242250806_eb6a81aede.jpg" alt="nologin拷貝" /></a>

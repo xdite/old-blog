@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 121
+layout: post
+title: !binary |
+  5L2I5pmv6Zi75pa35byP5pS75pOK
+
+date: 2006-09-17 11:23:59 +08:00
+wordpress_url: http://blog.xdite.net/?p=121
+---
+最近太久沒有寫 Xuite's Joke。唉，它們一鬆懈下來，果然就會犯蠢。剛剛逛回去 <a href="http://blog.xuite.net/blog/baby/7522476">九月份 Q&amp;A </a>，一整個傻眼。就說<font style="font-weight: bold;">「變色龍首頁」是獨步蠢界的爛招數</font>，抄了會死人。結果老師在講，你沒有在聽嘛....-_-<br /><br /><br />官方小組 blog 換了一個「3顆許願的貓餅乾」，用意是「打書」。很好，這邊全站點閱率最高，你們在這裡做廣告筆者也不會講什麼。但是你們起碼把 theme 和內文弄的協調一點嘛，深綠的底加上又橘又紅又粉紅的粗字 ...讓筆者一點進去，<font style="font-weight: bold;">馬上就有被炸彈炸到眼睛的感</font>覺 ....0rz<br /><br />沒人釘果然是....真不想說你們是「劉禪」啊 ...<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/244511309/" title="Photo Sharing"><img width="240" height="187" src="http://static.flickr.com/85/244511309_719ea86aa6_m.jpg" alt="xuitedos" /></a>

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 282
+layout: post
+title: !binary |
+  5pyJ5ZCN5aSn56uZ5o+Q5L6b6KKr6aet55qE5Ly65pyN5Zmo55W25Yqg6YCf
+  5ZmoPyBYRA==
+
+date: 2007-02-14 14:26:08 +08:00
+wordpress_url: http://blog.xdite.net/?p=282
+---
+根據今日 <a href="http://www.libertytimes.com.tw/2007/new/feb/14/today-life2.htm">自由時報：無名小站再爆佔用交大網路</a><br /><br /><blockquote>交大主秘郭仁財則指出，根據調查，發現<strong>該實驗室的這台伺服器</strong>，因為老舊、不易管理，<font color="#ff0000"><strong>遭到國外駭客植入程式</strong></font>，成為攻擊別人站台的跳板，實驗室發現後緊急處理掉了；<strong>至於宿舍的機器也是一樣的狀況</strong>。校方會要求實驗室加強伺服器的管理。</blockquote>再對照下圖：<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/387700487/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/181/387700487_135c9ae12e.jpg" alt="open05" height="324" width="500" /></a><br /><br />看起來倒像串供沒串好的樣子。交大這樣一說，這下不知道：<br /><br />有名大站是要承認「<b>自己盜用學術資源，提供乾淨的私人 proxy</b>」再請用戶切勿恐慌，還是承認「<b>自己為了省錢，沒有查證就把用戶導引到被駭的加速器，導致用戶資訊有被竊取危機</b>」？<br /><br />真是很期待他們的說法呢？:p<br /><br />-----<br />延伸閱讀：<br /><ul><li>有錢劉部落格 <a href="http://blog.richliu.com/2007/02/13/440/">我用無名, 我用 Open Proxy,請來盜我帳號</a></li></ul>

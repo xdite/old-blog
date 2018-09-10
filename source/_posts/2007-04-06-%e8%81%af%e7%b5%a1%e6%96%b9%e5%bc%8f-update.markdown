@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 308
+layout: post
+title: !binary |
+  6IGv57Wh5pa55byPIHVwZGF0ZQ==
+
+date: 2007-04-06 15:56:39 +08:00
+wordpress_url: http://blog.xdite.net/?p=308
+---
+最近在翻修 BLOG，所以區塊作了一些調整，如果有任何不滿請絕對要推 comment 跟我說。<br /><br />因應大家 BLOG 都有留言區 / 討論區。<br />加上<br /><br /><blockquote><ol><li>大家要爆料時，一開信件軟體寫信就萎了。</li><li>但是留言區又不能寫的很長篇大論。</li><li>懶得開 PCMAN 上 BBS，而且又不能圖文並茂。<br /></li><li>我非常討厭管理 phpBB！<br /></li></ol></blockquote><br />所以，我採取了折衷作法。筆者在 gaaan.com 申請討論版，若是你有 BLOG 文外的事要問我，或是直接就想爆圖文並茂的料，再甚至你要討論奇奇怪怪的東西。請直接上 <a href="http://gaaan.com/xdite">http://gaaan.com/xdite</a>。我會儘量在短時間回覆你或是跟你討論的。<br /><br /><br /><ul><li>如果你想更直接找到我，可以打開 BBS 上 ptt2.cc 找 xdite 這個 id 或 XDite 這個看板，我不太常隱形，所以蠻好找的。<br /><br /></li><li>GMAIL / GTALK ：&nbsp;  <img src="http://services.nexodyne.com/email/icon/x0aFsQ101u6esw%3D%3D/I%2BmMbTc%3D/R01haWw%3D/0/image.png" /> 。<br />這絕對是最快的方式，因為我有開 GTALK (Gmail Notifier )<br /></li></ul><br /><br />-----<br /><br />補充說明：<br /><br />1. 筆者有 msn，但是我不常開，而且只給熟人。所以如果你只是想作論文，想要跟我要 msn 完成你的作業，抱歉我是不會給的。請先循 GTALK 管道。<br /><br />2. 快速進入 XDite of Gaaan 的方式：隨便按 widget 上 show 出的任何一篇標題，再按「←」就可以進入文章列表。<br /><br />3. 製作類似 Recent Gaaan 這類的 widget 可參考「 <a href="http://nightspirit622.blogspot.com/2006/11/google-reader.html">Google Reader 製作聯播完全攻略</a>」這篇文章。<br />

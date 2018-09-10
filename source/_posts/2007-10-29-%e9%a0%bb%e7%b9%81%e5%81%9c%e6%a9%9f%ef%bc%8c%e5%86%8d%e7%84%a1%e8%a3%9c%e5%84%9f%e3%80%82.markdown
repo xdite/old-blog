@@ -1,0 +1,25 @@
+--- 
+wordpress_id: 479
+layout: post
+title: !binary |
+  6aC757mB5YGc5qmf77yM5YaN54Sh6KOc5YSf44CC
+
+date: 2007-10-29 22:53:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=479
+---
+這是節錄蘋果日報的新聞： <a href="http://1-apple.com.tw/apple/index.cfm?Fuseaction=Article&amp;Sec_ID=5&amp;ShowDate=20071029&amp;NewsType=twapple&amp;Loc=TP&amp;Art_ID=3942458">無名小站又停機 網友怒</a>
+
+我只節錄並畫重點。
+
+從昨清晨四時開始，無名小站（http://www.wretch.cc/）停機維護
+二十四小時，預計今晨恢復，不少網友都怒氣沖天。民眾許小姐表示
+，她是付費的ＶＩＰ會員，自從<b>無名今年初與Yahoo!奇摩合併以來，
+類似的停機或是服務中斷情況已經超過十起，<font color="#ff0000">雖然每次都說會延長Ｖ
+ＩＰ時間，但這種服務品質讓人感覺被當冤大頭</font></b>。
+
+<big>Yahoo!奇摩<strong>無補償</strong></big>
+
+
+Yahoo!奇摩公關經理吳苑如說，與無名合併以來因系統須調整測試，
+<font color="#ff0000"><b>停機頻繁狀況預計要持續到年底，對網友很抱歉，但暫無其他補償方
+案</b></font>。

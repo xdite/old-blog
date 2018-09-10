@@ -1,0 +1,74 @@
+--- 
+wordpress_id: 1472
+layout: post
+title: !binary |
+  W+aWsOe2suermV0g5oiR5piv5bCI5a62IOOAjEknbSBleHBlcnTjgI0=
+
+date: 2009-10-19 12:37:28 +08:00
+wordpress_url: http://blog.xdite.net/?p=1472
+---
+這是昨天在 2009 Yahoo Hack Day 做出來的新網站：「<a href="http://imexpert.tw">我是專家</a>」。
+
+開發者是：<a href="http://blog.xdite.net">xdite</a>（ Rails Backend ） ,<a href="http://ihower.idv.tw/blog"> ihower</a> （ Rails Backend ）, <a href="http://blog.othree.net/">othree</a> （前端工程與 UI ）, <a href="http://evendesign.tw/">evenwu</a >（視覺設計與 UI 調校）
+
+
+<a href="http://www.flickr.com/photos/xdite/4024366287/" title="Flickr 上 xdite 的 我是專家 i'm expert"><img src="http://farm3.static.flickr.com/2591/4024366287_6ef18e3b3a.jpg" width="500" height="224" alt="我是專家 i'm expert" /></a>
+
+原始的想法是：
+
+台灣到處都是專家。而且<strong>人民不管自己是不是專家，都愛（寫文章）冒充專家</strong>。而且我們是一個高度「專家治國」導向的社會。只要你是專家，就能治國！
+
+問題是，因為專家太忙，有可能忙著喝喜酒....吃大餐 ....應酬演講，忙到忘記（<del datetime="2009-10-19T03:55:18+00:00">治國</del>）寫文章。
+
+而<strong>專家有一種傾向，不管他懂不懂，就是要搶先插頭香發表，證明他自己很厲害</strong>！
+
+我自己也是這種人。因此當我加班加到翻掉（我是真的連續加了三個禮拜的班 T_T），就沒有時間裝專家。尤其是上個月真的是無敵爆忙，我一整個月都沒有寫文章！不能搶先插頭香裝專家，我真的很痛苦。為了解決廣大的專家的這些困擾，因此我們決定開發一個網站解決這個問題！
+
+這個網站就是 「我是專家」 imexpert.tw！
+
+這個網站只有一個目標：節省（偽）專家的寶貴時間！目標以自動整合的方式產生有效的內容，快速發文，並同步至許多網站。
+
+＝＝＝
+
+當專家要寫一篇「治國」相關的文章時，專家只要輸入「治國」這個關鍵字。系統就會整合各大網站的搜尋結果，並自動先幫專家預先生好內容！專家只要動動滑鼠拖拉，很快的就能生好一篇文情並茂的文章！我們甚至支援了「自動產生標題」以及「自動計算關鍵字」的神奇功能！
+
+<a href="http://www.flickr.com/photos/xdite/4025161634/" title="Flickr 上 xdite 的 我是治國專家"><img src="http://farm4.static.flickr.com/3515/4025161634_80520a173f.jpg" width="500" height="287" alt="我是治國專家" /></a>
+
+你一定會想，這編輯器好是好。但是寫完還要自己複製貼上到部落格去，實在太不方便了！
+
+不不不，我們搶先想到這一步了。我們極度貼心的設計了<strong>貼完文章可直接同步張貼到自己部落格</strong>的功能！
+
+<a href="http://www.flickr.com/photos/xdite/4024435397/" title="Flickr 上 xdite 的 我是專家 -- 同步"><img src="http://farm3.static.flickr.com/2669/4024435397_568c91712a.jpg" width="500" height="156" alt="我是專家 -- 同步" /></a>
+
+目前總共支援：<strong>Wordpress、PIXNET、總統府網站</strong>（你沒看錯）。預計之後還會新增同步到 Blogger 以及 無名小站 部落格功能。
+
+<a href="http://www.flickr.com/photos/xdite/4025205352/" title="Flickr 上 xdite 的 我是專家 治國週記"><img src="http://farm3.static.flickr.com/2528/4025205352_53246113a6.jpg" width="500" height="281" alt="我是專家 治國週記" /></a>
+
+是不是很方便呢！心動不如馬上行動吧。
+
+（因應了每個專家不同的需求，我們也提供了<a href="http://imexpert.tw/pricing.html">不同等級 VIP 的 Plan</a>，如果您有更多的需求，歡迎直接寫信與我們聯絡。）
+
+＝＝＝＝＝
+
+後記：這個網站最後當然是「沒有得獎」。我們本來是要做一個正常向網站的，但做到最後越來越失控。不僅投影片機車，網站也機車，會得獎才有鬼。不過做這網站時（兩天）真的抄有趣，隊友在開發這網站時，好幾度笑到岔氣寫不下去...我想到網站能寫到這麼爽，也夠了 XD 
+
+
+這個網站的技術使用到了
+
+
+<blockquote>
+1. Ruby on Rails
+2. jQuery 
+3. typekit
+4. Yahoo! Boss 
+5. Yahoo! Knowledge
+6. Google news search
+7. Flickr search
+8. Yahoo! 斷詞 ( for tag / title )
+9. XML RPC ( wordpress / PIXNET )
+10. TinyMCE ( 編輯器）
+11. Google Data API ( for blogger)
+12. Yahoo OAuth & Wretch API ( for wretch)
+</blockquote>
+
+

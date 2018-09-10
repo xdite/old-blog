@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 738
+layout: post
+title: !binary |
+  UmVhbFNjb29wIC0g5o+t56m/5pS/5a6i5ZKM5ZCN5rWB55qE6KyK6KiA55qE
+  6Kqe6Z+z5YiG5p6Q56uZ
+
+date: 2008-09-29 01:46:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=738
+---
+這是剛從 TechCrunch 上看到的一個有趣的網站 <a href="http://realscoop.com/">RealScoop</a>，<a href="http://www.techcrunch.com/2008/09/28/realscoop-tells-you-when-politicians-and-celebrities-are-lying/">報導在此</a>。
+
+運作方式是這樣的：上傳一段影片，系統會對"即時分析"這段話是不是可靠，若是可信標尺就會維持在綠色區域，抱持懷疑就會變成黃色，根本就是謊話直接變成紅色。
+
+雖然不知道這個網站到底是真是假，因為現在也不開放使用者隨便亂測。
+不過剛剛在上面亂看幾段影片，肚皮就快笑破了...
+
+比如柯林頓與陸文思基的這一段：
+
+<object width="414" height="371"><param name="movie" value="http://realscoop.com/content/v/clinton-lewinsky"></param> <param name="wmode" value="transparent"></param><param name ="AllowScriptAccess" value="always"></param><embed src="http://realscoop.com/content/v/clinton-lewinsky" type="application/x-shockwave-flash" wmode="transparent" AllowScriptAccess="always" width="414" height="371"></embed></object>
+
+還有 Miachael Jackson 的這一段：
+
+<object width="414" height="371"><param name="movie" value="http://realscoop.com/content/v/michael-jackson-geraldo-2006"></param> <param name="wmode" value="transparent"></param><param name ="AllowScriptAccess" value="always"></param><embed src="http://realscoop.com/content/v/michael-jackson-geraldo-2006" type="application/x-shockwave-flash" wmode="transparent" AllowScriptAccess="always" width="414" height="371"></embed></object>

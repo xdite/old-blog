@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 817
+layout: post
+title: !binary |
+  W+W7o+WRil0g5LiJ5bCP5pmC5b+r6YCf5Ym15qWt5p6256uZ55qE6Kqy56iL
+
+date: 2008-12-02 23:39:59 +08:00
+wordpress_url: http://blog.xdite.net/?p=817
+---
+今天看到友站 <a href="http://mr6.cc/?p=2553"> Mr .6 專為創業家設計的程式速成課</a>的課程，驚了一下。
+
+用 Ruby on Rails 是可以快速寫好網站。不過自學 Ruby On Rails 到寫的上手熟手（幾個小時寫出一個網站），大概也要幾個月的學習曲線（前提也要熟悉 Web Development)。
+
+友人看了以後相當心動，他一向不太信<strong>我什麼寫網站需要花很多時間練習實作的狗屁肺腑之言</strong>。看到這篇廣告就興沖沖寫信去打聽了一下詳情，收到回信之後給我了<a href="http://mr6online.com/class/class.static">這個課程網址</a>。他說 Mr.6 比我想像中的還強猛，回信裡面<a href="http://mrxoffline.appspot.com/mail.html">他更強調了<big><strong>四堂課，每次三小時。上完以後基本上什麼網站都寫的出來！</strong> </big>...</a>。
+
+( 雖然，課程大綱裡面好像只有一個小時在講 API ...還是 introduction )
+
+這麼強猛大補!! 聽了也讓我熱血沸騰啊!! 不過這個課程開在週六，是我固定休養生息或寫新東西的日子 orz 要是開在其他天，我一定去上啊 XD
+
+anyway 各位有興趣創業的，一定要去報名看看啊 XD....

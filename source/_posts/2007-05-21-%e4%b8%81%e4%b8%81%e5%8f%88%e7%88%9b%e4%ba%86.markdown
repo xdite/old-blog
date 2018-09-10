@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 355
+layout: post
+title: !binary |
+  5LiB5LiB5Y+I54ib5LqGICE/
+
+date: 2007-05-21 00:58:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=355
+---
+丁丁在剛剛十分鐘前又爛了，修好了沒有不知道。<br />不過看起來又是在幹線上修 code 的事情吧，一堆 php code expose 出來。<br /><br /><a href="http://www.flickr.com/photo_zoom.gne?id=506103523&amp;size=o" title="Photo Sharing"><img src="http://farm1.static.flickr.com/201/506103523_ad20360b75_m.jpg" alt="photokingbroken" height="187" width="240" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/506103617/">sana的 blog 也爆了</a><br />
+
+update :
+
+<ul>
+凌晨 4:00 起丁丁公告維修。
+	<li>延伸閱讀：大神的 <a href="http://blog.gslin.org/archives/2007/05/21/1177/">大概是下錯 SQL query 在 restore 資料庫之類的…</a> </li>
+
+-------
+筆者在猜大概也是臨時 restore 之類的。因為這次維修好像不是表定維修，而是臨時維修。如果新機器到應該會排個表定...</ul>
+

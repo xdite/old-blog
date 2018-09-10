@@ -1,0 +1,90 @@
+--- 
+wordpress_id: 33
+layout: post
+title: !binary |
+  55Sc6Jyc55qE5pCc5bCL5pyN5YuZICgyKQ==
+
+date: 2006-08-01 13:18:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=33
+---
+其實這篇的發佈，本來是要緊隨 <a href="http://xuite-joke.blogspot.com/2006/07/1_26.html">甜蜜的搜尋服務 (1)</a> 一起出刊的。
+
+無奈 Xuite 官方一直不停的噴笑話出來，害筆者貼笑話、剪截圖忙得手忙腳亂，這篇稿子才拖到今天刊出。(謎之音：愛拖稿就說嘛 =_=)
+
+----
+
+講完了全域搜尋部分，接下來我們看看個人搜尋部分。
+重看一下服務表吧!
+<img src="http://static.flickr.com/78/198847374_322a3be5b8_o.jpg" />
+
+Photo.xuite
+
+晴天霹靂! photo.xuite 竟然沒有個人搜尋服務...
+
+來說一個慘劇吧：
+
+筆者在 xuite 剛推出服務時，就試用了相簿功能。而龜毛座的筆者，因為每天頭腦塞了太多東西，深怕塞太多東西暫存記憶體會爆掉.....所以很堅持的將自己在xuite上放的重要照片，一一加了名稱和簡單敘述，方便將來需要的時候，可以很快的能找到這張照片。
+
+<img src="http://static.flickr.com/61/203587262_57cbb84eb5_o.jpg" />
+
+很快的有一天，筆者突然需要這張照片了。因為那批照片多達200張，筆者沒耐心一頁一頁翻...噹！筆者想到了搜尋！搜尋...搜尋...搜尋功能勒？
+
+.
+.
+.
+
+幹！沒有搜尋功能！靠邀，那筆者之前在寫相片名稱和相片敘述是在寫辛酸的啊？
+
+給拎杯裝小偉。於是，筆者發誓，再也不用 xuite 的相簿了，再用就剁雞雞...
+
+
+
+----
+
+Blog.xuite
+
+最可笑的就是日誌部分了，根本是「國王的"日誌搜尋功能"」。（詳見系列 <a href="http://xuite-joke.blogspot.com/2006/07/1.html">(1)</a>、<a href="http://xuite-joke.blogspot.com/2006/07/2.html">(2)</a>、<a href="http://xuite-joke.blogspot.com/2006/07/3.html">(3)</a>、<a href="http://xuite-joke.blogspot.com/2006/07/4.html">(4)</a>、<a href="http://xuite-joke.blogspot.com/2006/07/5.html">(5)</a>），大概維修中維修了10個月 ( 2005/10/01~2006/8....continue)吧。
+
+
+但搜尋功能也不是關閉，只是用 javascript 擋住而已，只要在網址列輸入 bid 和 keyword 一樣可以搜，只是什麼都搜不到而已。範例：在 Xuitejoke 搜尋 CSS
+
+<a href="http://blog.xuite.net/blog_list.phtml?bid=429653&amp;st=s&amp;keyword=CSS">http://blog.xuite.net/blog_list.phtml?bid=429653&amp;st=s&amp;keyword=CSS</a>
+
+
+不過搜尋功能維修了10個月啟發了我們一件事：跑到 Q&amp;A 報修，Xuite 就真的會解決問題嗎!?亦或者，解決問題的完工日遙遙無期呢? :p
+
+（哦，最近又有一個 <a href="http://xuite-joke.blogspot.com/2006/08/blogxuite-css.html">CSS 慘劇</a>，筆者真想知道什麼時候會維修完畢呢 :P)
+
+
+----
+
+Gbook.xuite
+
+
+再來看看 Guestbook 吧! Guestbook 是最值得稱許的，因為 Guestbook 有搜尋功能! (啪啪啪啪啪)終於有搜尋功能可以給筆者測試了，筆者好感動 T_T
+
+於是筆者跑到自己在 xuite 上的某個留言版去測試，發了一篇留言（標題：1234，內文 5678）。然後使用搜尋功能分別去測試「搜尋標題的速度」和「搜尋內文的速度」。（筆者在該留言版只有1篇留言!）
+
+
+筆者是用 Firefox + "Fasterfox extension"（有計時功能）下去測的。
+以下是兩張實測圖：搜尋"1234"花了  211 秒，"搜尋"5678" 花了 208秒，噗。
+
+<a href="http://www.flickr.com/photos/49274115@N00/203608292/" title="Photo Sharing"><img src="http://static.flickr.com/68/203608292_fdbdc89454_m.jpg" alt="gbooksearchresult01" height="187" width="240" /></a>
+<a href="http://www.flickr.com/photos/49274115@N00/203608293/" title="Photo Sharing"><img src="http://static.flickr.com/68/203608293_97a7ed8681_m.jpg" alt="gbooksearchresult02.jpg" height="192" width="240" /></a>
+
+也許，你又會說 fasterfox 是計算到頁面 load complete 的時間，這種算法對 xuite 不公平。
+
+好吧，筆者也有用眼睛去注意了一下，另外給了一個新的數據。如果你點大圖的話，可以看到搜尋 "1234"，result 真正開始蹦出來的時間是 111秒，"5678"則是 104秒。
+
+
+.........好厲害的搜尋演算法 XD。
+
+----
+
+後記：筆者在 irc 聊天時提到這件有趣的事情。頻道上有位 a*man 長輩 叫我別太苛責 guestbook.xuite 啦。
+該長輩如是說：
+
+
+   "親愛的客戶您好,關於您反應有關留言版搜尋時間太長的問題,是因為您目前留言不夠多的關係,當您留言成長到超過10萬筆,我們的搜尋功能一樣只要花247秒搜尋,請耐心等待"
+
+

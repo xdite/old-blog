@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 179
+layout: post
+title: !binary |
+  5pyJ5ZCN5pyJ6Yyi5oO555qE56aNPw==
+
+date: 2006-10-29 14:31:31 +08:00
+wordpress_url: http://blog.xdite.net/?p=179
+---
+<a href="http://www.libertytimes.com.tw/2006/new/oct/29/today-life2.htm">自由時報 10/29 報導&nbsp; [新聞]無名小站測試 駭到PIXNET</a><br /> <br /> 以下是有名大站吳大對此篇 blog 的感想，畫面翻攝自<a href="http://www.wretch.cc/blog/wkwu&amp;article_id=5051770">吳大 blog</a><br /> <br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/281973196/"><img width="582" height="354" alt="wrong2" src="http://static.flickr.com/104/281973196_01db6862fa_o.jpg" /></a>

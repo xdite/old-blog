@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 597
+layout: post
+title: !binary |
+  VmVyeVhEIOW6leWxpOWNh+e0muWIsCBSYWlscyAyLjE=
+
+date: 2008-07-01 20:35:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=597
+---
+     <a href="http://g.veryxd.net/gphotos/94520f5" target=_blank><img src="http://photog.veryxd.net/gphotos/0006/7571/1e0aca1a7066e48f5406db233933c579.gif" border="0"></a>
+
+<a href="http://veryxd.net">VeryXD</a> 是筆者今年年初一時興起寫的網站，不過當時 Rails 2.0 尚未讓人完全放心。因此還是使用 Rails 1.2.6 開發。不過因為新工作的關係，在敝社開發時摸的幾乎都是 Rails 2.0 的東西，而我在開發<a href="http://zh.handlino.com">敝社</a>新作 <a href="http://sudomake.com">sudomake</a> 時，更是直接用了 Rails 2.1，named_scope 讓我感到相當強大與暴力。
+
+但鑑於 Rails 1.2.6 與 Rails 2.0+ 實在差異過大，因此雖說是升級，但是幾乎等於重寫（我吃盡了苦頭）。花了我很大的力氣才重新整備完畢，終於在本週末改版完成（雖然你不會感到加了什麼功能，事實上我也沒有添加任何功能，只是以更有效率的方式重寫了一遍），請舊語新知繼續愛用。
+
+btw (<a href="http://d.veryxd.net">絕望網</a>，我也一併升到 Rails 2.1 了）
+
+另外附上一個 rake stats 的數據供大家參考：
+
+以 REST 方式重寫 VeryXD，Controller 的行數幾乎少了一半。
+
+
+
+<a href="http://www.flickr.com/photos/xdite/2627257585/" title="Flickr 上 xdite 的 VeryXD 1.2.6 &amp; VeryXD 2.1 Controller code"><img src="http://farm4.static.flickr.com/3124/2627257585_117c851150.jpg" width="500" height="465" alt="VeryXD 1.2.6 &amp; VeryXD 2.1 Controller code" /></a>

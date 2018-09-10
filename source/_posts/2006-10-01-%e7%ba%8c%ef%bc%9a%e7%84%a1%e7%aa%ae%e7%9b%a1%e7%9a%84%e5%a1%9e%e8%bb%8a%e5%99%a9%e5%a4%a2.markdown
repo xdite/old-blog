@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 141
+layout: post
+title: !binary |
+  57qM77ya54Sh56qu55uh55qE5aGe6LuK5Zmp5aSi
+
+date: 2006-10-01 16:24:10 +08:00
+wordpress_url: http://blog.xdite.net/?p=141
+---
+最近行程小滿，這篇本來幾天前就要寫的。但是因為自己幾乎都是在外面，帶的又是跟我爸借的小筆電 Asus s200，寫作很不方便，所以只好拖到有空坐在桌機前再寫 @_@<br /><br />----<br />在 <a href="../../../../../?p=126">無窮盡的塞車惡夢</a> 中提到，有名大站的 blog 首頁老是愛擺自動開啟的影片，大把頻寬被浪費。本來筆者以為是播放影片的引擎先天上無法做自動關閉的動作，被砲轟過後可能需要時間修改 ....所以才一直都不改善。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/257089636/" title="Photo Sharing"><img width="240" height="187" src="http://static.flickr.com/88/257089636_a654fe23cc_m.jpg" alt="jaymv2" /></a><br /><br />後來越想越奇怪，首頁影片的引擎的面版跟 user blog 上長的不是差不多嗎？奇怪，我在<a href="http://www.wretch.cc/blog/cwwany">彎彎網誌</a>上看到她放的影片卻是要「<strong>click to play</strong>」才能播。呃，這到底是怎樣 .....<br /><br />於是筆者就開了 source code 來看，...............e04<br /><br /> <blockquote>&lt;param name=&quot;movie&quot; value=&quot;http://pic.wretch.cc/icon/flvplayer_mute.swf?file=http://pic.wretch.cc/ic<br /> on/flvplayer.swf?file=http://pic.wretch.cc/icon/flvplayer.swf?autoStart=true&amp;file=<br />http://pic26.pic.wretch.cc/photos/32/j/jayalfa/1/1335347743.flv&quot; /&gt;<br /> </blockquote> <br /><br />這段語法說明了幾件事<br />
+<ol>
+    <li>「autoStart=true 」的意思是，mv 預設開啟是<strong>「<font color="#990000">有名大站故意動的手腳</font>」</strong>。</li>
+    <li>「flvplayer_mute.swf」的意思是，有名大站也知道預設開啟的情況下，load 頁面一次聲音就會放一次，絕對會被使用者發現而招致強烈的幹角，<font color="#990000"><strong>所以關靜音，悄悄的灌流量</strong></font> .....</li>
+    <li>寫這個 flash 播放引擎的人很弱 ，可以用參數搞定的方式，硬是要開三個 flash 做 pipe ...超吃使用者系統資源不說，<strong><font color="#990000">proxy 難以 cache，造成大量頻寬上的浪費</font></strong><br />   </li>
+</ol>
+<br /> 而且，筆者在測這個頁面 load status 時，是拿家中最好的電腦（Athlon 3.0G + RAM 1G）去測，在 Firefox 下開了兩個分頁，（都是開同一個頁面 http://www.wretch.cc/blog/），FF load 到最後當掉 ....試了好幾次都一樣（開一個超 lag，開兩個直接當，不能開三個 T_T）。相信一般鄉民電腦的等級，可能都沒有筆者測試環境這麼好，筆者測試結果尚且如此，那鄉民的電腦呢?<br /> <br /> <big><big><strong><br /> 好一個不負責任的站台</strong></big></big>啊 ....

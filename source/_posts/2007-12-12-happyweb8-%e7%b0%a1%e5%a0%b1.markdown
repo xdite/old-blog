@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 508
+layout: post
+title: !binary |
+  SGFwcHlXZWI4IOewoeWgsQ==
+
+date: 2007-12-12 01:01:46 +08:00
+wordpress_url: http://blog.xdite.net/?p=508
+---
+雖然主標題是北京網誌年會，不過我說過要讓沒來這場的人後悔，所以最後我講的主題是:[如何寫出一個月入數千美金 adsense 的 Blog]。
+現在放上來讓大家飲恨一下。<a href="http://www.slideshare.net/xuitejoke/happyweb8-encode-199841/download">直接下載 link 在此</a>。
+
+
+<div style="width:425px;text-align:left" id="__ss_199841"><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=happyweb8-encode-119739207048912-3"/><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=happyweb8-encode-119739207048912-3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"><a href="http://www.slideshare.net/?src=embed"><img src="http://static.slideshare.net/swf/logo_embd.png" style="border:0px none;margin-bottom:-5px" alt="SlideShare"/></a> | <a href="http://www.slideshare.net/xuitejoke/happyweb8-encode-199841" title="View 'Happyweb8 Encode' on SlideShare">View</a> | <a href="http://www.slideshare.net/upload">Upload your own</a></div></div>

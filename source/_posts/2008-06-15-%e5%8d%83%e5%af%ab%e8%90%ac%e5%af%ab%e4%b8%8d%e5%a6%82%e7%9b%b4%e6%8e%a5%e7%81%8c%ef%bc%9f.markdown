@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 591
+layout: post
+title: !binary |
+  5Y2D5a+r6JCs5a+r5LiN5aaC55u05o6l54GM77yf
+
+date: 2008-06-15 23:02:48 +08:00
+wordpress_url: http://blog.xdite.net/?p=591
+---
+今天正在寫一些文章，需要翻閱一些資料，就上了「<a href="http://door.urs.tw">部關門</a>」，發現了一些相當有趣的事。
+
+其中尤以這個 <a href="http://kisworld.blogspot.com/">KWWK 部落格</a> 最讓人覺得有趣啊。<del datetime="2008-06-15T15:30:41+00:00">只有三篇文章，使用<a href="http://www.flickr.com/photos/xdite/2580044465/">「kisworld」在 google 也約只有 7700 個搜尋結果</a>，就在部落格觀察排名 124 。那些其他辛苦認真寫，還怕自己不認真寫排名會巨幅震盪的作者應該會覺得很幹吧 XD</del>
+
+update: 內容看起來是這 blog 是 gene 新公司的 (?) 部落格，然後 124 團體部落格的排名。沒想到貼紙有+ cat?=5 顯示群組排名這麼樣一個秘技，部落格觀察壞掉疏於查證真是抱歉啊。
+
+不過讓人好奇的是，為什麼合作成員的部落格排行都高得嚇死人，而每個人的 daily pv 大概卻都只有 200 以下 ...:p
+
+<a href="http://www.flickr.com/photos/xdite/2580014815/" title="Flickr 上 xdite 的 kwwk"><img src="http://farm4.static.flickr.com/3123/2580014815_5e54856966_o.jpg" width="281" height="140" alt="kwwk" /></a>
+
+<a href="http://www.flickr.com/photos/xdite/2579985381/" title="Flickr 上 xdite 的 kissworld"><img src="http://farm4.static.flickr.com/3049/2579985381_3e89b3e448.jpg" width="256" height="500" alt="kissworld" /></a>

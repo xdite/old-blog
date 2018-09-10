@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 571
+layout: post
+title: !binary |
+  T3J6IOaQnOWwi+W8leaTjuaenOeEtuiuk+S6uuW+iCBvcno=
+
+date: 2008-04-14 18:23:50 +08:00
+wordpress_url: http://blog.xdite.net/?p=571
+---
+幾分鐘之前在 PTT 八卦版看到有人轉貼一則什麼 <a href="http://www.orzmap.com.tw/">orzmap 搜尋引擎</a>的<a href="http://www.nownews.com/2008/04/14/91-2260340.htm"> 相關新聞</a>。看新聞報導的架勢有記者會有什麼關鍵技術，看起來有模有樣蠻唬人的。
+
+於是剛剛就跑去試玩了一下。沒想到看起來也是沒啥特別的。不過迸出的錯誤畫面還讓我蠻好奇的。還特地確認了一下我的同文堂是不是開「自動轉換」。
+
+<a href="http://www.flickr.com/photos/xdite/2413320668/" title="Flickr 上 xdite 的 erro01-e"><img src="http://farm3.static.flickr.com/2166/2413320668_7bc79b6d29.jpg" width="433" height="256" alt="erro01-e" /></a>
+
+「髮到郵箱」XD 很明顯是對岸用語。
+
+測完了正常的東西當然要測一下不正常的，我每次都很想知道別人的網頁或功能是怎樣作的。於是，就在搜尋框裡面打了「'」（單引號」，看看會跳出什麼....。
+
+<a href="http://www.flickr.com/photos/xdite/2413323016/" title="Flickr 上 xdite 的 error02-e"><img src="http://farm3.static.flickr.com/2269/2413323016_fa71f82250.jpg" width="500" height="142" alt="error02-e" /></a>
+
+嗯，果然是對岸作的而且還很令人 orz 啊  XD
+
+[ 有人說他看不懂笑點 XD，就是搜尋引擎竟然  1. 沒有作特殊字元 filter 2. 直接用 sql 的 % 3. 用 select count(*) as count，這些都是很基本的不能犯的錯誤 ( 更甚至的說，這根本不是搜尋引擎的作法。而若以一個單純資料網站的搜尋功能來說，這樣寫是遠遠不及格的...疏忽掉許多基本知識）而且看它下的 SQL 語法，讓人感覺不到它核心技術厲害在哪裡啊...工人智慧嗎(?) ] 

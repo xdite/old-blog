@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 432
+layout: post
+title: !binary |
+  44CM6Ka654Sh5ZCN54ib77yM5L2G5pyJ5L+h5b+D5Y+v5pS56YCyLi4u44CN
+  44CA
+
+date: 2007-08-06 19:14:47 +08:00
+wordpress_url: http://blog.xdite.net/?p=432
+---
+最近幾個月常有人丟 y 的<a href="http://asp.104ehr.com.tw/jobsearch.asp?wci=doview&comid=yahoo&jid=3875325">徵 producer 連結</a>給我（大概超過收到超過十次了），今天甚至還 <a href="http://www.ettoday.com/2007/08/06/11444-2137246.htm">有人把新聞連結都丟給我</a>了 :p<br /><br /><blockquote>點進Yahoo!奇摩的徵才網頁，在職稱「Wretch Product Producer（無名小站產品製作人）」一欄，除了必須具備基本的技能，有兩個附加條件格外醒目，一是「重度網路使用者，鄉民更佳」，另一則為「覺得無名很爛，但是有信心可以改進無名者最佳」，由於無名小站凸槌連連，難不成，連Yahoo!奇摩自己都看不下去了？<br /><br />吳苑如笑說，這只是無名一貫「平鋪直敘」的風格，沒有其他意思，純粹因為他們需要具有批判能力的人，要能看到無名的缺點，才能把它改善得越來越好。</blockquote><br /><br />哈，要在這裡呼籲別再扔我這則連結了。我在六月中（p2 我有提及）直接寄履歷（內已註 xdite ）的結果是：在徵人系統內躺一個多月沒進任何處理流程，然後七月底再開結果已經直接被丟進人才資料庫了。<br /><br /><br />我想，發現太多缺點也不受歡迎吧 :p<br />

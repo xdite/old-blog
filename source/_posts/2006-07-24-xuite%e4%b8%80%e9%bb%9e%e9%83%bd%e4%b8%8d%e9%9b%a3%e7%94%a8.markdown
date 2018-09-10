@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 15
+layout: post
+title: !binary |
+  WHVpdGXkuIDpu57pg73kuI3pm6PnlKg=
+
+date: 2006-07-24 02:27:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=15
+---
+上個禮拜收到一封信，我所有在Hinet的信箱通通中獎了
+以下是信的全文，紅色放大的是我自己的標記，與Hinet無關。
+感謝<a href="http://tw-spammail.blogspot.com/">台灣廣告信尋奇</a>與Google帶給我的<a href="http://0rz.net/b71Ck">靈感</a>
+
+主旨：一路ADSL 一個白金Xuite 讓親友與您同享尊榮
+日期：2006/7/11 上午 10:52
+
+<div>  <p>親愛的HiNet用戶，您好：</p>  <p> </p>  <p>歡迎你成為HiNet用戶讓我們有機會為您服務，HiNet用戶除了擁有用戶專屬的產品服務之外，還具有成為HiNet白金卡會員之資格，享受HiNet會員的免費服務，如Xuite網路免費服務、各加值頻道的免費服務等。</p>  <p> </p>  <p>HiNet白金卡會員可擁有Xuite服務500MB的網路空間，包括五大基本服務：</p>  <p><!--[if !supportLists]-->1.      <!--[endif]-->個人化入口(MyXuite)</p>  <p><!--[if !supportLists]-->2.      <!--[endif]-->信箱</p>  <p><!--[if !supportLists]-->3.      <!--[endif]-->硬碟</p>  <p><!--[if !supportLists]-->4.      <!--[endif]-->相簿</p>  <p><!--[if !supportLists]-->5.      <!--[endif]-->網誌(Blog)</p>  <p> </p>  <p>你可以依網路使用需求自行調整各服務項目空間大小，在MyXuite設定個人資訊收集內容，用Xuite信箱收發信件、以Xuite硬碟儲存檔案不須帶隨身碟、把照片放在Xuite網路相簿上與朋友分享、把心情記錄在Xuite網路日誌上佈置自己網路的小窩，還可以設定背景音樂，有很多很多的夢想都可以在Xuite上實現。Xuite一點都不難用，若有問題，到各服務站長日誌上就可以找到解答。    </p>  <p> </p>  <p>為加強服務HiNet客戶，我們更開放用戶一個HN號碼可以申請一個會員帳號，若你申請多路ADSL，你可以以一個HN號碼自己申請一個會員帳號外，把多餘的HN帳號分享給你的親朋好友或家人，他們可以使用你其他的HN號碼申請HiNet白金卡會員，與您同享白金卡的尊榮服務。千萬別錯過HiNet為你個人提供貼心的網路免費服務，趕快來加入HiNet白金卡會員。</p>  <p> </p>  <p>祝 美夢成真  Xuite為你圓夢</p>  <p> </p>  <p>My Xuite , So sweet！</p>  <p> </p>  <p> </p>  <p> </p>  <p>HiNet會員中心敬上</p>  <p>備註：</p>  <p><!--[if !supportLists]-->1.      <!--[endif]-->相關網址：xuite.net</p>  <p><!--[if !supportLists]-->2.      <!--[endif]-->HN號碼為HiNet網路服務之客戶代碼，你可以查閱您的ADSL用戶卡，或來電(0800-080-412) 洽詢。</p>  </div>

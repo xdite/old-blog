@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 515
+layout: post
+title: !binary |
+  5Lit5q2j5bufIDIuMCAtLSDlj7DngaPniYggYWxwaGE=
+
+date: 2007-12-17 09:18:45 +08:00
+wordpress_url: http://blog.xdite.net/?p=515
+---
+上禮拜因為拆匾額風波，在日本 Hatena::Serif 上引起了<a href="http://wp.tenz.net/archives/424">一波中正廟 2.0 風潮</a>。結果鄉民一去就給人洗版了 ....
+
+因為老佔著人家的地盤也不太好意思，加上 Hatena 只支援日文字型裡有的漢字，玩起來就沒那麼有趣了。於是 tenz&nbsp; 就在它的 blog 呼籲<a href="http://wp.tenz.net/archives/426">誰趕快來做一個這樣的網站</a>。
+
+剛好昨晚太無聊，沒事幹。想說不知道寫這東西有沒有難度，就花了一點時間試看看能不能用 ROR 也兜出來一個 VeryXD::Serif。沒想到，真的被我兜出來了（本來想說沒寫過，大概要花個幾週研究吧...orz）。
+
+這是 demo 畫面，支援中文字型。
+
+<a href="http://www.flickr.com/photos/14765209@N00/2116709468/" title="Flickr 上 xuitejoke 的 mid01"><img src="http://farm3.static.flickr.com/2216/2116709468_dc3117c38c_m.jpg" alt="mid01" height="240" width="229" />&nbsp;&nbsp; </a><a href="http://www.flickr.com/photos/14765209@N00/2115929877/" title="Flickr 上 xuitejoke 的 mid02"><img src="http://farm3.static.flickr.com/2210/2115929877_c4d230a12d_m.jpg" alt="mid02" height="240" width="208" /></a>
+
+這只是昨晚隨便勾的原型，只有給幾個朋友試過。筆者怕一旦貿然開放，機器會被暴民衝垮 ...等寫完善一點再打開。至於開發教學...那也是...晚一點再寫 XD
+
+
+<blockquote>這裡提供一點開發方向給也寫 ROR 的人。這系統主要是用 attachment_fu （因為昨晚 file_column 一直故障，我就抓狂了）、RMagick，和網路上弄來的一套 Cropper JS Kit 兜的。寫完大概花了我4個小時，但是我花了其中 3 個小時在網路上 google 要怎麼兜，還有搞懂 RMagick 指南中詭異的座標定義 =_=</blockquote>
+
+
+
+因為我這兩天註冊 Hatena 的帳號，要觀摩 Serif 的動線流程，卻都一直發生故障。所以也只是憑空刻的。貼上來是希望有好心的網友可以借個帳號或錄個過程幫助我開發啊...
+
+PS. features welcome，歡迎寫下你要的蜜點。

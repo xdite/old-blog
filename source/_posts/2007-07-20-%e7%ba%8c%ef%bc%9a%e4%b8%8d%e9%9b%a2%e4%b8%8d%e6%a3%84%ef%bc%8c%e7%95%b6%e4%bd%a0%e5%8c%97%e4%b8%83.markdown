@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 417
+layout: post
+title: !binary |
+  57qM77ya5LiN6Zui5LiN5qOE77yM55W25L2g5YyX5LiD
+
+date: 2007-07-20 21:36:54 +08:00
+wordpress_url: http://blog.xdite.net/?p=417
+---
+<a href="http://www.flickr.com/photos/14765209@N00/858919454/" title="相片分享"><img src="http://farm2.static.flickr.com/1394/858919454_9fcb47f91f.jpg" alt="beiqi" height="275" width="500" /></a>
+
+筆者怎麼看，整件事情都覺得是某一位客服在情緒失控下做了蠢事。然後做完蠢事之後突然清醒，又後悔莫及，於是開始想消滅痕跡，誰料越滾越大。
+
+而謠言指出，PTT 的 bbsFAQ 偷砍文被版友越傳越大之後，為了湮滅事證無預警隱版，而隱版事件越傳越大之後，又跳過正常手續寫信給某位站長，直接申請該版廢版 XD （當然是被打回票...）
+
+嘖嘖...

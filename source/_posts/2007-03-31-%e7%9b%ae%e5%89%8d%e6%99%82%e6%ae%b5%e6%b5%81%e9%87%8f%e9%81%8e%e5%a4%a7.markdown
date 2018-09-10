@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 303
+layout: post
+title: !binary |
+  55uu5YmN55m75YWl6YeP5aSq5bCRPw==
+
+date: 2007-03-31 01:07:17 +08:00
+wordpress_url: http://blog.xdite.net/?p=303
+---
+<br />先前筆者在本 blog 寫過幾篇有關<a href="http://blog.xdite.net/?p=132">有名大站狂放癡肥廣告成本效益不合</a>的文章。<br /><br />果然，在啞唬買下有名大站之後，馬上就出現了明顯的改進變化，不過這個變化也並不是降低有名大站的討厭程度，而是持續增加。<br /><br />先是出現了以<a href="http://nopa.csie.org/a9041">「登入區塊的安全性改善計劃」為由，行「首頁曝光之實」</a>。<br /><br /><br />剛剛筆者朋友從 msn 丟來一個人氣單日高達<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/439877212/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/182/439877212_6b4e06a14f_o.jpg" alt="flowbig03" height="160" width="289" /></a><br /><br />的正妹相簿，點開一看卻出現<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/439879744/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/174/439879744_fa2bfbd2cb.jpg" alt="flowbig04" height="333" width="500" /></a><br /><br />的囧情形，而且這個登入還不是像「一般論壇式登入一樣按下去有點入框，登入完以後回到原相簿」一般大眾常識般的邏輯，而是實實在在的<font color="#ff0000"><b>騙你回首頁進行兩頁的 pageview </b></font>，沒有帳號就強迫你註冊一個。又更進一步的增加了這樣的嫌疑...<br /><br /><br />比較起美國 Flickr ...，果然是台灣人有台灣自己的玩法，唉。<br /><br />話說，有名大站的資料庫查詢寫法一天不改善，他的資料庫 loading 就還是絕對不正常。如果哪一天這個「看熱門相簿需要登入的政策」再配合上「<a href="http://blog.xdite.net/?p=189">祭出尖峰時段禁止 login</a>」 的政策，不知道會剩下多少人想上有名大站啊 XD<br /><br /><br />----<br /><br />筆者承認，我是因為想看正妹相簿，結果打開只看到一張囧臉要強迫我登入，憤而寫這篇 blog文 的。

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 180
+layout: post
+title: !binary |
+  5oiR5YCR5pyD5oyB57qM5L+d6K235buj5ZGK5Li755qE6LOH5paZ6IiH5rWB
+  6YeP55qE5bmz6aCG
+
+date: 2006-10-30 01:03:39 +08:00
+wordpress_url: http://blog.xdite.net/?p=180
+---
+10/29 晚間19:00~22:00，有名大站斷斷續續的出現連不上的問題。坊間傳聞這是遭到憤怒鄉民壓力測試的報應，當然到底是被壓力測試、或無名某些新程式有大問題，人數一多就爆炸（最近幾週才這樣），這個我們暫時都不清楚。<br /><br />不過在當晚，這個問題倒是製造了一幅奇景。<strong>在 css、縮圖、圖示通通都無法存取</strong>的情況下。廣告 banner 突兀的屹立在滿是叉燒包的頁面。（原圖 kkhanhan 所攝，<a href="http://www.freewebtown.com/kkhanhan/Q2.JPG">位址在此</a>，筆者所放置之圖為備份）<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/282388252/" title="Photo Sharing"><img width="500" height="369" src="http://static.flickr.com/109/282388252_189a2dea91.jpg" alt="Q2" /></a><br /><br /><big><strong>什麼都開不了，只有廣告才開的了。</strong></big><br /><br />vvkvvu 在 10/27 晚間的道歉函寫著：<br /> <blockquote>無名的流量猜測可能是友站的 30 倍左右<br /> 為了穩定的撐住 30 倍的巨量, 無名用了很多很多的機器<br /> 來抵擋每天從各地而來抓圖的程式 (簡直就是分散式攻擊)<br />   <strong>我們會持續保護用戶的資料與流量的平順</strong>, 請大家放心囉<br /> </blockquote> <br /> 現在應該要改成「<font color="#ff0000"><strong><big>我們會持續保護廣告主的資料與流量的平順</big></strong></font>」吧 XD

@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 200
+layout: post
+title: !binary |
+  57O757Wx5bSp5r2w5piv6Kqw55qE6YyvPw==
+
+date: 2006-11-13 14:31:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=200
+---
+最近據說有名大站狂出狀況，猛烈的狀況筆者連報都不想報了（因為不只讀者看了會反胃，筆者寫太多也會反胃 0rz）。但是筆者卻發現一個很弔詭的情形，因為<font color="#cc0000">維修中的紅字</font>從首頁撤掉了，照理說服務應該會趨於正常。可是卻出現相反的狀況，情形嚴重到必須要在<strong>尖峰時段限制僅 VIP 登入</strong>，後來更進一步的要在<strong>該時段關掉非 VIP 服務的人氣計算機制</strong>。<br /><br />筆者一向對奇奇怪怪的事情最感到興趣了，最近剛剛好 bbsFAQ 一直狂發公告，筆者就將這些公告整理成一張表細看，準備從公告中仔細推敲該站到底發生了什麼事。<br /><br />鬆散的公告分開來看，筆者還當真以為有名大站真的那麼衰小，爆大量 / 被攻擊 / 人氣系統壞掉接二連三的不斷發生狀況。但是整理起來看，突然間就變得清楚許多。<br /><blockquote><br />11/5 使用者告知人氣計數器突然出現異常情形。時高時低。 　　　　　　　　　　　　　　　　<br /><br />11/6 <a href="http://xdite.net/paste/rq01.txt">bbsFAQ補公告</a>人氣計數器負荷極大，正在做優化調整的動作<br /><br />11/7 <a href="http://xdite.net/paste/rq02.txt">bbsFAQ公告</a>流量超高（發明了一個星期一症候群字彙），因此<strong>限制 22:00~24:00間限制僅 VIP 可登入</strong><br /><br />11/7<a href="http://xdite.net/paste/rq03.txt"> bbsFAQ稍後公告</a>爾後晚間會室情形調配限制僅 VIP 可登入<br /><br />11/7 <a href="http://xdite.net/paste/rq04.txt">bbsFAQ針對11/6 相關公告補充說明</a>，補告知優化工程是在一個月前進行的，這兩天要切換上線。造成兩天人氣喪失敬請見諒。<br /><br />11/9 <a href="http://xdite.net/paste/rq05.txt">bbsFAQ 公告遭受網路攻擊</a>，網路斷斷續續的，並指控手法屬於 sys flood 攻擊，然而站方貼出來的相關 log <a href="http://blog.richliu.com/2006/11/10/383/">並不像是遭受 sys flood 攻擊的特徵</a>。<br /><br />11/9~11/12 有名大站異常不穩，抱怨文像潮水一樣轟炸 bbs 客服版面。<br /><br />11/12 <a href="http://xdite.net/paste/rq06.txt">bbsFAQ再次公告</a>，除了限制僅 VIP 可登入的措施外，還要加入一條<strong>非 VIP 的服務在尖端時間，人氣將不會更新</strong>。</blockquote> <br />看到這裡應該很清楚發生什麼事了。至於為什麼要發那麼多公告模糊焦點，筆者就不知道原因了？大概又是想當一次「無錯小站」，才又把不穩的原因整個推到&quot;測試者&quot;的身上吧 XD<br />
+<p class="poweredbyperformancing">update:</p>
+<p class="poweredbyperformancing">11/7 的補充說明 (<a href="http://www.wretch.cc/hala/viewtopic.php?t=120886">web版</a>跟 <a href="http://xdite.net/paste/rq04.txt">bbs版</a>)的說明，差了一句「人氣真的可以吃，這點我們深信不疑。」（後來疑似怕被幹角，bbs 版拿掉了 XD )<br /></p>
+<br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/296234312/"><img width="240" height="58" alt="eat2" src="http://static.flickr.com/106/296234312_2fc4c86d2e_m.jpg" /></a><br />

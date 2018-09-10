@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 48
+layout: post
+title: !binary |
+  WHVpdGUg55So5oi25rKS5pyJ5YKZ5Lu955qE5qyK55uK
+
+date: 2006-08-07 12:08:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=48
+---
+相信大家都知道 Xuite 這幾天爆炸，日誌瀏覽上有大問題，甚至發表文章、修改文章也會出現嚴重的問題，一不小心，編輯許久的心血就泡湯了。 Xuiters 幾乎是人人自危。  於是，這時候筆者就去翻閱， Xuite 到底可以提供給用戶什麼保證呢？  但是筆者找了許久，都找不到使用者條款！.........最後，終於在 blog 台長那邊找到了 <a href="http://blog.xuite.net/blog/baby/214090?st=c&amp;re=list&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;p=6&amp;w=1833">《北鼻公告》日誌使用條款已修改</a> 。裡面有一條這樣寫著<blockquote><strong>5. 關於您存放於本網站上之任何資料，您必須自行備分，本分公司不擔保您放置於網站上之圖片不會遺失、毀損或被誤刪，如有前述情形時，本分公司不負任何損害賠償責任 。</strong>  </blockquote><p>.....那既然 Xuite 這樣說，我們也只能摸摸鼻子自己備份囉！但是，到底要怎樣備份呢？鑑於 Xuite 上的搜尋服務根本是一個大笑話，根本提供不了什麼幫忙；所以，這次筆者找上了 <a href="http://www.google.com">Google</a> ，看看網路上有沒有人能提供意見。   筆者使用的關鍵字是 <a href="http://www.google.com.tw/search?hl=zh-TW&amp;q=xuite+%E5%82%99%E4%BB%BD&amp;btnG=Google+%E6%90%9C%E5%B0%8B&amp;meta=">&quot;xuite 備份&quot;</a>。但是搜尋的結果，都很遺憾的告訴 Xuiters ...</p><p><strong><font color="#ff0000">Xuite 根本不提供用戶備份的功能！</font></strong>  </p><p>也就是說只要 xuite 爆炸，用戶只有吃屎的份，<strong>一點辦法都沒有</strong>，這是多麼諷刺的一個笑話啊！</p>

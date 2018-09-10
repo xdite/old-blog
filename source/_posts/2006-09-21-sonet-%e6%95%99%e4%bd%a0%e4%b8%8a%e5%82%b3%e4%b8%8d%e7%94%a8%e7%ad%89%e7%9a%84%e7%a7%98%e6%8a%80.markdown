@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 127
+layout: post
+title: !binary |
+  U29uZXQg5pWZ5L2g5LiK5YKz5LiN55So562J55qE56eY5oqAIT8=
+
+date: 2006-09-21 14:19:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=127
+---
+快兩天沒有貼文了，今天補償讀者，大放送狂貼一下  ....XD<br />----<br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/248408072/"><img width="500" height="390" alt="sonetad" src="http://static.flickr.com/88/248408072_26832b2d54.jpg" /></a><br /><br />筆者今天剛看到這個廣告，眼睛都快要突出來了。<br />因為猶記得在<span style="font-weight: bold;">有名大站哈拉討論區</span>的這一篇&nbsp;<a href="http://www.wretch.cc/hala/viewtopic.php?t=82998" class="maintitle"> Hinet/Sonet上傳相簿或影片很慢怎麼辦?</a><br /> <blockquote><span style="font-weight: bold;">Q. 為什麼 Hinet/Sonet 用戶連無名會很慢?</span><br />   <span style="font-weight: bold; color: rgb(255, 0, 0);">A. 因為 Hinet/Sonet 故意讓用戶連無名變慢</span></blockquote>----<br /> <blockquote>&nbsp;作者&nbsp; wkwu (用嘴巴寫程式)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 看板&nbsp; 0VIP<br /> &nbsp;標題&nbsp; Re: 趕快解決問題吧，請鄉民互相轉寄吧<br /> &nbsp;時間&nbsp; Mon Sep 11 10:48:05 2006<br /> ───────────────────────────────────────<br />   <br /> 電路與頻寬是不一樣的, Giga 與 So-net 間有 1G 的電路<br /> 但 So-net 自己把頻寬限制在 100MB, 真正可用只有 100MB<br />   <br /> </blockquote>-----<br /> <br /> （以上是鬼話，本站拆解的文章在此： <a title="Permanent Link: 不放 Giga 就會倒（無賴無誠）" rel="bookmark" href="../../../../../?p=90">不放 Giga 就會倒</a>。）<br /> <br /> -----<br /> <br /> 扯回原話題。看到這個廣告，當下我還以為有名大站跟 Sonet 真的解決了這個問題了。<br /> 結果點進去......，原來只是 <a href="http://www.so-net.net.tw/adsl/">So-net ADSL 線上申辦網頁</a> 而已 -_- （又騙了一次廣告點擊數）<br /> <br /> 要是有名大站的某用戶真的看了這則「上傳不用等」廣告去申辦了 ADSL ，結果開網站卻 lag 到死。早知這樣刊登會有問題，還用這麼聳動的字眼，這要算「有名大站」詐欺還是「Sonet」詐欺呢?<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/248408072/"><br /></a>

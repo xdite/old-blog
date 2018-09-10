@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 110
+layout: post
+title: !binary |
+  5bCO6Ka95omL5YaK77yI5pyJ5ZCN5aSn56uZ56+H77yJ
+
+date: 2006-09-08 16:07:13 +08:00
+wordpress_url: http://blog.xdite.net/?p=110
+---
+<br /> 本篇將收錄自成一個 page ，若您要轉寄給您朋友看。請介紹<a href="../../../../../?page_id=109">「有名」Q&amp;A</a>，爾後將只更新該頁內容。另外有朋友反應本站更新太快，收自己 blog 收都來不及收，也不知道要介紹他看哪一篇比較好。<br /><br /> 您可以介紹他來本站從<a href="../../../../../?page_id=109">「有名」Q&amp;A</a> 開始看。<br /> <br /> 最後，若您很賭爛某站，或只是很單純喜歡本站寫的笑話，請幫忙<strong> <font color="#ff0000">Blog Roll 本站</font></strong>、<font color="#ff0000"><strong>在推薦 Link 上廣告本站</strong></font>或是<font color="#ff0000"><strong>寫一小篇文介紹 XDite</strong></font>，讓更多人能看到好笑的笑話，謝謝。<br /> <br /> <br />
+<ol>
+    <li><blockquote>Q：我是新來的鄉民，請問要從哪裡看起？<br />A：「<strong><a href="../../../../../?p=92">無賴無誠無恥無....(懶人包)</a> </strong>」可以幫助你清楚來龍去脈<br /><br /></blockquote></li>
+    <li><blockquote>Q：我是用 Hinet 的用戶，上有名大站怎麼超慢？<br />A：這有兩個原因<br /><br />(1) 因為它們 <strong><a href="../../../../../?p=90">不放 Giga 就會倒</a></strong>。這個問題是無法解決的。不是因為 Hinet 不讓步婊它們。而是因為它們不會談價錢。「<strong><a title="目前有 10 篇評論" href="../../../../../?p=87">談頻寬又不是談遊覽車!</a></strong>」、「<strong><a title="目前有 12 篇評論" href="../../../../../?p=88">續：談頻寬又不是談遊覽車</a></strong>」<br /><br />(2) 吃資源的廣告多到讓你的瀏覽器當掉。<br />「<strong><a title="目前有 18 篇評論" href="../../../../../?p=101">全國最大的 GSP (Garbage Service Provider)</a></strong>」、「<strong><a title="目前有 0 篇評論" href="../../../../../?p=102">續：全國最大的 GSP (Garbage Service Provider)</a></strong>」、「<strong><a title="目前有 5 篇評論" href="../../../../../?p=103">再續：全國最大的 GSP (Garbage Service Provider)</a></strong>」<br /></blockquote><br /></li>
+    <li><blockquote>Q：那買 VIP 有沒有用？<br />A：筆者想應該沒有用，「 <strong><a title="目前有 3 篇評論" href="../../../../../?p=86">買 VIP 是找罪受的行為? </a></strong>」。除了忍受普通會員所不用忍受的糟糕服務外，看別人相簿還是會受到廣告騷擾。另外，如果你是金卡用戶卻使用 Hinet ADSL (or FTTB) 等於把錢丟到水裡，一點用都沒有。因為你會慢的什麼服務都沒有辦法使用。<br /></blockquote><br /></li>
+    <li><blockquote>Q：我有受騙的感覺耶，號稱堂堂全國最大的 BSP ，怎麼可以這樣惡搞用戶？<br />A：您應該沒有仔細去調查過這家公司吧。它們從剛開公司到現在就是出了名的沒有信用。<br />比較不衰的普通用戶/VIP用戶。「<strong><a title="目前有 2 篇評論" href="../../../../../?p=66">無賴無誠才賺得了錢?</a></strong>」<br />最衰的白金VIP用戶：「<strong> <a title="目前有 1 篇評論" href="../../../../../?p=74">續：無賴無誠才賺得了錢?</a></strong>」、「<strong> <a title="目前有 0 篇評論" href="../../../../../?p=75">無賴無誠的文字遊戲?</a></strong>」<br /><br /></blockquote></li>
+    <li><blockquote>Q：太過份了。我要去找它們客服理論。<br />A：建議你還是不要。雖然它們秉持著「<strong><a title="目前有 9 篇評論" href="../../../../../?p=98">User 喜歡的是人</a></strong>」的理念，但是它們的回答比機器人還G8。而且客服經理說：他們只能接受<strong><a title="目前有 4 篇評論" href="../../../../../?p=99">「理性的討論」</a></strong>，其他一概不歡迎喔。（不過你可以試試「<strong> <a title="目前有 6 篇評論" href="../../../../../?p=108">續：「理性的討論」</a></strong>」）<br /></blockquote><br /></li>
+    <li><blockquote>Q：這個客服經理太囂張了，叫它們老闆出來，把他開除。<br />A：呃，客服經理是董事，開除他有點難度。而且據說董事長去當兵了。<br /></blockquote><br /></li>
+    <li><blockquote>Q：我是廣告商，不是 USER，請問我要跟誰接觸。在它們站打廣告有用嗎？<br />A：您可以先找它們的「<strong><a title="目前有 11 篇評論" href="../../../../../?p=93">39分的無名業代</a></strong>」接洽。在它們站打廣告應該是有用吧，因為它們頗會耍「 <strong><a title="目前有 3 篇評論" href="../../../../../?p=104">GSP (Garbage Service Provider) 的詭計</a></strong>」，而且能將「<strong><a title="目前有 9 篇評論" href="../../../../../?p=107">廣告與使用者介面完美的結合</a></strong>」。完美的利用廣告灌流量，不愧是 Alexa 排行榜前32強。<br /></blockquote></li>
+</ol>

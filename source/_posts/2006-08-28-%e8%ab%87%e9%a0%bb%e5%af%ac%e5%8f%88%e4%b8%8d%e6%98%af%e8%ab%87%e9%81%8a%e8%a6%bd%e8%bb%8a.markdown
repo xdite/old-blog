@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 87
+layout: post
+title: !binary |
+  6KuH6aC75a+s5Y+I5LiN5piv6KuH6YGK6Ka96LuKISjnhKHos7TnhKHoqqAp
+
+date: 2006-08-28 01:27:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=87
+---
+<blockquote><br /> 作者  wkwu (James)                                           看板  Gossiping<br /> 標題  Re: [問題]有沒有無名小站變很慢的八卦？<br /> 時間  Mon Aug 28 01:14:05 2006<br />───────────────────────────────────────<br /><strong><br />無名與 Hinet 談一年多了, 一年多前無名就打去 Hinet 企業處<br />與 Hinet 黃股長連絡, 那時候 Hinet 的報價很清楚的告訴我們:<br />報價在網路上有, 機櫃一個是 18000, 頻寬 NT.7500/MB</strong><br />現在無名用掉約 30 個機櫃與 3G 的頻寬, 一個月要付給 Hinet 是<br /><br />30*18000+7500*3000= 2,304萬<br /><br />無名的資本額二千萬, 然後付給交大一千萬了, 剩下一千萬買伺服器<br /><br />租公司用的辦公室, 人事費, 雜費也去得差不多了<br /><br />搬到 Hinet 就是準備關門, 一個月二千多萬.....<br /><br />如果你是無名, 你會選擇搬到 Hinet 嗎? 答案很清楚, 為了生存, 必須找更便宜的<br /><br />除了 Giga, 其他家都因為與 Hinet 直連, 成本一樣貴(約便宜 5~7成, 但也是超貴)<br />----<br />(其他省略)<br />※ 發信站: 批踢踢實業坊(ptt.cc)<br />◆ From: 140.113.209.6<br /></blockquote><br />拜託，打個電話就叫談 ....? 這又不是系學會談新生宿營遊覽車報價 0rz<br />連我們之前系學會長都知道找遊覽車公司前，先打電話問報價，<strong>再擇價格優或是次優，去跟對方溝通<font color="#ff0000">以量制價</font></strong>。<br /><br />Giga 最慢，Hinet 最貴，那 Seednet 沒考慮過嗎？<br />只打電話問報價，然後無法接受就說對方太貴，再叫廣大用戶換 ADSL，<strong>真是一間負責任的公司啊</strong> ...

@@ -1,0 +1,116 @@
+--- 
+wordpress_id: 1190
+layout: post
+title: !binary |
+  5aaC5L2V5YWl6ZaAIFJ1Ynkgb24gUmFpbHM/77yIMjAwOe+8iQ==
+
+date: 2009-05-24 21:57:45 +08:00
+wordpress_url: http://blog.xdite.net/?p=1190
+---
+不知不覺，時間已經邁入 2009 。<a href="http://ihower.idv.tw">ihower</a> 和我前陣子就在商量，又過了一年，我們是不是應該又要來寫一篇書單來 Update 了。 
+
+但老實講，Rails 這個框架發展至今，其實已經越來越成熟穩定了，書其實也出差不多齊了，推來推去也那幾本。想了一想，今年這篇文章我便想改轉以學習順序與開發中需要的技巧/技術為導向，推薦各種學習上的資源，來獲得更有效的進步。
+
+* <strong>Requirement Skill</strong>
+
+這次的學習指南，將不再策重中文書以及中文文件的推薦。相反的，因為長期以來，許多在新手求助區發問的問題，絕大多數都是 *<strong>缺乏基本常識</strong>* 以及 *<strong>看不懂 Log / 文件</strong>* 所導致。這是即使提供中文資源也無法解決的狀況。因此在前面我先直接闡述一個重點，如果學習者沒有以下 background knowledge。我會建議你直接放棄學習 Ruby on Rails。（以後會另外開篇文章解釋）
+
+
+
+<blockquote>1. <a href="http://en.wikipedia.org/wiki/LAMP_(software_bundle)">LAMP</a> background  /  Web Development Background
+2. <a href="http://www.pragprog.com/titles/svn2/pragmatic-version-control-using-subversion">svn</a> / <a href="http://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git">git</a> 基本操作
+3. 英文技術文件閱讀能力 / 英文 Log 閱讀能力
+4. 至少會寫一種 scripting language ( Perl / Python / Ruby ...)
+5. 願意花時間練習</blockquote>
+
+
+<strong>
+* First Step</strong>
+
+初期學習 Ruby on Rails 的途徑，筆者 prefer 以幾個方向開始打基礎。
+
+
+
+<blockquote>1. 初步瞭解 Ruby / RubyGems / Rails / Rails Plugin 之間的關係 
+2. <a href="http://rails.pixnet.net/blog/post/22952893">初步瞭解 Rails 目錄結構</a>。
+   - 至少有辦法在 Linux 上裝起 Ruby / Rails，<a href="http://rails.pixnet.net/blog/post/22953827">新增一個 project ，接起 database</a>
+3. 學習用 Rails CRUD 以及搞懂 MVC 架構的運作
+   - 至少有辦法<a href="http://rails.pixnet.net/blog/post/22955992">寫出基本 BLOG 的 CRUD </a>
+   - 透過 CRUD 的操作瞭解 Rails 的 form 以及 ORM ( ActiveRecord ) 的簡單概念
+4. <a href="http://rails.pixnet.net/blog/post/22956704">初步瞭解 Rails RESTful 的概念</a>，以及練習<a href="http://ihower.idv.tw/course/rails.html">如何在 Rails 使用 RESTful / Non-Restful （搞懂 routes）的方式練習 CRUD</a>。
+5. 初步熟悉一些常用的 plugin：<a href="http://github.com/technoweenie/restful-authentication/tree/master">Restful Authenication</a>（認證）、<a href="http://github.com/technoweenie/attachment_fu/tree/master">Attachment_fu</a>（上傳檔案附件）、<a href="http://github.com/mislav/will_paginate/tree/master">Will_Paginate</a>（分頁）的安裝以及使用方式。
+6. 學一些 Ruby 基本的語法。</blockquote>
+
+
+
+以上這一些都有辦法從 blog 或 官方 Repository 的 README ，step by step 學到，暫時不需要買什麼書。把這一些功課練完，幾乎就掌握了 Rails 的一些開發基礎技能，差不多能開始寫點有趣的小東西....
+
+至於 Ruby 的書推薦：<a href="http://www.books.com.tw/exep/prod/booksfile.php?item=0010350699">Ruby Programming — 向 Ruby 之父學程式設計</a>、<a href="http://www.pragprog.com/titles/ruby3/programming-ruby-1-9">Programming Ruby 3nd edition
+</a>
+
+<strong>* Second Step</strong>
+
+開始開發以後要繼續念/練的東西...
+
+
+
+<blockquote>1. 進階 ActiveRecord 
+    - <a href="http://api.rubyonrails.org/classes/ActiveRecord/Base.html">學習如何下 condition</a>、name_scope、relation、<a href="http://api.rubyonrails.org/classes/ActiveRecord/Callbacks.html">Callback</a>
+
+2. 進階 ActionController
+    - <a href="http://api.rubyonrails.org/classes/ActionController/Filters/ClassMethods.html">filter</a>、filter 搭配 resource（巢狀目錄）
+
+3. 編寫自己的 helper，操作 partial 
+    - 學習如何用 helper，把 view 裡面的混雜的邏輯與 html 處理乾淨
+
+4. 熟悉 <a href="http://api.rubyonrails.org/classes/ActionController/Routing.html">routing</a> 與 respond_to 搭配 builder
+    - 練到想怎麼指就怎麼指
+    - 學會怎麼生 RSS / ATOM / csv / json 
+
+5. Library、Gem、Plugin 的搭配使用
+    - 依照自己的需求上 <a href="http://github.com/">Github</a> 或 <a href="http://rubyforge.org/">RubyForge</a> 找適合自己的 gem / plugin ，或者上 <a href="http://snippets.dzone.com/">Dzone</a> 找 Library 搭配自己的 Application 開發。節省重新造輪子的時間。
+
+6. RJS
+    - Ajax .....
+
+7. I18n 
+    - <a href="http://blog.xdite.net/?p=785">學會怎麼使用與操作 Rails 內建的 I18n </a>
+
+8. Deployment
+    - Mongrel / Thin / <a href="http://www.modrails.com/">mod_rails</a> 的使用
+    - <a href="http://www.capify.org/">Capistrano</a> Recipes 的撰寫
+
+9. Mailer 與 Observer
+    - 寄信
+
+10. Asynchronous jobs
+    - Daemon 與 Queue
+
+11. Ruby for Rails
+    - 就是熟悉 <a href="http://www.manning.com/black/">Ruby for Rails</a> XD</blockquote>
+
+推薦：
+
+<blockquote><a href="http://www.pragprog.com/titles/rails3/agile-web-development-with-rails-third-edition">Agile Web Development with Rails, Third Edition</a>
+這是 Rails 界的聖經，由 DHH （Rails 之父）主筆。內附基本開發實例，以及詳述 Rails 常用 API 。目前這本書的第三版跟進到 Rails 2.2.2 。
+
+<a href="http://www.amazon.com/Rails-Way-Addison-Wesley-Professional-Ruby/dp/0321445619">Rails way </a>
+新 Rails <del datetime="2009-05-24T13:39:40+00:00">聖經</del> 枕頭書。看完整本絕對超熟 Rails ，可惜沒幾個人有耐性看完....XD
+
+<a href="http://www.manning.com/black/">Ruby for Rails</a>
+這本書是專為 Rails 開發者所寫，作者特別把開發 Rails 所需的 ruby 語法和概念，搭配 rails 做整合性的講解。（才不會發生怎麼蓋高樓，卻根本不懂建築原理的情形。這樣房子會倒的啊啊啊啊....）
+
+<a href="http://www.pragprog.com/titles/fr_deploy/deploying-rails-applications">Deploying Rails Applications: A Step-by-Step Guide</a>
+Deploy Rails Application 的教學書籍。如果對 Deploy 策略不熟的可以買來看看補充常識。如果熟的應該看大家平常的討論應該就夠了....
+
+<a href="http://www.pragprog.com/titles/fr_arr/advanced-rails-recipes">Advanced Rails Recipes: 84 New Ways to Build Stunning Rails Apps</a>
+這本書強烈建議購入，每一章都精彩。比較進階的開發進巧，比如：寄信、Nested Forms、 Asynchronous jobs 的作法 大概都有提...
+
+<a href="http://www.oreilly.com/catalog/rjsrails/index.html">RJS Templates for Rails (O’Reilly shortcut PDF) </a>
+蠻不錯的 RJS PDF
+
+<a href="http://guides.rubyonrails.org/2_2_release_notes.html">Rails 2.2 Release Notes</a>
+<a href="http://guides.rubyonrails.org/2_3_release_notes.html">Rails 2.3 Release Notes</a>
+Rails 本身是一個觀念與架構都進步十分迅速的 framework，只看書其實不太足夠，進度也跟不太上。加上 Rails 後來更組織了專門寫 Document 的團隊，近幾個版本的 Release Note 都寫得相當好以及清楚。Rails 2.3 的 Release Note 更簡直像一本小教書，許多 feature 以及使用方法都解釋的十分清楚。如果想瞭解新 feature，直接看  Release Note 現在是我相當推薦的方法...</blockquote>
+
+下一篇會繼續寫的是如何進階 Ruby on Rails 以及推薦閱覽練習的材料...。

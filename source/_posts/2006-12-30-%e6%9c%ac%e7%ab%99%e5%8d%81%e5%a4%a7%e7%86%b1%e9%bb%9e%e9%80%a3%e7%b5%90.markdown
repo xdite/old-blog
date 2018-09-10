@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 242
+layout: post
+title: !binary |
+  5pys56uZ5Y2B5aSn54ax6bue6YCj57WQ
+
+date: 2006-12-30 00:48:18 +08:00
+wordpress_url: http://blog.xdite.net/?p=242
+---
+看到 tenz 作了<a href="http://wp.tenz.net/archives/266"> 2006 年 blog 內點閱數最高的十篇文章</a>，想來效法一下。不過因為我只有裝 Google Analystics，就只好用這個貼了。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/337440512/" title="Photo Sharing"><img width="500" height="467" src="http://farm1.static.flickr.com/162/337440512_cdca683c13.jpg" alt="xdite" /></a><br /><br /><br />熱點排名依序為：（不計主站連結）<br /><br />
+<ol>
+    <li>10/27&nbsp; <a title="目前有 50 篇評論" href="http://blog.xdite.net/?p=177">誰用學術資源攻擊商業BSP!?</a></li>
+    <li>10/29&nbsp; <a title="目前有 32 篇評論" href="http://blog.xdite.net/?p=178">身為一個學生，做出什麼事都是合理的?</a></li>
+    <li>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <a href="http://blog.xdite.net/?cat=7">無賴性笑話</a></li>
+    <li>10/30&nbsp; <a title="目前有 54 篇評論" href="http://blog.xdite.net/?p=181">消失的n萬股?</a></li>
+    <li>12/13&nbsp; <a title="目前有 41 篇評論" href="http://blog.xdite.net/?p=228">不離不棄，被當北七</a></li>
+    <li>11/30&nbsp; <a title="目前有 25 篇評論" href="http://blog.xdite.net/?p=221">樂蕃天事件序列(懶人包)</a></li>
+    <li>10/02&nbsp; <a title="目前有 17 篇評論" href="http://blog.xdite.net/?p=145">殺手級蠢舉 mypage (1)</a></li>
+    <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://blog.xdite.net/?cat=10">教學文章</a></li>
+</ol>
+當然這只是列出最受歡迎的，更多文章僅在的在<a href="http://blog.xdite.net/allpost.php">全站文章列表</a>。筆者個人覺得自己寫的比較好的當屬<a href="http://blog.xdite.net/?cat=4">懶人包系列</a>，以及<a href="http://blog.xdite.net/?cat=17">獨步蠢舉</a>系列。無聊的話可以多逛一下 XD

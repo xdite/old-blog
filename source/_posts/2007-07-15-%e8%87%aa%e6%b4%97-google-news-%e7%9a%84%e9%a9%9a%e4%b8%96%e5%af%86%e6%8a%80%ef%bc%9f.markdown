@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 414
+layout: post
+title: !binary |
+  6Ieq5rSXIEdvb2dsZSBOZXdzIOeahOmpmuS4luWvhuaKgO+8nw==
+
+date: 2007-07-15 23:24:38 +08:00
+wordpress_url: http://blog.xdite.net/?p=414
+---
+老實說，這招是無意中發現的。<br /><br />禮拜五的專訪出來之後，我迫不及待的在 Google News 使用 "xdite"看搜尋結果。當然，這是很無聊的自戀行為。搜尋結果有三條新聞，不過出乎我意料的是，第一條雖然是那篇「<a href="http://news.chinatimes.com/2007Cti/2007Cti-Focus/2007Cti-Focus-Content/0,4518,9607130401+0+0+130732+0,00.html">網友搞怪諷無名。KUSO 丁丁正當紅</a>」的專訪，可是最後一條的新聞竟然是某位讀者 Ricky 講述他曾與我聊過天的 BLOG 文。上面還掛著東森新聞報。<br /><br /><br />這個結果大大勾起了我的好奇心。到底要怎麼做，才能把一篇普普通通的 blog 文搞上 Google News 這麼帥氣？<br /><br /><br />筆者不禁開始猜想，Google News 抓新聞的管道該不會是只照網域名稱抓，然後再分析內容排上去吧。只要在東森部落格上的文章，通通都會收進 index？所以我動手花了五分鐘，把首頁看到的文章都扔進去跑看看。果不其然……<br /><br /><br />那這樣豈不根本就是，我想洗就可以洗……？（主流媒體再怎麼低調都沒有用 XD）為了驗證我的假設沒錯，於是我起了惡搞的念頭，真的註冊了一個帳號，再把本站這個月點閱率最高的文章 <a href="http://blog.xdite.net/?p=398" title="目前有 127 篇評論">[我要幹XX] + 我的無名小站帳號</a> 轉貼過去完實做。<br /><br /><br />OK，以下是我貼一貼後的實驗結果。只要你在 <a href="http://news.google.com.tw">Google News</a> 上輸入"<a href="http://news.google.com.tw/news/url?sa=t&amp;ct=tw/0-0&amp;fp=469acafa74d32c76&amp;ei=dTuaRr2YIoT0rQPtidClDQ&amp;url=http%3A//bloguide.ettoday.com/xdite/textview.php%3Ffile%3D0000073687&amp;cid=1107652836">無名小站</a>"，結果會變這樣 ... XD<br /><br /><a href="http://www.flickr.com/photo_zoom.gne?id=819439092&amp;size=o" title="相片分享"><img src="http://farm2.static.flickr.com/1090/819439092_2dd6fad9ea.jpg" alt="googlenews2" height="362" width="500" /></a>

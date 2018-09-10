@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 146
+layout: post
+title: !binary |
+  5q665omL57Sa6KCi6IiJIG15cGFnZSAoMik=
+
+date: 2006-10-02 22:19:43 +08:00
+wordpress_url: http://blog.xdite.net/?p=146
+---
+在昨天的 <a title="目前有 2 篇評論" href="http://blog.xdite.net/?p=141">續：無窮盡的塞車噩夢</a> 甚至是之前的 blog 文章裡，都說明了有名大站實在很愛偷灌流量。這次的 mypage 也不例外，搞一個什麼我的影音也是在放周滷蛋的 mv。<font color="#ff0000"><big><strong>更可惡的是竟然不准人關 mv -_-<br /></strong></big></font><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/258708840/" title="Photo Sharing"><img width="500" height="400" src="http://static.flickr.com/85/258708840_07331a5aed.jpg" alt="(無主題)" /></a>

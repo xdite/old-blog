@@ -1,0 +1,31 @@
+--- 
+wordpress_id: 1586
+layout: post
+title: !binary |
+  UnVieUNvbmYgVGFpd2FuIDIwMTAg6ZaL5aeL5aCx5ZCN5ZWmIQ==
+
+date: 2010-02-23 21:44:02 +08:00
+wordpress_url: http://blog.xdite.net/?p=1586
+---
+  RubyConf Taiwan 2010 已經開始報名啦
+  詳情請見 <a href="http://rubyconf.tw/2010/">http://rubyconf.tw/2010/</a>
+
+  中文講者有:
+
+
+<blockquote>   <a href="http://blog.weijen.net">weijen</a> 會講如何在一個 legacy Rails 專案上加上BDD測試
+   <a href="http://ihower.tw">ihower</a> 會介紹 Ruby 裡面怎麼設計出漂亮的 APIs
+   <a href="http://blog.xdite.net">xdite</a> 會介紹 Ruby 生態圈中有哪些服務可以幫助團隊開發及上線
+   <a href="http://www.codingforrent.com/">Josh Moore</a> 會介紹 Rails 3 的 generators 功能</blockquote>
+
+
+
+  英文講者有:
+
+
+<blockquote>   <a href="http://envylabs.com">Gregg Pollack</a> 會深入講解 Rails3 的實作技巧
+   <a href="http://www.foysavas.com/">Foy Savas</a> 是 Merb way 的作者, 他還沒給我講題 XD
+   <a href="http://mellowtone.co.jp/">新井俊一</a> 會介紹他們公司做的 ruby web framework
+   <a href="http://kakutani.com/">角谷信太郎</a> 會分享 Ruby DSL 對非英語為母語的程式設計師有什麼意義
+   <a href="http://d.hatena.ne.jp/takahashim/">高橋征義</a> 是日本 Ruby 協會會長</blockquote>
+

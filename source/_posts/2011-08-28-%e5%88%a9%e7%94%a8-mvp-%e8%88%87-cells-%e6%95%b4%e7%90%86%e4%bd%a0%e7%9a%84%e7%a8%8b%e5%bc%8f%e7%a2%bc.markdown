@@ -1,0 +1,179 @@
+--- 
+wordpress_id: 3063
+layout: post
+title: !binary |
+  5Yip55SoIE1WUCDoiIcgQ2VsbHMg5pW055CG5L2g55qE56iL5byP56K8
+
+date: 2011-08-28 00:34:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=3063
+---
+<p>在這次的 rubyconf 中，我在整理程式碼的技巧中，介紹了兩節比較少人使用的技巧：<a href="http://en.wikipedia.org/wiki/Model-view-presenter">MVP</a> 與 <a href="http://cells.rubyforge.org/download.html">Cells</a>。</p>
+
+<p>MVP ? 聽起來怎麼跟 MVC 好像？他們有什麼關聯嗎？</p>
+
+<p>沒錯，MVP 其實就是 Model - View - Presenter 的縮寫。</p>
+
+<h2>什麼是 MVP</h2>
+
+<p>在一般實作 MVC 架構時，我們強調的是</p>
+
+<ul>
+<li>用於封裝與 「業務邏輯相關的資料」 以及 「對資料的處理方法」 必須放在 Model</li>
+<li>至於 View ，只負責 「負責資料與介面的呈現」</li>
+</ul>
+
+<p>不過你我都心知肚明，這是「理想狀態」。</p>
+
+<p>真實的情況是，</p>
+
+<ul>
+<li>不少的網站「UI 高度依賴業務邏輯」</li>
+<li>業務非常複雜，有時會逼得你不得不在 controller 或 view 中實作業務邏輯</li>
+<li>雖然實務上會教我們將複雜的 method refactor 到 model 中。但現實狀況是：有些業務用 method 僅在該 View 使用一次。而且不屬於 Model 應有的基礎 method。什麼都往 model 扔的化，model 會變得異常肥大。</li>
+</ul>
+
+<p>所以 MVC 這樣的架構最後會不敷使用。最後我們會需要再實作一層 Presenter 。</p>
+
+<ul>
+<li>將比較少使用，但又必須實作的複雜 / expensive 業務邏輯，抽出來放在 Presenter</li>
+<li>一旦業務邏輯抽出來放在 Presenter，改動 UI 的難度就會變得比較低了</li>
+</ul>
+
+<pre>
+    class Sites::ShowPresenter
+
+      def hottest_topics
+        @hottest_topics = @site.topics.hottest.limit(10)
+      end
+
+      def recent_topics
+        @recent_topics = @site.topics.unhidden.recent(10)
+      end
+
+    end
+
+</pre>
+
+<pre>
+
+    def show
+      @presenter = Sites::ShowPresenter.new(@site)
+      @headline_topic = @presenter.headline_topic
+      @categories =  @presenter.categories
+      @site_alias = @presenter.site_alias
+
+      add_breadcrumb @site.name, site_path(@site)
+      seo_meta_desc_keywords(@site)
+    end
+</pre>
+
+<p>這樣就能大幅提高 code 的維護性。</p>
+
+<h2>什麼是 Cells?</h2>
+
+<p>即便如此，Presenter 還是不夠用的。</p>
+
+<p>這也是 Nick 寫下 <a href="http://nicksda.apotomo.de/2010/11/rails-misapprehensions-what-the-fuck-is-mvp/">Rails Misapprehensions: What the fuck is MVP?</a> 一文的主要原因。</p>
+
+<p>（ 演講會後，我有跟作者 Nick 小聊了一下。稱讚了他的 Cells 設計。他感到很爽，覺得終於有人懂他設計 Cells 的原因了。並感到奇怪，明明他的文章寫的很清楚了，為什麼一堆人還是搞不懂？Cells 還是很少人用。要我報個 LT 延長篇幅幫他廣告一下 XD）</p>
+
+<p>不夠用的原因，是在於 Presenter 只做到了整理 Controller 的動作。MVP 只是把「大段的程式碼」搬離 Controller。</p>
+
+<p>並沒有解決真正需要解決的原因：</p>
+
+<p>「無可避免的在 Views 裡面實作邏輯，query 資料」</p>
+
+<p>也許你會想，What's the big deal ? </p>
+
+<h3>Big deal</h3>
+
+<p>我會開始使用 Cells，初衷並不是因為想嚴謹的遵循 MVC。而是因為需要 Cache 的 code 越來越多，我需要一個比較好的方式去整理現在專案裡需要被 cache 的 Code。</p>
+
+<p>Cells 整理 code 的方式很符合我的需要，於是我們開始將大段的程式碼搬到 Cell 去做 cache。</p>
+
+<p>一個月後，又到了我例行整理 Bad performance code 的時間。</p>
+
+<p>專案中一些程式碼其實很討厭，你不免的必須在 View 中跑迴圈 query 資料，比如這樣的 code :</p>
+
+<pre>
+
+  <% sites.each do |site| %>
+    <% site.categories.each do |category| %>
+      <% category.popular_posts.each do |post| %>
+         <%= post.title %>
+         <%= post.content %>
+      <% end %>
+    <% end %>
+  <% end %>
+
+</pre>
+
+<p>這種 code 非常非常的痛。Developer 幾乎對這種 code 一點辦法都沒有。</p>
+
+<p>因為你能做的只剩下</p>
+
+<ul>
+<li>整片打 cache，在背景 preheat cache</li>
+<li>拆成 partial 逐層打 cache。在背景preheat cache</li>
+<li>在 controller / presenter 裡下 includes 變成 join 減少 query 數量。</li>
+</ul>
+
+<p>OK。讓我告訴你，這其實都沒什麼用，因為速度快不了多少。</p>
+
+<p>這只是把 performance issue 拖到後面去解決而已。</p>
+
+<h3>速度緩慢的真正元兇</h3>
+
+<p>真正速度緩慢的元兇是：Query in View 。</p>
+
+<p>Rails Developer 都知道，partial 很慢。但很少人去究其因，只把問題怪在 Rails 上。</p>
+
+<p>但其實如果你認真的去追，會發現放純 html 的 view，其實 render 的非常快。</p>
+
+<p>真正慢的都是那些被迫必須在 View 裡面 處理資料 / query 資料的 partial。</p>
+
+<p><strong>ULTRA SLOW</strong></p>
+
+<p>隨隨便便在裡面 query 一個東西。整個 partial 就慢得要死。</p>
+
+<p>更糟糕的是，如果你的 Header 選單是需要 Query 資料的，恭喜你！中大獎！</p>
+
+<p>怎麼解呢？</p>
+
+<p>搬到 Controller 去 query 囉！</p>
+
+<p>但是上一段這種 code，根本就搬不動啊 ...</p>
+
+<h3>Cells 提供的解決方法</h3>
+
+<p>Cells 的運作原理是將每一段需要 cache 的 code，化做一段 component。而這個 component 有自己的 "mini controller" 與 "view"。</p>
+
+<p>藉由 Cells 的機制，我們可以大幅的將 heavy query 拆到 mini-controller 去，而非在 view 裡面實現。</p>
+
+<p>這不僅解了程式潔癖者的癮（ 沒有照 MVC 放 code ），其實更解決了嚴重的 performance issue。</p>
+
+<p>就像上一段的 code，其實我可以將之拆成三層 cell。</p>
+
+<p>使用這樣的技巧，我成功的使用 Cell 重寫了一段骯髒的程式碼。而運行的時間從 550ms 大幅降到 10ms。（不管你信不信，我反正是信了）</p>
+
+<h3>Cells 背後的故事</h3>
+
+<p>當我想通 Cells 背後的道理其實是解了雙重的 issue （ MVC 與 query in view's performance issue )之後，不禁打從內心讚嘆這樣厲害的設計。興奮了好幾天。</p>
+
+<p>這次 Rubyconf，我就特別跑去問作者 Nick 是不是這樣的想法，他相當開心遇到一個知音，並跟我抱怨一堆人都不用 Cells，讓他很鬱卒...明明他把 Cells 和 Presenter 的說明寫的很簡單，還是一堆人看不懂 ..</p>
+
+<p>接著就拿出他老早寫好的投影片，強迫我和我們家的 SA vincent 去幫他 LT XDDDDD</p>
+
+<p>之後我問他，怎麼想出來這樣的 Idea。他說：「我用了 Ruby 兩小時，再用了 Rails 兩個小時，然後就受不了這麼愚蠢的 MVC，自己幹了一套......」 # XDDDDD</p>
+
+<h2>結語</h2>
+
+<p>如果你有 Performance 上的 issue，先別怪罪 Rails，先看看你的 partial 是不是採取這樣的設計吧。Cells 不只是一個整理 cache 的好工具，其實更是整理 Code 的一個絕佳工具。幫助你的 code 更 MVC，跑起來更高效。</p>
+
+<div class="note">
+
+廣告：<a href= "http://rails-101.heroku.com/books/3-essential-rails-pattern"> Essential Rails Design Pattern for Beginners</a> 一書，即日起開放預購。原價 <del> 14.99 USD </del>。預購只要 9.99。本書將在九月底或十月初出版。
+
+本章「利用 MVP 與 Cells 整理你的程式碼」也將收錄在此書中。
+
+</div>

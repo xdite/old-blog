@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 413
+layout: post
+title: !binary |
+  5Lit5pmC6Zu75a2Q5aCx55qE5bCI6Kiq
+
+date: 2007-07-13 19:52:08 +08:00
+wordpress_url: http://blog.xdite.net/?p=413
+---
+<br />紀念一下。<a href="http://0rz.tw/d52Rz">專訪</a> 上了中時電子報頭條。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/798679494/" title="相片分享"><img src="http://farm2.static.flickr.com/1379/798679494_c80a08bb31_m.jpg" alt="chinaheadline" height="181" width="240" /></a>

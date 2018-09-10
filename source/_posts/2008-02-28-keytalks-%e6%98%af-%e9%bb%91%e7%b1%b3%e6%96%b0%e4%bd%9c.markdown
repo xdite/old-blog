@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 550
+layout: post
+title: !binary |
+  S2V5dGFsa3Mg5pivIOm7keexs+aWsOS9nD8=
+
+date: 2008-02-28 19:05:52 +08:00
+wordpress_url: http://blog.xdite.net/?p=550
+---
+懶得寫成全文，摘錄今日自己的 twitter
+
+<a href="http://twitter.com/xdite/statuses/764224969">xdite: 剛剛要找 keytalks 官網的 blog 無意中發現的八卦</a>
+<a href="http://twitter.com/xdite/statuses/764224768">xdite : http://blog.keytalks.com 和 http://tw.keytalks.com/blog 的關係好謎啊</a>

@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 2747
+layout: post
+title: !binary |
+  5Y2H57SawqAgTGlvbiDCoOWwjuiHtCBob21lYnJldyDniJvmjonnmoTop6Pm
+  s5U=
+
+date: 2011-07-23 22:59:14 +08:00
+wordpress_url: http://blog.xdite.net/?p=2747
+---
+升級之後，brew 會一直叫你先 install git，但是會 build 不過。
+
+剛剛試出來的解法是，先去  mac app store 載 xcode 4
+
+然後再到應用程式裡面 Install Xcode...
+
+這樣應該就修好了。連帶一直該 brew update 爛掉的地方應該也會解掉。

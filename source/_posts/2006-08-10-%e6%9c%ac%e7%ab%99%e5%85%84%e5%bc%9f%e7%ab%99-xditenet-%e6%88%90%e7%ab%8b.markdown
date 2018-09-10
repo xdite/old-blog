@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 56
+layout: post
+title: !binary |
+  IOacrOermeWFhOW8n+ermSBYRGl0ZS5uZXQg5oiQ56uL
+
+date: 2006-08-10 22:19:49 +08:00
+wordpress_url: http://blog.xdite.net/?p=56
+---
+抱歉讓各位失望了，今天沒有新文章。<br />因為一整天筆者都忙著協助 XDite.net  ，讓各項服務順利的上線。<br /><br /><ul><li><a href="http://blog.xdite.net//">Blog.XDite.net</a><blockquote>將同步連載 <a href="http://xuite-joke.blogspot.com/">Xuite&#39;s Joke</a> 上的笑話。此項服務是用 WordPress 架設。若您比較喜歡 WP 方式的閱讀，可以移駕至該處。<br /></blockquote><br /></li><li><a href="http://forum.xdite.net/">Forum.XDite.net</a><blockquote>若您對 <a href="http://xuite-joke.blogspot.com/">Xuite&#39;s Joke</a> 或 <a href="http://blog.xdite.net//">Blog Of XDite</a> 有任何建議，可以到該討論區發言。除了爆料、廣告專線需要註冊才能觀看外。其他版面都可以匿名發言。</blockquote></li></ul>

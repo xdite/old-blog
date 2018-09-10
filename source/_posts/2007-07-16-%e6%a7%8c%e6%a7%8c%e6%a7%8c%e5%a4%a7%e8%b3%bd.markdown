@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 415
+layout: post
+title: !binary |
+  5qeM5qeM5qeM5aSn6LO9
+
+date: 2007-07-16 18:53:04 +08:00
+wordpress_url: http://blog.xdite.net/?p=415
+---
+今天在 Twitter 上看到 有人在講  Pixnet 辦了一個 <a href="http://www.pixnet.net/event/OrzBloggers/game.php">槌槌槌大賽</a>。用意是讓你發洩你對 BSP 的怨恨。（對<a href="http://www.wretch.cc">丁丁大站</a>有恨的也許仿點點模式可以寫外掛發洩？）<br /><br />比賽是很好玩，可是，可是，可是，我是無辜的啊……<br /><br />為什麼要槌我啊 &gt;_&lt;<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/827760352/" title="相片分享"><img src="http://farm2.static.flickr.com/1398/827760352_d847f3aca1.jpg" width="500" height="304" alt="hammer2" /></a>

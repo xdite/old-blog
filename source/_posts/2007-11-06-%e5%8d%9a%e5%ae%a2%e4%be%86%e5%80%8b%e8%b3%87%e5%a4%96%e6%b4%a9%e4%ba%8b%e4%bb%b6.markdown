@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 483
+layout: post
+title: !binary |
+  5Y2a5a6i5L6G5YCL6LOH5aSW5rSp5LqL5Lu2
+
+date: 2007-11-06 08:18:07 +08:00
+wordpress_url: http://blog.xdite.net/?p=483
+---
+昨天晚上剛從北京回來，手機裡就收到「博客來個資外洩的簡訊」，結果因為我不知道是誰傳的（不好意思打回去，凌晨兩點了XD）。幫補個圖和八卦吧。<br /><br />這是今天的新聞： <a href="http://udn.com/NEWS/ENTERTAINMENT/ENT3/4084967.shtml">金馬套票 博客來洩個資挨轟</a><br /><br /><blockquote>博客來網站驚傳個人資料外洩，四百多名在博客來登記金馬影展劃位的網友，收到的註冊成功通知信中，都包含其他網友的姓名、手機、住家住址等，一堆人上網怒罵博客來。</blockquote><br /><a href="http://www.flickr.com/photo_zoom.gne?id=1875723450&amp;size=o" title="相片分享"><img src="http://farm3.static.flickr.com/2022/1875723450_a9113d8223.jpg" alt="htc" height="353" width="500" /></a><br /><br /><blockquote>博客來回應強調，這是系統「個案」疏失，將賠償每位網友五百元的e coupon。</blockquote><br /><br /><a href="http://www.flickr.com/photo_zoom.gne?id=1874901373&amp;size=o" title="相片分享"><img src="http://farm3.static.flickr.com/2383/1874901373_4be920c9b4.jpg" alt="htc" height="353" width="500" /></a><br /><br /><br />----<br /><br />至於為什麼這個新聞爆的這麼快呢？因為傳說中收件者裡面有一個是水果日報記者啊 XD <br /><br />最後感謝 Cornguo 提供此組照片，他也是受害者之一，受害經過可參閱他的 BLOG「<a href="http://cornguo.twbbs.org/archives/20071106/783/">博客來售票網，那裡有隻脫韁程式馬</a>」。<br />

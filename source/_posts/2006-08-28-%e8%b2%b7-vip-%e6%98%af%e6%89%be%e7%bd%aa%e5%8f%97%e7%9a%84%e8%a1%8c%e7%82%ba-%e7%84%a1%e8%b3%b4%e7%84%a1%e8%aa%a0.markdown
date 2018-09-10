@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 86
+layout: post
+title: !binary |
+  6LK3IFZJUCDmmK/mib7nvarlj5fnmoTooYzngro/ICjnhKHos7TnhKHoqqAp
+
+date: 2006-08-28 01:00:22 +08:00
+wordpress_url: http://blog.xdite.net/?p=86
+---
+<blockquote>主題:  系統通知<br />留言人:  vipblog  (2006-08-25 20:38:16)<br /><br />留言內容:  親愛的VIP會員您好，很抱歉打擾您:<br />因為系統擴充原因，你的所有資料將會搬移至新的主機上面(從編號1搬到32)<br />如果您有任何文章引用相簿的圖片變成看不到(看到XX)<br />可以自行修改圖片的連結為 (舉例: 注意其中粗體的1變成32):<br />原來 http://pic14.pic.wretch.cc/photos/1/v/vipblog/15/1121068790.jpg<br />修為 http://pic14.pic.wretch.cc/photos/32/v/vipblog/15/1121068790.jpg<br />即可，若還有任何問題，歡迎到這裡連絡我們<br />預計從8/27日起陸續轉移，造成您的困擾，請多多包涵<br /></blockquote><p><br /> <br /><br />一般會員沒事，<strong>VIP 會員反而有事</strong>？無名技術號稱不是很強，為什麼連<strong>搬個機器都沒有自動轉換</strong>的功能？<br /></p><p>這時候筆者不禁慶幸 XDite 當初沒有決定架在無名買 VIP ，<font color="#ff0000"><strong>引相簿的照片在 RSS 上會變成叉燒包</strong></font>外，竟然<font color="#ff0000"><strong>還會因為站方決定的移機讓 Blog 圖全都失效</strong></font> ....<br /><br />像筆者 Blog 為了追求真相，拍了那麼多張圖，要是架在無名，那不就要改連結改到死 ...<br />一百張圖就要改一百次，這是在搞笑嗎？<br /><br />VIP 果然比較衰小</p><p>----</p><p>8/28 16:00 update&nbsp;&nbsp;</p><p><a href="http://www.wretch.cc/guestbook/xyxyx&amp;page=1">鄉民提供畫面</a></p><p>&nbsp;</p><a href="http://www.flickr.com/photos/14765209@N00/226953475/" title="Photo Sharing"><img src="http://static.flickr.com/88/226953475_1af3cb37c1_o.jpg" border="0" alt="wj01" width="701" height="415" /></a>

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 505
+layout: post
+title: !binary |
+  5aO56JiL5p6c5b2x6Z+z5buj5ZGK56uE5pS557O757Wx6amF5YuV56iL5byP
+
+date: 2007-12-04 12:07:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=505
+---
+[ 本故事已獲傳說中的路人甲授權本格刊載 ]<br /><br />事情的始末在資安界人士的眼中看起來是非常誇張的，因此在看到<a href="http://x-solve.com/blog/?p=240">艾克索夫報導此事</a>以後筆者也跟進了。<br /><br />故事是這樣開始的<br /><br />有一天呢，路人甲在瀏覽水果報首頁的時候，看到了上面的 AdMax 廣告影音，同時瀏覽器也出現了建議安裝 ActiveX 元件的提示。還特別註明了：”安裝後請重新開機，以提升網路效能” 的字句。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/2086055218/" title="Flickr 上 xuitejoke 的 apple_main"><img src="http://farm3.static.flickr.com/2112/2086055218_ac3091fc43.jpg" alt="apple_main" height="344" width="500" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/2086055310/" title="Flickr 上 xuitejoke 的 apple_main2"><img src="http://farm3.static.flickr.com/2408/2086055310_ef998afcfd.jpg" alt="apple_main2" height="317" width="500" /></a><br /><br />安裝後，畫面竟然閃了一下!?接下來，路人甲的系統槽的驅動程式目錄也多了一個檔案 system32\drivers\TCPIP.SYS.ORIGINAL。<br /><br />經過路人甲檢查以後，才發現這個元件做了幾件事。原本使用者只是以為安裝一個單純只是優化讀取影音廣告的元件。<br /><br />沒想到它夾藏了 <a href="http://www.flickr.com/photos/14765209@N00/2085270655/">EvID4226Patch</a> 的TCP半開連線數的修改程式。而且當初的畫面一閃，就是代你點到畫面警告的確認窗。在安裝元件同時，意圖隱瞞且規避需使用者允許、確認的動作，把驅動程式給改掉了。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/2085270485/" title="Flickr 上 xuitejoke 的 apple_main3"><img src="http://farm3.static.flickr.com/2195/2085270485_f97345c960.jpg" alt="apple_main3" height="381" width="500" /></a><br /><a href="http://www.flickr.com/photos/14765209@N00/2085270611/" title="Flickr 上 xuitejoke 的 tcp_half"><img src="http://farm3.static.flickr.com/2412/2085270611_2c2af6103e.jpg" alt="tcp_half" height="218" width="500" /></a><br /><br />這真的是很過頭的事。<br /><br />OK，WindowsXP 在 SP2 之所以刻意的將 TCP sessions 降低在 10 ，就是要防避類似 SP1 時 疾風事件 的大規模蠕蟲攻擊事件重新上演。而很多人因為使用 P2P 軟體的關係，在 SP2 的限制下需要優化下載速度，所以也會安裝這個可修改 TCP sessions 數的補丁。但修改 session 數這件事往往是出於自己意志的行為，很多人在做修改之前，就也知道將會帶來的風險。<br /><br />可是這次的事件卻不一樣，這個動作完全是刻意忽略使用者知的權利然後竄改檔案，將用戶置於未知的風險下。廠商的說法卻也僅僅只是重申這個動作，僅為了提高大量下載的效率。卻完全規避了將帶來的風險…<br /><br />實在太誇張了。<br /><br /><br />

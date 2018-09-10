@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 124
+layout: post
+title: !binary |
+  Rmxhc2gg5b6M6Z2i54K65LuA6bq86KaB5pS+6IOM5pmv5ZyW
+
+date: 2006-09-21 13:51:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=124
+---
+...... 今天凌晨兩點拍到的<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/248407586/"><img width="500" height="390" alt="sbg" src="http://static.flickr.com/96/248407586_8755011e0d.jpg" /></a>

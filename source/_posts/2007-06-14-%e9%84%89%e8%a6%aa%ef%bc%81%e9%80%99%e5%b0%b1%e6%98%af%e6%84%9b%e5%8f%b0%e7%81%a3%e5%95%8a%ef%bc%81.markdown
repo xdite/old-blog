@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 376
+layout: post
+title: !binary |
+  6YSJ6Kaq77yB6YCZ5bCx5piv5oSb5Y+w54Gj5ZWK77yB
+
+date: 2007-06-14 18:52:05 +08:00
+wordpress_url: http://blog.xdite.net/?p=376
+---
+<br />今天下班，照例打開 PTT 的八卦版看新聞。結果看到一篇「有沒有點滑鼠大賽的八卦？」的文章洗版。看到這種情形，身為一個正常的鄉民，怎麼能不發揮湊熱鬧的本事呢？於是筆者也排隊從第一篇看起。<br /><br />這篇文章的主角其實就是一個很無聊的網站「<a href="http://www.clickclickclick.com">clickclickclick</a>」，站如其名，就是一個站讓你按按按 ~~ 然後網站會判斷你的來源，為你的國家加上分數。好死不死的這個網站竟然又設了國家排行榜，要知道，這種排行榜是很容易挑起國家意識的！<br /><br />在這篇文章剛上八卦版時，台灣的國家排名其實只有 34 ，當時是下午 13:10。國家意識被挑起來是很可怕的，之所有一大串文，便是因為大家開始聚集討論如何開始衝排行榜 ...<br /><br />到了下午 16:00 ~ 17:00，偉哉鄉民已經讓台灣衝到世界第三了。<br /><br />這是網站的統計圖，黃色是台灣。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/547228986/" title="相片分享"><img src="http://farm2.static.flickr.com/1315/547228986_a372241f7f.jpg" alt="ccc" height="378" width="500" /></a><br /><br />這就是鄉民愛台灣的實力啊 .....orz<br /><br />偉哉！PTT 鄉親們！<br />
+
+--
+update ：有熱血鄉民們為這次活動取了口號：「十萬鄉民十萬軍，人人都是加藤鷹」XD。well，如果你不知道誰是加藤鷹，請 google 。
+--
+update ：
+
+<a href="http://www33.atwiki.jp/clickvip/">日本鄉民的官網，報導了台灣參戰的消息</a>。
+
+<a href="http://www.flickr.com/photos/14765209@N00/548313860/" title="相片分享"><img src="http://farm2.static.flickr.com/1089/548313860_43d618f9a4_o.jpg" width="520" height="347" alt="www33.atwiki.jp" /></a>
+update：
+
+鄉民 pcmangood 貢獻了這張有趣的改圖
+
+<a href="http://www.flickr.com/photos/14765209@N00/547288185/" title="相片分享"><img src="http://farm2.static.flickr.com/1368/547288185_df64cbcc21.jpg" width="500" height="383" alt="clickhi5" /></a>

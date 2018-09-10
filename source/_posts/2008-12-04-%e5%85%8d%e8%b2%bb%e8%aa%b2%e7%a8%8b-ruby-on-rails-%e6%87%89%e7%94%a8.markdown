@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 827
+layout: post
+title: !binary |
+  W+WFjeiyu+iqsueoi10gUnVieSBvbiBSYWlscyDmh4nnlKg=
+
+date: 2008-12-04 23:37:51 +08:00
+wordpress_url: http://blog.xdite.net/?p=827
+---
+幫 <a href="http://ihower.idv.tw">敝社老闆 ihower</a> 廣告一下。這是他應 OpenFoundry 邀請開設的<strong>免費</strong> Ruby On Rails 課程。時間在下週四（12/11 ）的晚上，地點在 台北車站的 NOVA 五樓，三個小時的課程（18:40 ~ 21:30 )，限量 20 人。
+
+課程將深入講解 Rails 最具特色的 RESTful 架構、如何使用 RJS 做出 Ajax 效果、以及使用 Plugins 撰寫使用者認證、資料分頁、檔案上傳等常見功能，協助您用最 DRY(Don't repeat yourself) 的方式打造網站應用程式。
+
+更詳細的課程資訊可以參照 <a href="http://whoswho.openfoundry.org/workshop/details/13-ruby-on-rails--.html">OpenFoundry 的課程網頁</a>。
+
+有興趣學習 Ruby On Rails，或者是已自學 RoR 想要來交流開發技巧的朋友，歡迎參加。
+
+

@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 314
+layout: post
+title: !binary |
+  6Kej6ZaLIHBhZ2VyYW5rICAwIOeahOisjuW6lT8=
+
+date: 2007-04-13 16:50:38 +08:00
+wordpress_url: http://blog.xdite.net/?p=314
+---
+一直以來，筆者對 xdite site 的 pagerank，都是 0，感到大惑不解。因為就算是筆者的舊站 <a href="http://xuite-joke.blogspot.com">Xuite's Joke</a>，pagerank 也有 3 以上。
+
+
+而因為 blog 性質敏感，pagerank 又是 0，就常被長輩拿來大開玩笑。但老實說，不管問我多少遍，我也真的不知道原因。
+
+
+直到幾個月前，我因為太忙了。開始停止舊站的同步發表，另外因為主站好像 CPU load 太重，老是 500，所以也調整更改了一下 theme 與 plugin 的設計。所以兩個月前，我的 site 開始有 pagerank了，大概是 4 左右。
+
+
+直到剛剛，我都一直以為是同步更新的問題造成沒有 pagerank 的關係。現在既然有了 pagerank，就沒有再繼續追查了。
+
+
+剛剛收看南宮博士的<a href="http://www.gameimp.com/archives/2007/04/04/811"> [PAGERANK] 信譽歸零</a> 一文。才驚覺當初完全沒有 pagerank，竟然是因為可能 CPU 吃太兇， .htaccess 被 DH 竄改禁止 google bot 去爬，所以 pagerank 才會維持幾個月都是 0。
+
+一切謎底都解開了 ! 我該再罵一聲? DreamHost Sucks !
+
+南宮博士快搬來跟我做鄰居吧 XD

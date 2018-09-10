@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 309
+layout: post
+title: !binary |
+  6Zax6K6A5pa55ZCR6Kq/5p+l
+
+date: 2007-04-06 19:45:38 +08:00
+wordpress_url: http://blog.xdite.net/?p=309
+---
+隨著有名大站被正式併購。笑話還是有，只是沒有那麼多了。
+我還是會繼續寫笑話，只是不想每次上來都是寫笑話了。
+
+因為筆者還蠻寫寫其他方面的東西（also about web & network）。
+不然大家都以為我只會寫 JOKE @_@
+
+來作個意見調查好了？要在本舖交雜寫還是開分店寫。請大家給一點意見吧 :p
+
+[poll=2]

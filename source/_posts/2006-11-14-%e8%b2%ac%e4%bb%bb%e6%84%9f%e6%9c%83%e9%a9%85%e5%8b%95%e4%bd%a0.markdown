@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 202
+layout: post
+title: !binary |
+  6LKs5Lu75oSf5pyD6amF5YuV5L2gISEhIQ==
+
+date: 2006-11-14 01:44:18 +08:00
+wordpress_url: http://blog.xdite.net/?p=202
+---
+呃，我的原意不是要幫有名大站打廣告，筆者幫他們<strong>貼徵才圖實在虧大了</strong>（本格瀏覽人次還頗高的)，真的是要收點廣告費補貼 =_=||||<br /><br /><a href="http://www.wretch.cc/wcpan/haha.jpg">原圖在這</a>。我只是純粹覺得這張圖很好笑而已 ....阿，最近你們<strong>站狂掛掉，是因為一點責任感都沒有了嗎</strong>? XD<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/296543521/" title="Photo Sharing"><img width="176" height="240" src="http://static.flickr.com/116/296543521_4c3d67b275_m.jpg" alt="haha" /></a>

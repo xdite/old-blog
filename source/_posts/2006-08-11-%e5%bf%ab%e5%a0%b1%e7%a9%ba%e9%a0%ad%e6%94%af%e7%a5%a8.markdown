@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 57
+layout: post
+title: !binary |
+  W+W/q+WgsV3nqbrpoK3mlK/npag=
+
+date: 2006-08-11 12:51:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=57
+---
+剛剛筆者上<a href="http://blog.xuite.net/blog/baby/7508327">《Blog公告》日誌使用問題的發表處(95年08月)</a>月份看問題，發現有一位憤怒的使用者<a href="http://blog.xuite.net/aboutme.phtml?mid=13874888">北雁南飛</a>控訴它的 blog 連他自己都不能看。<br /><br /><div class="author">  </div><blockquote><div class="author"><font><a href="http://blog.xuite.net/aboutme.phtml?mid=13874888" target="_self">北雁南飛</a></font>      <font>2006-08-11 09:46</font></div><div class="commenttext">現 在更離譜了，連自己都看不到自己的文章了，大家都是創作者，看到自己辛苦的心血消失是什麼樣的心境？能不能請經營團隊設身處地的想一下？如果系統這麼不穩 定，或是沒心經營，是不是乾脆取消部落格這樣的服務？然後讓大家在一個時限之內把之前的文章備份下來，再找系統穩定的地方另起爐灶呢？當初會選擇這裡，當 然是因為認同這裡，但是也請你們不要考驗使用者的忠誠，再不讓系統穩定下來，遲早這裡的人會跑光的。</div></blockquote><br />於是筆者連過去看，果不其然，跟 <a href="http://xuite-joke.blogspot.com/2006/08/blog-post_06.html">[快報] 個人日誌首頁爛掉了</a>這一篇文章提到的情形一樣。CSS爛了 ...現在都 8/11 號了，Xuite 不是說 8/2 就修復的嗎?果然又是一張空頭支票<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/212364056/" title="Photo Sharing"><img src="http://static.flickr.com/81/212364056_e8277ebac7.jpg" border="0" alt="angry" width="500" height="389" /></a><a href="http://www.flickr.com/photos/14765209@N00/212275133/" title="Photo Sharing"><br /></a>

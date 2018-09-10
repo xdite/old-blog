@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 348
+layout: post
+title: !binary |
+  54Sh5ZCN5bCP56uZ5piv55yf5LiB5LiB6YKE5piv5YGH5LiB5LiBPw==
+
+date: 2007-05-10 08:28:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=348
+---
+在網路上看到有趣的東西，扔上來。
+
+<script src="http://pk.cool3c.com/widget.php?id=39" type="text/javascript"> </script>
+
+

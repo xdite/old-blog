@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 247
+layout: post
+title: !binary |
+  57qM77ya6I6r5ZCN5YW25aaZ55qEIEZPTg==
+
+date: 2007-01-02 08:17:37 +08:00
+wordpress_url: http://blog.xdite.net/?p=247
+---
+Firstable, apologize to YK &amp; TWFON。<br /><br />對於造成你們這麼大困擾我深感抱歉，相信我，我寫上一篇文章的用意絕不是希望你們淪為笑柄，或者成為千夫所指的對象（不過現在看起來像是了 XD）。只是純粹發洩我久候的不滿，與發生這麼大的 Delay 卻在官網看不到絲毫解釋，感到困惑。comment 裡有些過激的言論，我自己後來看了也覺得很是不妥。<br /><br /><br />但看了 <a href="http://blog.xdite.net/?p=243#comment-3886">YK 您回覆的 comment</a>，有小小話想說。<br /><br /><br />我覺得，今天這些不耐的言論的產生並不是出自於「我要什麼、為什麼還沒有、為什麼你不給我!!」的心態（雖然說在台灣這個注重快速的產業文化中，像是向博客來訂書，一個月沒到又毫無音訊是會遭致狠角的）。而是久候多時，毫無音訊，又缺乏正常交流管道的爆發。<br /><br /><br />我相信，當初想要申請 FON 的人，絕大部分是抱持著想要分享的心情，去參與這個計畫的。也就是您說的：「我能貢獻什麼，我們怎麼樣能投入參與做的更好，我能怎麼樣幫助你跟群體，讓你跟群體都能更好。」<br /><br /><br />不過，也等的過久了，很多人可能都是從六月中等到現在的。在這次 Delay 之前，就曾經發生過一次台灣官方兩三個月渺無音訊之事。幸好後來的 promote 活動，又重新把大家的熱情喚回來。結果這一次莫名奇妙的 Delay 事件，夾雜著不同管道 Delivery 時間的不同，卻又把大家對 TWFON 的信任再次摧毀了<br /><br /><br />在您在本站留下關於韌體更新、詢問信件過多、人手不足、貨源不足導致出貨 delay 的 comment 之前，包括我在內，我想台灣廣大網友幾乎是完全不知情的。為什麼？<strong>因為沒有官方論壇可以討論，官方 blog 也看不到任何合理解釋。各大論壇關於 FON 出貨時間延遲的討論，幾乎是不斷的 op 再 op 。</strong><br /><br /><br />筆者本身每隔幾天就會打開站上掛的 Google Analystics 看報告，昨天還看到一筆從 forum.moztw.org 來異常的 refer 紀錄（很怪異，沒開發什麼套件怎麼會突然有大量 refer）。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/341624055/" title="Photo Sharing"><img width="353" height="235" src="http://farm1.static.flickr.com/135/341624055_b7d88debe9.jpg" alt="ganl" /></a><br /><br />回後台查，才知道柏強大幫忙轉貼連結至 <a href="http://forum.moztw.org/viewtopic.php?t=16702&amp;postdays=0&amp;postorder=asc&amp;start=300">moztw 關於 FON 的討論串</a>。我是覺得蠻誇張的，<strong>今天要是沒有把那篇抱怨文寫出來造成迴響，恐怕大家都對 TWFON 發生什麼事感到一頭霧水吧? </strong>有朋友甚至也在 irc 上涼薄的說：「TWFON 不知道在想什麼，有時間在別人 blog上回人家 comment，有時間在那裡回幾千封信，幹嘛不當初就把這些情形直接上官方 Blog 或官方網站公告，連個 FAQ 都沒有。」（當然稍後好像那一篇回覆的 comment <a href="http://blog.yam.com/twfon/article/7310202">也上了官方 blog</a>）<br /><br /><br />今天我們不是不感謝這些義工的熱心協助。台灣人是相當熱心的，相信 YK 如果在網站上高聲一呼，或說明現在 TWFON 的狀況，我想很多人是願意貢獻自己心力幫忙的。<br /><br /><br />只是我們不知道這些狀況，也不知道 TWFON 需要什麼協助，更不知道該到哪裡報名。我們甚至不知道為什麼有些人早幾個禮拜就可以拿到 FON ，自己卻只能空等。<br /><br />這大概就是為什麼這麼多人不滿的原因。

@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 131
+layout: post
+title: !binary |
+  5b+r5b+r5qiC5qiC54GM5rWB6YePICgyKQ==
+
+date: 2006-09-23 16:30:25 +08:00
+wordpress_url: http://blog.xdite.net/?p=131
+---
+接著上一篇的話題，我們來探討看看廣告佔了流量的多少百分比。<br /><br />筆者是用 <a href="http://www.websiteoptimization.com/services/analyze/index.html">Web Page Analyzer</a> 去測的。它可以測出一個 page 大概全部有多少位元組（含 load 的 圖檔, javascript,雜檔)，可惜不能測 Flash 檔有多少（這部分要靠筆者的 Firefox 手動去測）。<br /><br />以下均不含前篇提到的 flv 檔測試，這太難測了，直接忽略。<br /><br />
+<ol>
+    <li>www.wretch.cc：<br />[1號數據]：筆者花了兩三天得到的數據，就是不含 flash 元件下，一頁平均大小應是 150~250k 左右。<br />[2號數據]：如果在沒有大廠商玩變色龍情況下，flash 就是 30k*4= 120k （廣告商超愛Flash ，一定會擺滿四個）<br />[3號數據]：有變色龍，會變成 150k（小叮噹）~300k（ESPN）+30k*(4-1)=240k~390k  (avg 算 315k)<br /><br /></li>
+    <li>www.wretch.cc/album：<br />[1號數據]：250k+<br />[2號數據]：30k*4= 120k<br />[3號數據]：315k<br /><br /></li>
+    <li>www.wretch.cc/blog：<br />[1號數據]：100k+<br />[2號數據]：30k*4= 120k<br />[3號數據]：315k<br /><br /></li>
+    <li>www.wretch.cc/album/username&nbsp; 非 vip、有廣告、20張相片擺滿（list整面是20張）<br />[1號數據]：80k+<br />[2號數據]：30k*4= 120k<br /><br /></li>
+    <li>www.wretch.cc/album/username/pic 非 vip、被縮圖、有3廣告<br />[1號數據]：80k+<br />[2號數據]：30k*3= 90k</li>
+</ol>
+<br />VIP 因為看不到廣告，所以 4,5 的測試就不測了。<br /><br />我們從上面的結果可以看到主要測試中，廣告佔一頁 load size 的 50~75%。<br /><br />再加計 VIP 的情況，（VIP 在任何一處看不到廣告是最近幾天的事，我們暫不列入考慮情況。）它們的相簿佔所有使用者的 5%（<a href="http://blog.xdite.net/?p=119" title="目前有 6 篇評論">續：神秘的樂透彩號碼</a>的數據），我們不知道這些相簿的閱覽率佔全站的瀏覽率比例，所以無法做數字上的修正。<br /><br />所以乾脆仁慈一點，我們把結論訂到總廣告佔總流量的 40 % 好了（嚴重低估）。<br /><br /><br /><strike>這樣你還相信，Alexa 32 強是真的嗎？所謂的<font color="#cc0000"><strong>有名大站流量幹掉 Flickr 是真的嗎</strong></font>？</strike><br /><br />都是用廣告灌的，當然都是假的...<big><big>愛灌多少有多少 -_-</big></big><br /><br />

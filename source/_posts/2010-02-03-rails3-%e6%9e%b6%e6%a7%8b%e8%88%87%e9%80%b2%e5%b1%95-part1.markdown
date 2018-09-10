@@ -1,0 +1,51 @@
+--- 
+wordpress_id: 1497
+layout: post
+title: !binary |
+  UmFpbHMzIOaetuani+iIh+mAsuWxlSBQYXJ0LjE=
+
+date: 2010-02-03 01:24:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=1497
+---
+還記得去年九月這篇文章嗎？<a href="http://blog.xdite.net/?p=1440">Rails 3 的野望 （Rails 合併 Merb 後目前的進展） </a>
+
+轉眼間三四個月又過去了。Rails3 在進度上又有了相當大的進展了，最近大概是進度已相當接近可開 beta 的程度，所以圈子裡開始不停的湧上超多關於 Rails 3 主體架構介紹或者如何跟 trunk 試玩的文章，看起來是試圖吸引 Developer <del datetime="2010-02-02T15:50:58+00:00">跳海</del>嘗鮮，以加速 bugmash 的過程 XD。
+
+因為筆者現在也在跟 trunk 了，所以順便整理一些我在跟 trunk 時會用到 / 閱讀的材料 / 注意事項方便大家使用
+
+
+
+<blockquote>* <strong>安裝 Rails 3 pre</strong>
+<a href="http://oscardelben.com/articles/2009/12/06/how-to-test-rails-3.html">http://oscardelben.com/articles/2009/12/06/how-to-test-rails-3.html</a>
+（注意，Rails3 必須跑在 Ruby 1.8.7+，請先升級 Ruby ）
+
+<a href="* <strong>Rails3 與 Rails2 共存的方法</strong> http://cardarella.blogspot.com/2010/01/rails-2-rails-3-side-by-side.html ">* <strong>Rails3 與 Rails2 共存的方法</strong>
+http://cardarella.blogspot.com/2010/01/rails-2-rails-3-side-by-side.html </a>
+
+* <strong>Rails 2 => Rails3 的 upgrade check plugin</strong>
+<a href="http://omgbloglol.com/post/364624593/rails-upgrade-is-now-an-official-plugin">http://omgbloglol.com/post/364624593/rails-upgrade-is-now-an-official-plugin</a>
+（升級方式是 rails ORIGNINAL_PROJECT，這樣會自動幫你把架構整個 upgrade 掉，不過程式方面的改寫還是要靠自己，所以有人寫了 plugin 可以 run check 提醒哪些地方需要改...不完美但是可以用 ）
+
+* <strong>Gemfile</strong>
+config.gem 改成 project 下的 Gem 用法，Gemfile 裡有詳細的使用範例。另外 Yehuda 這兩天也有<a href="http://yehudakatz.com/2010/02/01/bundler-0-9-heading-toward-1-0/">寫了一篇關於 Bundler 的文章</a>，說明開發的原意（解決 Dependency 問題），還有 Bundler 開發的進展現況。
+
+* <strong>config/routes.rb</strong>
+
+routes 在設計上也有了相當大的改變，example 可看 routes.rb 的註解。<a href="http://rizwanreza.com/2009/12/20/revamped-routes-in-rails-3 ">Revamped Routes in Rails 3</a>  和  <a href="http://yehudakatz.com/2009/12/26/the-rails-3-router-rack-it-up/">The Rails 3 Router: Rack it Up</a> 兩篇文章有相當清楚的解釋與用法。
+
+* <strong>ORM 上 query API 的變更</strong>
+Rails3 在接 ORM 的架構上做了相當巨大的變更，所以連帶的 ActiveRecord 取用 object 的語法也有了改變。詳情可閱讀<a href="http://m.onkey.org/2010/1/22/active-record-query-interface"> Active Record Query Interface 3.0</a> 。太多地方要改不知道從何下手的話，建議可以用 rails upgrade check plugin 自動掃一遍比較快。
+
+* <strong>RELEASE NOTE</strong>
+現在 trunk 版的 rails ，已經<a href="http://github.com/mikel/rails/blob/45fa73904966c8df9c42dd20e7ebb491b3fc1835/railties/guides/source/3_0_release_notes.textile">有人開始在寫 Rails3 RELEASE NOTE</a> 了，這也是一份相當好的參考材料。
+
+* <strong>commit log</strong>
+官方的 repo 在 <a href="http://github.com/rails/rails">github</a> 上。如果是跟 trunk 的 developer ，必須相當注意 commit log 的動態。像今天我在跟 trunk 時，就發現 link_to_remote 這個 helper 爛了，平時這不太可能發生，但我回想起來 DHH 他這兩天才在 twitter 上說過他們要開始動 View 和 Unobtrusive JS 這一塊。果然發現了 link_to_remote 在 2010/01/31 時被從 core 拔掉，扔去 <a href="http://github.com/rails/prototype_legacy_helper">prototype_legacy_helper</a> 這個 plugin 去了。</blockquote>
+
+
+
+以上這些是我覺得比較需要看的文件。
+
+另外社群也整理了一份 <a href="http://mediumexposure.com/rails-3-reading-material/">Rails 3 Reading Material</a>，會不斷更新，不知道去哪裡追社群動向的話看這裡的懶人包也不錯。
+
+這一系列的下一個 part 我會介紹和解釋 Rails3 目前做了什麼樣的架構變更，以及架構變更後面的想法。請耐心等待 :p

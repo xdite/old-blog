@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 152
+layout: post
+title: !binary |
+  57iu5ZyW5LiW55WM56ys5LiA5LmF55qE57iu5ZyW5qmf
+
+date: 2006-10-03 18:21:29 +08:00
+wordpress_url: http://blog.xdite.net/?p=152
+---
+昨天有位讀者，很熱心的要提供我 <a href="../../../../../?p=147" rel="bookmark" title="Permanent Link: 殺手級蠢舉 mypage (3) 自我 SQL DOS">殺手級蠢舉 mypage (3) 自我 SQL DOS</a> 的圖，丟給筆者<a href="http://www.wretch.cc/album/show.php?i=jeffy&amp;b=8&amp;f=1667460425&amp;p=0">他在有名大站的相簿連結</a>。結果筆者一連上去，囧，噴這個「<font color="#ff0000"><strong>這個圖片正在縮圖中, 尖峰時段會比較慢屬正常現象, 請耐心等待</strong></font>」給我 XD<br /><br />結果這張圖大概縮了超過一小時有吧，結果我只好自己刊自己拍的 XD<br />縮圖機縮這麼久，真是世界奇觀<br /><br />（註：ptt2 XDite 版有相關討論）<br />update: 原作者說縮了 4 小時 XD<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/259638120/" title="Photo Sharing"><img width="500" height="390" src="http://static.flickr.com/86/259638120_f3d20f17f1.jpg" alt="limipage" /></a>

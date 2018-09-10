@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 575
+layout: post
+title: !binary |
+  5YKz6Kqq5Lit55qEIEhFTUkgMy4wID0gRlVOUCA/
+
+date: 2008-04-21 08:05:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=575
+---
+當然這個標題只是下的聳動了點 XD。前陣子在 twitter 上就一直看到黑米 3.0 的邀請函在發放，弄得我也對黑米 3.0 也甚感好奇。不過剛看到 <a href="http://briian.com/?p=5350">briian.com 報導了黑米 3.0 的畫面</a> 
+
+...看了卻有一股說不出的詭異，感覺非常眼熟。想了半天才發現這根本就是 <a href="http://funp.com/push/">funp 「推推王」那頁</a>的 layout，從 書籤頁、什麼是「OOO」？、大家都在推、書籤雲 的位置都一模一樣。挖哩勒 ....
+
+<a href="http://www.flickr.com/photos/xdite/2429278541/sizes/o/" title="Flickr 上 xdite 的 hemi_from_briian.com"><img src="http://farm3.static.flickr.com/2236/2429278541_c3d1f53e7a_m.jpg" width="104" height="240" alt="hemi_from_briian.com" /></a><a href="http://www.flickr.com/photos/xdite/2430089226/sizes/o/" title="Flickr 上 xdite 的 funp"><img src="http://farm3.static.flickr.com/2400/2430089226_a5c1ec784d_m.jpg" width="113" height="240" alt="funp" /></a>
+
+
+既然是一個要做「黑米再起」 的3.0 版本，這樣的舉動似乎是不太好吧 (?)

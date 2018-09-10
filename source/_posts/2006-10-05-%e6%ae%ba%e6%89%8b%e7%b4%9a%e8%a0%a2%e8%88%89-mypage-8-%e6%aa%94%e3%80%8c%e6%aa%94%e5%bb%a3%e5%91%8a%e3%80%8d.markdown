@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 154
+layout: post
+title: !binary |
+  5q665omL57Sa6KCi6IiJIG15cGFnZSAoOCkg5pOL44CM5pOL5buj5ZGK44CN
+
+date: 2006-10-05 02:09:22 +08:00
+wordpress_url: http://blog.xdite.net/?p=154
+---
+這個東西，是筆者無意之中發現的。本來只是看到一頁很好笑的 mypage。因為莫名其妙的 bug。該<font color="#ff0000"><strong>使用者的 mypage 一次出現五格廣告欄</strong></font>。拍完圖才發現一件奇怪的事，以往筆者都是在 adblock 沒開啟的狀態下測，但是這次忘記關掉 adblock ，照理說應該什麼廣告都會被擋光光才對。<strong>結果那個可惡的滷蛋周竟然還是屹立不搖</strong>。<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/260791106/"><img width="500" height="390" alt="5ad" src="http://static.flickr.com/107/260791106_8e57182fbb.jpg" /></a><br /><br />筆者一時好奇打開了原始碼 ...才發現一件人神共憤的事。以往有名大站的廣告都是由 http://ad.wretch.cc/ 統一控管，因此用 Firefox 的用戶，<strong>只要不想看廣告，在 adblock 把 rule 加上這個網址就可以擋光光</strong>。但是，mypage 這個新產品，採取了新型態的擋「擋廣告」手法。<strong>它們竟然直接把廣告丟在 http://pic.wretch.cc/</strong>，即是一般儲存相片的地方。所以，如果你從網址目錄檔，包准連其他圖片都檔光光；如果從檔名檔 *.swf，連其他用到 flash 的功能順便檔掉。更糟糕的是，即使這次你知道滷蛋周會從哪邊冒出來，而成功檔了他。那下次多拉A夢冒出來，你知道要從哪裡擋掉他嗎？<br /><br /><br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/260779733/"><img width="500" height="94" alt="noadblock" src="http://static.flickr.com/81/260779733_8ad3fa6613.jpg" /></a><br /><br /><strong><font size="5">mypage 這招真是夠機車的殺手級蠢舉啊 ...<br /></font></strong><br />update:<br /> 這篇終於解答 hlb 長輩的 blog : <a href="http://hlb.yichi.org/blog/2006/10/02/144">No Code = Best Code ?</a> 中的疑問，原來是放廣告的啊 ....<br /> 而且最機車的是，這樣的寫法，廣告用 CSS 完全幹不掉...<br /> 如果你強行用關掉 java script 的手法要幹掉廣告，哈哈，mypage 會爛掉!!!<br /> 因為 mypage 就是用 js 寫的。

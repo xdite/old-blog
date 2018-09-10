@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 235
+layout: post
+title: !binary |
+  5rOV6bWd55qE6IGW6KqV56au54mp
+
+date: 2006-12-22 19:37:52 +08:00
+wordpress_url: http://blog.xdite.net/?p=235
+---
+<br />話說，Pixnet 幾天前推出了<a href="http://blog.pixnet.net/admin/post/1461030">聖誕禮物</a>。<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/329768553/"><img width="428" height="105" alt="vip" src="http://farm1.static.flickr.com/165/329768553_5262501a72_o.jpg" /></a><br /><br />簡單的講就是，<strong>憑無名的 VIP 資格，可以換取 Pixnet 試用 VIP 一個月</strong>。如果已經是 Pixnet 的 VIP 會員，<strong>則可憑無名 VIP 資格將資格再延長兩個月</strong>。(96/1/23 截止）詳情請點<a href="http://blog.pixnet.net/admin/post/1461030">聖誕禮物</a>的連結。<br /><br /><br />延伸閱讀：<br /><br />如果你要搬家的話，請看這兩篇<br /><br /><a href="http://guide.xdite.net/pixbguide.htm">無名搬 Blog 至 Pixnet 圖示教學</a>（不用買 VIP 就能搬，而且搬家不會破圖喔！）<br /> <a href="http://guide.xdite.net/pixpguide.htm">無名搬 Photo 至 Pixnet 圖示教學</a> （注意：你必須要有 VIP 發的邀請碼或者<a onclick="javascript:urchinTracker ('/outbound/bill.pixnet.tw');" href="https://bill.pixnet.tw/index2.php">本身就是 VIP</a>）<br /><br /><br />.....阿開頭說了這是幾天前的新聞，為什麼我現在才在報呢？因為筆者覺得一邊撻伐有名大站再一邊推薦 Pixnet 會有嫌疑啊，囧。不過剛剛看到<a href="http://blog.pixnet.net/ms">這個 blog</a> 後惡搞的<a href="http://blog.pixnet.net/ms/post/1418016">法鵝跳舞圖</a>後，因為筆者覺得法鵝賣 VIP 還要跳舞這麼犧牲色相，我還是幫他廣告一下好了 XDD<br /><br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/329762149/"><img width="380" height="300" alt="1166409293" src="http://farm1.static.flickr.com/131/329762149_a53b32be72_o.gif" /></a><br /><br /><br /><br /><br />[註1] ....<a href="http://blog.xdite.net/?p=156">教學是很久以前寫</a>的，不是為了臨時推銷會籍才寫。<br />[註2] <a href="http://www.elfyourself.com/?userid=657913adb2260d25a99d8c7G06121716">法鵝跳舞音樂版原稿</a>在這裡，要看法董跳舞只能趁現在...XD<br />[註3] 此張照片目前 host 在&nbsp; xdite's flickr，因為我怕直接掛該原圖，會因為本站超大流量外連瞬間就被 suspend。

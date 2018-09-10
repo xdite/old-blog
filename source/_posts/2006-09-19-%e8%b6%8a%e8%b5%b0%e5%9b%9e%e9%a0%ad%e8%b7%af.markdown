@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 123
+layout: post
+title: !binary |
+  6LaK6LWw5Zue6aCt6Lev
+
+date: 2006-09-19 12:58:01 +08:00
+wordpress_url: http://blog.xdite.net/?p=123
+---
+有名大站在 9/16 在（BBS 公告） 系統將自 5:00 AM ~ 12:00 停機維修7小時。<a href="http://nopa.csie.org/25655">原文備份</a><br /><br />這個行為非常的好笑，所有人都知道有名大站最多人使用的是 WWW 服務而不是 BBS 服務。（BBS 尖峰時段上站人次約 15000 人，但會跑到 0SYSOP 版看的有多少人?）<br /><br />沒在網站上以顯著字樣公告就算很明顯的疏失了。竟然認為在 BBS 公告就算了事了？<br />（<strong>廣告付費新產品時的字樣倒是很顯著啊？</strong>）<br /><br /><br />更好笑的是，今天 (9/18) 早上 10:00 又在 （BBS上） 公告一次欲延長維修時間 5 小時。<a href="http://nopa.csie.org/d9c00">原文備份</a><br />但直自筆者開始撰寫這篇文章時，網站還是持續顯示&quot;無法顯示網頁&quot;之字樣。<br /><font color="#ff0000"><strong>誰會知道要延長維修時間 5 小時啊 </strong></font>?<br /><br />筆者說實在還蠻懷念以前有名大站學網時代。那時候後就算系統停機，首頁上還有個 Raidbox 由銀興科技贊助之類反廣告可以看的 XD&nbsp; &quot;無法顯示網頁&quot; 是什麼鬼？不知道的人還以為有名大站捲款落跑了啊 -_-<br /><br />..........真是越來越退步<br /><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/247186876/" title="Photo Sharing"><img width="240" height="192" src="http://static.flickr.com/92/247186876_19a332ff97_m.jpg" alt="fix" /></a>

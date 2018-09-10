@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 1166
+layout: post
+title: !binary |
+  5aW95qij55qEIEhpbmV0IOWFieS4luS7ow==
+
+date: 2009-04-21 16:00:51 +08:00
+wordpress_url: http://blog.xdite.net/?p=1166
+---
+昨天( 2009/04/20 )發生的事情。
+
+18:36 <@xdite> Hinet 打電話到我台中家裡問我妹要不要裝光纖，我妹說不要。結果他天天打來煩我妹。我妹明確跟他說我們家不裝之後，換打來騙我媽說我妹同意裝了。
+
+18:37 <@xdite> 我媽還是拒絕。然後我妹剛剛上網，瀏覽器出現<a href="http://www.flickr.com/photos/xdite/3462301132/sizes/m/"> http://www.flickr.com/photos/xdite/3462301132/sizes/m/</a> 這張圖。他直接 screenshot 起來打電話請我幫忙處理 ...
+
+我妹說常常打來騷擾的是 04-24911X44 跟 04-24911Y44
+
+<a href="http://www.flickr.com/photos/xdite/3462301132/" title="Flickr 上 xdite 的 hinet"><img src="http://farm4.static.flickr.com/3540/3462301132_90be432d90.jpg" width="500" height="292" alt="hinet" /></a>

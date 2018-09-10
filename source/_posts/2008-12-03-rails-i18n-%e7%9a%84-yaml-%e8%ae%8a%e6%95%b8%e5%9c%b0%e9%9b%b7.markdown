@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 824
+layout: post
+title: !binary |
+  UmFpbHMgSTE4biDnmoQgeWFtbCDorormlbjlnLDpm7c=
+
+date: 2008-12-03 22:22:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=824
+---
+Rails 2.2 內建了 I18n 的 feature，可以吃 yaml 或 rb。
+在 yaml 裡面可以內置變數 {{XXXX}}。然後就可以用 I18n.t('blah',:desc => 'blahblah') 傳進去。
+
+但今天跟 <a href="http://gugod.org/">gugod</a> 在一起 cowork 時，我們在翻譯的 yaml 檔踩到一個雷。
+
+<blockquote> 
+ :goal: 
+    success: 成功{{desc}}
+    fail: {{desc}}失敗
+</blockquote>
+
+<strong>success: 成功{{desc}} </strong>  這一行是沒有問題的。
+但是 <strong>fail: {{desc}}失敗</strong> 卻會一直 syntax error。
+
+後來大致上翻了一下 yaml 的 spec，發現是 {} 在 yaml 裡是有意義的。當 {} 在前時，yaml 會開始 parse ( {} 是 Hash)，因此就會 "Can't parse inline map" 造成 syntax error。
+
+因此解法是，將 <strong> fail: {{desc}}失敗</strong>  置換成 <strong>fail: '{{desc}}失敗'</strong>，就能避免這樣的問題。
+
+
+
+
+
+

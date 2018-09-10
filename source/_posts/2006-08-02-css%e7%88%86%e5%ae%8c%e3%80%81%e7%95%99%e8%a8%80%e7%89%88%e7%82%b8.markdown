@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 37
+layout: post
+title: !binary |
+  Q1NT54iG5a6M44CB55WZ6KiA54mI54K4
+
+date: 2006-08-02 15:23:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=37
+---
+CSS 看起來修好了一點，但接下來留言版服務又好像炸了。
+噴掉的時間好像就在 7/30 號左右吧，那時候<a href="http://xuite-joke.blogspot.com/2006/07/xuite_30.html">筆者還照了一張相</a>。
+
+以下抱怨內容取自<a href="http://blog.xuite.net/blog/baby/7508327">八月份 Q&amp;A </a>
+
+<a href="http://www.flickr.com/photos/49274115@N00/204649955/" title="Photo Sharing"><img src="http://static.flickr.com/71/204649955_d0ce9460f8.jpg" alt="gbroken01" height="500" width="444" /></a>

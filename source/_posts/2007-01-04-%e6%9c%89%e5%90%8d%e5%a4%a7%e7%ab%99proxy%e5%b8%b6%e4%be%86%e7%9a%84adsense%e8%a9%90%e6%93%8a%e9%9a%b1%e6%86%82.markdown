@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 250
+layout: post
+title: !binary |
+  5pyJ5ZCN5aSn56uZcHJveHnluLbkvobnmoRBZHNlbnNl6KmQ5pOK6Zqx5oaC
+  Pw==
+
+date: 2007-01-04 07:38:59 +08:00
+wordpress_url: http://blog.xdite.net/?p=250
+---
+<br />前幾天看到台灣出現<a href="http://blog.pixnet.net/googlefan/trackback/1684240">第一起 Adsense 被停權的案例</a>。本來筆者對這個 Case 只是置之一笑而已，因為該站長也承認了自己多次詐騙點擊，才遭致停權。<br /><br /><br />但是筆者前幾天又看到一篇 Blog 文：「<a href="http://hsinjungwu.freepgs.com/blog/?p=710">如何避免 Google Adsense 帳戶被鎖住</a>」。文中很重要的一段<br /><br /><blockquote>
+<p>這裡列出了一些你應該要避免登入Google Adsense的地點。簡單說就是不要從下面這些地方登入Google AdSense </p>
+<ol>
+    <li><strong>朋友的電腦</strong></li>
+    <li><strong>網咖</strong></li>
+    <li><strong>辦公室的電腦</strong></li>
+    <li><font color="#cc0000"><strong>使用public proxy的電腦</strong></font></li>
+</ol>
+</blockquote>上個月筆者開始耳聞，有名大站的 Blog owner 也紛紛開始掛起了 Google Adsense。本來是沒有把這兩件事聯想在一起的。可是最近因為看到「<a href="http://hsinjungwu.freepgs.com/blog/?p=710">如何避免 Google Adsense 帳戶被鎖住</a>」一文，筆者開始神經兮兮的調校自己 Firefox 的 proxy 設定。（筆者是用校 proxy 和私 proxy）<br /><br /><br />才突然想到，有名大站因為創站時因為選擇與 Lownet 展開勢不兩立的對決，因此只要是 Lownet 或和有名大站有仇的 ISP 用戶，站方都會建議用戶使用該站提供的 proxy：http://proxy.wretch.cc/proxy.pac 來瀏覽。<br /><br /><br />根據非正式統計，全台灣其中大約 1/2 的網路族幾乎都是 Lownet 用戶，而會看有名大站的比例人應該也頗大。再<strong>加上沒人掛了 proxy 以後會沒事再把他關掉（除非該 proxy 連其他站太慢）</strong>，因此目前應該有非常多人一起使用這個 proxy 設定檔。<br /><br /><br />本來大量用戶 share 同一個 proxy 是沒什麼問題的。但是 Google Adsense 在台推出了，林多鳥雜，詐騙點擊的事情是不可能不發生（幫自己點或幫朋友點）的。但應該沒有一個地區像台灣一樣，大量用戶密集的共享一個 proxy 設定檔。這會不會造成什麼影響，值得思考與關注。<br /><br /><br /><blockquote>[簡單鄉民版]（如果你看不懂以上我在說些什麼。這一段是簡單講解版）。<br />　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<br />Google 為防止 Blog 擁有者自己點擊掛在自己站上的廣告，會啟用一些機制去偵測阻止這種行為，<strong>如果犯規次數太多，是會被停權的，屆時一毛錢都拿不到</strong>。其中一個機制就是判斷 IP 來源。如果你跟朋友使用同一個 proxy 瀏覽 blog，被偵測到的會是同一個 IP。如果他時常幫你點廣告，即使你自己沒有點，有極大可能是會被視為詐點嫌疑犯的。（國外發生過不少起 case，站長自己從沒點擊過廣告，卻莫名其妙被停權，理由就是詐欺點擊，當然最慘的是毫無上訴機會）<br /></blockquote><br />雖然說，Google 不會單純只靠判斷 IP 去辨識，還會加上其他統計機制。（延伸閱讀：「<a href="http://blog.yam.com/williamlong/article/5552244">如何防止google adsense fraud clicks(欺騙點擊作弊) 的分析</a>」），但是有名大站 proxy 覆蓋率這麼大，到底會不會干擾到計算機制而造成大量誤判。我想這是值得擔憂的 (?)。<br /><br /><br />恭請其他學有專精的長輩惠賜意見。

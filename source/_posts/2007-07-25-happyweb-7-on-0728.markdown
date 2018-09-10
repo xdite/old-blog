@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 421
+layout: post
+title: HappyWeb 7 on 07/28
+date: 2007-07-25 11:55:25 +08:00
+wordpress_url: http://blog.xdite.net/?p=421
+---
+<p>HappyWeb 7 來了，這次的主題是筆者期待很久的一個主題（因為上個月沒有 Happyweb..）。看到這麼少人報名覺得有點可惜，所以就幫 cjin 貼一下廣告... 主要是因為一些法律問題與意見並不是像我這種阿宅在家上網 google 就有辦法弄懂或弄對定義的，所以我認為這是一個很難得的機會。歡迎大家踴躍報名參加。</p>
+<p>然後 ...會後筆者會去貳兩吃燒肉，所以歡迎大家一起參加 Happyweb 然後跟我一起去吃燒肉，謝謝 XD</p>
+<br/><table border="0">
+<tbody>
+<tr>
+<td>
+<p><img width="236" height="50" src="http://www.is-law.com/pictures/TEST003-3-1.jpg"/><br/>這次我們邀請<a href="http://is-law.com/" target="_blank" title="益思法律事務所">益思科技法律事務所</a>: <a href="http://www.is-law.com/staff/staff-LA.htm" target="_blank" title="賴文智">賴文智</a> 所長及<a href="http://www.is-law.com/staff/staff-YE.htm" target="_blank" title="顏雅倫">顏雅倫</a> 律師, 分別為網友介紹Web2.0 的智慧財產權, 及網站創業設立公司必須知道的法律議題。<br/><br/>益思科技法律事務所為國內幾位對於科技有狂熱的法律人所組成。<br/>網路著作權及科技公司創業、技術股問題都是近年比較受到重視的課題, 而益思在這些議題都耕耘已久, 且益思的律師們就如同網路業 open 公開分享的精神, 將他們所研究的專業知識公佈分享在益思的網站或<a href="http://tw.myblog.yahoo.com/dickatislaw" target="_blank">個人 blog</a> 上, 這在一般所認知的法律執業者是比較少見的。<br/></p>
+<p>很榮幸有機會可以邀請到兩位律師撥空來演講並和網友交流, 如果你對 P2P 問題. ISP責任(Youtube, Digg 的 HD-DVD..等), 開放授權, 或準備創業, 合資籌組公司所需程序, 專利技術作價, 考慮員工技術股等問題有興趣, 請千萬別錯過這次機會喔!<br/><br/><br/></p>
+<p><label class="plumEventLabel">時間:</label> <span class="plumEventData">2007/7/28 星期六 下午 01:30 ~ 下午 5:30</span></p>
+<p><label class="plumEventLabel">報名截止時間:</label> <span class="plumEventData">2007/7/28 星期六 下午 01:00</span></p>
+<p><label class="plumEventLabel">地點:</label> <span class="plumEventData">台北市松仁路7號7樓-微軟:<a href="http://www.urmap.com/?link=QQs10-0sd11s1T0W0s0s0s0W0s000R0Q0E000s0R000Q0YWE0W0T0W0s0s0W010a0a0R0R0a010R0d0E0YWa0W0a0T0-TRT10shRThfsfaEffQW2gdf2Ydf11-fT00g2T10-TRT10shRThfsfaEffTfEfhEEfR1EfQs10-0sd11s1T0Q0T0Q0a0T0W0s0s0s0W0s000R0Q0E000s0R000Q0YWE0W0T0W0s0s0W010a0a0R0R0a010R0d0E0YWa0W0a0" target="_blank">地圖</a></span></p>
+<p><label class="plumEventLabel">人數上限:</label> <span class="plumEventData">180 人</span></p>
+<p><label class="plumEventLabel">附註:</label> <span class="plumEventData">免費入場喔! 請在1:30 前於一樓警衛處領取活動貼紙, 說明參加微軟活動後乘電梯至七樓</span></p>
+</td>
+
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<p><br/></p>

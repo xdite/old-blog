@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 113
+layout: post
+title: !binary |
+  5LuY6Yyi5bCx5Y+v5Lul5pS56K6K
+
+date: 2006-09-11 13:12:07 +08:00
+wordpress_url: http://blog.xdite.net/?p=113
+---
+<blockquote>&nbsp;作者&nbsp; wkwu (用嘴巴寫程式)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 看板&nbsp; 0VIP<br />&nbsp;標題&nbsp; Re: 趕快解決問題吧，請鄉民互相轉寄吧<br />&nbsp;時間&nbsp; Mon Sep 11 10:48:05 2006<br />───────────────────────────────────────<br /><br />※ 引述《icemanblack (有名耍大牌站)》之銘言：<br />&gt; 亂世欺人者眾 - 看無名小站讓人受不了的慢<br />&gt; <a href="http://kenneth.exblog.jp/4257178">http://kenneth.exblog.jp/4257178</a><br />&gt; 在其他地方看到的<br />&gt; 除了這篇文章，請把所有值得推薦的都轉寄給大家吧!<br />&gt; 「對於企業而言，這樣不誠實的作法與說法，實在不可取。<br />&gt; 有時候實在讓人無法接受，背後動機也令人質疑。&hellip;&hellip;」<br /><br />這篇文章錯誤百出, 不要誤導其他人了<br /><br />電路與頻寬是不一樣的, Giga 與 So-net 間有 1G 的電路<br />但 So-net 自己把頻寬限制在 100MB, 真正可用只有 100MB<br /><br />就像 ADSL 家裡的電路都是電話線, 看你申請的頻寬是 1M/2M/8M/12M 都可以<br /><strong>只要設定好就可以改變, 但付的錢也不一樣</strong><br /></blockquote><br />偉大的吳經理這次為我們舉了良好的例子。為什麼我的電腦到數據機之間是 100Mbps 的線，上網際網路卻只有 2Mbps 的速度呢？那是因為我買的頻寬只有 2M ，只要多付一點錢就可以改變成 8M或 12M啊。<br /><br />那無名幹嘛要嚷著其他 ISP 對你們限頻呢，這不是多付錢就可以解決的事嗎？只付 100 mb 的錢（也許這 100mb 也是不用錢的），套吳經理的話，當然只能用 100mb 啊。當然即使 giga 不肯買，你們放在和宇的機房，也可以自己買其他家的線來接啊 .:p<br /><br /><strong>只要付錢就可以改變呢，吳經理你說是不是呢</strong>? :P<br /><br />---<br />另外吳經理很愛說別人的文章都是錯誤百出，而且嚴重誤導使用者。錯誤在哪裡也不講清楚，誤導可是會害你們客戶跑光光的呢，身為客服經理竟然一點都不緊張？真是失職失職啊 :p&nbsp; <br /><br />還是只是跟吳經理不同調的文章，就叫嚴重錯誤呢？&nbsp; 筆者這篇文章，頗符合吳經理的邏輯，相信應該不是他口中的錯誤百出和誤導使用者的文章吧 XD

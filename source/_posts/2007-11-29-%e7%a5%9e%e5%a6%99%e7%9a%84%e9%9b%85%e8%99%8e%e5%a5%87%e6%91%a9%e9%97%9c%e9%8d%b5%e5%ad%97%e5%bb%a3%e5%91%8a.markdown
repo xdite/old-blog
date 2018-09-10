@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 501
+layout: post
+title: !binary |
+  56We5aaZ55qE6ZuF6JmO5aWH5pGp6Zec6Y215a2X5buj5ZGK
+
+date: 2007-11-29 18:24:51 +08:00
+wordpress_url: http://blog.xdite.net/?p=501
+---
+在 IRC 上看長輩在講的，Y 社竟然使用 Google Analytics 在<a href="http://tw.emarketing.yahoo.com/ysm">雅虎奇摩關鍵字廣告的的廣告網頁</a>上，真是太神妙了啊。<br /><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/2072798249/" title="Flickr 上 xuitejoke 的 yahoo"><img src="http://farm3.static.flickr.com/2391/2072798249_42a5c81687.jpg" alt="yahoo" height="397" width="500" /></a><br /><br />

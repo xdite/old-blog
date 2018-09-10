@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 861
+layout: post
+title: !binary |
+  54Sh5ZCN5bCP56uZ6YOo6JC95qC85pCs5a625oe25Lq65YyF77yI5pyA5paw
+  77yJ
+
+date: 2009-01-11 04:47:39 +08:00
+wordpress_url: http://blog.xdite.net/?p=861
+---
+<strong>[資訊揭露：我目前是 <a href="http://www.pixnet.net">PIXNET</a> 的兼職員工。]</strong>
+
+最近因為無名小站在 <a href="http://www.ithome.com.tw/itadm/article.php?c=52907">1/8 號起在 Blog 內頁插上醜醜的廣告</a>。所以最近透過找搬家程式進入我的部落格的人又變多了。
+
+因為現在前幾篇關於無名小站搬家教學的時間和相關工具網站，因為過期很久都失效了。最近蠻多人拜託我找最新的方法，只好在這裡貼一下最新搬家的方式。
+
+如果你想從無名搬家到 <a href="http://blogger.com">Blogger</a>，
+我建議你看 <a href="http://gaagaaga.blogspot.com/2008/09/blogger.html">最方便的無名搬家到Blogger方式 (可搬留言，無一天五十篇限制)</a>。
+-----
+如果你想從無名小站搬家到 <a href="http://www.pixnet.net">PIXNET</a>，請在 PIXNET 註冊帳號之後，到管理後台的「部落格」→「匯入匯出備份」匯入你在無名的備份檔。
+
+<a href="http://www.flickr.com/photos/xdite/3185052037/" title="Flickr 上 xdite 的 moveblog"><img src="http://farm4.static.flickr.com/3080/3185052037_f748fca4a3.jpg" width="500" height="237" alt="moveblog" /></a>
+
+如果你匯入之後想告訴別人你已經搬到痞客邦，<a href="http://move.pixnet.tw/">這裡有教你如何貼搬家公告的教學</a>。
+-----
+如果你想從無名搬家到自己架設的 Wordpress，
+那麼你可以參考這篇文章：<a href="http://www.pijo.com.tw/archives/1279">[心得]無名備份轉匯入wordpress</a>

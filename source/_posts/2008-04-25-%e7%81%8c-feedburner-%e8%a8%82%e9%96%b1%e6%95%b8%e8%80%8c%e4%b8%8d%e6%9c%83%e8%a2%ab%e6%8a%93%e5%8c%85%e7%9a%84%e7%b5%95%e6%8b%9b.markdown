@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 577
+layout: post
+title: !binary |
+  54GMIGZlZWRidXJuZXIg6KiC6Zax5pW46ICM5LiN5pyD6KKr5oqT5YyF55qE
+  57WV5oub
+
+date: 2008-04-25 07:20:11 +08:00
+wordpress_url: http://blog.xdite.net/?p=577
+---
+這就是絕招。
+
+<a href="http://www.feedburner.com/fb/a/emailverifySubmit?feedId=435141&amp;loc=en_US">Subscribe to Blog.XDite.net by Email</a>
+
+---
+
+原理請自行推敲，我不會在這裡解釋。
+
+只是如果當你看見一個 blog 明明提供的是爛掉的 feed（甚至是爛掉的內容），卻還是持續有很多人訂來看而沒有退訂，別懷疑，這就是最好的解釋。

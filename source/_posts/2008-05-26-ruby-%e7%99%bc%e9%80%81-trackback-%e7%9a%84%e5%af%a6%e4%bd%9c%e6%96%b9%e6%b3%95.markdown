@@ -1,0 +1,52 @@
+--- 
+wordpress_id: 587
+layout: post
+title: !binary |
+  W1J1YnldIOeZvOmAgSBUcmFja2JhY2sg55qE5a+m5L2c5pa55rOV
+
+date: 2008-05-26 02:51:01 +08:00
+wordpress_url: http://blog.xdite.net/?p=587
+---
+三月時中曾經寫了一個網站的雛形，叫做 <a href="http://yourpostsuck.com">YourPostSuck.com</a>。這個網站的目標很神聖，目的是：企圖解決目前書籤網站上一直出現大家不願意看到的文章的問題。
+
+而實作的方法就是，<strong>請網友將你覺得是垃圾的文章，扔到<a href="http://yourpostsuck.com">這個網站</a></strong>。這樣一來，討厭的文章就會降低出現在書籤網站上的頻率。因為在「收藏好的文章」的網站上討論「爛的文章」的內容實在是一件很詭異的事。
+
+當初寫這個網站的前提，是要練習 <a href="http://framework.zend.com/">Zend Framework</a>，不過用 PHP 刻到一半就喪失興趣了，最後就晾在那邊。後來寫完 <a href="http://twitio.us">Twitious</a> 的時候，發覺這東西只要改一下就可以變成 YourPostSuck.com 了嘛。當然，為了不浪費長輩租機器的錢和為了練習技術，這個網站最後還是誕生了，而且使用 Rails 2.0 implement，就是看到的現在這個樣子。
+
+不過，東西寫完了，但是總覺得還少了些什麼功能，所以一直沒有上。
+
+沒錯，就是 Trackback！
+
+在我的部落格上，老是會接到<strong>「<a href="http://door.urs.tw">部關門</a>」的通知，我的文章最近有很多關於 XXX 的資訊，所以被收錄進了該網站當精華文章</strong>。由這件事我想到，要是自己的文章被人說爛但是又被蒙在鼓裡，全世界最後一個才知道這件事，那種感覺應該很不好吧。<strong>為著這個相當重大的原因，我為了這個網站加了收文時可順便發 Trackback 的通知功能（不過要手動填 ....），並計畫寫完再上線 XD </strong>。
+
+
+不過問題來了，我會用 Wordpress 或其他 BSP 的 blog 發 trackback 給別人，但是要用自己寫的程式發，不會 ...囧。
+
+翻了一下 Rails 出過的兩大 opensource Blog：<a href="http://github.com/theRocket/typo/tree/master">Typo</a> 和 <a href="http://mephistoblog.com/">Mephisto</a>，結果發現他們也沒寫這個功能。最後只好硬著頭皮去看 <a href="http://www.sixapart.com/pronet/docs/trackback_spec">Sixpart 發明的 Trackback 規格</a>以及 Wordpress 的 Trackback 文件，自己刻。
+
+後來發現相當簡單。其實 Trackback 就是對 Trackback URL 送 POST 的一個行為，包含了正確的格式就會成功。
+
+<blockquote> 
+    POST http://www.example.com/trackback/5
+    Content-Type: application/x-www-form-urlencoded; charset=utf-8
+    
+    title=Foo+Bar&url=http://www.bar.com/&excerpt=My+Excerpt&blog_name=Foo
+</blockquote>
+
+Title 通常是主旨、URL 說明了哪篇文章引用、Excerpt 詳述了引用內容、BlogName 就是來源的站名。
+
+不過值得注意的是，<strong>送 post 時，要記得把這些內容 urlencode 過，不然送中文或一些特殊字元時就會爆炸</strong>。我參考了<a href="http://www.11zhuce.com/seo/404.html">這篇文章</a>（有 PHP 版本的實作方法），寫了一個 ruby 的範例（<a href="http://nopa.pixnet.tw/index.php?id=2e767140e8">後來將之 port 成 rake </a>），希望對以後有要寫 trackback 功能的人有幫助。
+
+----
+另外，改用 <a href="http://railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial">rake</a> 去做這件事，是因為送 trackback 的等待成功時間有時候相當長，貼文後即時送會造成網站停滯。因此我的作法是先將網址存進資料庫後，跑 crontab 定期（大約五分鐘）執行 rake 去檢查有哪一些網址待送，這樣就不會影響網站的正常運行。
+
+有被問為什麼不做 Wordpress Auto-Discovery Trackback，ㄟ，這個是 feature，feature……
+
+----
+再附記，這個網站目前貼文需要註冊，回文不需要註冊，但是匿名回文 ip 會被紀錄。
+使用方式是將網站上提供的 收錄按鈕 加到我的最愛，在看到爛的文章時，打開這個按鈕，就可以張貼。
+
+相當有空的時候會完成自動收 feed 的 link，以及按鈕貼紙的功能。不過因為最近相當忙碌，所以完成日遙遙無期。
+
+----
+再附記，有人問為什麼不加裝 OpenID，事實上 openid 結合 restful_authenication 的功能我本來有寫上去，但是最後上線前砍掉了。因為我認為這是一件脫褲子放屁的事，沒有人會真的拿 OpenID 來登入這個網站（原因很淺顯自己猜 XD）。

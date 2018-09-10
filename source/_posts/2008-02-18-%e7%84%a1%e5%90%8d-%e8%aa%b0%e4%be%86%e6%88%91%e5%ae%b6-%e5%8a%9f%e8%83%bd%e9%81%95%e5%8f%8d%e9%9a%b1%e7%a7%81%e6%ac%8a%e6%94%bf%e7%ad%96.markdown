@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 545
+layout: post
+title: !binary |
+  W+eEoeWQjV0gIuiqsOS+huaIkeWutiIg5Yqf6IO96YGV5Y+N6Zqx56eB5qyK
+  5pS/562WPw==
+
+date: 2008-02-18 15:37:51 +08:00
+wordpress_url: http://blog.xdite.net/?p=545
+---
+
+<a href="http://www.wretch.cc/common/privacy">http://www.wretch.cc/common/privacy</a>
+
+<blockquote>壹、無名小站個人資料之搜集：
+
+根據無名小站所提供的不同服務與活動，當您註冊加入無名小站時，無名小站會請您提供個人隱私資訊。另外，無名小站會保留您在上網流覽或查詢時，伺服器自行產生的相關記錄，<strong>包括但不限於</strong>您的 IP 地址、停留時間、<strong>流覽網頁及點選資料</strong>紀錄等。<strong>除非經過您的同意</strong>、依法令或政府機關之要求、或是當您違反無名小站服務條款、無名小站其他使用規定或中華民國相關法令，<strong>否則無名小站不會將此項紀錄提供他人</strong>。請您特別注意，在無名小站刊登廣告或合作之廠商以及與無名小站相關連結的網站，也有可能向您蒐集個人的資訊。對於您主動提供的個人資訊于廣告廠商、或連結中的個人資訊、留言版、網誌、論壇等與其他網友互動服務中主動提供個人資料如電子郵件，姓名等。這種形式的資料提供，不在無名小站隱私權保護政策的範圍之內。</blockquote>
+
+
+剛剛在 PTT 看來的,看起來這功能設計上是沒有問題,但是跟自己原始的隱私條款完全不相容啊 XD

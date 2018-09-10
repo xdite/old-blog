@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 538
+layout: post
+title: !binary |
+  5aaC5L2V5YWF5YiG6ZmN5L2O57ay5Y+L5bCN5L2g55qE5Y2w6LGh5YiG5pW4
+
+date: 2008-02-01 02:00:40 +08:00
+wordpress_url: http://blog.xdite.net/?p=538
+---
+上一篇我們提到了<a href="http://blog.xdite.net/?p=537">如何避免降低分數</a>，這一篇我們介紹怎樣充分降低分數：<br /><br />節錄 - <a href="http://vivataiwantv.blogspot.com/2008/01/blog-post_2411.html">台灣玉山長昌台：趨勢科技致函台灣玉山電視台</a><br /><blockquote><br />在本台將此事揭露之後，網路上一片譁然。有狀況相同網友來函表示關心與不平，有指責本台蓄意擴大事端，然亦有網路名人撰文模糊焦點誤導網友，本台一概謝謝指教，不過就不實指控、蓄意抹黑部份，本台已進行言論事證及IP位置蒐集，由於本台執行長魚夫近日獲聘為長昌總部資訊長，因此將一併委由長昌總部律師團研究，不排除提出進一步的法律行動！<br /></blockquote><br /><br /><br />

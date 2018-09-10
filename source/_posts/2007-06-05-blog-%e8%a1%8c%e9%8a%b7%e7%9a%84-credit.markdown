@@ -1,0 +1,46 @@
+--- 
+wordpress_id: 368
+layout: post
+title: !binary |
+  QmxvZyDooYzpirfnmoQgY3JlZGl0
+
+date: 2007-06-05 08:25:05 +08:00
+wordpress_url: http://blog.xdite.net/?p=368
+---
+繼續 update :
+今天筆者收到數位棒了，花了一點時間研究。有買的讀者可以抓<a href="http://www.badongo.com/file/3314899">這個檔</a>。解開後 STK3000P.zip 是 driver。裝完之後點 Hack 包裡的 reg 一下可破解。然後再裝 DTV 程式就可收工。
+
+----
+
+今天看到 mr.6 的 <a href="http://mr6.cc/?p=902">艾瑪寫文一篇，3天竟賣出261本書</a>。
+
+ㄟ，剛好自己也在大概上週<a href="http://blog.xdite.net/?p=360">推銷過數位電視棒</a>，來寫一點自己的感想好了。
+
+當初那篇在我貼出了以後，線上的 191 份在短短的<a href="http://blog.xdite.net/?p=360#comment-26897">一天內就被清光了</a>。
+
+不過我自己歸納出當時會賣這麼快的 3 點原因是
+
+<blockquote>1. 這本來就是個吸引人的商品 
+
+2. 看我 blog 的本來就比較屬於重度網路鄉民，第一時間會奔相走告，故增加銷售速度。
+
+3. 我只是覺得東西不錯好康道相報，並未從中牟取任何利潤。一旦我貼了 promo code 速度可能也就不會那麼快了。（我連 promo code 都還沒來得及申請 XD）
+</blockquote>
+之後博客來再補貨（yes，現在還剩 255 份，上次手腳太慢的<a href="http://www.books.com.tw/exep/prod/booksfile.php?item=0010358225">趕快搶</a>，另外貼心的附上<a href="http://www.nppetmall.com/ptt_coupon/ptt/update_coupon.php">暗黑程式</a>），因為未受到放送注目，或許大家人手都有一份了，速度就沒有上次來得這麼快.....。
+
+
+重點是，看到這篇文第一時間，我腦袋中蹦出來的想法不是「哇，這麼好賺，我也應該去申請 promo code」。而是覺得，下次自己具有行銷威力這種事不能讓 Mr.6 知道 XD 。
+
+Blog 行銷也許可以衝一個還不錯的商品一時的銷售量，但並不適合時時拿出來玩。
+
+原因是
+
+<blockquote>&nbsp;1. 並不是身為一個 blogger 就有那麼大的行銷威力，或就擁有用不完的 credit 能揮霍。也許今天大家看到一次賺了兩千塊很誘人也許很棒，但是這種收入並不能在一個月以內乘以 10 XD
+
+&nbsp;2. 大部分時時關注 blog 的人，並不希望進 blog 就是被狂推銷買東西，plus 知道你可以抽多少的人，也許就對你的文章或者是先前的文章開始產生不信任的感覺。
+</blockquote>
+
+筆者認為真正能促進產品銷量的文章，反而是在搜尋引擎上用關鍵字撈出來的，那種真心的使用經歷推薦文。君不見凡是上過 PTT 吃到飽版的食記文，往往都能讓某家店連續高達幾個月時間瘋狂滿座。也許 Blogger 的知名度高，可以第一時間放送好康訊息，但光靠 promote 此營利，我倒覺得並不穩健之道。一點路過感想。
+
+----
+update: 剛剛打開 gmail ...發現取貨信函到了。中午就能去拿電視棒了 XD

@@ -1,0 +1,58 @@
+--- 
+wordpress_id: 984
+layout: post
+title: !binary |
+  W+mWkuiBil0g5LiA5Lqb566h5pyN5YuZ55qE5Z+65pys5a6J5YWo57Sw56+A
+  IC0tIOS7pSBUd2l0dGVyIOeCuuS+iw==
+
+date: 2009-03-03 16:48:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=984
+---
+應該前陣子大家對於 <a href="http://www.itis.tw/node/2452">twitter.com 被駭客入侵的事還記憶猶新</a>吧。
+根據相關報導以及 Youtube Video 的內容：駭客先用字<strong>典檔暴力測出 staff 的密碼</strong>，然後登入 Twitter，而 Twitter 這麼大規模的站台，<strong>竟然把 admin panel 做在 public access 到的區域</strong>，然後就這樣淪陷了。(詳見 Video 右下方）
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/IKNbggNJMVI&hl=zh_TW&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/IKNbggNJMVI&hl=zh_TW&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+此事一被公開，Twitter 頓時淪為眾人的笑柄 XD
+
+事情就這樣過去了嗎？
+
+顯然還沒有，今天稍早筆者與 <a href="http://twitter.com/othree">@othree</a> 與 <a href="http://twitter.com">@gslin</a> 在閒聊， <a href="http://twitter.com/othree">@othree</a> 赫然發現 admin.twitter.com 是真實存在的 subdomain，而且只用 http auth + https 保護住。
+
+我跟推友手賤翻找了一下，還找出
+
+* svn.twitter.com
+* git.twitter.com
+* trac.twitter.com
+* mysql.twitter.com ( 我猜這台應該是 phpmyadmin 之類的管理介面吧）
+
+統統都是相同的情形，令人對 twitter.com 的 tech staff 相當的 orz。
+
+這樣有什麼問題呢? 基本上 twitter 遺漏了幾個相當基本的安全觀念：
+
+
+
+<blockquote>1. <strong>你不應該把你的管理介面放在 internet 可以 acesss 的地方</strong>。
+
+比較建議的方式是就算有必要，前面也要使用防火牆阻擋。或乾脆管理機器只能放在內網，連 VPN 回來管。
+尤其是之前大家都知道你可以用字典檔攻擊而且你根本也沒在防的時候 ...
+
+2. <strong>你不應該用服務名當 sub domain 或 directory name</strong>。
+
+是的，很多人有這個習慣，這個習慣對管站相當便利。不過如果駭客想摸你的機器，照著命名慣例摸一摸，很容易就把你的幾個內部開發用服務（svn,git,trac)一路摸出來。不過通常大家最喜歡摸的就是摸 phpmyadmin, phpMyAdmin。
+
+（若你是小網站，為了貪管理方便，偶爾做做無妨。只不過 twitter.com 這麼大了還犯這種低級錯誤....orz）
+
+3. <strong>你不應該把你的重要機器放在 internet 上並且以 service 名稱取名</strong>。
+
+例如 mysql server，你就不應該取名叫 db1.xxxx.com ，並且將它放在 internet 上。這樣做有什麼風險呢？大家都知道你的 db 是哪一台，打掛它你的網站就掛了啊 -_-
+
+4. <strong>應該儘量避免把 admin 管理介面跟 service 做在一起</strong>。
+
+小服務為了管理方便，這樣做當然無所謂。而且分開有分開的開發/管理成本考量。
+
+但是如果你的 service 大了之後，你就必須考慮樹大招風，一天到晚有閒著沒事幹的 cracker 想搞你，這類討厭的事。權限控管一沒做好，被拿到一個權限很大的 admin 帳號，就會被玩免錢。上這一點也是 twitter 上次入侵事件的主因。
+</blockquote>
+
+
+一路看下來，還真是讓人對 Twitter ....orz 啊。

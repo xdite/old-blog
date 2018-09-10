@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 298
+layout: post
+title: 4 meeting
+date: 2007-03-17 12:25:01 +08:00
+wordpress_url: http://blog.xdite.net/?p=298
+---
+受人之託，廣告四個 conf
+
+1. 4/14 15  <a href="http://osdc.tw">osdc.tw</a>
+2. 4/14 <a href="http://bof.tw">bof.tw</a>
+3. 7/21 7/22 <a href="http://hitcon.org">HITCON 2007</a> (目前 Call For Paper) 
+4. 3/20 <a href="http://www.digitimes.com.tw/seminar/DTResearch0320.htm">DigiTimes Research科技大勢系列講座（三十七）「隨身商機新視野 - 服務、娛樂、大未來」研討會</a>

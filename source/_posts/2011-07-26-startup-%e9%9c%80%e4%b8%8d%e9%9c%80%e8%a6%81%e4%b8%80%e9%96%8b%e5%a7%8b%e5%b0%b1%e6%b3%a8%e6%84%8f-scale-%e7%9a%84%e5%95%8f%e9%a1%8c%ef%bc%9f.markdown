@@ -1,0 +1,60 @@
+--- 
+wordpress_id: 2775
+layout: post
+title: !binary |
+  U3RhcnR1cCDpnIDkuI3pnIDopoHkuIDplovlp4vlsLHms6jmhI8gU2NhbGUg
+  55qE5ZWP6aGM77yf
+
+date: 2011-07-26 23:32:32 +08:00
+wordpress_url: http://blog.xdite.net/?p=2775
+---
+在 Inside 的 Facebook 看到這個<a href="http://forum.inside.com.tw/viewthread.php?tid=574&extra=page%3D1">他們的論壇上有這個問題</a>，看了一下回覆，覺得算蠻有趣的議題。剛剛朋友問我看法，簡單聊了一下，後來乾脆決定來這裡寫下我的想法。
+
+我的想法是「<strong>通常不需要</strong>」。還有，開始寫 projects 時，請將你的「注意 Scale」這個問題定義清楚。
+
+在這個議題中，我覺得最容易混淆的點是：將 "Scalability" （擴充性）與 "Maintainability"  （維護性）混在一起講。
+
+我會將常見的行為進行這樣的歸納：
+
+* Scalability 
+
+<blockquote>1. 能夠將 project deploy 到多台機器上，做 High Availability
+2. 使用 NoSQL 做高寫
+3. 對 MySQL 做 Database Sharding
+4. 買很貴很貴的 Load Balancer 和很貴很貴的 Disk Array
+5. 實作 SOA
+</blockquote>
+
+
+* Maintainability 
+
+
+
+<blockquote>1. 將 code 依照 MVC 放好，使用 ORM 與 Framework，DB schema 正規化
+2. 使用物件導向觀念寫作 code
+3. 遵循一定的 code convention 與 team rule 寫作程式碼
+4. 使用自動化工具維護系統相依套件與 deploy 專案
+5. 執行 code review
+6. 定期將 code refactor 成 module 或者是包裝成 gem</blockquote>
+
+
+如果不把 Maintainability 做好，很快的，你的 code 在三個月之內就會腐爛而且臭不可聞。光是開發維護成本就會非常高昂，「人事費用」也會一路追加，甚至你無法順利完成這個 project 的第一輪 prototype 或者是第一輪調整。
+
+沒有「完成」產品，自然沒有討論「Scalability」的必要。（你要完成一個產品，從這個產品上面賺到流量、金主的信心、客戶的現金，Startup 才能繼續發展）
+
+一個產品需要被重視「Scalability」，通常是在人為的「調整」費用高過「直接買機器」、「轉換成為另外一種架構」的成本這一類的狀況，才有可能發生。
+
+通常這種「成長」是「可以被預期和估算出來」的。
+
+除非你是做 <a href="http://plus.google.com">Google Plus</a> 這樣的新創服務（一開始就預計*絕對*會有數千萬的用戶），否則在初期重視 「Scalability」是沒有任何意義的。
+
+而多數 *High Performance* 的架構，又都是往 denormalized 的方向去進行，自然比 normal 的狀況難寫非常非常多。（這也使開發成本直線上升） 
+
+那你又會問，服務暴紅怎麼辦，我要不要考慮這個問題，到時候會不會有時間讓我改，如果不穩了用戶是否會跑掉？
+
+我建議你回想 2007 時的 <a href="http://twitter.com">twitter</a>、2008 時的 <a href="http://plurk.com">plurk</a>。
+
+當然，回過頭來。我覺得還是老話一句：「做任何事之前，考量你的現有籌碼，而不是考量你的未來收益。」
+
+因為現實是：輸光籌碼你只能出局...
+

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 290
+layout: post
+title: !binary |
+  W+mEieawkeaKleeov10g5pyJ5ZCN5aSn56uZ6YCy56uZ55Wr6Z2i
+
+date: 2007-02-24 16:19:28 +08:00
+wordpress_url: http://blog.xdite.net/?p=290
+---
+這是鄉民 <a href="http://www.flickr.com/photos/16519382@N00/">不語娃娃</a> 利用 ASCII 作的 有名大站 進站畫面。<br />細看文字的話，會感覺非常惡搞 XD<br /><br /><a href="http://www.flickr.com/photo_zoom.gne?id=398030902&amp;size=o" title="Photo Sharing"><img src="http://farm1.static.flickr.com/166/398030902_c50bb4d42e.jpg" alt="g01" height="362" width="500" /></a>

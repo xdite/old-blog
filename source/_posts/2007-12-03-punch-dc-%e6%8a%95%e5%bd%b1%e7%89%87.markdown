@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 503
+layout: post
+title: !binary |
+  UFVOQ0ggREMgLS0g56We56WV5ZiJ6LOT55qE5oqV5b2x54mH
+
+date: 2007-12-03 13:10:46 +08:00
+wordpress_url: http://blog.xdite.net/?p=503
+---
+這篇是我正在寫的一系列文章的濃縮版。是的，我就是那個 <a href="http://carol.bluecircus.net/archives/blog_stuff/cat-387/event122punch_d.php">PUNCH DC</a> 上 很鳥的神祕嘉賓，不知道要講啥，昨天就整理這個出來講囉。
+
+文字版可能要等這幾天我有時間，就可以收尾收掉。
+
+至於投影片裡面為什麼一堆 [deleted] ..？那是為了做效果才寫的，正式版當然要把那些拿光光，所以就變成這樣囉。
+
+嫌 slideshare 翻頁太慢的可以<a href="http://www.slideshare.net/guest4b17d6/punch-dc-10/download">直接下載 pdf</a>。
+
+<div style="width:425px;text-align:left" id="__ss_189571"><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=punch-dc-10-1196658082675375-3"/><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=punch-dc-10-1196658082675375-3" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;"><a href="http://www.slideshare.net/?src=embed"><img src="http://static.slideshare.net/swf/logo_embd.png" style="border:0px none;margin-bottom:-5px" alt="SlideShare"/></a> | <a href="http://www.slideshare.net/guest4b17d6/punch-dc-10" title="View 'PUNCH DC -10' on SlideShare">View</a> | <a href="http://www.slideshare.net/upload">Upload your own</a></div></div>

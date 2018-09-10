@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 838
+layout: post
+title: !binary |
+  MjAwOCDnmoTnuL3ntZDlm57poac=
+
+date: 2008-12-31 16:31:18 +08:00
+wordpress_url: http://blog.xdite.net/?p=838
+---
+今年是變動很大的一年，離開了前公司，加入了<a href="http://zh.handlino.com">和多</a>、也在 <a href="http://www.pixnet.net">PIXNET</a> 幫忙做事。
+
+半年下來，在 和多的老板們 <a href="http://hlb.yichi.org/blog">hlb</a>、<a href="http://gugod.org">gugod</a>、<a href="http://ihower.idv.tw">ihower</a> ，以及 PIXNET 的同事，特別是 壞人 <a href="http://blog.gslin.org">DarkKiller </a>長輩的提攜照顧之下。在 web development 能力和觀念上又得到了相當大的提升，也學到更多暗黑的幹壞事技巧 XD
+
+不過後遺症的就是 blog 產能的嚴重衰退 ...XD。
+
+blog 產能的衰退，對這個部落格的讀者也許不是什麼好事。但這半年歇筆跑去 *馬賽克* 的經歷，對我其實是一個很大的 upgrade。
+
+當然，不敢保證明年我會不會繼續再像前兩年一樣瘋狂的亂寫什麼東西。
+
+不過，我想到時候，如果再寫出什麼文章和網站...，我希望帶來大家的是更大的歡樂和幫助。
+
+祝大家新年快樂，明年見。
+

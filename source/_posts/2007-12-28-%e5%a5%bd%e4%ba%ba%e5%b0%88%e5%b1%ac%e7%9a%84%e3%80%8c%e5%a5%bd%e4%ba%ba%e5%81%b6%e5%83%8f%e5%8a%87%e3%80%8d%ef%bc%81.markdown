@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 522
+layout: post
+title: !binary |
+  5aW95Lq65bCI5bGs55qE44CM5aW95Lq65YG25YOP5YqH44CN77yB
+
+date: 2007-12-28 14:40:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=522
+---
+今天來，是要踢爆一個網站。哦，說錯了…是要廣告一個偶像劇的官方網站。<br /><br />這齣還沒公開發行的『<a href="http://goodguyfilm.com/">好人偶像劇</a>』是我一個當導演的朋友拍的。<br /><br />預告已經在 <a href="http://funp.com">funp</a> 的 party 上播過了，迴響蠻大的。最近它的官網終於做好了，因為真的拍的蠻棒了，我就幫他廣告一下。<br /><br />另外我的 blog 也有在此部片中入境，至於哪一幕就讓大家猜囉。<br /><br />希望大家喜歡它的作品…<br /><br /><a href="http://goodguyfilm.com/" title="Flickr 上 xuitejoke 的 goodguy"><img src="http://farm3.static.flickr.com/2099/2143424234_de530c4df3.jpg" alt="goodguy" height="369" width="500" /></a>

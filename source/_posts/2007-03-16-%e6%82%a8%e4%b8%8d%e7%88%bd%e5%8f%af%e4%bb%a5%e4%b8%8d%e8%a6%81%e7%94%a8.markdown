@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 296
+layout: post
+title: !binary |
+  5oKo5LiN54i95Y+v5Lul5LiN6KaB55So
+
+date: 2007-03-16 00:08:54 +08:00
+wordpress_url: http://blog.xdite.net/?p=296
+---
+續上一篇的 update :<br /><br /><a href="http://www.flickr.com/photo_zoom.gne?id=419968816&amp;size=o">讀者白金會員 JACK5210 寄信向筆者投訴</a>，他<a href="http://nopa.csie.org/08b7d">好心上有名大站問</a>有關為什麼<a href="http://nopa.csie.org/52b72">客服 IP 被盜用</a>，結果反遭無公告的在 <a href="http://www.flickr.com/photos/14765209@N00/419968896/">0sysop </a>與<a href="http://www.flickr.com/photos/14765209@N00/419968956/"> 0vip 版水桶</a>。<br /><br />---<br /><br />後續，因為無公告就水桶。JACK520 又跑去哈拉討論區上訴。今晚，他寄給我以下回應<br /><br /><a href="http://www.flickr.com/photo_zoom.gne?id=422150143&size=o" title="Photo Sharing"><img src="http://farm1.static.flickr.com/171/422150143_76a12a85a1.jpg" alt="wretchem02" height="400" width="500" /></a><br /><br />
+
+
+雖然說大家已經知道某站平常行為就已經非常 OOXX 。不過這次公然的這樣 XXOO 搞起鎮壓使用者，所謂的「社群溝通」，還真是令人嘆為觀止。<br />
+
+update :
+
+3/16 9:28 webfaq10 又做出以下回覆。
+
+<a href="http://www.flickr.com/photos/14765209@N00/422633149/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/161/422633149_19482f23e0.jpg" width="500" height="290" alt="webfaq10" /></a>
+
+
+其實筆者還頗懷疑 webfaq10 是不是就是以前常在哈拉討論區被客戶幹爆的 vipblog?
+
+某站客服主管和一般客服最容易區分出來的點，就是：一般使用者最詬病某站的無非兩點，效率極差又裝傻 / 把客戶當白癡又嗆客戶，客服很好被取代，應該是不敢輕易的就幹客戶，因為回去會被主管幹，所以一切他都要問工程師，請稍候，最後答出一個裝死的答案，所以會被批效率低落。但是主管呢？ XD
+
+bbsFAQ 和 webFAQ 的發明，據當初的冠冕堂皇的理由是客戶難以分辨身份，二則是有客服反應被抓著 id 指名道姓幹太兇，直接用 id 會有心理上的負擔（ 雖然事實上大家都知道某被幹太兇的客服是誰 ），或某 id 是直接原罪等等。
+
+但這個方法實施幾個月後，客服人員身份使用者是能輕易的辨別出來了。但是經過觀察以後，蠻值得玩味的一點是，其實那些被大幹特幹的文章，都是相同的 id (webfaq XX ) 相同的 來源 (bbsFAQ) 或 相同的發文格式 與 口吻 (機密)  XD 。問題在哪裡，不言而喻 :p 
+

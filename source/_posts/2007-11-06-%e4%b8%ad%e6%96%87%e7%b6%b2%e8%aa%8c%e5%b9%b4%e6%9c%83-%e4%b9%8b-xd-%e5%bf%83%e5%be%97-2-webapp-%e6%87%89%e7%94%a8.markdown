@@ -1,0 +1,47 @@
+--- 
+wordpress_id: 485
+layout: post
+title: !binary |
+  5Lit5paH57ay6KqM5bm05pyDIOS5iyBYRCDlv4PlvpcgKDIpIFdlYkFwcCDm
+  h4nnlKg=
+
+date: 2007-11-06 20:30:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=485
+---
+本場大會的我覺得可供台灣借鏡其一的就是就是大會提供的<a href="http://www.netvibes.com/cnbloggercon">官方 NetVibes</a> 和 <a href="http://jiwai.de">唧歪服務</a>。
+
+筆者在前一篇提過，「<a href="http://jiwai.de">唧歪</a>」是一個大陸的其中 Twitter-Like 服務。此次為<a href="http://e.jiwai.de/cbc2007/">大會主要聊天工具</a>。
+
+雖然台灣的 BOF 貌似較早用了大螢幕進行 IRC 的實況轉播的 idea。
+
+<table border="0">
+<tbody><tr>
+ <td><a href="http://www.flickr.com/photo_zoom.gne?id=129930001&amp;size=m" title="相片分享"><img src="http://farm1.static.flickr.com/55/129930001_5601f4a28d_m.jpg" alt="htc" height="240" width="180" /></a> 
+ TWBOF 2006 IRC 實況</td> 
+<td valign="bottom">
+<a href="http://www.flickr.com/photo_zoom.gne?id=458491444&amp;size=o&amp;context=set-72157600029679394" title="相片分享"><img src="http://farm1.static.flickr.com/173/458491444_d97d27b1bf_m.jpg" alt="htc" height="180" width="240" /></a> 
+2007 也用了 Twitter 作實況轉播</td>
+</tr>
+
+</tbody></table>
+不過 唧歪 提供的方法不僅是讓大家都 follow 大會官方帳號形成官方轉播而已，還另外寫了一個 Flash 的介面 POPUP 最新訊息（只要 @cbc 就可以傳訊息到螢幕上）。當然大螢幕的是經過審批和諧的版本（對岸不比本地，要是有人在螢幕上打個「法，輪，大，法，好！」。那本場會議就不用玩下去了。）
+
+提高了便利性（類 IRC 卻省了門檻），又兼顧了傳播性，是值得參考的作法。
+
+[有趣的是，兩岸都一樣，只要台上講的爛，旁邊螢幕馬上就砲聲隆隆，差在一個有人肉 GFW，一個沒有。 ]
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=1880646903&amp;size=l" title="相片分享"><img src="http://farm3.static.flickr.com/2074/1880646903_aa527ea255.jpg" alt="htc" height="334" width="500" /></a>
+
+而大會提供的 NetVibes 也是令人為之眼睛一亮，目前傳給了幾個朋友看，每個人都覺得是很好的 Idea。
+
+在台灣，目前 Conference Announce 訊息傳統的作法，大多是採取自己架設一個 BLOG，或者是 WIKI。而會議的相關資訊，大多是請與會者將 BLOG 或 PHOTO 標上特定標籤，再用 PLUGIN 嵌進 BLOG 邊欄。但是這種實做方法大多於受限 BLOG 的表達方式，而令人在搜索資訊或閱覽上感到不便。而 Netvibes 傳統來說，大多也是定義為個人的 Portal Page。
+
+不過大會利用 Netvibes 將所有有用的資訊聚合作為一個訊息首頁（天氣、交通資訊、Twitter、BLOG、Flickr ...），令人覺得找到了一個新用途。
+
+<a href="http://www.flickr.com/photos/14765209@N00/1887177619/" title="相片分享"><img src="http://farm3.static.flickr.com/2031/1887177619_339599d9d5.jpg" alt="netvibs" height="500" width="500" /></a>
+
+不僅如此，講者以及工作團隊的部分也用 widget 的方式，介紹加上各自的 BLOG RSS，頓時就清晰非常。
+
+<a href="http://www.flickr.com/photos/14765209@N00/1888119644/" title="相片分享"><img src="http://farm3.static.flickr.com/2268/1888119644_eefa13396e.jpg" alt="speacker" height="500" width="310" /></a>
+
+都讓我覺得是效法的 Web Application 應用。

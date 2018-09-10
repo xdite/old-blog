@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 112
+layout: post
+title: !binary |
+  5ZCM5LiA5qKd57ea6Lev77yM54K65L2V5oiR6KaB5o+b44CM5Y+w5Zu644CN
+  Pw==
+
+date: 2006-09-10 18:58:39 +08:00
+wordpress_url: http://blog.xdite.net/?p=112
+---
+<br />根據有名大站的官方標準說法，Hinet ADSL 使用者就是會慢，這是沒辦法解決的問題。所以<b>標準正解就是"經由它們的介紹"換成「台固」ADSL</b>，還送一年金卡 VIP喔。<br /><br />可是，台固最近在電視上強打的廣告就是「<font color="#ff0000"><b>平平跟 Hinet 都是一樣的線路</b></font>」勒 。既然這樣，為什麼中華電信慢就要我換台固，換了結果還不是一樣嗎 XD？<br /><br />---<br />我想這就是 vvkvvu 經理抱怨幾個月來只有 "300多個用戶"跳槽到台固 ADSL 的原因吧。兩邊真應該先串好說詞呢，不懂技術的鄉民是很難理解為什麼<b>兩個廣告互打嘴巴</b>，自相矛盾的呢 XD<br /><br /><br />ref : <a href="http://www.wretch.cc/blog/amarylliss&amp;article_id=9014794%20">[無名] 到底要怎麼連才會正常？</a> eyes 先生的 comment<br />

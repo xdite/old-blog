@@ -1,0 +1,105 @@
+--- 
+wordpress_id: 2036
+layout: post
+title: !binary |
+  U0VPIGNoZWNrbGlzdCDoiIfljp/nkIbop6Pph4s=
+
+date: 2011-02-09 13:18:14 +08:00
+wordpress_url: http://blog.xdite.net/?p=2036
+---
+寫完昨日簡易 SEO tips 後相當手癢，雖然內容篇還沒結束，但想先來寫寫 SEO 的技術篇。其實 tuning 一個 websites 多半還是要靠「直覺」，但是技術功底紮實和觀念正確，真的會讓你 tuning 時事半功倍。想做好 SEO，細節其實要注意相當多地方。我會將之歸納成一章 checklist 方便使用外加原理解釋。
+
+不過背後原理若我在別的文章中解釋過了，原諒我的懶惰，我會直接給出舊文連結。
+
+做好 SEO 分為幾要幾不要：
+
+要：
+
+<blockquote>1. <strong>網站使用 valid html 撰寫，最好過 w3c validator</strong>
+原理：這是一定要的，原因如 <a href="http://blog.xdite.net/?p=2018">part3</a>。
+
+2. <strong>使用正確的 html 標記描述內容與網站的元素。該用 h1,h2, strong, p 的請不要客氣</strong>
+原理：這是一定要的，原因如 <a href="http://blog.xdite.net/?p=2018">part3</a>。
+
+3.<strong> 網頁敘述要含關鍵內容。關鍵字越前面越好。</strong>（但並非 abuse）
+原理：可觀察 Google 的 SERP （Search Engine Result Page）
+
+4.<strong> 網頁 title 要含關鍵字。關鍵字越前面越好。</strong>（但並非 abuse）
+原理：可觀察 Google 的 SERP （Search Engine Result Page）
+
+5. <strong>網址要含關鍵字。</strong>Wordpress 在這方面設計的相當好，只要你把選項打開就行了。至於其他的內容網站，你可以考慮在背景使用 Google Translate 將網址標題轉成英文然後 append 在網址上。
+原理：可觀察 Google 的 SERP （Search Engine Result Page）
+
+<strong>其中權重 5 > 4 > 3</strong> 。
+
+6. 因為 3,4,5 的關係，<strong>生產內容時必須遵守 SEO 原則，程式設計上也必須做出搭配</strong>。請看 <a href="http://blog.xdite.net/?p=2018">part3</a>。
+
+7. <strong>圖片內容，請加 alt 描述這張圖片</strong>。但 alt 字數也別太誇張，否則會视為 cheating。如果這是選單或 banner，請用 ul, li 和 h1,h2 寫，再用 CSS 技巧換掉。別來個 img + a 做 banner 的設計，img 權重遠低於 h1。
+原理： <a href="http://blog.xdite.net/?p=2018">part3</a>。
+
+8.<strong> 把內容放在 Search Engine highly friendly 的平台</strong>，如果是你想在 Yahoo 取得高排名，請放 Wretch，如果你想在 Google 取得高排名，請放 Blogger.com。如果你是自己 hosting，請檢視你的平台是否有做到 checklist 上的要求。
+原理：  搜尋引擎偏好自家產品，結果會出現在比較前面
+
+9. <strong>為網站生成符合標準的 sitemap.xml。並主動將結果送至 Google、Yahoo、Bing 等等</strong>。
+原理：搜尋引擎仰賴自己設計的爬蟲去抓取內容，他們的 index 路徑是遵循著網站上的內部連結以及外部連結，至於沒有被連結到網頁，自然就不會被收錄。他們沒有通靈能力，自然不知道你有產出這樣的內容。你必須主動告知他們。另外，sitemap 可以標記內容在該站的權重以及內容更新時間。有效提供 Search Engine 運算依據。這一點非常重要，根據我曾經做過的實驗，某搜尋引擎有送 sitemap 跟沒送，排名結果差非常非常多。
+
+10. <strong>在高 PR 的網站為自己的網站帶來 inbound link</strong>。
+原理：眾所諸知，Google 的演算法是 Page Rank 演算法。PR 演算法簡單的想法是：如果一個網站，越多網站甚至是超級大站都連結這個網站，那麼它必定是重要的。但切記千萬別 abuse。
+
+11. <strong>提昇網站效能，開啟速度要快</strong>。
+原理：網站速度，也是搜尋引擎排名的考慮因素之一。
+
+12. <strong>使用 Google Webmaster Tool 檢視你的網站 SEO 成效</strong>。
+原理：它真的很好用....</blockquote>
+
+不要：
+
+
+
+<blockquote>1. 千萬<strong>不要濫用以上原則，搜尋引擎不是笨蛋，不會不知道你想作弊</strong>。適度的標記關鍵內容就能使你的排名大幅提昇。但是濫用會造成你被下架。
+原理：常識。
+
+2.<strong> 不要把主要內容放在 image/ js / flash/ iframe 內</strong>。
+原理： bot 只吃該頁的 html，image / js/flash/iframe 對他們來說只是一行外部網址。它們不會知道這是內容
+
+3. <strong>不要在 a 裡面加 onclick / onmouseover 類似的屬性</strong>。
+原理：這多半指稱這是 js link，搜尋引擎會跳過這個 a 內的內容。如果你要上計算人氣等功能，請用 Unobtrusive Javascript 技巧實作。如果你只是想要做 css hover 效果，那就更欠人罵了，可以用 CSS 寫的東西為何要放上 a 去破壞 SEO 效果。
+
+4. <strong>連結不要濫用 302 redirect</strong>。
+原理：http response 的 301, 302 是有意義的。301 指的是永久性重導向，302 指的是暫時性重導向，但 RD 寫 code 往往沒有深究其意義。我曾經見過人氣系統用 302 設計先轉去人氣系統再跳回來。Epic Fail。302 對搜尋引擎來說是「完全不值得收錄」的內容，因為他是「暫時性網址」。如果網站全站都掛 302 連結，那......沒有搜尋引擎想要收錄超正常。
+
+5. <strong>標籤不要亂包</strong>。我曾經看過一行 html 是這樣寫的 &lt;h1&gt;&lt;a href=&quot;xxx&quot;&gt; abc &lt;/a&gt;&lt;img src=&quot;def&quot;&gt;&lt;/img&gt;&lt;/h1&gt; 。搜尋引擎不知道重要的是 abc 還是沒有 alt 的 def。最後是連 abc 都被視為不重要內容。
+原理：你讓搜尋引擎精神錯亂。
+
+6. <strong>每一頁的 title 與 meta description 不要重複</strong>
+原理：搜尋引擎很大的權重採用 title 與 meta description。如果一個網站 50 頁 + 的 title 和 meta description 都一樣。搜尋引擎不會知道哪一頁是真正的入口點，真正重要的內容。下場就是全部都不收錄！！！
+
+7. <strong>meta keywords 不重要</strong>
+原理：Google 不採用。Yahoo 採用。但權重不大。因為 meta keywords 曾經被大家濫用 ...但如果你拿 meta keywords 來做 correct 字義的功能，是不錯的。
+
+8. <strong>不要用 Word 生內容和做網頁</strong>
+原理： <a href="http://blog.xdite.net/?p=2018">part3</a> Word 只會生一堆垃圾 html code 出來而已。
+
+9. <strong>不要用 PSD 自動轉 html 做版面</strong>
+原理：拜託不要惡搞啊......這種 html 根本不能用
+
+10. 檢查你的 <strong>robots.txt ，不要上線以後上面還是放了 disallow * </strong>，再疑惑為什麼搜尋引擎沒有收錄
+原理：廢話，你就叫搜尋引擎不要抓啊。最好這樣上面還會收錄你的內容。
+
+11.<strong> 不要故意亂塞關鍵字，再用 css 技巧做 display :none</strong>
+原理：搜尋引擎不是白痴。你這樣做的話會被視為作弊，列入黑名單。
+
+</blockquote>
+
+以上就是非常基礎的白帽 SEO 手法與  checklist。其實白帽 SEO 一點都不難，你要做的其實只有：
+
+<blockquote>(1) 了解 HTML tag 的語義，使用正確標籤標記你的內容
+(2) 了解搜尋引擎運作的基本原理，不要造成 bot 無法抓取與解讀
+(3) 觀察 SERP，了解各家搜尋引擎的偏好
+(4) 多做實驗，證實你觀察的假設行為
+(5) 別幹蠢事，別 abuse 這些基本技巧
+(6) 把這些基本原則常駐心中，上線前跑完一輪 check
+</blockquote>
+
+
+如此一來，保證你的 content site PV 和 SERP result 排名絕對每天蒸蒸日上。 

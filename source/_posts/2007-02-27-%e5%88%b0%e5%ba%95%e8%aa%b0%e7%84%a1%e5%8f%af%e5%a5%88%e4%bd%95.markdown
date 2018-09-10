@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 292
+layout: post
+title: !binary |
+  5Yiw5bqV6Kqw54Sh5Y+v5aWI5L2VPw==
+
+date: 2007-02-27 12:32:13 +08:00
+wordpress_url: http://blog.xdite.net/?p=292
+---
+最近因為有名大站從 Giga 搬遷到 Lownet，而造成 DNS 錯亂連不到網站，而且因為互連 Peering 的問題，甚至造成即使連上也超龜速的狀態。憤怒的用戶向有名大站抗議，昨晚，bbsFAQ 做出了如下解釋：<br /><br /><blockquote> 作者  bbsFAQ (客服中心)                                    看板  0VIP<br /> 標題  Re: 連不上bbs<br /> 時間  Mon Feb 26 22:44:54 2007<br />───────────────────────────────────────<br /><br />您好<br /><br />此問題並非是無名才有<br /><br />只要是 Webs-TV 的 GigaADSL 用戶<br /><br />連 Hinet 的網站都不會快<br /><br />這是目前 ISP 之間競爭產生的結果<br /><br />可能的解決方法有好幾種, 大致列一下:<br /><br />1.Hinet 放寬頻寬互連的限制, 讓其他 ISP 可以用合理的價格連線<br /><br />2.Webs-TV 花錢買 Hinet 不合理的高價互連費用<br /><br />  =&gt; 此點只能由 Webs-TV 來決定<br /><br />3.用戶放棄使用 Webs-TV 的 GigaADSL, 改用其他 ADSL<br /><br />在台灣的網站面對這樣的問題都很無奈<br /><br />搬到 Hinet 的機房就會面臨同樣的問題<br /><br />讓用戶與網站經營站都無可奈何</blockquote><br />怎麼感覺把名詞互換一下，就變成似曾相似的說詞了？<br />反正錯都不是有名大站，其他人管他去死 XD <br /><br />當初不離不棄的 G 社和 ADSL 用戶，現在應該也很無可奈何吧。<br />&nbsp;<br /><br />本站頻寬戰爭問題延伸閱讀：<br /><br /><a href="http://blog.xdite.net/?p=87" title="目前有 13 篇評論">談頻寬又不是談遊覽車</a><br /><a href="http://blog.xdite.net/?p=88" title="目前有 12 篇評論">續：談頻寬又不是談遊覽車</a><br /><a href="http://blog.xdite.net/?p=90" title="目前有 29 篇評論">不放 Giga 就會倒</a><br /><br /><br />----<br />真是不知道當初大聲辯駁的 <a href="http://blog.xdite.net/?p=93">39 分業代</a>，這次又會做出什麼無俚頭的回應呢？

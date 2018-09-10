@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 14
+layout: post
+title: !binary |
+  5ZyL546L55qE57ay6KqM5pCc5bCL5Yqf6IO9ICg0KQ==
+
+date: 2006-07-24 01:49:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=14
+---
+最新快報
+
+Xuite 官方在幾分鐘前更新了網誌，讓我們拭目以待吧!
+
+<a href="http://www.flickr.com/photos/49274115@N00/196284369/" title="Photo Sharing"><img src="http://static.flickr.com/75/196284369_6aac009087_o.jpg" alt="xuitejoke011" height="134" width="540" /></a>

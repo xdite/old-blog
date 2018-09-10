@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 83
+layout: post
+title: !binary |
+  W0hTXSDovJXovJXprIbprIblkIPppIXkub4gKDgvMjYg54m556i/KQ==
+
+date: 2006-08-25 21:54:15 +08:00
+wordpress_url: http://blog.xdite.net/?p=83
+---
+因為筆者週日即將前往台北公幹 。因此提早發出 HS 特稿。<br /><br />----<br />還記得前陣子<a href="http://xuite-joke.blogspot.com/2006/08/hs-xss-xite-so-suck.html">[HS] 淺談 XSS (X*ite So Suck)</a>這篇文章吧。<br /><br />今天筆者將再繼續探討這一個話題，前文提到 XSS 普遍的手法就是利用 Java Script 和神秘物件，再使用釣魚手法騙使用者點擊。<br /><br /><br />其 實在 Xuite 實做上，根本不需要騙使用者點擊那麼麻煩。因為 Xuite 的一般文章支援用 html 編輯器撰寫 JavaSript 標籤（而且整個 Xuite 都是 用 JS 實做的，關掉 Java Script 就什麼事都幹不了）。影音文章則可以上傳動畫檔 。<br /><br /><br />Oops ....尺度問題，恐怕筆者只能寫到這裡了 ...

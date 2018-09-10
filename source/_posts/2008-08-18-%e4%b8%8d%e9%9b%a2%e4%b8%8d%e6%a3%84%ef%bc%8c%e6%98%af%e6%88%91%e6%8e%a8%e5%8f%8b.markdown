@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 645
+layout: post
+title: !binary |
+  5LiN6Zui5LiN5qOE77yM5piv5oiR5o6o5Y+LPw==
+
+date: 2008-08-18 09:55:57 +08:00
+wordpress_url: http://blog.xdite.net/?p=645
+---
+剛剛因為作某些調查跑去玩了 <a href="http://trends.google.com/websites">Google Trends for Website</a>, 順手查了幾個 Web 2.0 網站，發現幾件有趣的事情。
+當中最吸引我注意的當數這一件。
+
+Twitter 前幾個月每個禮拜都在維修中，促使了不少使用者移居或棄用，也間接促起 Plurk.com 的興起。不少網路上的觀察家都以為 Twitter 持續的不穩，會造成大量的使用者出走。
+
+不過看起來， unique visitor 似乎反而是不斷的再躍升....
+<a href="http://www.flickr.com/photos/xdite/2772612097/" title="Flickr 上 xdite 的 Twitter"><img src="http://farm4.static.flickr.com/3137/2772612097_ba3ce70b48.jpg" width="500" height="192" alt="Twitter" /></a>
+
+also visited 的 twitpic.com 也是不斷的在飆升...
+
+<a href="http://www.flickr.com/photos/xdite/2773460226/" title="Flickr 上 xdite 的 Twitpic"><img src="http://farm4.static.flickr.com/3265/2773460226_0fee4687bd.jpg" width="500" height="188" alt="Twitpic" /></a>

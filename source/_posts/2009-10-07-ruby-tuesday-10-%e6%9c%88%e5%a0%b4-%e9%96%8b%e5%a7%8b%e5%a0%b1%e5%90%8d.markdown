@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 1456
+layout: post
+title: !binary |
+  UnVieSBUdWVzZGF5IDEwIOaciOWgtCDplovlp4vloLHlkI0=
+
+date: 2009-10-07 21:07:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=1456
+---
+<a href="http://registrano.com/events/ruby-tuesday-200910">Ruby Tuesday 2009 十月</a>
+
+時間
+
+2009/10/20（週二）晚上七點到九點。
+
+議程
+
+    * <a href="http://cardinalblue.com/">Cardinal Blue Software</a>: Rails on facebook
+    * <a href="http://ihower.idv.tw/blog/">ihower</a>: Rails best practices and refactoring 
+    * <a href="http://blog.xdite.net/">xdite</a>: SEO tricks for Rails
+
+費用
+
+場地低消為新台幣 $150 元，請向櫃台點餐。
+
+地點
+
+<a href="http://www.gozcafe.com/">果子咖啡 http://www.gozcafe.com/</a>，台北市中山區民生東路三段140巷11號。捷運可搭木柵線南京東路站下車，沿慶城路直走左手邊巷子裡。
+
+=====
+
+* PS，本場我個人的投影片是不會在會後公開分享的。

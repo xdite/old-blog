@@ -1,0 +1,82 @@
+--- 
+wordpress_id: 38
+layout: post
+title: !binary |
+  6Lii54iGIHh1aXRlIOmHjeWkp+e8uuWkseiAhe+8jOWIqueEoei1pu+8gQ==
+
+date: 2006-08-02 23:05:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=38
+---
+筆者在  <a href="http://xuite-joke.blogspot.com/2006/08/xuite.html">[快報] Xuite 砍除本站的"引用"</a> 一文中引用了 <a href="/blog/baby/7508327">《Blog公告》日誌使用問題的發表處(95年08月)</a> 做出對刪除引用的抗議。隨即在 8/2 的 12:00 看到了 Xuite 官方做出了回應：<a href="/blog/baby/7523950?st=c&amp;re=list&amp;p=1&amp;w=1833">《Blog公告》Xuite  日誌公告區之引用管理準則</a>。
+
+可惜的是，Xuite 官方似乎不知道引用的功能是做什麼用的？
+
+因為筆者看到該篇內容是因為看到了 <a href="/blog/baby?st=c&amp;re=list&amp;p=1&amp;w=1833">Blog成長日誌(48)</a><img src="http://s.blog.xuite.net/_image/blogIcon18.gif" align="middle" height="18" width="18" /> 文章數變多，好奇有什麼新文章，才知道 Xuite 對抗議刪除引用做出了回應。並非是看到  <a href="http://xuite-joke.blogspot.com/2006/08/xuite.html">[快報] Xuite 砍除本站的"引用"</a> 被引用（官方也未引用）才知道這則訊息。（雖然 Xuite 官方幾個小時後偷偷有將訊息加在 <a href="blog/baby/7508327">《Blog公告》日誌使用問題的發表處(95年08月</a> 中的公告 XD）
+
+以下是公告原文
+
+<img src="http://static.flickr.com/58/204933870_cafb3958b8_o.jpg" />
+
+1. 首先，我們看的是未曾公告過此原則，卻說"再一次公告"？未曾公告我們怎麼知道刪除的標準是什麼呢？
+
+
+2. 第二，我們來看什麼哪些文章符合被刪除引用的規則。<a href="http://kydd.info/7045124.97.html">7月份存檔在這裡</a>，<a href="http://kydd.info/7508327.htm">8月份存檔在這裡</a>。
+
+七月份
+
+引用文章：<a href="http://blog.xuite.net/ilove02/all/7101414">站內引用測試</a>
+引用日誌：靉魅戀情
+文章摘要：引用站內文章...
+
+引用文章：<a href="http://blog.xuite.net/sandy_jwy/sky/3918666">爬代的 Xuite-BLOG  (？)</a>
+引用日誌：芝菱的雲之國
+文章摘要：2006/6/30 發現幕僚長2006/6/29晚上回覆  [幕僚長已請日誌系統加以查看了,若連上有問題會加以修正. 幕僚長已使用固定IP開啟日誌頁面,並無延遲開相關情形產生. 謝謝您的問題] ...
+
+引用文章：<a href="http://blog.xuite.net/xuitejoke/xuitejoke/7452580"> 國王的網誌搜尋功能  (2)</a>
+引用日誌：Xuite's Joke
+文章摘要：發現了這個驚人事實的我，第一個念頭就是"應該趕快告訴 xuite  這件事吧?"於是我很好心的上了 07月 -日誌使用問題的發表處 發表了這篇文章請它們趕快把搜尋引擎上線，以免淪為大...
+
+引用文章：<a href="http://blog.xuite.net/xuitejoke/xuitejoke/7452960"> 國王的網誌搜尋功能  (5)</a>
+引用日誌：Xuite's Joke
+文章摘要：經過密切的連續觀察。07月 -日誌使用問題的發表處 台長在 2006-07-25  16:55 做出了回應。但是對我提出的問題，完全視而不見。經過比對....發現 7/20~7/24 的問題就被這樣一段...
+
+引用文章：<a href="http://blog.xuite.net/xuitejoke/xuitejoke/7458070"> [HS]  請容許我說一聲\"趕羚羊\"</a>
+引用日誌：Xuite's  Joke
+文章摘要：筆者真的生氣了，非常的生氣，氣到發抖。因為筆者剛剛再次打開信箱，發現是4封spam，不是1封，是4封而且該死的 7月 Q&amp;A  不允許修改留言和刪除留言，幹!是不是去 xuite 客服問一下問題...
+
+引用文章：<a href="http://blog.xuite.net/xuitejoke/xtest/7507313"> [快報] blog.xuite CSS 無慾警大爆炸</a>
+引用日誌：xuitetest
+文章摘要：剛剛筆者又閒著沒事做，跑去看 blog.xuite 的 7 月分 Q&amp;A ，發現回應突然暴增。才發現 ....好多人的 blog CSS 大爆炸 XD筆者真是想不通， xuite 為什麼老是這...
+
+<div>
+</div>引用文章：<a href="http://blog.xuite.net/xuitejoke/xuitejoke/7507361"> [快報] blog.xuite CSS 無慾警大爆炸</a>
+引用日誌：Xuite's Joke
+文章摘要：剛剛筆者又閒著沒事做，跑去看 blog.xuite 的 7 月分 Q&amp;A ，發現回應突然暴增。才發現 ....好多人的 blog CSS 大爆炸 XD筆者真是想不通， xuite 為什麼老是這...
+
+八月份
+
+引用文章：<a href="http://blog.xuite.net/xuitejoke/xuitejoke/7509372"> 甜蜜的搜尋服務 (2)</a>
+引用日誌：Xuite's Joke
+文章摘要：其實這篇的發佈，本來是要緊隨 甜蜜的搜尋服務 (1) 一起出刊的。無奈 Xuite 官方一直不停的噴笑話出來，害筆者貼笑話、剪截圖忙得手忙腳亂，這篇稿子才拖到今天刊出。(謎之音：愛拖稿就說嘛 =_=)...
+----------
+1. 站內測試該被刪除。
+2. 反應 RSS 水滴故障被刪除?
+3. 反應根本沒有搜尋引擎，官方卻湮滅證據，刪除?
+4. 反應官方對搜尋引擎的問題根本視而不見，刪除?
+5. 反應在Q&amp;A留下mail會被 spam，刪除?
+6. 反應官方不該罔顧使用者權益，在線上修改服務導致大爆炸，刪除?
+7. 重複引用該被刪除。
+8. 反應 blog.xuite 搜尋壞了10個月，是否該相信官方說詞且 guestbook 搜尋演算法低落，刪除?
+
+
+再來我們看到 <a href="blog/baby/6649041?st=c&amp;re=list&amp;p=1&amp;w=7644">《Blog公告》日誌使用問題的發表處(95年06月-這是過去式)</a> 也有兩則引用，<a href="http://static.flickr.com/58/204957388_b083ecfe8d_o.jpg">圖在這裡</a>。有測試引用卻沒被刪除？
+
+
+這些被刪除的回應看起來像符合「內文不相關的文章、內文涉及不雅文字謾罵文章、或是以大量文章撰寫似 spam 的引用」嗎？
+
+看起來引用管理準則根本只有一條刪除原則：「踢爆 xuite 重大缺失者，刪無赦」嘛？
+
+--
+
+建議 Xuite 小組可以上 Wikipedia 看一看「<a href="http://zh.wikipedia.org/wiki/TrackBack">Trackback</a>」的條目定義是什麼吧。 :)
+

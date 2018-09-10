@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 473
+layout: post
+title: !binary |
+  54Sh6IGy54Sh5oGv5raI5aSx55qEIHJvYm90cy50eHQ=
+
+date: 2007-10-09 17:01:17 +08:00
+wordpress_url: http://blog.xdite.net/?p=473
+---
+根據<a href="http://blog.xdite.net/?p=465#comment-44056">這篇留言</a>，wretch 的 <a href="http://www.wretch.cc/robots.txt">robots.txt</a> 今天早上已經靜悄悄的消失了。
+
+要是有人忘記 robots.txt 的作用，可以<a href="http://blog.xdite.net/?p=465">重看這篇文章的說明</a>。
+
+--
+update : 剛剛查了一下，雅虎台灣旗下果然只有無名小站的被拿掉而已。
+update : CNET 新聞 <a href="http://taiwan.cnet.com/news/software/0,2000064574,20124823,00.htm">Yahoo取消無名搜尋限制</a>
+
+
+
+<blockquote>截至昨天無法給予明確回覆的台灣Yahoo!奇摩今日對此發表官方聲明。「無名小站於今年5月加入Yahoo!奇摩後，便開始進行多項整合計畫，因而也必須進行多項機制的調整與測試，以瞭解雙方整合後的系統表現，進而提供使用者更穩定的服務品質。」該公司解釋，「近日網友披露的搜尋之狀況，乃是 Yahoo!奇摩與無名整合計畫實施的一個部分。」
+
+由於目前測試相當成功，已收集到所需的相關資料，因此提早將限制解除，而無名的使用者將不再碰到類似的問題，Yahoo!奇摩聲明指出。至於測試內容為何，以及修改搜尋設定檔是為了搜尋什麼資料，Yahoo!奇摩方面代表表示不便透露</blockquote>
+

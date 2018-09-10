@@ -1,0 +1,32 @@
+--- 
+wordpress_id: 521
+layout: post
+title: !binary |
+  57WV5pyb55qE6IGW6KqV56au54mp77ya44CM57WV5pyb57ay44CN77yB
+
+date: 2007-12-24 01:28:28 +08:00
+wordpress_url: http://blog.xdite.net/?p=521
+---
+『<a href="http://d.veryxd.net">絕望網</a>』這個網站是<a href="http://blog.woixv.com/">班大佐</a>和我今年另外提供的特別聖誕禮物。創站由來可以看<a href="http://blog.woixv.com/?p=511">這裡</a>，我們昨天晚上九點十點在 MSN 聊完就決定開工。寫完大概是快十二點。
+<center>
+<a href="http://d.veryxd.net" title="Flickr 上 xuitejoke 的 table"><img src="http://farm3.static.flickr.com/2365/2130694343_a14be677fe_m.jpg" alt="table" height="233" width="240" /></a></center>
+因為現在凌晨一點多，我寫完程式後已經完全用光腦力，所以簡介就決定抄他寫的。
+<br/>
+<blockquote>絕望網提供幾項<b><font color="#ff0000">別的網站一定沒有</font></b>的創新特點。
+
+● 網站的目標就非常絕望。
+● 介面非常簡單，功能非常貧乏。 ( 絕望 )
+● 本站完全不打甜蜜點，專打痛腳。( 絕望 )
+● 網站沒有你想像中的好用。( 絕望 )
+● 訪客甚至不知道XX到底是幹麻用的。 ( 絕望 )
+● 網站沒有使用說明指南，也不會有懶人包。 ( 絕望 )
+● 有輸入字數限制。 ( 絕望 )
+● 沒有人會管理。 ( 絕望 )
+● 不知道會不會有2.0 版本。 ( 絕望 )
+● 一切以我為準，用戶們請多絕望。
+● 未來考慮對每一則絕望收取高額費用 ( 因為絕望了啊! )</blockquote><b></b>
+總之請大家<b>不用對這個網站有任何的期待</b>。這是一個絕望的網站，我們會努力滿足大家對他的絕望。
+
+<font color="#ff0000"><b>多想兩分鐘，你還有絕望網看看別人有多慘</b></font>。
+
+感謝<a href="http://blog.woixv.com/">班大佐</a>為大家提供這個聖誕禮物！

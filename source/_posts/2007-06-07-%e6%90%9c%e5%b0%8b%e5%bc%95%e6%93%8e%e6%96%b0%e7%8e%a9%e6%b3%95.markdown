@@ -1,0 +1,60 @@
+--- 
+wordpress_id: 369
+layout: post
+title: !binary |
+  5pCc5bCL5byV5pOO5paw546p5rOVPw==
+
+date: 2007-06-07 12:14:16 +08:00
+wordpress_url: http://blog.xdite.net/?p=369
+---
+首先，先聲明一下，寫這篇文絕對不是要跟 Mr.6 對幹的。（澄清的原因是我在網路上好像已經被視為愛跟人幹架的搗亂王樣子了 orz）
+
+前幾天，我本來已經寫好那篇說好要上的 AFC 是不是 C？（Adsense For Content 是不是 CC 裡 NC 的 Commercial）草稿（一兩千字），不過因為最近真的很累，沒時間修整。而前天寫完那篇 Blog 行銷的 credit 後，跟 <a href="http://www.javaworld.com.tw/roller/page/caterpillar/">良葛格</a> 在 MSN 討論這個主題後，更是讓我決心把這篇草稿吃下去了。再重寫一篇文章完整表達我的想法。
+
+
+今天早上起來，又看到這一篇 <a href="http://mr6.cc/?p=910">楊宗緯與「超級星光效應」，搜尋引擎新玩法</a>。
+
+
+老實說，我心裡真的蠻反感的。反感在哪？反感在「搜尋引擎新玩法」。我想最近應該蠻多人都跟我一樣對這種現象噁心吧，書籤網站被自推自收的 SPAM 充斥，狂對搜尋引擎洗連結灌自己在部落格觀察上的排名，濫 MASHUP 別人以善意 CC 授權釋出的內容當作自己的張貼在個人部落格騙 PAGERANK/PAGEVIEW。這種現象不是局部的，而是狂烈的正在擴散中。
+
+
+以往我們在網路上寫寫東西，開設網站，往往求的是心靈上的爽度，而其實這些行為也很難轉換成實質的報酬 ( Like論壇燒錢燒熱血大家很爽，可是站長不爽）。以致於 Google Adsense 的誕生、引進台灣到平面媒體的報導，引起一陣四處的風靡和討論。Google Adsense 的立意很好，可是卻讓我看到一堆不管是舊部落客也好、新部落客也罷，一派迷失在此。
+
+
+<a href="http://www.javaworld.com.tw/roller/page/caterpillar/">良葛格</a>當天說了一些超中肯佳句，我節錄在此：
+
+<blockquote>良：「那種東西。。不是自己的。。」
+良：「 我個人認為網站賺錢的根本，在於為自己創造機會，而不是表面的廣告收入」
+良：「真正 blog 賺錢應該是靠名氣吸引人，利用你的專業知識去創造更大的利基.....」
+良：「<b>SEO是為了人們找到我們，創造背後的商機，而不是為了讓人們找到我們，然後去點廣告</b>」
+</blockquote>
+
+其實文章到貼完這一段應該就要結束（逃~~~），因為良葛格已經講完我要寫的東西了。底下寫一些我自己的碎碎念：
+
+筆者在上一篇講到 過份賣東西 會侵害自己的 credit。是因為筆者根本就覺得在 Blog 上，行銷主體最大的就是你個人，你的 value是大家針對你文章透露出的靈魂、專業知識去 judge 的。可是目前現在的一派迷失，方向卻是極力往把蠅頭小利最大化去努力 \_/。
+
+
+中文 Blog 靠 Google Adsense 獲利以及銷售其他貨物得到的紅利極其極限。主要是幾個原因：
+
+<blockquote>1. Blog Adwords 投放針對最兇的語系是針對英文，如果你要寫 Blog 吸引人氣用廣告大賺錢應該用英文寫。
+
+2. 閱覽中文部落格的人口有限。對岸物價水準低，也許光靠寫文章就能養家活口。但是在台灣，每天寫文章寫的要死要活，一個卻只能賺萬把塊（這還是目前 Top5 部落客的收入），算是好賺的水準嗎？
+
+3. 你的部落格都在轉貼文章。那麼充其量你被大家定義的 Value Tag ，或其他公司靠 Blog 找上你最適合當的合作職業，頂多也是網摘師。網摘師好賺嗎？相信很多網摘師會告訴你的。 XD
+</blockquote>
+這真真正正只能算是副收益，零用錢。而 Google Adsense 的設計出發點也是這樣的。（這邊還想到：一堆網路新創公司，如果只能靠 Google Adsense 賺錢，而找不到自己的獲利點，那麼 Google Adsense 被陷害停權的那一日，會不會就是公司倒閉的那一日？）
+
+
+再加上，狂洗 SEO 而沒有自己的本錢把訪客留在自己這裡的 blog ，最糟糕的下場並不是騙大家來這裡點點廣告就走。而是這個 BLOG 會被 visitor 從此被貼上 SPAM、COPYCAT、USELESS、CHEAT的標籤，主人也被視為 SPAM、COPYCAT、USELESS、CHEAT部落客。這值得嗎？
+
+
+拜託，下次如果要舉 BLOG 賺錢。不要再來舉 BLOG 賣東西、BLOG 行銷、TAG SEO 這些例子了。
+
+
+真正應該介紹的是這些靠部落格被大眾發掘/覺專業而獲利的例子。
+
+
+寫部落格出名劇本接不完的<a href="http://city.udn.com/v1/blog/article/article.jsp?uid=milli226&amp;f_ART_ID=968872">奈奈</a>。寫 ROR 教學 BLOG 結果 CASE 接不完、求救信回不完的 <a href="http://lightyror.thegiive.net/">thegiive</a>。現在副業幫人投資理財規劃的<a href="http://www.shukai.biz/">楚狂人</a>（不過楚狂人本身好像就很有錢了XD）。在部落格講落點分析結果影響股價的<a href="http://www.wretch.cc/blog/bonddealer">總幹事</a>。
+
+
+動態 SEO？我實在連苦笑都笑不出來…

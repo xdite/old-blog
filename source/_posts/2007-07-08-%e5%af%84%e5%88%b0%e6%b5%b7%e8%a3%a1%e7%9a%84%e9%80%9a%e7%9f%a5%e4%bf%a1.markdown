@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 405
+layout: post
+title: !binary |
+  5a+E5Yiw5rW36KOh55qE6YCa55+l5L+hPw==
+
+date: 2007-07-08 01:28:59 +08:00
+wordpress_url: http://blog.xdite.net/?p=405
+---
+新聞來源 <a href="http://taiwan.cnet.com/news/software/0,2000064574,20120406,00.htm">http://taiwan.cnet.com/news/software/0,2000064574,20120406,00.htm</a><br /><br /><blockquote>吳苑如表示，由於只是簡單的密碼更新而非服務變更，因此沒有事先公告，她亦坦言，300萬封通知信的確是在<b>密碼更改措施上線的同時才開始分批寄發，由於預計24小時才會完全寄完</b>，因此部份會員可能是在更改完密碼後才收到通知信。</blockquote><br />24小時？現在都已經三天了………包括筆者自己，以及身邊周遭的一百多個朋友，完全沒有人有收到此封推知信。機器已經掉到海底過一次了，信這次也掉到海裡了 ...？<br /><br />這到底是信 delay 寄到，還是公然說謊？ XDDD<br /><br />筆者來做個調查，有收到信的請推 <b>有</b>，沒收到信的請推<b>無</b>。（有收到的幫忙拍下來貼個圖吧，順便看一下是哪些信箱收的到... :p)<br /><br />投票結束日期就到筆者測試帳號的信箱收到通知信為止吧 XD<br /><br />[poll=3]<br />

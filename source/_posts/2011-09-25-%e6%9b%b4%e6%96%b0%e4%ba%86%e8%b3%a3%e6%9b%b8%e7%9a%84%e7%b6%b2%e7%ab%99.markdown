@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 3171
+layout: post
+title: !binary |
+  5pu05paw5LqG6LOj5pu455qE57ay56uZLi4u
+
+date: 2011-09-25 15:55:59 +08:00
+wordpress_url: http://blog.xdite.net/?p=3171
+---
+週末更新了自己的<a href="http://rails-101.logdown.com/books/1-rails-101">賣書網站</a>。
+
+<a href="http://rails-101.logdown.com/books/1-rails-101" title="螢幕快照 2011-09-25 下午3.46.27 by xdite, on Flickr"><img src="http://farm7.static.flickr.com/6162/6180579604_60f6f649cf.jpg" width="485" height="500" alt="螢幕快照 2011-09-25 下午3.46.27"></a>
+
+如果你對網站後面的「寫作」技術有興趣的話：
+
+我使用了兩份教材，和參考了一些網站做的改版。
+
+1. <a href="http://copywritingforgeeks.com/">Copywriting For Geeks</a>
+2. <a href="http://www.appsumo.com/kopywriting-kourse/">Kopywriting Kourse</a> 
+
+
+賣東西真不是一門簡單的學問啊...

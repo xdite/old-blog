@@ -1,0 +1,31 @@
+--- 
+wordpress_id: 7
+layout: post
+title: !binary |
+  5ZyL546L55qE57ay6KqM5pCc5bCL5Yqf6IO9ICgxKQ==
+
+date: 2006-07-23 17:49:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=7
+---
+用過 <a href="http://www.xuite.net/">Xuite</a> 的 <a href="http://blog.xuite.net">Blog</a> 都知道，它的個人網誌內搜尋功能已經壞了很久了
+到底壞了多久呢，老實說我不知道...囧
+
+直到幾天前參加一個 conference，因緣際會下誘發了捅它的念頭
+加上某嗜好是"吞布丁、壓地磚、拐騙羅莉"的長輩叫我不要客氣，開一個 xuite-joke 的 blog 用力寫 XD
+
+(7/24 update 長輩請我馬賽克暱稱，但是為了感念他對本 blog 的促生，改用嗜好替稱)
+
+於是才有這一篇文章甚至是這個 blog 的誕生
+
+----
+壞了很久到底是多久呢？鄉民常說沒圖沒真相。指控它是國王的搜尋功能總也要有證據吧:p
+
+哪裡才找得到證據呢？
+...我想到了 <a href="http://blog.xuite.net/blog/baby">blog台長</a> 日誌裡的 《Blog公告》日誌使用問題的發表處  ( <a href="http://xuite-joke.blogspot.com/2006/07/qa.html">another joke</a>)
+
+太閒的我，就真的一篇一篇找了每月 Q&amp;A ，<a href="http://kydd.ytc.googlepages.com/xuite">編成一篇放在這裡</a>
+才發現一件驚人的事情 ...
+
+原來!!網誌搜尋功能從來沒有寫出來過...XD
+
+what an amazing blog!

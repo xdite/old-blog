@@ -1,0 +1,40 @@
+--- 
+wordpress_id: 525
+layout: post
+title: !binary |
+  VmVyeVhEIDIuMCBiZXRhIOeJiOato+W8j+S4iue3mg==
+
+date: 2008-01-09 00:26:44 +08:00
+wordpress_url: http://blog.xdite.net/?p=525
+---
+破了紀錄近兩週沒有更新 blog ...很多人都在問，筆者是到底死到哪裡去了？
+
+嗯，基本上我是窩起來作網站，寫到欲罷不能就沒停手了，完全沒有心思寫文章。這一寫就寫了兩個禮拜多。從規劃、Program 到改 CSS 一手包辦…，幾乎是把自己搞到快陣亡了。
+
+隆重介紹一下，敝人繼絕望網後的正式產品：<a href="http://g.veryxd.net">VeryXD 2.0</a>&nbsp; （http://g.veryxd.net）
+
+<a href="http://g.veryxd.net" title="Flickr 上 xuitejoke 的 gveryxd"><img src="http://farm3.static.flickr.com/2061/2178399620_ae0491c05f.jpg" alt="gveryxd" height="459" width="500" /></a>
+
+相信大家還記得前一陣子的「中正廟 2.0 事件」，因為藍綠爭吵不休，於是許多朋友，如 <a href="http://www.richyli.com/blog/2007/12/blog-post_05.html">李怡志前輩</a>、<a href="http://wp.tenz.net/archives/424">tenz 前輩</a>就紛紛寫了有關於中正廟 2.0 的文章，後來還用了日本的 hatena 服務 作了一個<a href="http://wp.tenz.net/archives/424">中正廟牌匾產生器</a>，結果不小心竟然在<a href="http://wp.tenz.net/archives/426">該網站造成了中正廟洪水</a> XD
+
+當時筆者就在想，為什麼只有日本有這種東西，為什麼我們台灣沒有？而且我們很多繁體字其實日本漢字裡沒有啊，玩起來就是少了那麼一點趣味。
+
+於是，於是，我在一時衝動之下，<a href="http://blog.xdite.net/?p=515">就..自己作了一個</a>…orz。當時覺得把這個原型寫出來還蠻有趣的，心想寫完應該可以造福更多人吧…
+
+所以這兩週沒有寫文章的時間，就是栽進去完善這個作品了 XD
+
+一如上一個產品，這個網站還是用 ROR 搭建的，CSS 用了 free template 修改，一些用到 JS 的地方就是用 opensource 的 framework 下去拼裝。
+
+這個網站的玩法呢，很簡單：<b>就是從素材裡挑一張，然後合圖</b> XD。不過，要註冊才能儲存作品和上傳素材。（註冊也只需要填帳號、密碼和 email 而已啦）。另外也寫了一些基本功能讓大家可以追蹤留言、素材、和創作的情況。如果，大家覺得還想到什麼功能，歡迎再跟我說。
+
+接下來幾天的文章，我會跟大家分享筆者在寫作整個過程所用到的技術。
+
+今天為了把這個網站弄上架已經燒光腦汁了，就寫到這裡。希望大家喜歡這個網站。
+
+PS. VeryXD 支援 繁簡日韓 四種語言的字型…
+
+---
+另外，好友<a href="http://www.wretch.cc/blog/phopicking">獨孤木</a>託我幫他的新站「<a href="http://myangelsays.com">英九報報</a>」打一下廣告。billypan101 前輩也為<a href="http://www.wretch.cc/blog/billypan101&amp;article_id=11722644">英九報報作了一個有趣的外掛</a>。希望大家也喜歡這個惡搞的網站 XDDD
+
+<a href="http://myangelsays.com" title="Flickr 上 xuitejoke 的 1999135193"><img src="http://farm3.static.flickr.com/2049/2177666145_531eeb0878_o.gif" alt="1999135193" height="230" width="300" /></a>
+

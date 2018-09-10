@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 278
+layout: post
+title: !binary |
+  57qM77ya5o+bIFN1biDooqvmi5bkuIvmsLQg4oCm
+
+date: 2007-02-03 03:33:32 +08:00
+wordpress_url: http://blog.xdite.net/?p=278
+---
+最近又發生<a href="http://blog.xdite.net/?p=274">有名大站拖 Sun 下水的事件</a>。<br /><br />說實在的，筆者很難想像 Sun 的東西這麼不堪一擊。而且有名大站似乎沒受到無備援機制的教訓，又拿不是它們的錯的理由出來檔，能拖就拖，看起來，唉....。<br /><br />不過它們發這個公告，倒引起了我的興趣。壞 CSS 與相簿這兩個異常狀況，印象中好像不僅僅近期這兩次，似乎發生過很多次了。每次修理不花上十數個工作天，搞的天怒人怨，根本不罷休。<br /><br />於是筆者剛剛吃飽太閒，跑去做了一件極其無聊的事：把有名大站類似的維修情形<a href="http://xdite.net/paste/alwaysbroken.txt">找出來列張表</a>。<br /><br />整理出來才大吃一驚，原來有名大站自商業化以後，平均每 1~2 個月就會發生這種大爆炸情況。短則修 2 天，長則修 3 個月，幾乎無時無刻都因為髒 code 的 bug / loading 重導致硬碟壞掉或資料庫異常在修理。<br /><br />如果我沒作<a href="http://xdite.net/paste/alwaysbroken.txt">這個 list</a>（本表僅列 CSS消失狀況 / 相簿無法讀取，沒有列例行維修)，還不知道維修史這麼壯觀呢? 而消費者大概只會記得有名大站一直在維修，而不記得是壞同一個問題吧 orz<br />
+<br />這種這麼操機器的帶賽 code，又沒有備份機制，我看買個億級機器大概也無解吧。<br />

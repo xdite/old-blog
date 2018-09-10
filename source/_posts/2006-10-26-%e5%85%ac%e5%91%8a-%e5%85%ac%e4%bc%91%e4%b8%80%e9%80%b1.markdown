@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 176
+layout: post
+title: !binary |
+  W+WFrOWRil0g5YWs5LyR5LiA6YCx
+
+date: 2006-10-26 22:51:44 +08:00
+wordpress_url: http://blog.xdite.net/?p=176
+---
+因筆者近日在台北任職，必須搬遷至台北。<br />故休刊乙週，直至 2006/11/01 止<br /><br />不過若期間有名大站要是出什麼大包的話，我還是會用力擠出時間來寫稿的 XD<br /><br />感謝各位的體諒啦~~<br /><br />各位在台北的讀者，以後就可以約我出來吃飯啦 XD

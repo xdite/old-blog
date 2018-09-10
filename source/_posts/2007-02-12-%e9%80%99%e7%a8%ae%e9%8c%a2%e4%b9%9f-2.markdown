@@ -1,0 +1,28 @@
+--- 
+wordpress_id: 281
+layout: post
+title: !binary |
+  5YWN6LK755qEIG9wZW4gcHJveHkgPw==
+
+date: 2007-02-12 15:30:58 +08:00
+wordpress_url: http://blog.xdite.net/?p=281
+---
+前情提要： <a href="http://blog.xdite.net/?p=280">誰繼續用學術網路公器私用?</a><br /><br />有名大站目前的說法，是堅稱<font color="#ff0000"><big><b>這幾台交大機器是 open proxy</b></big> </font>（免費公用的代理伺服器）。他們沒有用學術資源圖利自己。<br /><br />筆者倒是很好奇，IP 要怎麼解釋？還有交大要怎樣處理呢？<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/387700487/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/181/387700487_135c9ae12e.jpg" alt="open05" height="324" width="500" /></a><br /><br />
+<a href="http://www.flickr.com/photos/14765209@N00/387693326/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/188/387693326_7958f7cae2.jpg" width="500" height="324" alt="openproxy02" /></a>
+
+<blockquote>
+[鄉民小常識]
+
+proxy 是一種網路服務，proxy server 稱之為代理伺服器。proxy 會代替使用者去抓取網站頁面，因為使用者直接去連網站，走的可能是比較慢或品質比較不好的線路，存取較慢。而 proxy 可能是架在跟該站台連線品質較好的第三地。使用者到那個第三地也比較快。所以有時候我們會請 proxy 去抓頁面回來給我們。有名大站習慣稱呼 proxy 為 「加速器」。
+
+proxy 代替使用者去抓頁面，所以一定會耗費到頻寬。同時，proxy 代替使用者去抓，在網站上留的紀錄也是 proxy 的 ip。所以 open proxy 這麼稀少的原因，<strong>是因為頻寬要錢，而且如果人家透過代理伺服器來電腦犯案，會惹上麻煩</strong>。
+</blockquote>
+
+
+有名大站自己<a href="http://www.flickr.com/photo_zoom.gne?id=387693289&size=o">都承認自己有租商業 proxy</a>。為何要貪這種小便宜。甚至是哪裡找到交大的熱心同學提供免費 proxy，都令我們十分好奇。
+
+----
+update : 2/13 12:00 ，這個時候筆者發現：<strong>as.Dorm11.NCTU.edu.tw 這個 domain name 已經被取消了。XD</strong>
+
+----
+update : 相關閱讀 <a href="http://blog.richliu.com/2007/02/13/438/">有錢劉部落格： 無名到底耗用了多少交大頻寬</a>

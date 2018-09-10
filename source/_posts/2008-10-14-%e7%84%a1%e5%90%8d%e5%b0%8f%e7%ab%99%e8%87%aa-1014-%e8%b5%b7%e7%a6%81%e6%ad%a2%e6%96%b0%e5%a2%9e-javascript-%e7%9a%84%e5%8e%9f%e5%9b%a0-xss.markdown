@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 752
+layout: post
+title: !binary |
+  54Sh5ZCN5bCP56uZ6IeqIDEwLzE0IOi1t+emgeatouaWsOWiniBqYXZhc2Ny
+  aXB0IOeahOWOn+WboCAtIFhTUw==
+
+date: 2008-10-14 01:49:10 +08:00
+wordpress_url: http://blog.xdite.net/?p=752
+---
+<strong>自我揭露：我是 <a href="http://www.pixnet.net">PIXNET</a> 的兼職員工。</strong>
+
+這是剛剛<a href="http://amarylliss.pixnet.net/blog">艾瑪</a>向我抱怨的東西，詳情可見<a href="http://www.wretch.cc/blog/WretchFAQ/9781602">無名小站的公告</a>。大意是自 10/14 號起禁止會員新增所有的 javascript。
+
+這個影響層面蠻大的。意味著很多廣告，小玩意從此都不能再掛了。之所以會做出這次的變動，我想可能跟<a href="http://chroot.org/advisory/chroot_uu_yw">知名資安組織 chroot 前幾天所發佈的風險警告</a>有很大的關係。看起來的弱點，像是無名小站現有的架構，還是有辦法讓惡意  JS 自動在使用者間傳染，並下載惡意程式以及木馬 ( XSS vuln)。在當下的狀況下，無名小站無法解決這種問題，所以宣佈自此禁用，直至修復為止。
+
+再來聊一聊 PIXNET 會不會有這種類似的問題 (XSS vuln)呢？
+<strong>
+-- 再自我揭露一次，我是 <a href="http://www.pixnet.net">PIXNET</a> 的兼職員工。--</strong>
+
+畢竟部落格使用者還是相當在意廣告以及小玩意能否自由懸掛。PIXNET 在這方面的疑慮我想會是比較少的，PIXNET 在前兩個月被大家幹到翻的改版當中。將後台網址以及前台網址拆開了。
+
+前台網址是 http://username.pixnet.net，後台網址是 http://panel.pixnet.cc 。
+( 而無名小站前台是 http://www.wretch.cc/username/blog , 後台網址是 http://www.wretch.cc/admin/blog/ )
+
+當然不否認部落格能夠懸掛 JS 還是會有風險在，但 PIXNET 被用 XSS 手法連鎖入侵的風險相信是遠遠較低的（因為前後台網域拆開因此可以避免一些風險）。而無名小站這次會大動作的禁用，也是因為在這種架構上，很難防止有心人士嘗試，不一定有辦法短時間修復（而且類似情形有可能層出不窮，主要是因為架構問題）。 
+
+---
+關於什麼是 XSS, 可以參考敝人舊文 <a href="http://blog.xdite.net/?p=209">十多分鐘抵禦XSS且擊退攻擊的神奇技術? </a>。或者 <a href="http://www.google.com.tw/search?source=ig&hl=zh-TW&q=xss&meta=&btnG=Google+%E6%90%9C%E5%B0%8B&aq=f">google:// XSS</a>

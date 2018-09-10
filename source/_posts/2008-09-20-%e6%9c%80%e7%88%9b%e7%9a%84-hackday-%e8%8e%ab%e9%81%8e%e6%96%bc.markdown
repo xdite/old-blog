@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 704
+layout: post
+title: !binary |
+  5pyA54ib55qEIEhhY2tkYXkg6I6r6YGO5pa8Li4u
+
+date: 2008-09-20 11:17:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=704
+---
+最爛的 HackDay，莫過於就是早上十點一連放超大聲進場音樂長達一小時干擾沒睡飽的 Programmer。在跑去跟工作人員詢問之後，得到開場後會關掉音樂的回答之後。在開場時，請了樂團用更大聲的音量連唱三首歌，簡直是惡夢一場。
+
+請問有哪一國哪一個公司這樣辦 Hackday 的?
+
+Yes. 我就是在說今天舉辦的 <a href="http://hackday.ithome.com.tw/yahoo/">Yahoo Open Hack Day</a>. It sucks.
+
+ps. 這篇有問過敝舍老闆的 hlb 的意見，本來他要我比賽完畢再寫，不過顯然他在放第二首歌時就崩潰了，直接開放行綠燈。
+
+update.
+幹你老師，竟然有第四首

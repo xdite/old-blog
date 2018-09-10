@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 258
+layout: post
+title: !binary |
+  5LiJ57qM77ya54Sh5ZCN5bCP56uZ5ZGK6Ki05oiR5YCR55qE5piv5LuA6bq8
+  77yf
+
+date: 2007-01-11 21:23:14 +08:00
+wordpress_url: http://blog.xdite.net/?p=258
+---
+轉貼連結：<a href="http://city.udn.com/v1/blog/article/article.jsp?uid=Lucifer78&amp;f_ART_ID=645851"><span id="maintopic">無名小站：公然說謊還是道德低落？</span></a> 
+(from <a href="http://city.udn.com/v1/blog/index.jsp?uid=Lucifer78">朱學恒的路西法地獄</a> )<i><b>
+</b></i><blockquote><i><b>思科總裁John Chambers在麻省理工評論美國企業道德低落：「對於道德淪喪的執行長，我一點也不感到驚訝。世界上總是會有為非作歹之徒……」</b></i></blockquote>
+

@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 418
+layout: post
+title: !binary |
+  5YC85b6X57SA5b+155qE5pel5a2Q
+
+date: 2007-07-23 19:44:22 +08:00
+wordpress_url: http://blog.xdite.net/?p=418
+---
+今天是本站開站週年慶以及即將達到 100one pagview 雙重慶。
+
+可是因為我今天被瘋狂追殺所以忙到沒時間寫文，可是覺得這是個值得紀念的日子。
+
+所以原諒我 po 個三行文吧 XD
+
+---
+對了，來辦個小活動好了，這幾天誰要是拍到右邊計數器 1000000 這個數字的，可以截圖貼在本篇 comment ，我會親自請他吃一頓貳兩燒肉喔 XD

@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 814
+layout: post
+title: !binary |
+  UnVieSBUdWVzZGF5IOmWi+Wni+WgseWQjQ==
+
+date: 2008-11-16 21:37:15 +08:00
+wordpress_url: http://blog.xdite.net/?p=814
+---
+受託幫 <a href="http://ihower.idv.tw">ihower</a> 打一個廣告 
+
+Ruby Tuesday 開始報名囉，講者時間地點都確定好了 :)
+
+ 時間是 <strong>2008/11/25（週二）晚上七點到九點。</strong>
+ 地點在 台北市果子咖啡
+ 議程有
+  * Ruby script at work (lukhnos) 15min
+  * Rails E-Commerce site: substruct and spree (tsechingho) 20min
+  * DataMapper (contagious) 20min
+  * Lightning talks
+
+ 報名請前往 <a href="https://registrano.com/events/ruby-tuesday-returns">https://registrano.com/events/ruby-tuesday-returns</a>

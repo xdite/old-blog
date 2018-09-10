@@ -1,0 +1,51 @@
+--- 
+wordpress_id: 446
+layout: post
+title: !binary |
+  5re65YWl5re65Ye6IGlmcmFtZSAoMSk=
+
+date: 2007-08-24 18:49:03 +08:00
+wordpress_url: http://blog.xdite.net/?p=446
+---
+<p><strong>前言</strong></p>
+<p>筆者寫這篇文章純粹是不爽最近撲天蓋地的 iframe 污名化，沒別的用意。前陣子還只有一小部份人寫了錯誤的見解，我還蠻能理解這個立意良善的語法卻被惡意使用所導致污名化的語法所遭受的無辜。當時本來也只有一點點人寫錯，錯的也只有一小點，造成不了什麼大影響。結果最近這些錯誤的言論和以訛傳訛的穿鑿附會竟撲天蓋地而來，放眼望去全是一片 iframe sucks。讓我不禁感覺：「你們到底在什麼跟什麼啊？搞清楚再說好嗎？-_-」於是立意動筆寫了這篇文章。</p>
+<p><strong>牽連事件</strong></p>
+<p>這件事情的主因是 funp.com 的新聞閱讀器使用了 iframe 技術，有些人覺得如此有蓋台有誤導讀者之感，因此寫了防蓋台教學。接著就有人穿鑿附會的說了「會讓讀者誤會這是 funp 的內容，不勞而獲，妨害著作人格權」、「會被攔截流量和盜取 google adsense 收益」、「會讓搜尋引擎誤會網址」、「會中毒、中木馬、會被盜帳號」。寫的好像 funp = iframe ，iframe = 禍害，所以 funp = 禍害。起初我是覺得啼笑皆非，可是越到最後卻弄得越讓我迷惘，這整件事到底是無知、盲從還是惡搞。</p>
+<p><strong>動機</strong></p>
+<p>剛剛在 twitter 上經人提醒，很多人並不懂什麼是 iframe，一知半解下光看過往案例與訛傳，很容易衍生 iframe = evil virus 的印象 -_-</p>
+<p><strong>什麼是 iframe？</strong></p>
+<p>iframe 是 HTML 中的一個標籤，主要的運用是讓一個網頁可以嵌入「其他來源網頁」作為當中的一個元素 。 光說沒有用，我貼一個示範給大家看好了。</p>
+<p>這是 一個 demo 網頁，裡面只有一行語法「&lt;iframe src ="http://blog.xdite.net"&gt; &lt;/iframe&gt;」</p>
+<p><a href="http://www.flickr.com/photos/14765209@N00/1221356930/" title="相片分享"><img width="240" alt="iframe01" height="180" src="http://farm2.static.flickr.com/1149/1221356930_5ff446cf2b_m.jpg"/></a></p>
+<p>這樣應該很容易明白，iframe 是個什麼樣的技術了吧？</p>
+<p><br/><strong>不勞而獲之嫌？</strong></p>
+<p>那為什麼又會有人在該什麼不正當競爭呢？在 Web 1.0 時代，因為都是靜態網頁，加上很多人並沒有在每頁加上防盜觀念（而且每頁加很累）。所以有很多懶的自己整理資料（連copy/paste都懶）卻不勞而獲的網站，便會使用 frame/iframe 技術去將人家的網頁 include 進來，假裝為自己所有。因為不是動態產生（header、footer），又自己沒有在每頁加上 mark，所以即使遭到盜用，讀者也不會知道他正在看的網站是盜來的。</p>
+<p>再來講講侵犯「著作人格權」，著作人格權是我國著作權法裡一大特色，涵蓋的三大項：「公開發表權、姓名表示權及禁止他人以扭曲、變更方式利用著作損害著作人名譽的權利」。所以真要說侵犯著作人格權，應該是指裡面的「姓名表示權」，而非「扭曲、變更利用著作損害住著作人名譽的權利」。（扭曲、變更利用、著作而沒有損害他人名譽，走的是著作財產權。不過真要說的話，某部落格自己本身扭曲、變更利用他人作品，走 CC 的善意漏洞走的更嚴重。）</p>
+<p>侵犯姓名表示權的行為，通常是<strong>指你盜用他人成果且試圖掩蓋掉你不是原作者的事實</strong>，而侵犯了著作權法第十六條裡的：「著作人於著作之原件或其重製物上或於著作公開發表時，有表示其本名、別名或不具名之權利。著作人就其著作所生之衍生著作，亦有相同之權利。」</p>
+<p><br/>OK，我們來看下列三張這三個都用了 frame/ iframe 的哪個服務侵犯了我的姓名表示權？</p>
+<p><a href="http://www.flickr.com/photos/14765209@N00/1220886477/" title="相片分享"><img width="240" alt="funp" height="187" src="http://farm2.static.flickr.com/1099/1220886477_a425085e5e_m.jpg"/></a> <a href="http://www.flickr.com/photos/14765209@N00/1220597511/" title="相片分享"><img width="240" alt="iframegi" height="203" src="http://farm2.static.flickr.com/1183/1220597511_afbb05fdcd_m.jpg"/></a> <a href="http://www.flickr.com/photos/14765209@N00/1221461388/" title="相片分享"><img width="240" alt="iframegt" height="203" src="http://farm2.static.flickr.com/1066/1221461388_609a1a36d1_m.jpg"/></a></p>
+<p>答案是，沒有一個。</p>
+<p>不過，如果它們拿掉最上面那一排的原始出處，那就踩到線了。所以要講侵犯「著作人格權」，請先瞭解是什麼行為又踩到了哪條線？</p>
+
+補充：剛剛又有人跟我說「重製」？挖哩勒，iframe 最好是重製 ...
+
+<p><strong>搜尋引擎的影響？</strong></p>
+<p>不過，當然還有人會繼續開始嚷</p>
+<p>"我在瀏覽器上的網址被取代掉了"<br/><img width="400" height="27" src="http://farm2.static.flickr.com/1248/1221821924_41909367e7_o.jpg"/></p>
+<p>「人家就在下面網頁的前置說明就還你了。有人真的會認真以為到那是 funp 自己的網頁嗎？」<br/><img width="269" height="35" src="http://farm2.static.flickr.com/1339/1221822086_8e315152f1_o.jpg"/></p>
+<p>"可是這會影響我在搜尋引擎上的搜尋結果"</p>
+<p>「...........」</p>
+<p>筆者不是囧到無言，是笑到岔氣。這是我看到最囧的穿鑿附會了。要知道，搜尋引擎是認連結的。而且值得一提的是，絕大多數人以為我們用 IE 或 Firefox 跟 search engine bot 看到的結果是一樣的。</p>
+<p><strong>並不是一樣的</strong>。當初筆者看到 "可是這會影響我在搜尋引擎上的搜尋結果"時，我也遲疑了一下。但是我認真的去看了一下 funp 網頁原始碼，就發現根本不會有這種結果。大多數的設計者，會將網頁結果自編一個固定網址。比如說：<a href="http://xxx.com/click/123456">http://xxx.com/click/123456</a>。如果 funp 在 prview 結果是用這種作法，並且在網頁裡寫成 &lt; a href =" <a href="http://xxx.com/click/123456">http://xxx.com/click/123456</a>"&gt;，那的確會影響搜尋引擎。但是，它並不是這樣寫的。他的作法是 &lt; a href ="原始網址" onclick="privew 號碼" &gt;（用滑鼠點擊行為觸發 javascript 去開 prview 頁）。所以 1. 各家搜尋引擎 bot 幾乎都不吃 javascript。2. 不會影響搜尋引擎結果。</p>
+<p>"取代搜尋結果"這種情形根本就不會發生，如果多看幾眼原始碼，相信這句話就會嚥回去了。</p>
+<p><strong>攔截流量與 Google Adsense 收益 歸盜用者？</strong></p>
+<p>這是最後一個誤解，也是筆者看到最好笑的一個說法。要攻破這個謠言還蠻簡單的，frame / iframe 的行為是「呼叫整個網頁」。所以</p>
+<p>1. 流量當然是照算的。<br/>2. Google Adsense 的 script 內嵌在原作者的頁面，所以只要是屬於你的網頁的部分裡掛的廣告點擊進帳的收益也是屬於你的（有 refer 和 編號）。</p>
+<p>所以這純屬無稽之談。</p>
+<br/><p>結論是，iframe 並沒有像四處散播的 blog 文所說得那樣邪惡。請你相信自己的眼睛與網頁原始碼，以及尊重自己的思辯能力。</p>
+<p>下一章我們將討論 iframe 過往的被惡意使用的範例，以及為什麼它的名字會被跟木馬病毒連在一起。</p>
+
+--
+8/24 20:00 update:
+
+剛剛又跑去重看一下所有相關文章。onclick 應該是最近改的。之前的確是 xxx.php?123456。

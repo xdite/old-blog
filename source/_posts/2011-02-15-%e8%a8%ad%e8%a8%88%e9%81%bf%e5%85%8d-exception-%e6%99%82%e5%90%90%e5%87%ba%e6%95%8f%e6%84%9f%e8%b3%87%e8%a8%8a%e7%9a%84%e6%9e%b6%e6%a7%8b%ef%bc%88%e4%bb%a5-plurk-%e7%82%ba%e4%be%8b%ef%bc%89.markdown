@@ -1,0 +1,35 @@
+--- 
+wordpress_id: 2047
+layout: post
+title: !binary |
+  6Kit6KiI6YG/5YWNIEV4Y2VwdGlvbiDmmYLlkJDlh7rmlY/mhJ/os4foqIrn
+  moTmnrbmp4vvvIjku6UgUGx1cmsg54K65L6L77yJ
+
+date: 2011-02-15 09:00:57 +08:00
+wordpress_url: http://blog.xdite.net/?p=2047
+---
+昨天在 twitter 上看到大家都在講 plurk 短暫倒站，<a href="http://paste.plurk.com/show/373439/">結果把 code 和 database 的設定噴出來的事件</a>。還好這台 db 是放在內網，所以沒太大災情之類的。
+
+我還蠻訝異會 plurk 會出這種包的。
+
+Anyway，看了以後想分享一下，通常 Rails 開發團隊在開發和 Deploy 時，會如何 avoid 將來有一天類似這種倒站情形發生，不把敏感資訊噴出來。
+
+<blockquote>1. <strong>production 與 development mode 的 500 畫面 分開</strong>。（Rails default setting ）
+
+production 永遠只會 throw 500 的 html，只有 development 才會 throw code stack for tracing.
+
+2. <strong>avoid writing setting directly into source code</strong>.
+
+<strong>別把敏感資訊（帳號密碼, key...etc）直接寫在 code 裡面</strong>。在 Rails 裡，我們是將 db 資訊寫在 database.yml 裡。其他的設定，多半也是自己會寫 wrapper，吃獨立的 yml 。
+這有兩個好處。
+
+(1) <strong>flexible</strong>，不同開發模式可以吃不同 setting。寫死在 code 要改相當麻煩。
+(2) <strong>secure</strong>，在 commit 時可以選擇 gitignore yml。（這是必要，<strong>千萬 avoid 把敏感資訊 commit 進 source control system</strong>）
+
+3. <strong>只把 setting 放在 production 機器上，deploy 時候自動 cp 過去</strong>。
+
+通常我們會使用 capistrano 之類的 deploy tool 去 deploy code，管理的方式是採 versioning build，因此會有一個 shared 資料夾，放固定不會動的 asset。current build 沒有 setting yml 沒有關係，在 deploy task 中加一道命令，git 拉完之後 cp 或 ln 設定過去。</blockquote>
+
+
+
+

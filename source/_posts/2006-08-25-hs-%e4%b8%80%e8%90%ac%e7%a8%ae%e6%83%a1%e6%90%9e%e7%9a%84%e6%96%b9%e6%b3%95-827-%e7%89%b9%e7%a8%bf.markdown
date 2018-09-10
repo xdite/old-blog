@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 84
+layout: post
+title: !binary |
+  W0hTXSDkuIDokKznqK7mg6HmkJ7nmoTmlrnms5UgKDgvMjcg54m556i/KQ==
+
+date: 2006-08-25 21:54:35 +08:00
+wordpress_url: http://blog.xdite.net/?p=84
+---
+8/27 是筆者的生日，所以選在該日發佈最大漏洞 :p<br /><br />---<br />在前一篇文章提到 blog 文章中潛藏著極大危機。<br />沒關係，這一點我們可以檔，只要點文章前先關 js 就沒事了。<br /><br /><br />有這種天真想法的你那就錯了，你忘了看完文章後，別人還會附上什麼？<br />對了 ....就是<span style="font-weight: bold">那個撰寫文稿也需要登入的地方</span>。<br /><br /><br />也許你又要問說，那地方又沒有 html 編輯器，要怎樣放 script 進去。<br />這點就要請自行發揮想像力了 ....（寫太明筆者會直接被抓走）<br /><br /><br />一旦成功置入 script ，那表示你可以任意發揮創意，放入任何想玩的功能。<br />全開 active 控制項、視窗炸彈、傳送機密資訊等等....<br /><br /><br />而且這個地方最恐怖的是，大部分的 blog 擁有者一定會想點來看，說不定還會想回覆 ....<br />而回覆的動作大部分都是要登入的，既然登入一定會有 cookie ....<br /><br />which means .... <span style="font-weight: bold; color: #ff0000">no place is safe!</span>

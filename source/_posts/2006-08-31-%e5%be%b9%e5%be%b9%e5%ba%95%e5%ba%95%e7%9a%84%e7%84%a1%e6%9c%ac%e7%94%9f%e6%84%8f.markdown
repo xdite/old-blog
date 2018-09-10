@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 94
+layout: post
+title: !binary |
+  5b655b655bqV5bqV55qE54Sh5pys55Sf5oSPPw==
+
+date: 2006-08-31 10:13:56 +08:00
+wordpress_url: http://blog.xdite.net/?p=94
+---
+在<a href="http://blog.xdite.net/?p=88#comment-140">本站訪客 richliu 的這篇留言</a>中，我們可以知道，<strong>也許</strong>有名大站在 Giga 是不必支付頻寬費的。但是 richliu 先生大概還少算了機櫃租金方面的成本，因此推估出來的結果或許有些不準。<br /><br />在<a title="Permanent Link: 續：談頻寬又不是談遊覽車（無賴無誠）" rel="bookmark" href="http://blog.xdite.net/?p=88">續：談頻寬又不是談遊覽車（無賴無誠）</a>一文中，vvkvvu談到無名現有機器需耗費30個機櫃，所以搬到 Hinet 機櫃部分每月需花掉 1.8*30=54萬租金，加上沒打折過的頻寬費後約2300萬，該站付都付不起。<br /><br />其實筆者還蠻好奇有名大站現在的架構，怎麼會用到 30 個機櫃這麼多的機器？到底是真的架構真的那麼大，還是原始規劃錯誤長大成巨大怪獸，還是 ..？ 剛好某站長輩丟給我這麼一個<a href="http://www.wretch.cc/album/album.php?id=wkwu&amp;book=26">相簿連結</a> （Hinet 者請掛 proxy，不然超慢），因為我不是相片的主人，所以僅此提供一個 screenshot。<br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/229662892/"><img width="500" height="390" alt="freerack" src="http://static.flickr.com/63/229662892_ac50410d70.jpg" /></a><br /><br />筆者只能說，<font color="#ff0000"><strong>該站空間利用率真是高</strong></font>啊 ...orz<br />光是租這些機櫃的錢就夠買長輩機器了，犯不著這麼窮酸吧？<br /><br />還是，這些機櫃也是不用錢的？<br /><br />如果真是這樣的話，那不就徹徹底底像是一宗無本生意？<br />難怪該站一直在說，<strong>它們<font color="#ff0000">搬到其他地方一定就會倒</font></strong>。<strong>因為，<font color="#ff0000">其他地方一定要收錢嘛</font></strong>。<br /><br /><br />鄉民們，你說呢？<br /><br />----<br />update：下午筆者接到民眾抗議。說該行照片底下有一行字 <font class="normal-c"><span id="DisplayDesc">&quot;     <strong>隔壁機櫃這樣用看起來也不怎麼省空間, 而且HD散熱不見得好, 管理又不方便, 不過他們很用心, 每一台都有把reset鍵寫很大, 需要時給機房伯伯按</strong>&quot;，頗有責怪本站報導不實的意味。<br /><br />筆者確信在報導當時是沒有這行字的，這行字是偷加的。為了證明筆者的清白，筆者再<a href="http://www.flickr.com/photos/14765209@N00/229837268/">提供一張 screenshot（請點擊觀看）</a>，雖然沒有照到那行文字。但是剛剛照的這張照片很明顯的<strong>右邊的 bar 變短了</strong>，意味著<strong>整張網頁變長了</strong>。至於為什麼變長，那就是<font color="#ff0000"><strong>多了那一行辯解的字</strong></font>啊。<br /><br />想陷害筆者，門都沒有。  </span></font>

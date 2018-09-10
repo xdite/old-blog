@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 381
+layout: post
+title: !binary |
+  5qiC5aSa5aW96J+y
+
+date: 2007-07-02 21:52:38 +08:00
+wordpress_url: http://blog.xdite.net/?p=381
+---
+Jun 21, 2007 8:06 PM<br />Well, 剛剛在 twitter 上，聽說樂多好友 (?) / 朋友開張了，筆者也跑去湊熱鬧。大概因為筆者帶賽命的緣故，很快的就抓到一隻蟲。也因為被筆者爆破了，所以從爆破頁面得知 樂多朋友 是用 Ruby on Rails 寫的 XD。<br /><br />frenewusererror<br /><br />OK，Here is the 爆破 Step：<br /><br />1. 請朋友寄邀請函給我。<br /><br />2. 登入<br /><br />但在這裡我出現了 e-mail 註冊過的訊息，於是我用忘記密碼功能去重新設定。結果進入重新設定密碼頁面後，因為樂多在與蕃天分家後，使用 e-mail 作為 identity，系統顯示 e-mail map 了不只一個 identity，於是我指定該 mail 到 xuitejoke 這個帳號上。<br /><br />Then，因為太久沒登入，樂多日誌改版，所有資料似乎要轉檔一遍。<br /><br />而轉好檔之後通知我可以啟用服務後，再跑去樂多好友，就炸了。<br /><br />看起來似乎有東西在轉檔過程中被轉掉了（？）<br /><br />後來再用 gmail 作弊大法開分身（註冊頁面旁邊有個活動可以索取邀請函）進去測後，使用行事曆功能馬上又給我 error，囧。不知道這個服務是不是已經宣布 open 了，如果宣布 open 了那真的是 …<br /><br />well，最後講講我對樂多朋友的初步印象：「老實說，我不知道這個服務可以幹嘛，和使用的理由。」如果只是 me too service，那 ….<br /><br /><p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>

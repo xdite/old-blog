@@ -1,0 +1,46 @@
+--- 
+wordpress_id: 1247
+layout: post
+title: !binary |
+  R29vZ2xlIFdhdmVzIC0g5LiL5LiA5YCL5q665omL57Sa5oeJ55SoPw==
+
+date: 2009-05-29 03:19:07 +08:00
+wordpress_url: http://blog.xdite.net/?p=1247
+---
+這是幾個小時前 Google 剛在 Googe I/O 上發佈的新產品 -- <a href="http://wave.google.com/">Google Waves</a>.
+附上截圖一張以及從 <a href="http://www.webmonkey.com/blog/Google_Waves_Goodbye_to_E-Mail__Welcomes_Real-Time_Communication">Google Waves Goodbye to E-Mail, Welcomes Real-Time Communication</a> 轉來的幾段重點。
+
+<a href="http://www.flickr.com/photos/xdite/3574110118/" title="Flickr 上 xdite 的 waveuismall"><img src="http://farm4.static.flickr.com/3615/3574110118_98606160a7.jpg" width="500" height="327" alt="waveuismall" /></a>
+
+
+<blockquote>
+Google Wave is an attempt to replace not one but all of these methods, <strong>rolling threaded conversations, real-time chat, nested comments, media sharing, link sharing and wiki-style collaboration into a familiar interface that looks and behaves like an e-mail inbox,</strong> complete with folders for keeping things organized and a search box for digging up older threads.</blockquote>
+
+# 多媒體版即時 Twitter-like
+
+----
+
+
+<blockquote>
+Images can be dragged and dropped into the app in the browser if Gears is installed. All of the uploading happens in the background, thanks to the web-workers component of HTML 5. Wave also has an API, so people can put waves on their web pages. <strong>The whole interface of the wave gets embedded in the page, but it can be styled to match the blog or external site. Replies, questions and edits all appear in real time.</strong></blockquote>
+
+
+
+# 可以外嵌到任何 Site
+
+----
+
+
+<blockquote>The methods of communicating we’ve grown used to in the last decade, primarily e-mail and instant messaging, are being usurped by more intuitive and time-sensitive alternatives on the social web. T<strong>hanks to Twitter, FriendFeed and Facebook, the emphasis now is on real-time communication</strong>: Updates are expected instantly, and we leave many of our conversations open for comments. There’s an initial flurry of activity, a constant stream of back-and-forth chatter between participants. Conversations morph and evolve quickly, then, hours or days later, eventually sputter out and fade.
+
+This is the model Wave is clearly embracing. But <strong>Google didn’t initially set out to build a better Twitter or a better FriendFeed.</strong></blockquote>
+
+
+
+# 打了 Twitter / Friendfeed / Facebook 一巴掌 XDDD
+
+-----
+
+這樣看起來，有了 Wave 這神器，把 Jaiku 這個 project 砍掉是很正常的。至於 Google 想收購 Twitter 這件事，看起來在 Google Waves 推出來之後應該可以反證是個謠言...?
+
+這服務太凶殘了 ..

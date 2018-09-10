@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 297
+layout: post
+title: !binary |
+  6YCB5L2g5LiA6Zq755Wq5LuU54Gr5ZKM5LiA5qG25rG95rK5Pw==
+
+date: 2007-03-17 14:08:43 +08:00
+wordpress_url: http://blog.xdite.net/?p=297
+---
+前情提要：在上次 bbsFAQ 在 <a href="http://www.flickr.com/photo_zoom.gne?id=423785889&size=o">0sysop 公告用戶 neat 違反版規並迅速水桶</a>，卻遲遲連版規是什麼都提不出來後。許多無名小站用戶深深覺得 bbsFAQ 深深不配擔任該版版主一職。於是紛紛跑去 IamTheLaw 版連署罷免。
+
+
+浩浩蕩蕩連署幾十篇之後，這些文章在剛剛卻全數被無預警砍除，<a href="http://www.flickr.com/photo_zoom.gne?id=423779055&size=o">版主也被換成 bbsFAQ</a>，同時還發表了一篇帶有恐嚇意味的 POST。
+
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=423775818&size=o" title="Photo Sharing"><img src="http://farm1.static.flickr.com/153/423775818_bd833d1e70.jpg" alt="wretchem02" height="293" width="500" /></a>
+
+偉哉! <font color = "red" ><strong>送你一隻番仔火和一桶汽油哦 !</strong></font>
+
+---
+有趣的是，上次 neat 被水桶的原因是因為問 open proxy 的事，這次 Jack5210 被水桶是問客服 ip 的事，好像都有共通點呢? XD
+
+---
+update : 此版<a href="http://www.flickr.com/photos/14765209@N00/424006498/">當初的進版畫面</a>更有趣
+
+<img src="http://farm1.static.flickr.com/186/424007841_c832cb6075_o.jpg" alt="wretchem02"  />

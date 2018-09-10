@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 561
+layout: post
+title: !binary |
+  MjAwOCDnuL3ntbHlpKfpgbjnm6PnpaggcmVwb3J0
+
+date: 2008-03-24 12:09:31 +08:00
+wordpress_url: http://blog.xdite.net/?p=561
+---
+幫忙整理相關的文章：
+
+<a href="http://blog.serv.idv.tw/2008/03/23/787/">終極邊疆：幫各新聞台的計票計票</a>
+<a href="http://chitsaou.wordpress.com/2008/03/24/2008-tw-president-election/">[觀察] 2008 臺灣總統大選 之 無線電視開票監督 </a>
+
+原始計票資料可從 <a href="http://tvvote.veryxd.com">TVvote</a> 取得。
+
+<a href="http://twitter.com/pipperl/statuses/775282263">Original Idea by PipperL</a>

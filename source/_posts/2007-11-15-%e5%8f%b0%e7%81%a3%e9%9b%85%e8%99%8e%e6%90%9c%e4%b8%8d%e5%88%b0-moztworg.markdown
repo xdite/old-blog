@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 495
+layout: post
+title: !binary |
+  5Y+w54Gj6ZuF6JmO5pCc5LiN5YiwIG1venR3Lm9yZyA/
+
+date: 2007-11-15 23:55:24 +08:00
+wordpress_url: http://blog.xdite.net/?p=495
+---
+update :  <strong>moztw.org 已於 2007/11/17 重回 yahoo 搜尋結果</strong>。
+
+<br />據說這樣的狀況已經超過三天了，實際發生多久沒有人知道。<br /><br />筆者測試過 <a href="http://www.flickr.com/photos/14765209@N00/sets/72157603190585328/">台灣、美國、世界、亞洲、中國、香港、日本、韓國、新加坡、加拿大、英國、西班牙版</a>。<br /><br />moztw.org 並沒有 robots.txt，但唯一只有台灣版雅虎竟然搜不到 moztw.org，真是太詭異了。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/2034618724/" title="Flickr 上 xuitejoke 的 台灣"><img src="http://farm3.static.flickr.com/2241/2034618724_1215b99a9e.jpg" alt="台灣" height="363" width="500" /></a><br /><br />

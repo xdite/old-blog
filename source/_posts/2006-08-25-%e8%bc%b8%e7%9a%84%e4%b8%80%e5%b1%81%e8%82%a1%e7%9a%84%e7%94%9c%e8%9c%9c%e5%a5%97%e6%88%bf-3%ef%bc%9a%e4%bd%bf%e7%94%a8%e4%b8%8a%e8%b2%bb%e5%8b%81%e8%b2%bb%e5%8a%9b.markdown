@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 82
+layout: post
+title: !binary |
+  6Ly455qE5LiA5bGB6IKh55qE55Sc6Jyc5aWX5oi/ICgzKe+8muS9v+eUqOS4
+  iuiyu+WLgeiyu+WKmw==
+
+date: 2006-08-25 21:53:57 +08:00
+wordpress_url: http://blog.xdite.net/?p=82
+---
+再讓人詬病的是<span style="font-weight: bold">使用上的動線設計</span>。<br /><br />後台雖照工程師思 維擺設的整整齊齊， 但是根本不符合使用者操作的動線。常常新增文章、新增相片後，就不知道又跑到哪裡去了。來來回回添了許多不必要的點選動作，一點都不直覺。如果是一個新用 戶來使用，在預期會喜歡上 Xuite 之前，老早就被這麼囉唆的操作步驟嚇跑了 ....<br /><br /><br />至於老用戶也是差不多，因為先天上的不良設計，導致 Xuite 的每個日誌被搞的<a href="http://xuite-joke.blogspot.com/2006/07/blog-post_24.html">活像多胞胎</a>一樣，要將 blog 改到與眾不同需要花費極大力氣去調整 CSS ....<br /><br />而且因為 Xuite <span style="font-weight: bold">缺乏 wiki 或  forum 可以讓使用者互助撰寫使用說明</span>，害每個人開車前都要從造輪子重新學起。非常的令人 Orz （不要再提用搜尋功能將散落各地的說明整合起來，這東西有等於沒有）

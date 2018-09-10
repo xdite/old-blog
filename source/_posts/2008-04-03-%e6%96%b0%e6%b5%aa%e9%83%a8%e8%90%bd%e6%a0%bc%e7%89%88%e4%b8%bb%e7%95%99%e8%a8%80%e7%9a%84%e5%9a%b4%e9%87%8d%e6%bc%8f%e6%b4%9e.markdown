@@ -1,0 +1,33 @@
+--- 
+wordpress_id: 565
+layout: post
+title: !binary |
+  5paw5rWq6YOo6JC95qC854mI5Li755WZ6KiA55qE5Zq06YeN5ryP5rSe
+
+date: 2008-04-03 18:18:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=565
+---
+這是剛剛收到的一封信：
+
+<a href="http://www.flickr.com/photos/xdite/2385092012/" title="Flickr 上 xdite 的 sinabug"><img src="http://farm3.static.flickr.com/2082/2385092012_e04f6859f6.jpg" width="500" height="207" alt="sinabug" /></a>
+
+所以筆者跑去<a href="http://blog.sina.com.tw/xdite/">註冊了一個 sina 帳號</a>測看看。
+
+<a href="http://www.flickr.com/photos/xdite/2385099178/" title="Flickr 上 xdite 的 del"><img src="http://farm4.static.flickr.com/3117/2385099178_fec323c60e.jpg" width="310" height="132" alt="del" /></a>
+
+發現了，雖然寫和刪的動作雖然是用 form 加上 hidden field 送出的
+
+<a href="http://www.flickr.com/photos/xdite/2384265657/" title="Flickr 上 xdite 的 sinabughidden"><img src="http://farm3.static.flickr.com/2396/2384265657_f4737dd98c.jpg" width="500" height="111" alt="sinabughidden" /></a>
+
+
+在瀏覽器只能看到這個 url
+
+<a href="http://www.flickr.com/photos/xdite/2384265671/" title="Flickr 上 xdite 的 sinbugurl"><img src="http://farm3.static.flickr.com/2260/2384265671_c7d21e272c_o.jpg" width="272" height="41" alt="sinbugurl" /></a>
+
+但是只要配合上在原始碼裡面看到的正確的參數，就可以更改版主留言以及刪除版主留言，即便你不是版主。
+
+換句話說，新浪部落格在這個網頁並沒有檢查 owner XD
+
+好像跟上次無名小站發生的事情差不多啊 XD
+
+現在是 4/03 18:00 這個洞還在

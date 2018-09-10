@@ -1,0 +1,136 @@
+--- 
+wordpress_id: 1914
+layout: post
+title: !binary |
+  V2ViIFN0YXJ0dXAg6YGp5ZCI5L2/55So55qE5pyN5YuZ6IiH5bel5YW3
+
+date: 2011-01-11 02:00:25 +08:00
+wordpress_url: http://blog.xdite.net/?p=1914
+---
+剛剛在 DK 的 blog 看到這篇，<a href="http://blog.gslin.org/archives/2011/01/09/2416/%e5%88%86%e6%9e%90-y-combinator-%e7%9a%84-startup-%e6%89%80%e4%bd%bf%e7%94%a8%e7%9a%84%e6%9c%8d%e5%8b%99">分析 Y Combinator 的 Startup 所使用的服務…</a>。
+
+因為自己的工作都是在沾 Startup（不是在 Startup 工作，就是被 hire 去 startup 一個部門），手癢來寫一下自己做 Startup 會用到哪些東西拼裝....
+
+<strong>語言</strong>：
+
+<blockquote> 
+* <strong><a href="http://www.rubyonrails.org/">Rails</a> </strong>
+<a href="http://www.flickr.com/photos/xdite/5343650168/" title="Ruby on Rails by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5281/5343650168_bd4a8ce4f8_m.jpg" width="87" height="111" alt="Ruby on Rails" /></a>
+- 這是我擅長而且穩定的技術。Rails 相關的周邊技術五花八門，日新月異。寫網站最後你很多事情都不需要自己硬幹了...
+- 自己的一整套 Starter Guide, Code Convention, Commit Policy, Best Practice ...</blockquote>
+
+<b>主機</b>：
+<blockquote>
+
+* <strong><a href="http://www.slicehost.com/">Slicehost</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343650304/" title="slicehost by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5049/5343650304_24aaeaf39e_m.jpg" width="197" height="43" alt="slicehost" /></a>
+- 便宜穩定的起步主機（玩具用）
+
+* <strong><a href="http://www.linode.com/"> Linode</a> </strong>
+<a href="http://www.flickr.com/photos/xdite/5343041071/" title="linode by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5049/5343041071_b3d119ceda_m.jpg" width="150" height="135" alt="linode" /></a>
+- 便宜穩定的起步主機（提供的方案比較大碗一點，也提供多個機房可以選）
+
+* <strong><a href="http://aws.amazon.com/ec2/">AWS EC2</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343041169/" title="AWS by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5049/5343041169_1b5e19c821.jpg" width="300" height="122" alt="AWS" /></a>
+- 成長太快你來不及弄機房的選擇。如果你機器太多想省一些錢時，也可以寫點 script 玩動態調節。花錢就能 Scale...
+
+* <strong><a href="http://heroku.com/">Heroku</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343794250/" title="heroku_logo by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5169/5343794250_30a2d96e6d_m.jpg" width="162" height="70" alt="heroku_logo" /></a>
+ - Rails 的 Cloud Service。用來做 event site / 免洗站台超適合 。花錢就能 Scale...</blockquote>
+
+團隊工具：
+
+<blockquote>
+* <strong><a href="http://www.redmine.org/">Redmine</a></strong> （專案管理工具）
+<a href="http://www.flickr.com/photos/xdite/5343040939/" title="Redmine by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5204/5343040939_03df8ab277_s.jpg" width="75" height="75" alt="Redmine" /></a>
+ - Redmine 到 1.0 已經非常穩定成熟。做專案甚至可以用一張母票，拉一群巢狀票。開專案把票切完，當票通通關完時其實就是可以上線了。用這種方式，做專案會讓你超乎想像的快...
+
+* <strong>Flipchart </strong>
+
+<a href="http://www.flickr.com/photos/xdite/5343226839/" title="flipchart by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5005/5343226839_c991fbeeaf_m.jpg" width="166" height="240" alt="flipchart" /></a>
+
+國內可以買的到，不過有點難找就是了。brainstorming 很好用。傳統的紙筆比甚麼精美的 mockup 工具好用太多了...
+
+* <strong><a href="http://git-scm.com/">Git</a></strong> （版本控制）
+<a href="http://www.flickr.com/photos/xdite/5343041311/" title="Git by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5242/5343041311_3aa9cdd4c2_m.jpg" width="97" height="188" alt="Git" /></a>
+- 開 branch 像不用錢，即使是非常 active 的專案也不用怕...
+
+* <strong><a href="http://github.com">Github</a></strong>（版本控制）
+<a href="http://www.flickr.com/photos/xdite/5343215755/" title="github by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5281/5343215755_4b35d4ea07_t.jpg" width="100" height="44" alt="github" /></a>
+- 買 Github，不須自己管 Git Repo，同時也不用自己辛苦的寫 post-commit hook。內建 commit notifier 打到多數你想通知的溝通管道上，同時界面方便團隊 review code，fork 專案。 
+
+*<strong> <a href="https://github.com/capistrano/capistrano/wiki">Capistrano</a> </strong> （Deploy 工具）
+
+<a href="http://www.flickr.com/photos/xdite/5343836674/" title="capistrano-logo-big by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5041/5343836674_fe4cdbf26e_t.jpg" width="100" height="38" alt="capistrano-logo-big" /></a>
+
+- 能對每個 deploy 做 version control（code 炸爛只要 cap deploy:rollback 就好了），還可指定不同 env 如： stagging / production ..etc. deploy。
+
+* <strong><a href="http://en.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a></strong>
+- 古老的溝通訊息管道，適合把各種 server log，commit log，ticket change 訊息通通丟上來。每天可一目了然部門內變化。
+
+* <strong><a href="http://www.skype.com">Skype</a></strong>  
+<a href="http://www.flickr.com/photos/xdite/5343041483/" title="skype by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5041/5343041483_d4695cab31_t.jpg" width="100" height="56" alt="skype" /></a>
+- 跨平台的 chat 工具，非常方便，大家幾乎都有灌一套。而且多方通話，拉聊天室相當方便。品質有時候比自己公司的 conf call bridge 品質更好。
+
+*<strong> <a href="http://dropbox.com">Dropbox</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343297781/" title="dropbox-logo by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5006/5343297781_9487e89a17_m.jpg" width="240" height="69" alt="dropbox-logo" /></a>
+- 便宜的公槽啊！
+
+* <strong><a href="http://www.codingmonkeys.de/subethaedit/">Subethaedit</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343041577/" title="subethaedit_logo by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5003/5343041577_a5bd9a9e11_m.jpg" width="138" height="131" alt="subethaedit_logo" /></a>
+- 這是 Mac 平台才有的工具，方便大家同編一份文件。如果你沒有 Mac，當然也可以試看看 <a href="http://etherpad.com/">EtherPad</a>，或者是 Google Doc 。但是效果就差了點。
+
+
+* <strong><a href="https://www.google.com/a/">Google Apps</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343794314/" title="google_apps-300x223 by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5243/5343794314_4813b4429f_s.jpg" width="75" height="75" alt="google_apps-300x223" /></a>
+- 這年頭還有人叫自己 RD 下來當 MIS 管 mail 和 CMS 嗎？又不是錢太多 XD
+
+
+</blockquote>
+<blockquote>
+
+<strong>Server Side</strong>：
+
+*<strong><a href="http://freedns.ws/"> FreeDNS</a></strong>
+ - 付費請別人管。品質還算不錯
+
+* <strong><a href="http://madmimi.com/">Madmimi</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343794386/" title="Mad_Mimi_logo by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5048/5343794386_d4b6175b3a_m.jpg" width="200" height="59" alt="Mad_Mimi_logo" /></a>
+ - 做網站總會用到 edm，自己養一臺機器加一條線加一個 RD，專門 dev / tune 實在太貴了。Google Apps 發信除了有限制外，也太貴了。
+
+* <a href="http://indextank.com"><a href="http://indextank.com/">IndexTank</a></a>
+<a href="http://www.flickr.com/photos/xdite/5343808092/" title="indextank-com by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5289/5343808092_c80a4627fd_t.jpg" width="100" height="34" alt="indextank-com" /></a>
+ - scalable 的 search engine，自己不是 search 專業，就不要勉強自己搞了...。把 RD 省下去做其他事吧
+
+* <strong><a href="http://scoutapp.com/">ScoutApp</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343813930/" title="logo by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5281/5343813930_c396842481_m.jpg" width="121" height="97" alt="logo" /></a>
+ - 使用 server plugin 幫你 monitor 主機，並留下歷史紀錄。方便 monitor 和 debug。當倒站或抓 performance bottleneck，非常好用...。至於 Rails Application，當然是上 <a href="http://newrelic.com/">New Relic RPM</a> 監測。
+
+* <strong><a href="http://tools.pingdom.com/">Pingdom</a></strong>
+<a href="http://www.flickr.com/photos/xdite/5343199237/" title="pingdom_logo_black by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5088/5343199237_56e47e9b8c_t.jpg" width="100" height="26" alt="pingdom_logo_black" /></a>
+- 監測主機，倒站的話寄信和發簡訊通知你。
+</blockquote>
+
+團隊做事觀念：
+
+<blockquote>
+<a href="http://www.flickr.com/photos/xdite/5343860328/" title="pad by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5041/5343860328_5204042ba3_m.jpg" width="190" height="228" alt="pad" /></a>
+<a href="http://ihower.tw/blog/archives/2369">實戰敏捷開發 Practices of an Agile Developer </a>
+
+<a href="http://www.flickr.com/photos/xdite/5343866054/" title="prj by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5284/5343866054_9635f8aed9_m.jpg" width="190" height="228" alt="prj" /></a>
+<a href="http://pragprog.com/titles/prj/ship-it">Ship It!: A Practical Guide to Successful Software Projects</a>
+</blockquote>
+
+===
+
+總結：
+
+其實這篇服務 list，重點很單純，只有一個：降低 RD 成本，增加 RD 產出。
+
+不要浪費你的 RD 去重造輪子。一個 Startup 最吃緊的往往是資金與人力，但資金燒最兇的項目還是養人。說來說去「人」還是最昂貴的，也是最珍貴的資源（難找難練難養）。這些工具租下來一個月才燒萬把塊台幣（是的，這是真實數據）。但是如果通通自己造，要花多少？
+
+除了 RD 單位成本昂貴之外。還該問的一點是，單位 RD 單位的「有效產出」是多少？為甚麼要有 Guide, Convention, Policy, 做事觀念，無非就是在降低 RD 時間被「浪費」的機率....
+
+多把時間和金錢花在「本業」上面，無直接相關的就算心癢（技術狂會手癢）也只是淺嘗。
+
+專注簡單才是王道。用甚麼工具往往都不是重點...

@@ -1,0 +1,41 @@
+--- 
+wordpress_id: 3193
+layout: post
+title: !binary |
+  W0Fzc2V0IFBpcGVsaW5lXSDomZXnkIYgQXNzZXQgQ2FjaGUg5bCO6Ie055qE
+  56C05ZyW5ZWP6aGM
+
+date: 2011-09-28 17:29:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=3193
+---
+好不容易改好 asset pipeline 的東西，興致勃勃到 deploy staging / production。最常發生的掃興問題是，明明圖的路徑正確，但是圖卻破光光開不出來。
+
+可能導致的原因有幾個：
+
+如果你是使用 nginx 的話，這兩個選項務必要打開
+
+<pre>
+
+  # Specifies the header that your server uses for sending files
+  config.action_dispatch.x_sendfile_header = "X-Sendfile"
+
+  # For nginx:
+  config.action_dispatch.x_sendfile_header = 'X-Accel-Redirect'
+
+</pre>
+
+如果打開之後，重新 deploy 之後還是破圖
+
+<blockquote>
+
+請清掉瀏覽器 cache 重新開啟
+
+</blockquote>
+</pre>
+
+如果清掉瀏覽器  cache 還是無法開啟？
+
+<blockquote>
+<strong>asset pipeline 預設有 write 到 Rack:Cache 上</strong>，如果你的 project 上有上 cache backend 如 memcached ，請記得將 server 上的 cache 清掉，瀏覽器 cache 也清掉，這樣多半就可以解決了....
+
+</blockquote>

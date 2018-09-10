@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 357
+layout: post
+title: !binary |
+  5Y2K5YO557ay55aR5Ly86LOH5paZ5aSW5rWBPw==
+
+date: 2007-05-24 18:16:56 +08:00
+wordpress_url: http://blog.xdite.net/?p=357
+---
+這是剛剛在 PTT 上面看到的。<b><a href="http://www.50100.com.tw">半價網</a> 疑似遭詐騙集團以該網站名義進行詐騙</b>。<strong>目前該網站已宣告最近不會有出貨動作，希望各消費者慎防詐騙</strong>。<br /><br /><br />從鄉民爆料的內容，像是資料庫外洩，才會造成這起事件。HMMM，半價網的一切基礎都建立在互相「信任」上。這下子，似乎真的要看半價網的危機處理了。<br /><br /><br />
+
+<!--more-->
+
+<br/> <a href="http://www.flickr.com/photos/14765209@N00/511976582/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/216/511976582_111aa989da.jpg" alt="50100-1" height="467" width="500" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/511976604/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/198/511976604_d6e1dbfca2.jpg" alt="50100-2" height="467" width="500" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/512017115/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/209/512017115_9499fde21a.jpg" alt="50100-3" height="467" width="500" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/511976640/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/232/511976640_ab5f36e4f4.jpg" alt="50100-4" height="467" width="500" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/511976574/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/221/511976574_e0575f12fa.jpg" alt="50100-5" height="339" width="500" /></a>

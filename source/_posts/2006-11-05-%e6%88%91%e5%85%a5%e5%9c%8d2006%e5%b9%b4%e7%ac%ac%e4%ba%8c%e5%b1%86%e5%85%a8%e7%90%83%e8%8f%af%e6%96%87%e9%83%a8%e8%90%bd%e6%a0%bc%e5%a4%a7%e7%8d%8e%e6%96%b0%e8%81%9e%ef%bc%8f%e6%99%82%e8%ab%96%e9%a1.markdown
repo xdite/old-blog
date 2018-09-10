@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 184
+layout: post
+title: !binary |
+  5oiR5YWl5ZyNMjAwNuW5tOesrOS6jOWxhuWFqOeQg+iPr+aWh+mDqOiQveag
+  vOWkp+eNjuaWsOiBnu+8j+aZguirlumhng==
+
+date: 2006-11-05 19:51:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=184
+---
+<a target="_blank" href="http://blogaward.chinatimes.com/"><img border="0" title="入圍年度最佳新聞時論部落格" src="http://forums.chinatimes.com.tw/banner/First_news.gif" alt="" /></a><br /><br />不知道要寫什麼心得，就請大家幫我集氣之類吧。<br /><br />如果你要趁亂告白，也歡迎喔 XD

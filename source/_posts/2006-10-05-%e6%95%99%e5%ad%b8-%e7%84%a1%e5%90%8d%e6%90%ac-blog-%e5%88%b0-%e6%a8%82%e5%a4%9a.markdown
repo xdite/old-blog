@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 155
+layout: post
+title: !binary |
+  W+aVmeWtuF0g54Sh5ZCN5pCsIEJsb2cg5YiwIOaoguWkmg==
+
+date: 2006-10-05 15:00:28 +08:00
+wordpress_url: http://blog.xdite.net/?p=155
+---
+因為版面太大，所以我另外找地方貼。<br /><br /><br /><a href="http://guide.xdite.net/rdieguide.htm">搬家至樂多（IE教學）</a><br /><a href="http://guide.xdite.net/rdfxguide.htm">搬家至樂多（FX教學）</a><br /><br /><br />歡迎轉錄（請附上本 Blog 網址）。<br /><br />再次感謝<a href="http://blog.gslin.org">神樣 DarkKiller 長輩</a>，為全人類謀福利寫了這個備份功能。<br /><br />

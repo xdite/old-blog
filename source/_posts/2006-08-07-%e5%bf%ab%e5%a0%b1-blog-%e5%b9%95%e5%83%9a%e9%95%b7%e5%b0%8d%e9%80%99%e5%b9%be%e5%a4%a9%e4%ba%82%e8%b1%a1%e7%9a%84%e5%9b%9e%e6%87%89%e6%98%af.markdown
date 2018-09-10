@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 50
+layout: post
+title: !binary |
+  W+W/q+WgsV0gQmxvZyDluZXlg5rplbflsI3pgJnlub7lpKnkuoLosaHnmoTl
+  m57mh4nmmK8uLi4uPw==
+
+date: 2006-08-07 18:46:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=50
+---
+<a href="http://www.flickr.com/photos/49274115@N00/208935040/" title="Photo Sharing"><img src="http://static.flickr.com/82/208935040_bf012d4f6b_o.jpg" border="0" alt="adminjoke02" width="824" height="77" /></a>

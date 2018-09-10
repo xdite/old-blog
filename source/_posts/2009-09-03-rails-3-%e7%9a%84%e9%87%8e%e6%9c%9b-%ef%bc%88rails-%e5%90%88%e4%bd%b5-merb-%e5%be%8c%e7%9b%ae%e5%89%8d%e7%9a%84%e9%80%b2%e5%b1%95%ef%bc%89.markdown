@@ -1,0 +1,63 @@
+--- 
+wordpress_id: 1440
+layout: post
+title: !binary |
+  UmFpbHMgMyDnmoTph47mnJsg77yIUmFpbHMg5ZCI5L21IE1lcmIg5b6M55uu
+  5YmN55qE6YCy5bGV77yJ
+
+date: 2009-09-03 00:20:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=1440
+---
+這一篇想寫很久了，一直忘記。
+
+大家應該還記得，<a href="http://blog.xdite.net/?p=832">Merb 在 2008 年底宣佈了一個決定，他們決定併入 Rails</a>。而 <a href="http://merbivore.com/">Merb</a> 的 Team Leader：<a href="http://yehudakatz.com">Yehuda Katz</a>，也將加入 Rails core team 開發。於是未來 Merb2 將直接等於 Rails3。
+
+當時，這件事是非常令人震撼的。原因是 Rails 雖然是一個非常先進的框架，但是還是有非常多開發者，因為它的包山包海（笨重、效能不彰）而卻步。於是，他們選擇了另外一套框架 Merb。Merb 的想法和架構其實是很棒的，<strong>它既可以是一個 full stack 的 Framework，又可以讓開發者用 cherry pick library 的方式建構網站</strong>。有很多 Merb 派的開發者，甚至就是因為前述原因才跳槽過來的。
+
+因此它們的合併，無異是向社群投了一個大炸彈。很多 Merb 的擁護者當時紛紛表示不能接受，甚至大家都湧上「Merb core team 的人是集體腦袋燒壞掉了嗎」的強烈疑惑，認為 Merb 選擇被 Rails 整併是大錯特錯的愚蠢決定。
+
+我當初也這麼想，但近半年來，追看 Edge Rails 的發展，我才發現所有人（包括 DHH），都被 Yehuda 騙了。
+
+<a href="http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3">在 DHH 當初的 Announce</a> 提到了 Rails 3 將會有的是：
+
+<blockquote>
+    *  Rails core: Yes, Rails is a full-stack framework and will remain so, but there's no reason we shouldn't also make it possible to run with less than the full monty. Rails 3 will make it easy to run just a bare minimum and then allow you to opt in just the stuff you want, if that's necessary for your particular situation. Think 「rails myapp—core」 (and 「<strong>rails myapp—flat</strong>」).
+
+    * <strong>Performance optimization</strong>s: Merb has a lot of Rails pieces rewritten to be faster. We'll be bringing all that good stuff over. We'll also bend the architecture in the places where that's necessary for a big yield. In short, Rails 3 will get all the performance attention that the Merb guys are known for.
+
+    * <strong>Framework agnosticism</strong>: Rails will always have a default answer to every question within the stack. If you don't care about testing frameworks, you'll get test/unit. If you don't care about which ORM, you'll get Active Record. But some people do care and want something else. Some people want RSpec for testing, others want to use Sequel or Data Mapper for ORM, others again prefer Haml for templating, and some might prefer jQuery for Ajax. All these people should feel like Rails is welcoming them with open arms. Yes, we'll have a default, but we shouldn't have any form of discrimination against alternatives.
+
+    * <strong>Rigorous API</strong>: Too many plugins break when Rails is updated because it's not clear where they can safely hook into the internals and when they're monkeypatching and should expect things to break. The Merb guys committed to a public API with tests to ensure that it wouldn't break. They'll bring over that line of thinking and give Rails 3 a tested and documented API for extensions that won't break willy-nilly with upgrades.
+
+</blockquote>
+
+大家看到 <strong>Rigorous API 這段</strong> 一定以為 Yehuda 當初的提議是的改版是，發明一套神奇的 API，讓 plugin 不再爛掉。再加上前三條以上 blahblah 的好處 ...不過大家看的半信半疑，感覺上好像都是虎爛，應該完全做不到吧....。
+
+OK。但到目前為止，結果 Yehuda 目前的成果到了什麼地步呢？
+
+<big><big> <strong>Merb 反過來吃掉了 Rails，順便叫 Sinatra 也不用繼續再玩了！ </strong></big></big>
+
+他現在做的事，並不是發明什麼神奇的 API 。而是把整個 Rails refactor，具體的作法就是把整個 Rails 全部拆散成 API 形式再組起來 ......這不僅是空談，而是已經有非常具體的成果了。
+
+1. 現在 Rails 的效能跟 Merb 一樣好!! ( 2008/08/09 )
+
+<a href="http://www.flickr.com/photos/xdite/3881031059/" title="Flickr 上 xdite 的 merb"><img src="http://farm3.static.flickr.com/2675/3881031059_24574570c0.jpg" width="500" height="263" alt="merb" /></a>
+
+2. Fully API （ 這在他最近在世界上的各場 ruby / rails conf 演講 影片/ 投影片 都有 demo ）
+
+3. 因為現在通通拆開了，所以 Rails3 達成 framework agnosticism 是完全沒問題的...
+
+4. 因為現在通通拆開了，very flat 版 rails 也是沒有問題的...
+
+5. 他最近甚至無聊到火力展示（炫耀）一個東西，如何用 <a href="http://yehudakatz.com/2009/08/26/how-to-build-sinatra-on-rails-3/">Rails API 拼出一個 Sinatra</a> 。XDDDDDDD
+
+6. 還順便分享了一篇 refactor 技巧（因為公開翻修了 Rails 這個 opensource project ）：<a href="http://www.engineyard.com/blog/2009/6-steps-to-refactoring-rails-for-mere-mortals/">6 Steps To Refactoring Rails (for Mere Mortals)</a>
+
+
+完全令人想不到而且偉大的結局啊，完全做的到而且比當初宣告的更屌....。
+
+真期待年底 Rails3 的正式 Release ....
+
+====
+Update : 剛剛重回去看
+<a href="http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3">Merb gets merged into Rails 3!</a>，想仔細找找有沒有什麼我寫漏的。結果看到 DHH 在當初的文章裡強調了這次的 merge「This is not a big bang rewrite」。我噗喫一聲，笑出來了…………

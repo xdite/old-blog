@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 30
+layout: post
+title: !binary |
+  W+W/q+WgsV0g55WZ6KiA54mI5Y+v5Lul5b+r6YCf55WZ6KiA5pS75pOKIT8=
+
+date: 2006-07-30 01:10:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=30
+---
+<div> <a href="http://www.flickr.com/photos/49274115@N00/201087528/" title="photo sharing"><br /></a>    </div><p>幾分鐘之前，筆者在 xuite 的另外一個帳號的留言版被疑似留言機器人攻擊 :)</p><div> <a href="http://www.flickr.com/photos/49274115@N00/201087528/" title="photo sharing"><img src="http://static.flickr.com/71/201087528_d7a1445c1c_m.jpg" border="0" /></a>    </div><p>&nbsp;</p>

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 164
+layout: post
+title: !binary |
+  57qM77ya6KCi5Yiw5rex6JmV54Sh5oCo5bCk
+
+date: 2006-10-14 17:01:51 +08:00
+wordpress_url: http://blog.xdite.net/?p=164
+---
+唉，社群溝通部的工作人員又再互打嘴巴了。吳協理應該帶回去多加訓練才是。 　　　　　　　　　　 　　　　　　　　　　 　　　　　　　　　　<br /><br />在<a href="../../../../../?p=163">蠢到深處無怨尤</a>一文中，筆者提過，受影響的會員根本就是大部分的普通會員，賠償對象卻賠到一般 VIP 去，根本是莫名其妙。這裡又找到一篇佐證。在哈拉討論區 <a href="http://www.wretch.cc/hala/viewforum.php?f=1">無名小站站務 (SYSOP) </a>-<a href="http://www.wretch.cc/hala/viewtopic.php?t=109441">給無名的建議~</a>一文，客服 yjliu 很清楚的表示　　　　　　　　　　 　　　　　　　　　　 　　　　　　　　　　<br /><br /><blockquote>    這次的維修是臨時維修，<font style="font-weight: bold;">影響的是<font style="color: rgb(255, 0, 0);">部分一般會員居多</font>和在維修期間加入VIP影響最大</font><br />   事後也做了公告，今天已發出正式公告和賠償<br />   不過以後若是確定會大規模的維修或是停機等等<br />   我們會提早公告的</blockquote><br /><br />但是在正式的補償辦法的說明又說了　　　　　　　　　　 　　　　　　　　　　 　　　　　　　　　　<br /><br /><blockquote>    各位親愛的會員大家好：<br /><br /><font style="font-weight: bold;">    為求全體會員資料穩定，站方新進機器並且進行搬移資料動作，</font><br /><font style="font-weight: bold;">    由於會員資料龐大眾多，且新機器需要做細部調整，因此造成近日來的維修狀況</font>，<br />   讓各位會員造成不便，無名小站在此致上最深的歉意。</blockquote><br /><br /><br />撇開這個「補償辦法」是不是鬼話連篇不說。如果按照這種邏輯，它們的態度又跟<a href="../../../../../?p=160">【建議】無名小站正名為『無錯小站』 </a>中的「Mypage 的上線為必然」一樣了，他們一點錯都沒有，會造成客戶的損失追根究底都是「<font style="font-weight: bold; color: rgb(255, 0, 0);">出於他們原先的一片好意?</font>」。咦，新進機器上線都不用先說嗎？等到使用者狂湧進來抗議，再發篇公告道歉說，「保證下次改進」就覺得沒事了。這招用幾遍了，自己承認吧 -_-....　　　　　　　　　　 　　　　　　　　　　 　　　　　　　　　　<br /><br /><br />而且筆者還覺得負責撰寫這篇公告的人真是蠢，我相信在事發之初，有名大站一定沒有預期掉機器會壞的這麼嚴重，壞掉並不是錯，錯在當初沒有準備備料機可以換上。但是這篇公告，<font style="font-weight: bold; color: rgb(255, 0, 0);">活生生的自己挖了一個坑給自己跳</font>，強調了是因為新進機器需要搬移才造成現在的大混亂。原本應該只是天災帶出的普通人禍，現在<font style="font-weight: bold;">有名大站為了證明自己無錯</font>，公告竟然自己寫成<font style="font-weight: bold;">這是自己搬資料所引起的大人禍</font>。　　　　　　　　　　 　　　　　　　　　　 　　　　　　　　　　<br /><br /><br />這不是再次清楚說明了，進社群溝通部，國文和數學成績成績一定要很低很低很低才行？

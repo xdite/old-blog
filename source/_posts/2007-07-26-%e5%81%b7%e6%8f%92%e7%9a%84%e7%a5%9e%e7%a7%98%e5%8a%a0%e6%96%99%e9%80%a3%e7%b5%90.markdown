@@ -1,0 +1,34 @@
+--- 
+wordpress_id: 422
+layout: post
+title: !binary |
+  5YG35o+S55qE56We56eY5Yqg5paZ6YCj57WQPw==
+
+date: 2007-07-26 01:10:48 +08:00
+wordpress_url: http://blog.xdite.net/?p=422
+---
+剛剛寫完柚子文，跑回去鄉民集中場亂逛，結果看到 PTT 的無名版有人抱怨，開無名相簿 時，avast 這套防毒軟體都會警告「<font color="#ff0000"><b>HTML:Iframe Exploit</b></font>」。
+
+這行字的確蠻敏感的，尤其在 HIT 2007（台灣駭客年會） 時，會議上爆了不少精彩 Ifame 加料手法，於是筆者就跑回去看一看被插了什麼。果然是每個相簿都有插 ...
+
+而且語法還是這樣寫的 ...
+
+<blockquote>&lt;script language="JavaScript" type="text/javascript" charset="big5" src="http://tw2.adserver.yahoo.com/a?f=2022137255&amp;p=tw_kwretch&amp;l=Z&amp;c=sr"&gt;&lt;/script&gt;&lt;noscript&gt;&lt;iframe src="http://tw2.adserver.yahoo.com/a?f=2022137255&amp;p=tw_kwretch&amp;l=Z&amp;c=sh&amp;bg=white" width=1 height=1 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no&gt;&lt;/iframe&gt;&lt;/noscript&gt;</blockquote>
+
+然而，這段語法指得是，如果你的瀏覽器可以執行 JS，就 load 這一段連結 http://tw2.adserver.yahoo.com/a?f=2022137255&amp;p=tw_kwretch&amp;l=Z&amp;c=sr。如果你的瀏覽器不能執行 JS，那抱歉我還是要強迫的用 iframe 插連結進去（還用設定寬高為1而隱藏在左上角的方式插） XD
+
+
+難怪會被防毒軟體抓，年會上的講者 Birdman 說，這招幾乎就常用在插惡意連結的手法，高招的插秧手法已經蛻變到寬XX高1來防止被軟體抓。（是的，防毒軟體很不夠班的鎖特徵寬高0或寬高1 XD）。
+
+啞唬或丁丁裡寫這 iframe 的人很顯然的未夠班。
+
+只不過這連結再解開是一段 ...
+
+<blockquote>document.write("&lt;!-- SpaceID=2022137255 loc=Z noad --&gt;\n");
+document.write("&lt;img class=\"yzq_x\" width=1 height=1 alt=\"\" src=\"http://row.bc.yahoo.com/b?P=D6FbUMu8x77wA0vNRnKqh9W1feiNPUang2YAAKgY&amp;T=144p0jblc%2fX%3d1185383269%2fE%3d2022137255%2fR%3dtw_kwretch%2fK%3d5%2fV%3d8.1%2fW%3d0R%2fY%3dTW%2fF%3d3981466118%2fQ%3d-1%2fS%3d1%2fJ%3d90C7BCCB&amp;U=125bk9926%2fN%3djqDfpcorxJ0-%2fC%3d-1%2fD%3dZ%2fB%3d-1\"&gt;");
+</blockquote>
+而
+<blockquote>
+http://row.bc.yahoo.com/b?P=D6FbUMu8x77wA0vNRnKqh9W1feiNPUang2YAAKgY&amp;T=144p0jblc%2fX%3d1185383269%2fE%3d2022137255%2fR%3dtw_kwretch%2fK%3d5%2fV%3d8.1%2fW%3d0R%2fY%3dTW%2fF%3d3981466118%2fQ%3d-1%2fS%3d1%2fJ%3d90C7BCCB&amp;U=125bk9926%2fN%3djqDfpcorxJ0-%2fC%3d-1%2fD%3dZ%2fB%3d-1\
+</blockquote>
+再解開是一個小 gif ...真神秘，要點名就直接寫這是分析流量的 js，相信沒人會不准你插秧。搞得這麼鬼鬼祟祟，還被防毒軟體擋，到底這是什麼有趣的東西呢 ...? 

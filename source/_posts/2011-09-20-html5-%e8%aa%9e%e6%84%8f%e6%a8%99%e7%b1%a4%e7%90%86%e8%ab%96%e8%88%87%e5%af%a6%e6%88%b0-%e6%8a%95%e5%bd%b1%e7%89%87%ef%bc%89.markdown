@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 3115
+layout: post
+title: !binary |
+  SFRNTDUg6Kqe5oSP5qiZ57Gk55CG6KuW6IiH5a+m5oiwICgg5oqV5b2x54mH
+  77yJ
+
+date: 2011-09-20 12:16:45 +08:00
+wordpress_url: http://blog.xdite.net/?p=3115
+---
+
+這是週末小聚的<a href="http://html5-practices.heroku.com">投影片</a>。內容大概就是 <a href="http://blog.xdite.net/?p=3071">如何設計出正確語意的 HTML5</a> 這一篇的實例版。
+
+講解了濫用標籤的後果，還有如何實戰設計出正確語意的 HTML5。
+
+<h3> 其他 </h3>
+
+這份 Slides 本身是使用 Google 的 <a href="http://code.google.com/p/html5slides/">html5slides</a>。<a href="http://github.com/xdite/html5-practices">source code</a> 放在 github 上。
+
+但投影片本身，我還是使用 <a href="http://markdown.tw">Markdown</a> 撰寫的。主要是寫了一支 Slide Parser （取自 <a href="https://github.com/schacon/showoff">showoff</a>）搭配 <a href="http://middlemanapp.com"> middleman</a> + <a href="http://blog.xdite.net/?p=3088">LiveReload</a> + <a href="http://www.iawriter.com/">iAWriter</a> 去達到快速寫作 slide 的效果。 最後再把成果扔到 <a href="http://heroku.com">heroku</a> 上。
+
+screenshot:
+
+<a href="http://www.flickr.com/photos/xdite/6165272586/" title="螢幕快照 2011-09-12 下午7.12.41 by xdite, on Flickr"><img src="http://farm7.static.flickr.com/6154/6165272586_6328f376b3.jpg" width="500" height="281" alt="螢幕快照 2011-09-12 下午7.12.41"></a>

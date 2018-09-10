@@ -1,0 +1,52 @@
+--- 
+wordpress_id: 280
+layout: post
+title: !binary |
+  6Kqw57m857qM55So5a246KGT57ay6Lev5YWs5Zmo56eB55SoPw==
+
+date: 2007-02-11 17:28:25 +08:00
+wordpress_url: http://blog.xdite.net/?p=280
+---
+今天再度有讀者爆料，有名大站更動了自家 proxy 設定檔 http://proxy.wretch.cc/proxy.pac 
+本來更動 proxy 檔也沒什麼令人好意外的，之前大家都知道有名大站的加速器租的是一些商業線路 (like NTT )或公用伺服器，到期了換家也不是什麼好意外的事。
+
+不過這次被抓到的卻是這個 <a href="http://proxy.wretch.cc/proxy.pac ">proxy.pac</a> (要抓趕快，不然又被砍，<a href="http://xdite.net/backup/proxy.pac">順手備分一下)</a>，竟然把商業線路全 disable 掉，<strong>又再度使用了交大的機器與頻寬</strong>。
+
+
+<blockquote>//                                  "PROXY 163.28.33.226:8080",
+//                                  "PROXY 63.80.157.200"
+//                                  "PROXY 61.58.32.125",
+                                    "PROXY 140.113.214.159:8080",
+                                    "PROXY 140.113.214.159:8080",
+                                    "PROXY 140.113.214.159:8080",
+                                    "PROXY 140.113.214.159:8080",
+                                    "PROXY 140.113.191.5:8080"
+//                                  "PROXY 203.70.200.153"</blockquote>
+
+簡略說明如下：
+
+<blockquote>// 表示關掉 ，所以這個 proxy.pac 說的是，目前這個版本的加速器只有使用交大機器與頻寬而已
+
+1.140.113.214.159 為 交大資工密碼理論實驗室裡的 IP。
+   如果讀者 google 一下這個 IP 相信會很精采。
+   140.113.214.* 的 IP 也曾經出現在 <a href="http://blog.xdite.net/?p=177">誰用學術資源攻擊商業BSP!?</a> 事件中
+
+2.140.113.191.5 為交大十一舍的私人機器的 IP。
+   很湊巧的他的 IP 與 <a href="http://blog.xdite.net/?p=93">39分的無名業代</a> 非常接近
+   as.Dorm11.NCTU.edu.tw 與 <a href="http://blog.xdite.net/?p=93">那次</a>的 A.Dorm11.NCTU.edu.tw 也長的十分形似。
+   到底是誰這麼好心出借機器給有名大站，真是令人十分好奇。
+</blockquote>
+
+這只是證明了有名大站幾乎沒有受到任何教訓，再一次的利用了學術資源圖利自己(?)。
+老實說，七億都快落袋了，要 proxy 不是沒錢租，再沒錢也可以叫母公司啞唬支援。
+
+筆者倒是很好奇，交大的耐性和教授的力挺到底可以被這群人消費多久。
+
+不過，這次我猜，有名大站大概又會搬出像<a href="http://groups.google.com.tw/group/tw.bbs.config/browse_thread/thread/7a98a2a63c9babec/f95876c0f7975ea6?lnk=st&q=%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99+%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5+%E5%BB%A3%E5%91%8A%E4%BF%A1&rnum=1&hl=zh-TW#f95876c0f7975ea6">上次利用學網寄發廣告信</a>辯解的那一套<a href="http://www.flickr.com/photo_zoom.gne?id=386387608&size=o">說詞</a>了吧 XD
+
+<a href="http://www.flickr.com/photos/14765209@N00/386388282/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/151/386388282_bcaff74639_o.jpg" width="555" height="75" alt="proxy2" /></a>
+
+----
+update 22:30 筆者 check 有名大站的 proxy.pac , 發現從  <a href="http://www.flickr.com/photo_zoom.gne?id=386613331&size=o">這個</a>  改成了 <a href="http://www.flickr.com/photo_zoom.gne?id=386613334&size=o">那個</a>。
+難怪有讀者投訴 proxy 再度失效 :p
+update 23:30 有名大站出現無法連線情形。於此同時，bbsFAQ 在 0sysop <a href="http://www.flickr.com/photo_zoom.gne?id=386683488&size=o">做出了一個不知所云的回應</a>。

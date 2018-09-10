@@ -1,0 +1,148 @@
+--- 
+wordpress_id: 1369
+layout: post
+title: !binary |
+  6I6r5ouJ5YWL6aKx6aKo54G95oOF5pSv5o+057ayIC0g5pWR54G957ay56uZ
+  6IOM5b6M5oqA6KGT6IiH5oqA5benICgxKQ==
+
+date: 2009-08-16 01:32:10 +08:00
+wordpress_url: http://blog.xdite.net/?p=1369
+---
+[這篇文章是我的<a href="http://s3.amazonaws.com/prsentation/typhoon.pdf">投影片</a>文字版]
+
+今天( 2009/8/15 )是 <a href="http://coscup.org">COSCUP</a> 第一天，我在早上九點半有個 Talk，有關於 <a href="http://blog.xdite.net/?p=1159">Ruby Web Framework - Sinatra</a>。不過兩天前，我向大會 submit 了新的 topic，改成了 『莫拉克颱風災情支援網 』。
+
+臨時改題目，大家應該會覺得奇怪，這...網站，說穿了不過是個雙向留言板，到底有什麼好湊成一個講題。
+
+也許大家不知道，在這六天（ 8/9 - 8/ 15) handle 網站的期間，我其實從觀察其他網路救災團隊運作，和自己實際運營網站時發生的事件，得到了不少經驗。剛好 8/15 就是<a href="http://coscup.org">COSCUP</a> ，才讓我決定臨時改變主題，整理分享這一些心得。
+
+雖然不知道以後還用不用得上（希望台灣以後不要再發生這種大災難），但我希望的是藉由這次經驗的分享，能讓其他人以後再投入網路救災之時，能更有個脈絡方向，能耗費更少精力但能更有效的投入網路支援救災的部份。
+
+=====
+
+
+<a href="http://disastertw.com">莫拉克颱風災情支援網</a> ( 以下簡稱支援網 ），到底有什麼特點值得拿出來講呢？
+
+<blockquote>1. 它是這次風災最早上線的手刻系統 ( <a href="http://www.plurk.com/p/1ijgxt">8/9 12:18 撰寫完成</a>、<a href="http://www.plurk.com/p/1ik18s">8/9 01:03 announce</a>、 )。
+2. 網站最穩定（唯一沒被 DDoS 到掛站）
+3. 功能相對其他救災網站完整。
+4. 善於整合地三方資訊。</blockquote>
+
+我的投影片，就是直接以這次開發支援網的技術、實際經驗，來解釋幾個我覺得經營架設、網路支援救災網最需注意的幾個重點...。
+
+說到架設這類網站，你會想到什麼需要注意的事項？
+
+
+
+<blockquote>1. 功能完整
+2. 統一資訊
+3. 一台不錯機器
+4. 一隊負責整理更新的網路志工</blockquote>
+
+
+
+大概就這些吧...
+
+鄉民最後的直覺結論就會導出：「用 CMS ( <a href="http://wordpress.org">Wordpress</a> / <a href="http://drupal.org/">Drupal</a> / <a href="http://www.joomla.org/ ">Joomla</a> )，找個空間，上網找一隊志工支援...收工！」
+
+要是這麼簡單就好了。真的這樣搞，上線會遇到的第一個問題，就是 <big><big><b>被‧打‧爆</b></big></big> ....
+
+====
+
+個人這次針對這次經驗，整理了五個重點，供大家參考。我認為救災支援網站需要的是
+
+
+
+<blockquote>1. 儘快上線，功能其次
+2. 高流量承載與調校 （<strong>被打掛 = 無用</strong>）
+3. 廣為人知
+4. 有效利用第三方外掛與資源
+5. 有效防止來亂的</blockquote>
+
+
+
+<h2>儘快上線，功能其次</h2>
+<br>
+也許一些朋友比較知道，我現在的職業是程式設計師，<strong>強項就是 <a href="http://rubyonrails.org/">Ruby on Rails</a> 敏捷網站開發</strong>。Ruby on Rails 不僅是我最熟悉的網頁框架，也是世界上開發網站最快速的框架。也因為這樣的因素，我有時候就<del datetime="2009-08-15T15:20:54+00:00">比較倒楣的</del>常會被抓去支援作一些臨時性的網站救火。這次支援網也是因為<a href="http://www.plurk.com/p/1iiqp3">比利潘</a>的召喚，臨時從以前做過的舊網站硬改出一個符合需求的直接上線 -- 改版（15min）+ Deploy（ 45min）大概總共只花了一小時。
+
+因為需求很明確，因此我作的就只是一個很簡單的「<a href="http://maps.google.com.tw/">Google Maps</a> + 刊登版（可留言）」的網站，不需要其他雜功能。這也是沒有選擇現成 CMS，直接用手刻的主要原因。
+
+<h2>高流量承載與調校</h2>
+<br>
+而在前面提到。<a href="http://disastertw.com">支援網</a>是從頭到尾沒有被打爆過的網站。<strong>不能被打爆，我認為是身為救災消息集散中心一個很重要的 key point</strong>。當災難發生，可預見的是，這一類網站一定會瞬間湧進巨大的流量。伺服器可以反應慢沒關係，但一定要擋的住。因為一旦擋不住癱瘓掉了，甚至癱瘓長達幾個數小時。這要命的幾個小時所造成的後果就等於救命稻草蒸發，所有網友心血白費。
+
+那一定有人會覺得好奇，RoR 不是傳說中以效能不佳的惡名著稱？為什麼這次幾個站台之內，被打掛的反而都是 PHP 的站台...
+
+<strong>[網站功能保持簡單]</strong>
+
+我要澄清一點的是：其實 RoR 並沒有大家想像中的效能糟，它的效能比一些知名的 PHP Web Framework 來的更佳（qps 高很多）。而且我更想提出進一步的是，如果已經預見會是大流量的 event site，隨便使用不熟悉的 PHP CMS，會造成更糟的下場。這也是前一段為什麼會強調「功能其次」的原因，因為<strong>功能越「完整」，可能表示效能越不佳</strong>。而那些完整的功能，也許並非能在事件中發揮到很大的功能，甚至這部分的 code （plugin / module）更有可能是超吃系統資源的怪獸。而這些功能如果又不是你開發的，短時間你連 tune 都無從 tune 起。
+
+<strong>[容易 Scale]</strong>
+
+Ruby on Rails Application 較為人熟知的架設方式，是跑好幾隻 mongrel 起來，再用 apache 或 nginx 當 reverse proxy 跑在前面擋。但這次跟往常比較不同的地方是，支援網架構在 Rails 雲端（<a href="http://heroku.com">Heroku</a>）之上。也因為這層關係，網站變得比較好 Scale，幾乎不必再分神去監控系統是否會垮掉。（雖然我當初只是因為懶得管機器...deploy 在雲端）
+
+支援網最高峰那日大概整天是快 40 萬 pageview（ <a href="http://www.google.com/analytics/">Google Analytics</a>），開了 3 台 Heroku 的 <a href="http://heroku.com/pricing">dyno</a>。如果當初是拿 VPS 或 dedicated server 跑，大概會陷入一直監控它是不是會掛掉，或者是機器不夠撐要搬家重弄的惡夢...。現在只要信用卡刷下去就...
+
+<strong>[Web Performance Tunning ]</strong>
+
+雖然個人在<a href="http://www.pixnet.net">網路公司</a>服務的關係，也熟悉 Backend Performance Tunning 的一些技巧。但我深知我的長項是網站敏捷開發，因此頭兩日幾乎是把心力都投注在寫 Code 之上。功能寫的差不多，才回頭改善開啟網站的速度。
+
+調校網站大概抓了幾個重點去作：
+
+
+
+<blockquote>1. 改善 db query
+
+2. 打開 <a href="http://developer.yahoo.com/yslow/ ">YSlow</a> ，依照 <a href="oreilly.com/catalog/9780596529307/ ">High Performance Web Sites</a> 的 tips 去 tune。
+
+(a) 靜態檔案壓縮 - rails 的 靜態檔案 helper 有個很棒的功能，就是指定 :cache => true，就會自動把所有需要用到的 css / js ，combine 成單一檔案。這樣的好處就是可以降低 request 數，減輕對 httpd 的壓力。
+
+(b) CSS 擺上面，JS 擺下面。
+
+(c) 後來多開 dyno 並沒有太大的速度改善，而 Heroku 的底層是 EC2，很明顯的問題就出在卡頻寬。而 YSlow 更告訴我一件驚人的事，html 只有 19k，但我使用的 js framework 有 150k。這時候隨即下的判斷，就是向公司同事 <a href="http://blog.gslin.org">@gslin</a> 求援，把靜態檔案通通丟上 CDN（CDN 費用由公司 <a href="http://www.pixnet.net">PIXNET</a> 贊助）。上 CDN 帶來很明顯的好處：提供 delivery 檔案的速度品質、有的廠商會幫忙上 gzip（甚至多幫忙處理 IE6 下 gzip 的問題）、減輕對 httpd 的壓力。</blockquote>
+
+
+
+這幾個措施一做完，網站開起來就變得很快，同樣資源也能撐更多上線人數...
+
+<h2>廣為人知</h2>
+<br>
+網站上線了。再來的問題：要怎麼讓別人知道有這個網站？我個人因為是比較著名的部落客，<a href="http://www.plurk.com/xdite">噗浪</a>、<a href="http://twitter.com/xdite">推特</a>有相對比別人多的 follower （各約一千多人），廣播的廣度夠大。但只有我一個人負責廣播，效力是不會持久的。<strong>重要的救災訊息中心的位址，除了迅速傳播還要持久傳播</strong>。
+
+因此我在網站上線時也作了兩件事：
+
+(1) 製作推噗按鈕：
+
+
+
+<blockquote>噗浪現在是台灣當紅的微網誌。因此要做的是就是<strong>讓這個網站在噗浪上燒起來，燒越久越好</strong>……。如果現在在<a href="http://www.plurk.com/psearch#q=disastertw.com">噗浪搜尋 "http://disastertw.com"</a> 的話，應該會驚奇的發現一件事，河道上無時無刻幾乎洗滿了眾網友廣告這個網站的噗。
+
+怎麼做到的？我製作了一個推噗按鈕……
+
+<a href="http://www.flickr.com/photos/xdite/3823076441/" title="Flickr 上 xdite 的 推噗按鈕"><img src="http://farm3.static.flickr.com/2539/3823076441_9248acdcec_m.jpg" width="240" height="127" alt="推噗按鈕" /></a>
+
+<strong>網友大多是懶惰的，作公益有時只是順便而已</strong>。而在噗浪貼連結，是有特殊語法的，沒有人有美國時間幫你弄好連結...何況 ReP 也沒有辦法直接 copy 效果。即使訊息傳的快，恐怕也無法持久。
+
+為了解決這個問題，想到的簡單的方式就是直接幫網友生好連結與敘述，輕鬆一按 Enter 就噗出去了，完全不費力。之前在 <a href="http://evendesign.tw/demo/999">Dell 之歌</a>的事件時，我跟 <a href="http://www.plurk.com/evenwu">EvenWu</a> 在當時就順便測了一下這個按鈕的行銷效果，嗯，流量大概成長了三倍以上吧....
+
+<a href="http://disastertw.com">支援網</a>在噗浪上面，延燒這麼久完全是有原因的。</blockquote>
+
+
+
+(2) 針對搜尋引擎作有效的 SEO
+
+再來，就是 SEO 的技巧。一般網友，在災情一發生時，不一定會知道有這個支援網站。也許他想幫忙，但是很有可能也無從幫起。這時候變成要向搜尋引擎下手，讓網友一搜尋「莫拉克」，馬上就知道有這個支援網站的存在。
+
+為此，我也做了幾件事：
+
+
+
+<blockquote>(a) 經過上面的噗浪宣傳，還有噗浪同步 twitter 的效果，可以導入非常多的 inbound link，有益分數。
+(b) meta keywords 塞關鍵字
+(c) 調整 Page Title ...</blockquote>
+
+
+
+搜尋引擎排名就會有非常顯性的提昇，都在搜尋引擎結果第一頁的前幾名。
+
+[ 寫累了，明日待續 」

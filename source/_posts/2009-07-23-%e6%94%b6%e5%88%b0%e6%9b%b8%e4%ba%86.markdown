@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 1346
+layout: post
+title: !binary |
+  5pS25Yiw5pu45LqG
+
+date: 2009-07-23 18:22:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=1346
+---
+<a href="http://www.flickr.com/photos/xdite/3749112162/" title="Flickr 上 xdite 的 book"><img src="http://farm4.static.flickr.com/3453/3749112162_650d5d0035.jpg" width="375" height="500" alt="book" /></a>
+
+這是包裹裡面內附的信，沒有開箱文，抱歉了....

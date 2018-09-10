@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 166
+layout: post
+title: !binary |
+  UEhQIOiuiuaVuOWkp+aUvumAgQ==
+
+date: 2006-10-16 11:06:04 +08:00
+wordpress_url: http://blog.xdite.net/?p=166
+---
+筆者昨天睡前在巴哈亂逛版，看到某版版眾聊到有名大站的「影音相簿」功能 blahblah。一時懶得去站上慢慢找功能在哪，於是就直接開 google 搜尋「無名影音相簿」。結果沒想到搜尋到一個讓筆者大囧的東西。<br /><br /><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/270446858/"><img width="500" height="390" alt="codeex" src="http://static.flickr.com/103/270446858_86f5599126.jpg" /></a><br /><br />噗，<font color="#ff0000"><strong>PHP 變數放送大特輯</strong></font>是怎樣?<br />而且，如果你要是在 google 打入「 <strong>site:www.wretch.cc filetype:txt</strong>」，還有更多精彩的東西會跑出來...<br /><br /><strike>開發部門，一整個歡樂。這是拼命省錢的下場嗎</strike>? -_-

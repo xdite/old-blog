@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 408
+layout: post
+title: !binary |
+  5L2g55WZ5LiL5L6G55qE57SA6YyE77yM5oiR5YCR5piv5LiN5pyD5Yiq6Zmk
+  55qE77yf
+
+date: 2007-07-09 14:24:45 +08:00
+wordpress_url: http://blog.xdite.net/?p=408
+---
+這是中午時，鄉民的來信，爆料他在 <a href="http://www.mobile01.com/topicdetail.php?f=37&amp;t=358386&amp;p=1#btn">mobile01 某討論串</a>看到的 BLOG 文。
+
+<a href="http://www.wretch.cc/blog/cao66&amp;article_id=14458085">原文在此</a>，內容是某位圖文 BLOGGER 與丁丁高層的 MSN 對話。
+
+<a href="http://www.flickr.com/photos/14765209@N00/758889893/" title="相片分享"><img src="http://farm2.static.flickr.com/1139/758889893_2e9818f6ba_o.jpg" alt="log" height="269" width="291" /></a>
+
+整篇對話的結論大致可以歸納出四點
+
+1. 雙證件比本尊有用 (?)，到底有用在哪裡呀?...orz
+
+2. 證件檔可能是不會被刪掉的？僅會「用法律保證」。
+
+3. 突襲換密碼檔是要<b>讓駭客沒有預警時間</b>，不過這卻讓我們揣測，也許整個資料庫都已被整包下載走，才要採取這麼嚴苛的手段強迫使用者換密碼以及索取證件認證。
+
+4. 這位 YY 絕對是個「<a href="http://komica41.dreamhosters.com/wiki/?%E6%88%90%E5%8F%A5%2F%E4%B8%81%E4%B8%81%E6%98%AF%E5%80%8B%E4%BA%BA%E6%89%8D">人才</a>」，連 email 失效最普遍的原因都不知道，直接大方的說出「如果現在沒辦法通過認證 那一定是當初email沒想清楚去填」，指責一切都是用戶的錯？
+
+真的是非常的歡樂呀。
+
+--
+延伸閱讀：毒菇木 之 <a href="http://www.wretch.cc/blog/phopicking&article_id=11040682">不負責任猜測：無名小站的難言之隱</a>

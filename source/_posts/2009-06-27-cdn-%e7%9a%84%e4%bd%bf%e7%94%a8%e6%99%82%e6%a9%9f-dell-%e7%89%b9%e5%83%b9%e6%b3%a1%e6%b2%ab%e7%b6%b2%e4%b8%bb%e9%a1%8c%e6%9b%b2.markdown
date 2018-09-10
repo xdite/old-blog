@@ -1,0 +1,36 @@
+--- 
+wordpress_id: 1299
+layout: post
+title: !binary |
+  Q0ROIOeahOS9v+eUqOaZguapnyAtIERlbGwg54m55YO55rOh5rKr57ay5Li7
+  6aGM5puy
+
+date: 2009-06-27 14:16:40 +08:00
+wordpress_url: http://blog.xdite.net/?p=1299
+---
+昨天朋友 <a href="http://twitter.com/evenwu/">EvenWu</a> (<a href="http://evendesign.tw/demo/999/">Dell 特價泡沫網</a>作者）丟 Gtalk 過來，叫我幫忙找歌，要幫網站上主題曲。不過我一時沒意識到他要找什麼歌，最後他自己搞定了。是一首聽起來很正常，但是<strong>丟上泡沫網馬上會變得非常靠背</strong>的歌。
+
+<a href="http://evendesign.tw/demo/999/" title="Flickr 上 xdite 的 dell-bubble"><img src="http://farm4.static.flickr.com/3298/3664760462_115876fd26.jpg" width="500" height="237" alt="dell-bubble" /></a>
+
+Anyway，因為真的非常靠背 XDDD。我拿去丟<a href="http://twitter.com">推特</a>，他拿去丟 PTT 八卦版。
+
+原本是很嗨的一件事，但五分鐘以後馬上就發現一個大問題了....
+
+<a href="http://www.flickr.com/photos/xdite/3664744972/" title="Flickr 上 xdite 的 ptt-dell"><img src="http://farm3.static.flickr.com/2425/3664744972_1584a3e504.jpg" width="500" height="306" alt="ptt-dell" /></a>
+
+開始有鄉民抱怨超卡，不然就是沒聲音，不然就是只有特定瀏覽器才能聽到聲音。
+
+（我們忽略了 PTT 八卦版瞬間 DDoS 的威力）
+
+原因出在
+
+<blockquote>1. 背景音樂 mp3（3mb）和負責播放的 flash 放在同一台機器（sharehost）上
+2. 背景圖片（兩張 200K ）的圖 也放在同一台機器（sharehost）上
+3. 音樂抓不完很卡。後來甚至是靜態檔案抓不完，也卡 document ready ....。
+4. ff/win, chrome/win 這兩個瀏覽器，如果 flash 用 css 或是寬高隱藏起來，就不會 autoplay ...</blockquote>
+
+於是五分鐘後當機立斷，我跑去拿 s3 當 CDN 把 1,2,3 對主機的壓力散掉，不然大概鄉民的不滿就會害 EvenWu 在八卦版拿到生平第一個劣退（噓文太多）...
+他也在當下的十幾分鐘內，開始用力的想辦法修 4 的 bug..
+
+生平第一次做搞笑網站這麼累/緊張 .... XD  竟然要搞到上 CDN ...
+

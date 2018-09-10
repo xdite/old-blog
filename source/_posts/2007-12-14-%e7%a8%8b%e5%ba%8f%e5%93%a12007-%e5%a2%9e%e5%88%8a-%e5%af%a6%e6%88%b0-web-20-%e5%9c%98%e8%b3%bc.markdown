@@ -1,0 +1,36 @@
+--- 
+wordpress_id: 512
+layout: post
+title: !binary |
+  56iL5bqP5ZOhMjAwNyDlop7liIogLSDlr6bmiLAgd2ViIDIuMCDlnJjos7w=
+
+date: 2007-12-14 13:22:22 +08:00
+wordpress_url: http://blog.xdite.net/?p=512
+---
+
+這是 <a href="http://pocketshark.com/blog/page/tempo">Tempo</a> 最近去完<a href="http://www.sd2china.cn/">大陸的 2007 軟件開發 2.0 大會</a>，所帶回來的一本超級好書。
+
+<a href="http://www.flickr.com/photos/14765209@N00/2110230674/" title="Flickr 上 xuitejoke 的 shupi"><img src="http://farm3.static.flickr.com/2032/2110230674_b8254ba8da_m.jpg" alt="shupi" height="240" width="175" /></a><a href="http://www.flickr.com/photos/14765209@N00/2110156210/" title="Flickr 上 xuitejoke 的 0_004"><img src="http://farm3.static.flickr.com/2237/2110156210_e0c5f50486_m.jpg" alt="0_004" height="240" width="177" /></a><a href="http://www.flickr.com/photos/14765209@N00/2110156322/" title="Flickr 上 xuitejoke 的 0_005"><img src="http://farm3.static.flickr.com/2290/2110156322_846d008563_m.jpg" alt="0_005" height="240" width="176" /></a><a href="http://www.flickr.com/photos/14765209@N00/2110156628/" title="Flickr 上 xuitejoke 的 0_006"><img src="http://farm3.static.flickr.com/2381/2110156628_5c089ae4f6_m.jpg" alt="0_006" height="240" width="175" /></a>
+
+<a href="http://subject.csdn.net/web20programmer/">程序員 2007 增刊：實戰 web 2.0</a> 。
+
+這本雜誌不僅對美國以及大陸一些 Web 2.0 網站做了簡單介紹，並蒐羅翻譯了許多世界上著名網站諸如 google, facebook, amazon, twitter 等等的架構分析，讓其他有心開發或 clone 者能一窺奧妙之處。最後的技術篇更是精彩，對 Ajax , REST, RIA , 資料庫架構優化 都做了詳細的專題。算是筆者近期看到編排的最好的一本關於 web 2.0 的雜誌。
+
+我們覺得這本書若不能讓台灣的大家也看到，實在是很可惜。所以 tempo 也寫信向雜誌社詢問是否可以團購，最後雜誌社給出七折的優惠（原價 RMB 38 約台幣160）。
+<strike>
+想買這本書的人可以參加<a href="http://dinbendon.net/">訂便當</a>網站上 <a href="http://pocketshark.com/blog/page/cjin">cjin</a> 所開的團購，團購帳號密碼是 <strong>csdn20 / javagood</strong>。最後付款以加總數量得到的折扣加上運費計。
+
+
+</strike>
+<blockquote>煩請之前有在訂便當寫的朋友, 一律改成 email: cjin[at]liquable.com 謝謝
+
+email subject: [csdn訂購]xN (數量)
+
+姓名:
+寄送地址:
+電話:
+希望大家都能從這本雜誌得到一些助益。</blockquote>
+
+
+---
+P.S. <a href="http://funp.com/party/">funP party</a> 上我會帶實體書讓大家翻閱 ...。

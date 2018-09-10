@@ -1,0 +1,60 @@
+--- 
+wordpress_id: 2294
+layout: post
+title: !binary |
+  W+esrOS4gOasoeWtuCBSYWlscyDlsLHkuIrmiYtdIOKAkyDlr6bmiLDmlZnl
+  rbggNi8xMQ==
+
+date: 2011-06-01 12:20:31 +08:00
+wordpress_url: http://blog.xdite.net/?p=2294
+---
+這個聚會是第一次試辦，我也不知道會有多少人來。
+
+最近 Startup 當紅，不少人想嘗試學習 RoR。
+RoR 有很多 feature 相當著名，但新手的學習門檻也是出了名高的嚇人。
+
+搞懂 Rails Basic 與 Convention，到自由揮灑的寫出一個自己想要的 Project，是一個相當漫長學習的過程。於是我摸索出了一套教材來幫助新手能夠快速上手 Rails。
+
+在<a href="http://blog.xdite.net/?p=2279">宣告即將發行「第一次學 Rails 就上手」這本小書</a>之後，得到的迴響出乎意料熱烈。這本書，說穿了就是 2010 Ruby on Rails 書單 與 練習作業 衍生出的習題詳解本。
+
+不過大家也知道，自學是一回事，自學之後再看解答是一回事，現場實戰聽解說更是另外一回事。
+
+就算我寫的再詳細，有時候限於知識背景的緣故，可能還是會摸了老半天還是摸不太出來。
+
+其實我不是很推薦大家來上課，畢竟寫程式，自己跌撞出來的經驗才深刻。
+
+但如果你還是真的摸不出作業怎麼寫，光翻資料看解說也一頭霧水。或者是覺得直接來聽我講解這些 best practices 的眉角，理解起來比較深刻的話，我才推薦來參加這場教學。
+
+在這個實戰教學場，我會用一個下午的時間，實際 demo 撰寫和 gothrough 這個作業以及詳細講解運作原理。
+
+會從 Hello World，一直講解到 production deployment best practices。
+
+歡迎帶著你的筆電來學習！
+
+* 系統需求
+
+Mac 10.6 + ( 請先灌好最新 Xcode 3.2.6+)
+Ubuntu 10.04 + 
+
+* 常識需求
+
+略懂 Linux command line mode
+自己有大略把玩過 Ruby / Rails
+
+
+* 其他
+
+* 請帶著筆記簿，我會講不少眉角 
+
+ 
+地點：台北市中山區（待公布）
+時間：2011/06/11 13:00 - 17:00
+費用：1500 NTD 
+名額限制：10 人。（若報名狀況超過預期，將協調 Ruby 社群資深開發者擔任助教擴增教學名額） 
+
+我們下週末見！
+
+報名網址：<a href="http://registrano.com/events/636952">http://registrano.com/events/636952</a>
+
+===
+P.S. 你可以得到一份免費的 [第一次學 Rails 就上手] 的 pdf copy

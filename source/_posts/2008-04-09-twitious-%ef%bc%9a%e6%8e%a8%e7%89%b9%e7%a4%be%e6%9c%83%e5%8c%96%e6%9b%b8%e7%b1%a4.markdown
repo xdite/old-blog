@@ -1,0 +1,34 @@
+--- 
+wordpress_id: 566
+layout: post
+title: !binary |
+  VHdpdGlvLnVzIO+8muaOqOeJueekvuacg+WMluabuOexpA==
+
+date: 2008-04-09 00:36:04 +08:00
+wordpress_url: http://blog.xdite.net/?p=566
+---
+這是我今天寫的一個小小站台，<a href="http://twitio.us">Twitio.us</a> 。
+
+這不是什麼新奇的站，只是因為 twitthis.com 爛太久所寫的一個代替品。本來它開始爛時，筆者就想要寫一個替代品了，無奈懶病發作，不是在打電動就是在睡覺。結果昨天看到<a href="http://twitter.com/tzangms">小海</a>做出了 <a href="http://twitthat.com">twitthat</a>，想一想若不只是推，而是順便將這些使用歷程也記下來，應該蠻好玩方便的，所以我就結合 <a href="http://twitter.com">twitter</a> 與 <a href="http://del.icio.us">del.icio.us</a> 的概念，寫了 <a href="http://twitio.us">Twitio.us</a>
+
+<a href="http://www.flickr.com/photos/xdite/2399034348/" title="Flickr 上 xdite 的 twitios"><img src="http://farm3.static.flickr.com/2084/2399034348_ac901f13e1_m.jpg" width="240" height="179" alt="twitios" /></a>
+
+如果你不知道什麼是 Twitthis 的話，可以看看過往我寫的這篇文章：「<a href="http://blog.xdite.net/?p=487">輕輕鬆鬆「被」推文上 Twitter！</a>」。
+
+如果你想像我一樣在 wordpress 裡面裝文章下方的連結
+
+
+請修改 自己 theme 裡的 index.php 加入 
+
+<code>
+&lt;script type="text/javascript" src="http://veryxd.net/javascripts/twitious.js"&gt;&lt;/script&gt;
+
+&lt;a href="javascript:;" onclick="TwitThis.pop('&lt;?php the_permalink() ?&gt;','&lt;?php the_title(); ?&gt;');"&gt; 將此篇文章推上 Twitter！&lt;/a&gt; 
+</code>
+
+<strong>如果你想在 firefox 加入這個功能，請把這個連結拖到工具列上。</strong> <a href="javascript:(function(){TwitiousPop=window.open(%22http://twitio.us/go?url=%22+encodeURIComponent(location.href)+%22%26title=%22+((document.title)?encodeURIComponent(document.title.replace(/^\s*|\s*$/g,%27%27)):%22%22),%22TwitiousPop%22,%22width=600,height=500,location,status,scrollbars,resizable,dependent=yes%22);setTimeout(%22TwitiousPop.focus()%22,100);})()">twitious</a>
+<strong> 如果你想在 ie 加入這個功能，請右鍵點擊這個連結 <a href="javascript:(function(){TwitiousPop=window.open(%22http://twitio.us/go?url=%22+encodeURIComponent(location.href)+%22%26title=%22+((document.title)?encodeURIComponent(document.title.replace(/^\s*|\s*$/g,%27%27)):%22%22),%22TwitiousPop%22,%22width=600,height=500,location,status,scrollbars,resizable,dependent=yes%22);setTimeout(%22TwitiousPop.focus()%22,100);})()">twitious</a>，將之加入我的最愛。以後想使用時，只要使用我的最愛的這個連結，就可輕鬆收錄書籤並推上 Twitter. </strong>
+
+---
+一如往常，我的作品一樣是陽春的靠背。所以這幾天會把版面美化一下。然後再加多幾項 feature 上去。例如自訂狀態、搜尋、最近熱門 Reading 或 Laughing 之類的 ...
+

@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 17
+layout: post
+title: !binary |
+  6LaF6YW355qEUE9QM+aUtuiyu+eQhueUsSE/
+
+date: 2006-07-25 17:35:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=17
+---
+<div> <a href="http://www.flickr.com/photos/49274115@N00/197895843/" title="photo sharing"><img src="http://static.flickr.com/62/197895843_b115110fbf_m.jpg" alt="" /></a>
+  <a href="http://www.flickr.com/photos/49274115@N00/197895843/"></a>
+</div>續 <a href="http://xuite-joke.blogspot.com/2006/07/3600-vip-2.html">3600 元的 VIP  (2)</a> 一文，其實筆者一直很納悶。
+在這個滿街都是大容量 mail且具 pop3/smtp 功能的時代
+
+Xuite 到底有什麼優勢能吸引人付費使用它的 pop3/smtp?
+經過筆者不眠不休的翻閱 xuite 各服務台長的開發日誌，終於在形同隱藏關卡的 <a href="http://blog.xuite.net/xuitevip/vip/">xuitevip 日誌</a>中找到收費理由。
+
+以下文字摘自 <a href="http://blog.xuite.net/xuitevip/vip/6032229">Xuite收費服務說明</a> ：
+
+----
+<p>2.<strong>因應信箱POP3/SMTP收發信的需求</strong>：</p><p>Xuite個人化入口除了提供會員免費的平台外，在公司的立場也希望帶來網路的流量，若開放POP3會影響會員上網收發信的意願，降低網路流量所以必需以收費的方式來刺激網友上網收發信件，對某些確實需要自動收發信的會員才提供收費服務。</p>----
+
+..........真是令人無言啊，一個令人意想不到超酷的好理由
+
+一定要收信我幹嘛不註冊 <a href="http://www.gmail.com">Gmail</a> 呢
+
+另外這篇公告還打錯字，是"必須" not "必需" XD

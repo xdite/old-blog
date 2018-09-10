@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 230
+layout: post
+title: !binary |
+  5LiN5YKZ5Lu955qE54Sh5bqV5rSe
+
+date: 2006-12-14 02:27:35 +08:00
+wordpress_url: http://blog.xdite.net/?p=230
+---
+在 <a href="http://www.wretch.cc/hala/viewtopic.php?t=140612">[12/11] 部分一般用戶升級資料暫停上傳</a> 公告裡提到。<br /><br /><blockquote>再次提醒您，一般會員之相簿資料並沒有備份<br />隨時<b>都可能因為硬碟損壞造成相簿遺失</b><br />若您的相簿<b>想要更多的保障，請加入 VIP</b><br />我們會有七天的備份，同時使用更好的設備來儲存<br /></blockquote>在這種更換老舊硬體（原因還是壞了一堆用戶資料）的停機時刻，還刻意打廣告賣 VIP 強調備份重要性，恐怕只有臉皮超厚的有名大站才作得出來。<br /><br />該站也真是天兵。上個月中站才因為一批硬碟壞軌（哪家的 RAID 這麼容易壞），<a href="http://www.wretch.cc/hala/viewtopic.php?t=126889">無限制的賠償普通會員一年 VIP</a>，迄今為止賠償超過 1500 人（一篇文章可能包含2個以上受害者，且尚未計算在 BBS 報修者）。損失未來收入超過 150 萬 NTD(1000*1500)。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/321461465/" title="Photo Sharing"><img src="http://static.flickr.com/130/321461465_995d9f7ac0.jpg" alt="126889" height="390" width="500" /></a><br /><br /><br />遭受這種因為不備份政策才導致的重大損失，還完全不改其政策繼續誇誇其口，還冀望人會因為保障圖片安全去買 VIP？我想更多的人學到的<b>應該是定期用 Xuite / Pixnet / WretchXD </b>，然後等著坐收 VIP 吧<br /><br /><br />不過該慶賀的是，現在據說又被歪站買下了。這種政策造成的無底洞，要是哪天一台給一萬人用的機器爆炸，大概一千萬就直接沒了。全台灣也只有歪站應該燒的起才是 :p<br /><br /><br />為交易成功，大賀！<br />

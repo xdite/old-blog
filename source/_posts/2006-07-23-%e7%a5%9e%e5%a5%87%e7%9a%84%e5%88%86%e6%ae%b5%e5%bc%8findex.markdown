@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 13
+layout: post
+title: !binary |
+  56We5aWH55qE5YiG5q615byPaW5kZXg=
+
+date: 2006-07-23 22:18:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=13
+---
+1. 9月開台，10月初關閉搜尋功能....
+ 2. 1月僅開放全域 blog 搜尋，且因為資料量過大 ( 真是生意興隆!?)，只匯入1月前的 index
+ 3. 3月才宣布匯入 2006年1月後的index，目前使用的是幾月的 index尚未知
+ 4. 3月底預定上線的個人搜尋功能只聞樓響，不見人影
+
+Xuite 的經營邏輯果然不是普通人能夠理解的
+令我汗顏不已啊...
+
+<a href="http://blog.xuite.net/blog/baby/4912695">《 開放測試 》搜尋功能</a>
+
+<a href="http://www.flickr.com/photos/49274115@N00/196131269/" title="Photo Sharing"><img src="http://static.flickr.com/65/196131269_ebd3123903_o.jpg" alt="xuitejoke010" height="304" width="524" /></a>

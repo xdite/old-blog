@@ -1,0 +1,39 @@
+--- 
+wordpress_id: 321
+layout: post
+title: !binary |
+  5bCHIEJCUyDnnIvmnb/pkbLltYzlnKggQmxvZyDoo6EgIQ==
+
+date: 2007-04-16 16:30:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=321
+---
+今天來稍微寫一下，怎樣將 BBS 看板鑲嵌在 Blog 的教學 :p
+也就是各位在 Blog 右手邊看到的 widget。
+
+<a href="http://www.flickr.com/photos/14765209@N00/461243818/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/242/461243818_39b4e4243b_o.jpg" width="184" height="250" alt="gaaan2" /></a>
+
+[不過這篇不是重點，只是個鋪陳的引子。所以我會寫的很簡略。會寫這篇純粹只是有人問我要怎樣做出來而已。]
+
+
+使用的是 http://gaaan.com，它是一個使用 WWW 卻以 Ajax 技術改良讀取速度與操作介面的 WEB BBS。如果你對詳細背景有興趣的話，可以參考 Mr.6 所撰寫的這一篇<a href="http://mr6.cc/?p=598"> Gaaan：不只是網頁版PTT</a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/461246235/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/181/461246235_3b967f4952_o.jpg" alt="gaaan" height="99" width="400" /></a>
+
+如果你沒有看板的話，請先到<a href="http://gaaan.com/NewBoard"> NewBoard </a> 申請一個個人版。(如果你也沒有帳號，直接到 <a href="http://gaaan.com">gaaan 首頁</a>申請一個)
+
+看板如果申請通過的話，你的看板網址將會是
+
+<b><big><big>&nbsp;http://gaaan.com/[版名]</big></big></b>。
+
+如筆者的個人版就是 <a href="http://gaaan.com/xdite">http://gaaan.com/xdite</a>。
+
+
+<ul><li>那怎麼樣將你的看板輸出成一個 plugin 呢?</li></ul>
+事實上，gaaan 提供 RSS 的輸出的服務。每個看板的 rss feed 的網址是
+
+&nbsp;<b><big><big>http://gaaan.com/rss/[看板名].xml
+
+</big></big></b>，而筆者的看板 rss feed 的網址是 <a href="http://gaaan.com/rss/xdite.xml">http://gaaan.com/rss/xdite.xml</a>。
+
+
+然後，再照著這篇 <a href="http://nightspirit622.blogspot.com/2006/11/google-reader.html">Google Reader 製作聯播完全攻略</a> 文章，將 RSS feed 輸入，再輸出一段 javascript 貼到 blog 上變成 plugin。就完成了。

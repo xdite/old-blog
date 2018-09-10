@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 100
+layout: post
+title: !binary |
+  Q1NTIOeEoeazleWNs+aZguabtOaWsA==
+
+date: 2006-09-03 19:07:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=100
+---
+這篇是 *uite 的。<br /><br />Hinet 的 Xuite 網誌<strong>經過兩個月筆者不間斷的砲轟，已經改善許多</strong>。<br />起碼它們現在會做出一系列 Q&amp;A 來暫時解決使用者最常見的問題了，值得稱許。（<a href="http://blog.xuite.net/blog/baby/7522476">九月份 Q&amp;A</a>)<br />大家鼓鼓掌。<br /><br />-----<br /><br />好了，拍完手後老師要繼續罵了 -_-<br /><br />Xuite 的 CSS 實在是一個很畸形的系統，筆者大概一兩個禮拜前就看到使用者不停的在靠杯了，只是那時候忙著寫其他東西沒有時間罵。（現在能體會到筆者的辛勞吧 @_@ ....<strong>一次寫兩個 BSP 的笑話的確很累</strong>）<br /><br />使用者在預覽完CSS修改後的畫面後送出，但是頁面會在數小時以後才更新，這實在是一件很好笑的事情。改 theme 就是馬上要看到，才能繼續改啊。誰有那個美國時間在等你慢慢更新上去啊。這不就跟自己在&nbsp; Dreamwaver （網頁編輯器）上改網頁，上傳進網頁空間卻要<strong>五小時以後才看的到一樣無厘頭嗎</strong>？<br /><br />果然還是欠釘啊 -_-<br />

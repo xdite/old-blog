@@ -1,0 +1,56 @@
+--- 
+wordpress_id: 401
+layout: post
+title: !binary |
+  W+e2suiqjF0g54Sh5ZCN5pCs5a626IezIEJsb2dnZXIg5pWZ5a24
+
+date: 2007-07-05 20:22:16 +08:00
+wordpress_url: http://blog.xdite.net/?p=401
+---
+<font color="#ff0000"><b><big><big><big>注意：此方法已失效。請參考 <a href="http://blog.xdite.net/?p=861">無名小站部落格搬家懶人包</a>（最新）</big></big></big></b></font>
+
+
+-------------------------------------------------------------------------------------------------
+<del datetime="2009-01-10T20:50:15+00:00">請注意，<font color="#ff0000"><b>Blogger 每天文章數量發表限制約是 50 篇</b></font>，所以你一次只能搬 50 篇而已，可以分多天慢慢搬！
+<br/>
+請注意，<font color="#ff0000"><strong>如果你第一次匯50篇成功，可是隔天或之後的文章一直之後一直匯失敗</font>，可能是 Blogger 開啟圖片驗證把你的搬家機器人擋掉，一旦出現這種情形，請使用<a href=" https://www.google.com/accounts/DisplayUnlockCaptcha?service=blogge"> https://www.google.com/accounts/DisplayUnlockCaptcha?service=blogge</a>r  解鎖，再繼續匯入。</strong>
+<br/>
+因為筆者把搬家程式放在 bluehost 裡，怕蜂擁而來的鄉民搞爆我機器。所以如果你想分流的話，可以抓<a href="http://blog.xdite.net/moveblog.zip">這一支程式</a>回去架。架設條件需主機支援 php 以及 xml parse 的 function。<b>如果願意分流的鄉民請在架設完畢後再推文內公布網址</b>，謝謝！
+
+----
+首先
+
+1. 請先到 Gslin 大神的 <a href="http://backup.hasname.com/blog/wretch/">網誌備份服務</a> 先將你的網誌備份下來（選 MT 格式）。
+2. 請先到 <a href="http://www.google.com">google</a> 註冊一個帳號，再<a href="http://www.blogspot.com">創一個空的部落格</a>。
+3. 再到筆者架設的 <a href="http://moveblog.xdite.net/">搬家站台</a> 匯入你的備份檔。
+4. <strong>這不是廣告。如果匯不進去，建議搬家至 <a href="http://blog.pixnet.net">Pixnet</a> 或 <a href="http://blog.roodo.com">Roodo</a></strong>
+
+--
+<a href="http://m2b.atcity.org/">yrchen 提供的搬家程式分流點</a>
+
+以下是圖文教學，要看再點開
+
+<!--more-->
+(1) 連到 <a href="http://moveblog.xdite.net/">搬家站台</a>，輸入你的備份檔
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=726305332&amp;size=o" title="相片分享"><img src="http://farm2.static.flickr.com/1028/726305332_635b086390.jpg" alt="mt2blogger02" height="351" width="500" /></a>
+
+(2) 選擇你要匯入的文章
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=726305346&amp;size=o" title="相片分享"><img src="http://farm2.static.flickr.com/1014/726305346_bf732856b3.jpg" alt="mt2blogger03" height="351" width="500" /></a>
+
+(3) 輸入你的 google 帳號，blog id 請留白
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=726305350&amp;size=o" title="相片分享"><img src="http://farm2.static.flickr.com/1233/726305350_01e1772932.jpg" alt="mt2blogger04" height="351" width="500" /></a>
+
+(4) 選擇你要匯入的 blog （有些人一個帳號裡可能有很多 blog）
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=726305502&amp;size=o" title="相片分享"><img src="http://farm2.static.flickr.com/1018/726305502_0ac4be092e.jpg" alt="mt2blogger05" height="351" width="500" /></a>
+
+(5) 再給你確認一下是這些文章（文章看起來亂碼是不要緊的，匯入後就正常囉）
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=726305524&amp;size=o" title="相片分享"><img src="http://farm2.static.flickr.com/1105/726305524_9ab7843f68.jpg" alt="mt2blogger06" height="351" width="500" /></a>
+
+(6) 出現這些訊息就是匯入完畢囉！
+
+<a href="http://www.flickr.com/photos/14765209@N00/726312240/" title="相片分享"><img src="http://farm2.static.flickr.com/1435/726312240_ca5b266bf0.jpg" alt="mt2blogger07" height="351" width="500" /></a></del>

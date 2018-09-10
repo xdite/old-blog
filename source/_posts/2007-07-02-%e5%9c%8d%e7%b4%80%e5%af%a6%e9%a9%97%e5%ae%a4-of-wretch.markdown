@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 377
+layout: post
+title: !binary |
+  5ZyN57SA5a+m6amX5a6kIG9mIHdyZXRjaA==
+
+date: 2007-07-02 21:52:19 +08:00
+wordpress_url: http://blog.xdite.net/?p=377
+---
+<div class="entry-body"><div id=""><br />Jun 16, 2007 3:31 PM<br /><ins class="item-body"><div><p>剛剛跑去圍紀實驗室開了一個 <a target="_blank" href="http://zh.scratchpad.wikia.com/wiki/%E7%84%A1%E5%90%8D%E5%B0%8F%E7%AB%99:Home">無名小站專案</a>。</p><br /><p>主要目的是為了幫有名大站編寫 爆炸事件 以及 搞笑事件 紀年表。</p><br /><p>筆者自己會陸續更新，也歡迎各位讀者一起補完 :p</p></div></ins></div></div><br /><br /><p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>

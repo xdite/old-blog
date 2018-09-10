@@ -1,0 +1,112 @@
+--- 
+wordpress_id: 396
+layout: post
+title: !binary |
+  5aSa5LqG5b6I5aSa6aSY55qEIFBvd25jZQ==
+
+date: 2007-07-04 00:54:58 +08:00
+wordpress_url: http://blog.xdite.net/?p=396
+---
+今天去大學聯考監考，結束後在士林看了場「變形金剛」。回家一上 msn，cjin 傳個訊過來說她還剩兩封 pownce 邀請函，我要嗎？這啥是小，我頓時升起一個大大的問號。
+
+
+管他的，大概是需要「測試」的東西吧？一開，測了 15 min，嗯，不是個很好的網站，要我給 rank 的話，大概只有「B-」。這是哪個認識的人要我評測的？ 
+
+
+熟練的打開了  Google Reader ，開始看這兩天的我不在電腦前所 MISS 的 Feed。什麼？這東西是 digg.com 的 Kevin Rose 新推 號稱為「Twitter殺手」的 Pownce。<b>靠，這是幻覺嗎？</b>我怎麼覺得這玩意不但配不上這個稱號。（能勉強配的上這稱號的，我還比較認為是台灣的 Buboo ...（如果它們有心要打外國市場，而且不自廢武功的話....）
+
+
+等等，雖然我對 Pownce 產生強烈華而不實的爛貨感覺。我還是先看看別人怎麼說好了，說不定只是筆者在 33 度高溫下罰站兩天，產生神經短路，才會這樣評，要是腦充血亂寫，我豈不糗大了....。
+
+
+10 分鐘後，我在 feed 上發現 keso 其實 <a href="http://blog.donews.com/keso/archive/2007/07/02/1181959.aspx">已經寫了一篇</a>。跟我的感覺還蠻符合的，看起來可以動手寫了。...天氣太熱燒壞腦袋的應該不是我，而是 Kevin Rose。
+
+由於這個網站是很新的產品，筆者先來貼個幾張圖，寫個簡介，讓大家知道 Pownce 是個什麼東西。簡單來說，它是個類 Twitter 的網站，但是它提供了比 twitter 更強大 (愚蠢?)的功能以及進化，還提供了美美的 IM 方便 update 。sounds great，且 Kevin Rose 還計畫炒作這個產品為 Twitter Killer。
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=705602517&amp;size=o" title="相片分享"><img src="http://farm2.static.flickr.com/1280/705602517_a1ede8ac82.jpg" alt="pownce" height="299" width="500" /></a>
+
+<b>這是 Pownce 的個人頁面。我們可以看到他提供了 Message、Link、File、Event 服務。</b>
+
+<a href="http://www.flickr.com/photos/14765209@N00/705756157/" title="相片分享"><img src="http://farm2.static.flickr.com/1408/705756157_2d85ebf1a8_o.jpg" alt="powncetheme" height="420" width="420" /></a>
+
+<b>Twitter 一成不變很醜？ Pownce 提供了 theme 供用戶置換。</b>
+
+<a href="http://www.flickr.com/photos/14765209@N00/705675085/" title="相片分享"><img src="http://farm2.static.flickr.com/1075/705675085_8948acc67f_m.jpg" alt="pownceim" height="240" width="137" /></a>
+
+<b>不同於 Twitter 的 im bot 時常掛點，Pownce 竟然還自己開發了美美的 im。</b>
+
+Sounds Perfect，他改進了 Twitter 的缺點，提供了更強大的功能，而且畫面不僅簡約、更是美輪美奐。被譽為「Twitter Killer」，實在是....
+<br/><br/>
+<big><big><big><b>
+「名過其實」</b></big></big></big>
+
+<br/><br/>
+
+要說當下我對 Pownce 的直覺，用食神某一道菜來形容，實在再貼切也不過了。
+
+<a href="http://www.flickr.com/photos/14765209@N00/705602589/" title="相片分享"><img src="http://farm2.static.flickr.com/1419/705602589_7d36b44412_o.png" alt="圖片 14" height="339" width="447" /></a>
+
+錦江飯店 劉三 師傅 的 「錦繡多味魚」
+
+<blockquote>哇!!竟然用蘇眉頭,星斑背,三刀腩,鱱魚身,英哥尾
+來重新拼成一條魚, 還要一邊蒸,一邊炸
+每種魚有兩種吃法,總共就有十種不同的味道
+這.. ...這條魚真是........
+像受了輻射汙染一樣,看了就想嘔吐
+你還叫我吃?零分,回家好好反省反省
+你就是多了塊魚
+其他人:不是多了塊魚,而是多了很多餘,你ㄚ~~你根本就多餘ㄚ!!
+</blockquote>
+當然，筆者不是說 Pownce 醜，我只是要說，它多了很多餘呀 ...
+
+----
+
+Pownce 最大的敗筆就是「反直覺」、「為設計而設計過頭」，總結來說，大概最根本的原因就是 Kevin Rose「不知道 Twitter 在紅什麼」，大概才會這樣的設計炒作 Pownce。
+
+筆者曾經在 6/22 寫過一篇「<a href="http://blog.xdite.net/?p=385">twitter 的成功因素?</a>」，這篇其實就是我對 twitter 主要的意見。但是我要重新強調的是，twitter 會爆紅，不是因為他的功能設計，而是因為<b>它的直覺、它給人們的解放（喃喃自語）、它帶來的訊息速遞</b>。
+
+
+而 Pownce 的失敗點，就在於它的多餘設計，摧毀了這種直覺的純粹。
+
+Twitter 訊息太過陽春，Twitter 訊息太過零散爆炸，Twitter 回覆訊息只能回到最新一則（所以常常 reply 的牛頭不對馬嘴），Twitter 越來越像聊天室 ...
+
+<a href="http://www.flickr.com/photos/14765209@N00/705602571/" title="相片分享"><img src="http://farm2.static.flickr.com/1150/705602571_64238a144a_o.jpg" alt="pownce2" height="212" width="501" /></a>
+
+然而，Pownce 的改進設計卻是 ....長這樣。
+
+我暗叫「糟」。
+
+
+我不知道這個網站的<a href="http://pownce.com/leahculver/">主要設計者</a>玩不玩 twitter，不過從設計方向來看，筆者覺得它可能....不是很熟吧。我們會覺得 twitter 訊息格式雜亂，是因為<b>使用者會利用手邊的各種資源，非常直接的就把東西張貼上去</b>。分格式是好意，但是這個動作卻變得非常的反直覺以及拗手。這是第一敗筆。
+
+
+再來聊紅框框住的東西。最近不少人開始抱怨 Twitter 像聊天室，試圖以宣導方式「抑制」這種情形。可是筆者卻覺得這種邏輯，非常的弔詭。為什麼要抑制？ Twitter 設計的型態最終根本就會導致這種情形吧？如果不從網站機制變更，這根本就是無解的吧。
+
+
+更何況宣導的意義是什麼？「抑制無意義水文」？這裡就是給你 POST 水文水句的地方啊。何況<b>誰有資格說誰的水文水句是沒有意義的</b>？有沒有意義，端看自己內心定義，不喜歡看，取消 nudge 就是了。當然，更好的作法，目前大家都提出群組分眾...（只是我覺得設計要很小心就是了）
+
+
+扯回原題，在 twitter 上容易看到真話產出，甚至水言水句碰撞出各種創造的火花，其實便是，我們並沒有意識到除了 direct message 外，包括 reply message，我們在上面的每一句的都是 <font color="#ff0000"><big><big><b>廣播</b></big></big></font> 。所以你跟某小眾在 twitter上面互相 reply 來 reply 去，在真實世界的意義上，可能就是<b>在一間擠滿朋友的餐廳裡，以極大的音量高聲闊論</b>。這便是 twitter 可愛的地方，周遭在注視的朋友隨時可以快步走來加入我們的話題。你與 A、B 的交談，可能觸及 D 的感動，進而激起原本沒有想像到的效應。
+
+
+形同公開場合大聲交談的一切幾乎甚少人自覺。而因為 im 方便的結合，甚至我們偷懶時，便用 im 更新 twitter 來取代 im 的交談。但當訊息量暴增，便會有身處嘈雜聊天室之感。等同於公眾人物之有名 Blogger 也許會意識到自己的一句話也可能揚起一片大漣漪，故它們的 twitter 可能是言之有物，或字字珠璣。但更多的使用者其實是鄉民啊 ....:p 水文有無意義之心證便產生了。
+
+還沒講到紅框，快了。twitter 上的水句十分真誠是因為使用者沒有意識到自己在「廣播」，所以 Pownce 特別以 <b>all my friends</b> 正是我覺得十分不妥之處。你會用 Twitter 寫水句，但你會用 MSN 外掛群組廣播嗎？（你常常這樣做，包準十個聯絡人有八個會封鎖你） <b>Right，廣播有「打擾」之意。看到「 all my friends」，使用者反而會心生躊躇之意</b>。使用 twitter 就是在自言自語，而且廣播給大家聽。只是我們不想意識到這一點而已。Pownce 的設計阻止了使用者的衝動直覺。
+
+
+這僅僅只是第二敗筆。第三敗筆就是自己開發 IM，記得我自己在 Mr.6&nbsp; <a href="http://mr6.cc/?p=935">IM，不只是黔驢技窮的最後附加功能</a> 發表後，就曾經在 twitter 上喃喃自語，「結合 im 才是王道，自己寫 im 不是王道」。
+
+
+為什麼？ IM 功能性問題、IM市場飽和性問題、轉換 IM 不只有使用習慣問題，更有聯絡人問題（這就是為什麼 MSN 和 Yahoo Messenger 兩大敵對陣營最後要開始整合成可以互通），更多更多的產品，設計都是採<b>軟體通吃所有 protocol</b>，或是以各種 im bot 打造低門檻環境。結合 im 是為了能降低門檻，讓主產品能迅速席捲市場。可是 Pownce 自造一個 im，到底是為了什麼？各 im 都有必殺技（skype 語音、gtalk 結合 gmail..、msn 共用空間 ...），Pownce IM有什麼？
+
+
+筆者唯一想到它的好處只有大概我要散播 illegal file 很方便，可以上傳又可以廣播，也許 im 做成 p2p software 就有搞頭？
+
+
+一整個評到最後，我開始迷惘，Kevin Rose 到底在想什麼？ <b>Twitter 會爆紅而且受歡迎的原因就是因為「純粹」以及「直覺」。而 Kevin 的新產品卻完全摧毀了所謂的「sweet spot」。
+</b>
+
+如果 Twitter 如果沒有效能問題，Twitter Killer？被 Twitter Kill 還差不多 ...
+
+--
+漏寫一點，此站並不支持亞洲字元，輸中文會有亂碼

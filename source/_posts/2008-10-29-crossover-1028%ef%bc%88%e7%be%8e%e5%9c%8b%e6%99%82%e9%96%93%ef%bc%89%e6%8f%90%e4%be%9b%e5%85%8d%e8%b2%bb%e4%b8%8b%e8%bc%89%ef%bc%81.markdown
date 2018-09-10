@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 780
+layout: post
+title: !binary |
+  Q3Jvc3NvdmVyIDEwLzI477yI576O5ZyL5pmC6ZaT77yJ5o+Q5L6b5YWN6LK7
+  5LiL6LyJ77yB
+
+date: 2008-10-29 06:51:08 +08:00
+wordpress_url: http://blog.xdite.net/?p=780
+---
+剛剛在 vgod 的 twitter 上看到這則消息的。於是也跑去抓了<a href="http://down.codeweavers.com/">免費版的 CrossOver </a>試用。
+
+CrossOver 是設計來讓 Linux 和 Mac 也能很輕易使用的 Windows 上的軟體。當然 wine 也可以做到，只是用 wine 裝比較需要自己 hack 一大堆。
+
+然後這一次<a href="http://zaberxxx.blogspot.com/2008/10/crossover.html">免費的原因</a>相當搞笑，就是作者希望布希下台前作些好事，開了一些條件。如果布希政府達到其中一項，就免費送大家使用。然後最近他發現油價跌到當初他設定的其一目標：2.79 USD / 加侖。於是 ...
+
+Anyway，我拿 CrossOver 跑的軟體是 Windows 相當有名的萬用播放軟體 <a href="http://www.softking.com.tw/soft/clickcount.asp?fid3=23516">Kmplayer</a>，MacOS 上的影像播放軟體一向較弱( VLC, Mplayer, QuickTime, RealTime Player），一些特殊格式（特別是日本動畫的 mkv 檔）的不是不支援就是會跑一跑就 crash 掉，不然就要裝特製的 player。用 CrossOver 跑的 Kmplayer 畫質還有辦法接受，重點是一些奇奇怪怪的檔終於有辦法用這種方式只裝一個 Player 就統統能打開了。
+
+因為時差的關係，CrossOver 大概到台灣時間 10/29 中午還能抓，手腳要快 XD

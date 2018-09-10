@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 2404
+layout: post
+title: !binary |
+  5o+b5LqG5YCLIHRoZW1lIC4uLg==
+
+date: 2011-06-19 04:19:52 +08:00
+wordpress_url: http://blog.xdite.net/?p=2404
+---
+把 Wordpress 升到最新版，同時為了慶祝本 Blog 五週年 ! ( 靠...有這麼久了喔...) ，我換了 theme ...
+
+目前是用 Wordpress 預設的 twentyten theme，然後自己調了 html 和一些 CSS 組起來的。
+如果有爆掉還是難以適應的地方，歡迎不吝提出。
+
+不得不說，工作上改用 <a href="http://compass-style.org/">Compass</a>之後，我似乎退化了，沒有 Compass 就很討厭寫 CSS ....。
+
+讓我開始考慮下一本書想來寫 "<a href="http://rails-101.logdown.com/">Compass 101</a>" 傳道 XD。

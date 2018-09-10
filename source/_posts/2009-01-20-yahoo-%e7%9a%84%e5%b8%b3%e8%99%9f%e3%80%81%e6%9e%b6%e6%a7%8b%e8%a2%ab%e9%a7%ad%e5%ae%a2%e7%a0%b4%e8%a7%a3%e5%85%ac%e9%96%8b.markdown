@@ -1,0 +1,34 @@
+--- 
+wordpress_id: 890
+layout: post
+title: !binary |
+  WWFob28g55qE5biz6Jmf44CB5p625qeL6KKr6aet5a6i56C06Kej5YWs6ZaL
+
+date: 2009-01-20 02:28:52 +08:00
+wordpress_url: http://blog.xdite.net/?p=890
+---
+這是最近(2009/01/16)在 <a href="http://www.milw0rm.com/">milw0rm</a> 上比較大條的一條新聞。有駭客宣稱了他破解 Yahoo 的架構，並且公開了一篇論文詳述 Yahoo 的認證架構與如何實作破解的 Concept。詳細的論文，可以上 milw0rm 觀看（實際連結我就不給了，想找的人自然找的到）。
+
+結論大致有：
+
+1. 駭客可以藉由此方法登入任何他想要登的帳號，拿走他想要知道的資訊。
+2. 能藉由此法登入的 Service有 
+<blockquote>Mail
+Profiles
+Web Messenger
+WAP Messenger
+Games
+Geocities
+Web Hosting
+360 Blog
+Briefcase
+Address Book
+Calender
+Notes</blockquote>
+
+當中有些系統又比其他系統防禦更為薄弱，舉例來說： WAP Messenger 與 Geocities 這兩個服務，即使有些重要欄位不對也能過...
+
+駭客並公布了一段影片證明他不是嘴砲...
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/4wzEnG2mOyg&hl=zh_TW&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4wzEnG2mOyg&hl=zh_TW&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+

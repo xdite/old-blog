@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 2633
+layout: post
+title: !binary |
+  YmxvZyDkupTmrbLkuoY=
+
+date: 2011-07-11 17:45:05 +08:00
+wordpress_url: http://blog.xdite.net/?p=2633
+---
+剛剛收到 domain 自動續約信，才發現 xdite.net 已經五年了....

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 70
+layout: post
+title: !binary |
+  5paw5aKeW+WFqOaWh+WIl+ihqF3lip/og70=
+
+date: 2006-08-18 22:56:11 +08:00
+wordpress_url: http://blog.xdite.net/?p=70
+---
+<p>因為有使用者反應用 WordPress 閱讀舊文不如 <a href="http://xuite-joke.blgspot.com" target="_blank">XJ</a> 上用 <a href="http://www.furl.com">Furl</a> 燒的分類那麼好用，因此本站掛了一個新的 ALL POST Plugin。</p><p>點選本站右上方顯示文章數量的地方，即可秀出<a href="http://blog.xdite.net/allpost.php">全文列表</a>。希望各位喜歡。</p><p>有任何問題，歡迎留言回應或至 <a href="http://forum.xdite.net" target="_blank">Forum.XDite.net</a> 討論。</p><a href="http://www.furl.com"></a>

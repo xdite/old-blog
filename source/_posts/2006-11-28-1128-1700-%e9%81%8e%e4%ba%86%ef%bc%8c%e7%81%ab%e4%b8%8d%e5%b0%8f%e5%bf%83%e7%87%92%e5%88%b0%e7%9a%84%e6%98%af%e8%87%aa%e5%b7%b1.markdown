@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 215
+layout: post
+title: !binary |
+  MTEvMjggMTc6MDAg6YGO5LqG77yM54Gr5LiN5bCP5b+D54eS5Yiw55qE5piv
+  6Ieq5bexPw==
+
+date: 2006-11-28 19:35:37 +08:00
+wordpress_url: http://blog.xdite.net/?p=215
+---
+11/27 晚間 23:00 照的<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/308558227/" title="Photo Sharing"><img width="500" height="390" src="http://static.flickr.com/116/308558227_cb9c3f66ac.jpg" alt="frad2" /></a><br /><br />11/28 晚間 19:23 照的，看來是<font color="#cc0000"><strong>把公告維修時限修成11/29 06:00 </strong></font>了 XD<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/308559215/" title="Photo Sharing"><img width="500" height="400" src="http://static.flickr.com/106/308559215_84ddbcb0ed.jpg" alt="webstv2" /></a><br /><br /><br />筆者本來想，webs-tv 訂 11/27 17:00 ~ 11/28 17:00 這個時段進行搬遷作業，原本大概是要吃定樂多下班時間反應不及，重重婊對手一道。就算上班了，樂多要修改 code 中跟 blog.yam.com 這個網域的糾纏，沒有一週是絕對搞不定的 ....所以就算 17:00 作不完延長也沒差，反正對手也絕對來不及回氣.....<br /><br /><br />結果，樂多在今天下班之前<strong>似乎用暴力法暫時修好這個糾纏</strong>，反觀 webs-tv ....XD <br /><br /><br />看來這場戰還有得打。不過目前這個收網域的強制搬遷手法，燒到的現在看起來是自己？賠上罵名好像又暴露出了什麼 ....?:p<br /><br />---<br /><br />嗯，看來筆者今天要早睡一點。看看明早六點還有沒有笑話可以寫 cc

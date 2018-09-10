@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 139
+layout: post
+title: !binary |
+  V2ViIDIuMCDnoJToqI7mnIPkuIDpgYrvvIgz77yJ6YyE6Z+z
+
+date: 2006-09-29 15:36:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=139
+---
+這是我用mp3隨聲聽錄的。可和 <a href="http://kelvinwang1977.blogspot.com/"> 凱爾文大王的攝影日記</a> 的 <a href="http://kelvinwang1977.blogspot.com/2006/09/20060926web20.html">(分享)(投影片)20060926Web2.0國際研討會~投影片分享~</a> 配合服用<br /><br />因為原始聲音太小聲。釋出的版本是我用 GoldWave 校正過音量的。<br /><br />9/26<br /><br /><a href="http://xdite.net/web20/V001.WAV">片段 1</a><br /><a href="http://xdite.net/web20/V002.WAV">片段 2</a><br /><a href="http://xdite.net/web20/V003.WAV">片段 3</a><br /><a href="http://xdite.net/web20/V003.WAV">片段 4</a><br /><br /><br />若您想轉貼本文或 mirror 檔案，請附上本篇文章網址或是本 blog 網址。<br /><br />-----<br /><br />至於 9/27 的因為是 VIP 限定場（我只參加早上），公開貼可能會被大家（包括主辦單位）公幹。如果您真的想聽，請表明身份寄信給筆者索取。（個人 blog 在<a href="http://look.urs.tw/">部落格觀察榜</a> 前400名裡的優先）<br /><br />

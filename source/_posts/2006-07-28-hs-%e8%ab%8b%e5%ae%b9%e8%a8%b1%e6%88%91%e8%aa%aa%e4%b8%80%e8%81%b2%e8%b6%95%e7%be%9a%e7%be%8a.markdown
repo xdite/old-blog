@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 28
+layout: post
+title: !binary |
+  W0hTXSDoq4vlrrnoqLHmiJHoqqrkuIDogbIi6LaV576a576KIg==
+
+date: 2006-07-28 20:51:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=28
+---
+<p>筆者真的生氣了，非常的生氣，氣到發抖。</p><p> 因為筆者剛剛再次打開信箱，發現是4封spam，不是1封，是4封</p><p>  而且該死的 <a href="http://blog.xuite.net/blog/baby/7045124">7月 Q&amp;A 不允許修改留言</a>和刪除留言，幹! </p><p>是不是去 xuite 客服問一下問題我就活該要被 spam 炸啊，媽的。</p><p>  <a href="http://www.flickr.com/photos/49274115@N00/200256875/" title="Photo Sharing"><img src="http://static.flickr.com/72/200256875_350e42331f_m.jpg" border="0" alt="xuitespam01" width="240" height="202" /></a>  <a href="http://www.flickr.com/photos/49274115@N00/200256876/" title="Photo Sharing"><img src="http://static.flickr.com/69/200256876_3b38319559_m.jpg" border="0" alt="xuitespam02" width="240" height="202" /></a>   <a href="http://www.flickr.com/photos/49274115@N00/200256877/" title="Photo Sharing"><img src="http://static.flickr.com/71/200256877_b552392083_m.jpg" border="0" alt="xuitesearch03" width="240" height="202" /></a></p>

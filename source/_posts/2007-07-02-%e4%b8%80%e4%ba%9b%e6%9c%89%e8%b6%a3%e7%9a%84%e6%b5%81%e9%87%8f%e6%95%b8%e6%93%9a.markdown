@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 392
+layout: post
+title: !binary |
+  5pyJ562J5pa85rKS5pyJ55qEIHdpZGdldCA/
+
+date: 2007-07-02 21:54:12 +08:00
+wordpress_url: http://blog.xdite.net/?p=392
+---
+Jun 29, 2007<br /><br /><div class="entry-body"><div id=""><ins class="item-body"><div><p>前幾天，才在炒什麼 iGoogle。其實 Google 的個人首頁已經提供 (Beta) 頗久了，網址就是 http://www.google.com/ig，只是當時大家都不知道這鬼玩意正式名稱便是 igoogle （愛 Google?）。</p><br /><p>前幾日 <a target="_blank" href="http://mr6.cc/?p=933">Mr.6 的一篇文章</a> 又在 irc 掀起一些對 ig 的討論，當中便有長輩提到，咦，什麼時候無名小站也出了小工具啊？</p><br /><p>筆者一看，咦，真的有耶。</p><br /><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/655361064/" title="相片分享"><img src="http://farm2.static.flickr.com/1190/655361064_82b85c6393.jpg" alt="igoogle01" height="331" width="478" /></a></p><br /><p>因為我實在很久沒用 ig 了（….不好用….），筆者要訂東西就直接在 Google Desktop 上訂了。那天重新打開 ig 就亂加了一些 widget ，也沒開起來測功能。</p><br /><p>本來心想，無名小站會提供這種玩意應該是想通了，願意開放 Google 的 Refer 穿過去。（不是自家過去的通通殺，各種 RSS Reader 照殺不誤，具該站某位官方仁兄指出，主要原因竟然是：”實做很難” / “沒有多少人在用RSS”）</p><br /><p>OK, Anyway, 筆者滿心期待的打開”應該”會有彎彎大圖的 widget，結果看到的是</p><br /><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/654503559/" title="相片分享"><img src="http://farm2.static.flickr.com/1378/654503559_3e48a35f55.jpg" alt="igoogle02" height="500" width="399" /></a></p><br /><p>（翻桌）什麼都沒給，叉燒包倒是蒸了好幾顆。那寫這個東西出來到底要幹什麼？</p></div></ins></div></div><br />

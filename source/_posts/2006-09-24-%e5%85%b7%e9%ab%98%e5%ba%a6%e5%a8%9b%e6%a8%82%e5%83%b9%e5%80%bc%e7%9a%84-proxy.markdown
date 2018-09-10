@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 133
+layout: post
+title: !binary |
+  5YW36auY5bqm5aib5qiC5YO55YC855qEIHByb3h5
+
+date: 2006-09-24 15:18:50 +08:00
+wordpress_url: http://blog.xdite.net/?p=133
+---
+正常大的 BSP，本身應該都有 reverse proxy 的機制 降低 loading。Wretch , Xuite 也不例外。再加上 Wretch 檔直連檔得凶，不僅 RSS Reader 看不到網誌圖片，連瀏覽器直接檢視圖片，也有可能遭到拒絕。<br /><br />以往筆者直接檢視該站的圖片，頂多 FF 蹦一個&quot;無法顯示網頁&quot;的頁面給我，就摸摸鼻子自認倒楣的關掉了。<br /><br />今天筆者在看彎彎的網誌時，因為想看的清楚點，不自覺的又檢視了一次，希望放大點看，當然又跳出一個這種的頁面給我。只不過這個網頁長得很詭異，跟以前的不一樣 ....我一直不知道有啥問題，直到仔細一看才噗哈哈哈哈笑出來。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/251079665/" title="Photo Sharing"><img width="500" height="390" src="http://static.flickr.com/103/251079665_2fd901a3a6.jpg" alt="fferrorie" /></a><br /><br /><strong><br /><font color="#800000">到底是哪個笨蛋工程師，拿 IE 錯誤訊息隨便假裝成錯誤網頁啊 XD</font></strong><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/251081637/" title="Photo Sharing"><img width="500" height="171" src="http://static.flickr.com/83/251081637_d4bcab3023.jpg" alt="proxyhead" /></a>

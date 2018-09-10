@@ -1,0 +1,50 @@
+--- 
+wordpress_id: 433
+layout: post
+title: !binary |
+  Uk9SIOeahOaWsOaJi+W7uuitsOabuOWWrg==
+
+date: 2007-08-07 22:16:58 +08:00
+wordpress_url: http://blog.xdite.net/?p=433
+---
+=====
+
+<big><big><big><strong>本篇資訊已經過期許久，學習 Rails 請看最新版
+ <a href="http://blog.xdite.net/?p=1754">2010 Ruby on Rails 書單 與 練習作業 </a></strong></big></big></big>
+
+
+=====
+<p>這是今天在 twitter 賣 ROR 聖經 <a href="http://www.books.com.tw/exep/prod/booksfile.php?item=0010374225">「AWDR」 繁體中文版</a>（手殘不小心買了兩本）後，一時手癢開始寫 comment 介紹書單的整理續作。</p>
+<p>為什麼筆者要寫這一篇建議書單呢？大致上就是我雖然認同 AWDR 是一本超棒的聖經。但是在看了很多本參考書學習寫東西以後，我發現它其實並不是一本好的「新手入門」書。<br/><br/>但是，很無奈的，它已經變成已入門的玩家對於新手推薦的第一也是唯一反應。</p>
+<p>新手（好吧，我先承認是幾個月前的我）在開此書（或開始學習 ROR）的標準反應：</p>
+<p>1. 酷，scaffold 真是帥氣啊。（到這裡四處向人推廣 ROR 了）。<br/>2. 哇，我會照書寫一個購物車了。<br/>3. 咦，怎麼自己不靠寫 C / R / U / D 啊？又 scaffold 在 controller 裡自動建立的 C / R / U / D 語法每一句的意義到底是什麼啊？<br/>4. 靠盃，這些在書上怎麼都找不到（我想是我眼殘沒看完整本吧...）。在不懂配置語法的的情況下，寫一個功能真是困難重重。<br/>------- 一些新手會死在 4，沒死的會繼續 5 ---------<br/>5. 算了，在 google 上到處抄 code 完成專案比較要緊。<br/>6. 從大量的範例領悟到配置與實際寫作方法，此時才體會到 ROR 奧妙與 AWDR 精義（AWDR 對於很多小地方都寫得很細緻，問題是...在完全不懂他是怎麼運作的時候，看這些東西完全是天書）。<br/><br/>這也是我在猜，為什麼會有上禮拜<a href="http://blog.xdite.net/?p=424">那篇文章提及的慘況</a>了。（大家都只抄書與抄範例的下場）</p>
+<p>所以在 Twitter 寫完幾本推薦的書後，我真的想好好來寫一篇書單，讓大家按圖索驥的去抓....喔，不是，是買書來學 ROR。</p>
+<p>AWDR 是一定要買的，當然我不會建議你第一個弄回家。</p>
+<p>我建議你第一個弄回家的是</p>
+<p><a href="http://movielibrary.lynda.com/html/modPage.asp?ID=324">Ruby On Rails Essential Training</a> （影片）</p>
+<p><img width="240" height="240" src="http://ec1.images-amazon.com/images/I/41ZAr-k1jIL._AA240_.jpg"/></p>
+<p>為什麼筆者要先推薦這部影片呢？實在是這部影片講解得太好了。從 ROR 的設計理念、架構開始講，接著帶你從 model、controller、view，對 database 的 migrate 一步一步來，最後目的是實做一個商店。雖然每本書最前面都會一兩章講基礎架構，但都只是草草帶過。這部影片裡，光帶領新手理解 C / R / U / D 的 controller 到底必須怎麼撰寫運作，我就覺得非常值得稱許。它在令新手往往迷惘的地方講解的非常清楚與透徹。所以我推薦它應該成為新手的入門磚。<br/><br/><a href="http://www.amazon.com/Rails-Cookbook-Cookbooks-OReilly-Orsini/dp/0596527314/ref=pd_bbs_sr_1/102-0877316-9412157?ie=UTF8&amp;s=books&amp;qid=1186493760&amp;sr=1-1">Rails Cookbook</a></p>
+<p><img width="240" height="240" src="http://ec1.images-amazon.com/images/I/51SDqOIlE8L._AA240_.jpg"/></p>
+<p>會寫了一些基本網頁後，當然開始要鑽研一些小技巧，比如拿來嚇人的 ajax inline edit 等等..，這本書是你的最佳良伴。在網路上，小技巧方面應該 <a href="http://www.amazon.com/Rails-Recipes-Pragmatic-Programmers-Fowler/dp/0977616606/ref=pd_bbs_sr_1/102-0877316-9412157?ie=UTF8&amp;s=books&amp;qid=1186493896&amp;sr=1-1">Rails Recipes</a> 名氣較大，但是他往往只告訴你怎麼做，預設你已經懂很多了，但是你往往看了還是不知道怎麼下手。而在這方 Rails Cookbook 對於小技巧的與其相關資源，就顯的詳細與豐富許多，這是我推薦的原因。</p>
+<p>其實到這裡已經很夠了。不過如果你語法不熟、想開發購物網站以及社群網站，我還建議以下幾本。</p>
+<p><a href="http://www.books.com.tw/exep/prod/booksfile.php?item=0010350699">Ruby Programming -- 向 Ruby 之父學程式設計</a></p>
+<p><img width="150" height="213" src="http://addons.books.com.tw/G/001/9/0010350699.jpg"/></p>
+<p>很多人常分不清楚 Ruby、Rails、Ruby on Rails 是什麼東西。說實在，我剛開始也搞不清楚。最後才弄懂：Ruby 是一種語言，Rails 是一種由 Ruby 開發的 Framework。那寫 Ruby on Rails 需不需要先學 Ruby 呢，老實說，我覺得剛開始不需要。理由是 Ruby 真的很直覺，直覺到有任何程式寫作經驗的新手，望一眼就大概知道這一段語法是在敘述什麼，而不會像 Perl 一樣，功力不夠的話完全看不懂自己三個月以前寫的 code 是在寫啥鬼（我是說實話，各位 Perl 社群的大大拜託不要砍劈我 &lt;(_ _)&gt;）。但是到了一定程度，你要把 code 寫的更簡潔，還是需要懂一些基本語法去控制迴圈和流程。所以我建議案頭也擺一本 Ruby Programming。</p>
+<p>當然，如果你覺得你不想買書，<a href="http://www.gotapi.com/html">GOTAPI</a> 也可以給你很多幫助就是了。</p>
+<p>最後是開發專案部分了。</p>
+<p>商務網站我推薦</p>
+<p><a href="http://www.amazon.com/Beginning-Ruby-Rails-E-Commerce-Professional/dp/1590597362/ref=pd_bbs_sr_4/102-0877316-9412157?ie=UTF8&amp;s=books&amp;qid=1186495345&amp;sr=8-4">Beginning Ruby on Rails E-Commerence : From Novice to Professional</a> （有中文版：<a href="http://www.books.com.tw/exep/prod/booksfile.php?item=0010365587">Ruby on Rails 專業網站案例實做</a>）</p>
+<p><img width="240" height="240" src="http://g-ec2.images-amazon.com/images/I/51R1CJMGGGL._AA240_.jpg"/></p>
+<p>這本書主要就是以環繞 網路書店 專案 開始做起，它的內容是</p>
+<p>專業網路書店實作解析 / 拖放式購物車 / 客戶討論區 / 標籤 (Tag) 功能 / 防駭機制 / 付款機制 / 網站佈署 / 多國語系 / 效能調校</p>
+<p>（OK，我承認我抄博客來的，我實在懶得打）不過他的 Test 寫得非常出色。</p>
+<p>社群網站我推薦</p>
+<p><a href="http://www.amazon.com/Practical-Rails-Social-Networking-Experts/dp/1590598415/ref=pd_bxgy_b_img_b/102-0877316-9412157">Practical Rails Social Networking Site</a></p>
+<p><img width="240" height="240" src="http://ec1.images-amazon.com/images/I/51%2BKhEDtKsL._AA240_.jpg"/></p>
+<p>這本書就是以打造一個社群網站的專案開始談起。同一個月也有另一本書 <a href="http://www.amazon.com/o/ASIN/0321480791/ref=s9_asin_title_3-1966_g1/102-0877316-9412157?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-2&amp;pf_rd_r=0K6Y727BGGP2HPV9GCAC&amp;pf_rd_t=101&amp;pf_rd_p=288448501&amp;pf_rd_i=507846">RailsSpace</a>推出，只是我覺得另一本遜很多就是。</p>
+<p>這本書教你寫</p>
+<p>Blog (含 API ）/ News / Galley （含 Tag 實做）/ Freiends （還可追蹤好友動態）/ 電子報 / Google API 與 Flickr API 的 mashup 。大致上你想做一個社群網站的基礎都教你了，amazing ...XD</p>
+<p>-----</p>
+<p>推薦到這裡，希望能帶給大家一點幫助，ROR 是一個用來開發網站很棒的框架，可惜國內社群現在並不是很大。發表這篇書單，除了希望能讓大家在學習時少一點苦頭吃，也是希望衝大一點台灣（中文）的社群。歡迎大家回饋與討論。</p>
+<p>而所有書在 <a href="http://www.amazon.com/">Amazon</a> 或 <a href="http://www.books.com.tw/">博客來</a> 都買的到。</p>
+<p>至於在哪裡抓得到？這個我會在 blog 上假裝不知道 ....:p （不過這上面大部分的書籍，我是真的都掏錢買了..）</p>

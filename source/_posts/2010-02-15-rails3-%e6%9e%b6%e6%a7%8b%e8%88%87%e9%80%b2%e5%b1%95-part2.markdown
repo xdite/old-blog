@@ -1,0 +1,63 @@
+--- 
+wordpress_id: 1509
+layout: post
+title: !binary |
+  UmFpbHMzIOaetuani+iIh+mAsuWxlSBQYXJ0LjIgLSByb3V0ZXM=
+
+date: 2010-02-15 02:11:16 +08:00
+wordpress_url: http://blog.xdite.net/?p=1509
+---
+本來預計要在 <a href="http://guides.rails.info/3_0_release_notes.html">Rails3 Release Notes</a> 釋出前寫 part2 的，但是一直在忙著別的事 ...orz，只好趁過年比較有閒時整理
+
+Rails3 beat 如大家現在所看到的，進度已達成了當初 <a href="http://weblog.rubyonrails.org/2008/12/23/merb-gets-merged-into-rails-3">Merb gets merged into Rails 3!</a> 裡宣告的幾個重點
+
+
+<blockquote>
+* Framework agnosticism
+* Rigorous API
+* Rerformance optimizations</blockquote>
+
+
+
+不過工程之規模卻已遠超出當初 DHH 宣稱的 "<strong>This is not a big bag rewrite !</strong>"  XD
+
+這次的 beta 釋出有幾個大重點。
+
+1. <strong><big>Routes 的 dispatch 機制改寫 以及 Rack 的 全面導入</big></strong> 
+
+在從前的架構中，Dispatching routes 是由 ActionController 負責去做的。
+
+<a href="http://www.flickr.com/photos/xdite/4356099937/" title="Flickr 上 xdite 的 action-dispatch"><img src="http://farm5.static.flickr.com/4060/4356099937_83a4ab4da2_o.png" width="500" height="442" alt="action-dispatch" /></a> 
+
+( <a href="http://omgbloglol.com/post/344792822/the-path-to-rails-3-introduction">圖片出處</a> ）
+
+而這樣的作法，每個  request 實際上會統統打進 rails stack 中處理，產生的效能問題讓經營 high traffic rails site 的開發者相當頭痛。
+
+為什麼呢？因為其實有一些簡單的 action（API / RSS），其實並不是需要這種 Rails 這種 full stack 的牛刀去做的。再來是類似上傳檔案這種 action，在傳完整個檔案前，也會讓整個 site 卡住。這些常見的功能，不實作不行，但用 Rails 作卻很吃系統資源或效能。
+
+社群想出來的解法是用其他的 Ruby Web Framework 或者是 Rack App 接掉部份 action，取代掉 Rails 提供這些功能。於是在 Rails 的架構變遷中，<a href="http://guides.rubyonrails.org/2_3_release_notes.html"> 2.3 版</a>出現了 Rack Integration（查看 1.1 章），還有 Rails Metal ( 查看 8.1 章）。
+
+[ <strong>Rails Metal is a new mechanism that provides superfast endpoints inside of your Rails applications.</strong> ]
+
+在 Rails3，這一部份又被抽出來直接成為 ActionDispatcher，獨立且捍衛於 ActionController 之前。routes.rb 的 DSL 變得更乾淨整潔了，但新的 API 並不是單純只作簡化語法這件事
+
+<script src="http://gist.github.com/304143.js?file=routes.rb"></script>
+
+( 出處：<a href="http://rizwanreza.com/2009/12/20/revamped-routes-in-rails-3">Revamped Routes in Rails 3</a>  )
+
+它還讓每一個 endpoint 能夠輕鬆的直接接上 rack (supported) app
+
+（出處：<a href="http://lindsaar.net/2010/2/7/rails_3_routing_with_rack">Rails 3 Routing with Rack</a> ）
+<script src="http://gist.github.com/304148.js?file=Rails3+route+rack"></script>
+
+
+回頭看 2.3 的 <a href="http://railscasts.com/episodes/150-rails-metal">Rails Metal 接軌方法</a> ....真是會讓人不禁流淚...
+
+
+而新架構不只能直接把 routing 導到其他 rack (supported) app，而且還能在 route 這一層 pass 掉 controller 這一層，直接作 redirect 或 render view 這件事。
+
+（出處：<a href="http://yehudakatz.com/2009/12/20/generic-actions-in-rails-3">Generic Actions in Rails 3</a>）
+
+<script src="http://gist.github.com/304157.js?file=routes.rb"></script>
+
+非常漂亮而且暴力啊....

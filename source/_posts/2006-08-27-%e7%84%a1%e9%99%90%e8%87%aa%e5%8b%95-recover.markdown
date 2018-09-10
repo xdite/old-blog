@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 85
+layout: post
+title: !binary |
+  54Sh6ZmQ6Ieq5YuVIHJlY292ZXI=
+
+date: 2006-08-27 23:16:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=85
+---
+<a href="http://www.flickr.com/photos/14765209@N00/226103965/" title="Photo Sharing"><img src="http://static.flickr.com/88/226103965_56ea80dd73_o.jpg" alt="recover" height="344" width="957" /></a>

@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 2998
+layout: post
+title: !binary |
+  44CM56ys5LiA5qyh5a24IFJhaWxzIOWwseS4iuaJi+OAjWVwdWIg54mI5pys
+  55m85L2I
+
+date: 2011-08-15 00:57:33 +08:00
+wordpress_url: http://blog.xdite.net/?p=2998
+---
+大會報告：
+
+<a href="http://www.flickr.com/photos/xdite/6041845383/" title="rails-101-cover by xdite, on Flickr"><img src="http://farm7.static.flickr.com/6210/6041845383_0794c30379_m.jpg" width="170" height="240" alt="rails-101-cover"></a>
+
+「<a href="http://rails-101.logdown.com/">第一次學 Rails 就上手</a>」epub 版本 發佈。
+
+如果你想學習 Rails 的話，現在正是時候，一本只售 9.99 美金，<a href="http://rails-101.logdown.com/">由此進</a>。
+（本包裝含 PDF 版本一份、Epub 版本一份，一份範例 CODE）
+
+<a href="http://blog.xdite.net/?p=2279">本書由來</a>。<a href="https://www.dropbox.com/s/bydqm4szg6durry/rails-101-2011-06-18-toc.pdf">目錄預覽</a>。
+
+=====
+
+更新細節：
+
+本次更新是書裡的 bug 修正，重新排版以及新贈送 epub 版本。
+
+如果你是舊讀者，現在信箱裡面應該已經收到了這次更新的版本。
+如果你是 PUBU 來的 ATM 付費讀者或是曾經上過課的讀者，請寫信跟我索取 epub 版本。謝謝。

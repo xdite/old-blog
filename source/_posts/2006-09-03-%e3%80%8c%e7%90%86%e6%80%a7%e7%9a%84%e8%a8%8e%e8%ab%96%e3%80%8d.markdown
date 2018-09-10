@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 99
+layout: post
+title: !binary |
+  44CM55CG5oCn55qE6KiO6KuW44CN
+
+date: 2006-09-03 01:17:18 +08:00
+wordpress_url: http://blog.xdite.net/?p=99
+---
+<p>前文談到，凡是扯上連線速度或是其他較敏感的問題，客服方面就會拼命的辯解，把問題推到其他公司去。如果使用者戳破客服方面的謊言，或者窮追不捨的問，站方就會以該使用者不能夠「理性的討論」，而拒絕對話。（喵的，這是什麼客服....）<br /><br />無名小站的「<a href="http://www.wretch.cc/hala/viewforum.php?f=157">中華電信 ADSL</a>」討論區，有很多壯烈成仁的義士。<br />雖說很多人壯烈犧牲了，但是也不乏能成功「理性的討論」的勇士。<br /><br />譬如無名的這位 wuj38 先生所提的「<a href="http://www.wretch.cc/blog/wuj38&amp;article_id=4492870">對於無名小站品質提升進一步訴求</a>」行動（Hinet用戶觀看前請開proxy），因為有名大站一直遲未能解決 Hinet 與 該站的連線關係，使他在 9/1 <strong>忍無可忍找上消基會</strong>。<br /><br />而這舉動也迫使站長群們跑到該使用者的留言版接受溝通。 雖然說還是把責任推到中華電信身上（<a href="http://blog.xdite.net/?p=90">這招你們不會玩膩嗎？囧</a>）。不過顯然的，無名小站似乎願意接受對話？<br /><br />標準「<strong>理性的討論</strong>」的範本，<strong>值得大家共同效法</strong>。<br /><br />偉哉，<font color="#ff0000"><strong>消基會</strong></font>。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/231928518/" title="Photo Sharing"><img src="http://static.flickr.com/89/231928518_c038d52f95_o.jpg" border="0" alt="wu02" width="410" height="259" /></a></p><p><br /><a href="http://www.flickr.com/photos/14765209@N00/231928549/" title="Photo Sharing"><img src="http://static.flickr.com/83/231928549_caf42c86c9_o.jpg" border="0" alt="wu01" width="415" height="352" /></a><br /><br /><br /></p>

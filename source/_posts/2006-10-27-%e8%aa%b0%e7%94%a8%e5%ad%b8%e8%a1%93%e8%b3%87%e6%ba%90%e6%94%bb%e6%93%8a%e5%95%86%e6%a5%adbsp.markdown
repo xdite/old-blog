@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 177
+layout: post
+title: !binary |
+  6Kqw55So5a246KGT6LOH5rqQ5pS75pOK5ZWG5qWtQlNQIT8=
+
+date: 2006-10-27 00:56:16 +08:00
+wordpress_url: http://blog.xdite.net/?p=177
+---
+剛說要休刊，筆者在 bbs 上就接到水球爆料，指稱 pixnet 在今晚稍早受到學網上的機器的大流量存取攻擊，<a href="http://blog.pixnet.net/post/admin/501100">這篇是 pixnet 對此事件的詳述</a>。<br /><br />公告上寫著<br /><br />140.113.214.175<br />140.113.214.102<br /><br />這兩台交大的機器對 pixnet 進行大流量存取，被管理員發現，而進行阻擋動作。<br /><br />筆者好管閒事，反查了一下這兩台的 dn，分別是<br /><br />algobrg.csie.nctu.edu.tw (175)<br />life.csie.nctu.edu.tw  (102)<br /><br />這兩台通通隸屬於<a href="http://algo.csie.nctu.edu.tw/">交大資工密碼理論實驗室</a>的管轄。本來是沒什麼可疑的，筆者想大概是哪台電腦沒做好安全管理被駭客入侵惡搞吧，結果赫然在該 <a href="http://algo.csie.nctu.edu.tw/c_member.html">實驗室成員</a> 的第一行看到有名大站 vvkvvu 的大名 XD<br /><br />筆者心想，不會這麼巧吧。又跑去連了一下 <a href="http://algobrg.csie.nctu.edu.tw/">http://algobrg.csie.nctu.edu.tw </a>的 Web 頁面，看看有沒有什麼蛛絲馬跡可循。很顯然的，它不讓我看根目錄有啥資料。不過，這個頁面有點奇怪，是 reverse proxy 吐的錯誤訊息。<br /><br />reverse proxy 並沒有什麼特殊，但是特殊的是這台交大的機器的 reverse proxy掛的竟然是有名大站的專用 proxy : <span style="font-weight: bold; color: rgb(255, 0, 0);">srp5.wretch.cc</span>，管理者是<span style="font-weight: bold; color: rgb(255, 0, 0);">有名大站共同創辦人 wcpan</span>。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/279944187/" title="Photo Sharing"><img width="500" height="362" src="http://static.flickr.com/95/279944187_f58c4d207e.jpg" alt="ddos" /></a><br /><br />一個巧合沒什麼，兩個巧合加在一起就很詭異了。<br /> <br /> 真是令人想起當年的<a href="http://nopa.csie.org/546a0">一時手滑就用了交大工作站寄廣告信</a>的事件啊 XDD<br /><br /><br /><br /><br />

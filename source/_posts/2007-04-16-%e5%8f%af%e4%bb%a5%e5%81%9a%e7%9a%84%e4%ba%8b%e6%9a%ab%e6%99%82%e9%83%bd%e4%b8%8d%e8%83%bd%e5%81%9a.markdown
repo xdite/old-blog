@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 320
+layout: post
+title: !binary |
+  5Y+v5Lul5YGa55qE5LqL5pqr5pmC6YO95LiN6IO95YGaPw==
+
+date: 2007-04-16 08:35:25 +08:00
+wordpress_url: http://blog.xdite.net/?p=320
+---
+看到這段新聞
+
+<a href="http://www.flickr.com/photos/14765209@N00/460788699/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/180/460788699_290ce50fde_o.jpg" width="542" height="256" alt="tv" /></a>
+
+這次的事件明明最可能的原因是程式沒寫好或是線上直接編修程式，才導致的大爆炸。
+
+跟 「可以做的事暫時都不能做」 一點關係都沒有吧?
+
+但是這次的隱私洩漏事件直接上了聯合報頭條和各家電視台。
+
+所以，筆者猜也許<strong>「可以做的事」就是指上傳統媒體炒新聞增加曝光率吧</strong> XD。

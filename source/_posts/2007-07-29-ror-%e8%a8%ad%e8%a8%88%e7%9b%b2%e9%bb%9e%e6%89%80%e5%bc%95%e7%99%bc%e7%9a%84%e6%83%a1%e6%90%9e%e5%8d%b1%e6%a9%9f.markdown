@@ -1,0 +1,58 @@
+--- 
+wordpress_id: 424
+layout: post
+title: !binary |
+  5LulIFJPUiDmiZPpgKDntrLnq5nvvIzoqK3oqIjnm7Lpu57miYDlvJXnmbzn
+  moTmg6HmkJ7ljbHmqZ8=
+
+date: 2007-07-29 22:47:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=424
+---
+[本篇採 CC-BY-NC-ND，可以轉錄但禁止於未經授權下的商業用途以及未經授權下的改作]
+
+<p>這篇文章裡的爆點，其實在七月初我就應該發表了。只是當初筆者在以其手法測試過幾個 site ，發現成果實在太驚人。因此決定也將爆點寫進在 <a href="http://hitcon.org/hit2007/sch.htm">HIT 2007 預備 present 的投影片</a>裡，並將發表日期延後到 CONF 結束的七月底。</p>
+<p>我在 HIT 2007 演講的主題，大致是以 Web 2.0 類型網站，揭露不管源自於使用者盲點、設計者盲點所產生的資料洩漏。使用者盲點這個在本站算老梗了，不是本篇重點。這次要揭露的是設計者盲點。</p>
+<p>仔細觀察如今的社交網站，不難發現幾乎每個網站設計者都愛為使用者弄個「個人首頁」，當中除圍繞著個人資訊打轉，更詳細記載了他本身及其好友的資訊。我在使用者盲點相關的文章提過，不少人很喜歡將自己的隱私寫在首頁上，配合上好友關係社交工程的手段配合，真實資料幾乎無所遁形。</p>
+<p>當然，以工人智慧逐一追蹤是不太困難，只是無法自動化實在令人渾身不爽快。若要用程式分析一個站的群眾關係以及資訊，常見的簡單手法是自己寫 crawler 將目標網站頁面爬回來庫存，再自己寫 paser 粹取資訊。不過原始手法說來簡單 ，但是少有人實做。較為主要的原因是難以藉括展式脈絡找到所有頁面（若使用者跟其他使用者絲毫無掛勾，機器有極大可能爬不到這筆資料）：擴展式 BOT 撰寫較複雜以及非為整個網站的完整樣本分析起來較無價值。</p>
+<p>所以被鎖定蒐集資料的 Target Website，其網站網址大多長成這樣</p>
+<p><strong><a href="http://xxxx.com/pages/profile.php?userid=2383">http://xxxx.com/pages/profile.php?userid=2383</a></strong></p>
+<p>以 primary key： id 作為呼叫資料的參數。</p>
+<p>明眼人一看就知道，為什麼這些網站是塊大肥肉？有心人可用很簡單的工具（類似 curl），就能把整站砍回家作資料分析。筆者觀察國內社群網站，不少廠商皆採用此撰寫方式。這樣寫有什麼壞處呢？除了容易被砍站外，也很容易被外部人監視商業機密。比如說總註冊人數有多少？資料成長筆數有多少？每個月的新註冊帳號數量。這些關係你網站賣價的商業機密，正大剌剌的在大門口暴露。</p>
+<p>當然，這種事對於職業是網站滲透的人來說，應該也不是新聞了。但，如果這篇不是獨家新聞，我也不會寫在這裡丟臉了 XD</p>
+<p>這個月初，我在 Twitter 上偷偷透露了 Twitter 註冊總人數是 71萬多人 （今天的數字大概是 78 萬多人），結果被 <a href="http://mr6.cc/?p=930">Mr.6 抓出來寫在文章裡爆料</a> XD。看到這裡，大家應該蠻好奇我怎麼拿到這個數據的。其實前一段就應該暴露了我是怎樣知道這個數字的。當然我是不曉得為什麼 <a href="http://www.techcrunch.com/2007/07/26/twitter-gets-their-venture-round/">TechCrunch 在 7/26 講的數字怎麼只有 30 萬這麼低</a>。（是他太久沒 Update 資訊，還是我測出來的資料裡面含有大量測試帳號？）</p>
+<p>寫到這裡，感覺好像還沒有什麼八卦。好，八卦就是：<strong><span style="color: rgb(255, 0, 0);">目前筆者檢測到的 ROR 社群網站，九成以上有這種問題 XD</span></strong></p>
+<p>ROR 最近很紅，相信它的歷史，不用我多說，<a href="http://zh.wikipedia.org/w/index.php?title=Ruby_on_Rails&amp;variant=zh-tw">你自己在維基百科上也查得到</a> ...ROR 拿來打造網站太好用，開發速度也很快，好用到讓筆者自己也丟掉了 PHP 改寫 ROR 。</p>
+<p>ROR 的精神是「慣例優於配置」，因為處處都是慣例與現成工具，開發網站非常快速（相反的，在 ROR 裡逆天而行就會處處碰壁），Web 2.0 風潮中，大家都想撈一票，以其他語言所撰寫的網站開發速度太慢，所以近期新推出的網站，以 ROR 撰寫的比例相當高。而最好賣的又屬社群網站。所以，這些新網站裡，社群網站又特別多。</p>
+<p>為什麼會有上述我提到的這種問題呢？這要歸功於 三點</p>
+<blockquote><p>1. 慣例優於配置
+2. 超強神兵：ActiveRecord
+3. 框架太新，大家都照教學寫網站</p></blockquote>
+<p>當我一看到 Twitter 這麼容易就被我挖到商業機密，又多留意了一下網站配置，腦筋一轉，就暗叫糟 ....</p>
+<p>Twitter 採用的是非常非常典型的寫法，使用 00X_create_YYYY.rb 建立模型之對應資料庫結構。ROR 的 ActiveRecord 非常貼心。當你在 rb 裡寫了</p>
+<blockquote>class CreateProducts &lt; ActiveRecord::Migration
+<p>def self.up
+&nbsp;&nbsp;&nbsp; create_table :products do |t|
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; t.column :title, :string
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; t.column :description, :text
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; t.column :image_url, :string
+&nbsp;&nbsp;&nbsp; end
+end
+</p><p>def self.down
+&nbsp;&nbsp;&nbsp; drop_table :products
+&nbsp;&nbsp;&nbsp; end
+end</p></blockquote><p>下了 rake: migrate ，資料庫裡就會幫你自動建一個對應 Table，裡有 id ( incresement primary key）、title、description、string。因為「慣例」，所以他會很貼心的幫你加 primary key 叫做 id，如果你不想要這種現成設法，還要自己去修改再做 mapping。（瘋了才會自己找麻煩）
+
+所以萬物的 Table 都有 primary key 叫 id。這不是最糟糕的，糟糕的是大家寫功能愛寫成這樣</p>
+<p><a href="http://twitter.com/add/1234567">http://twitter.com/add/1234567</a> （這是加好友），而不是 <a href="http://twitter.com/add/username">http://twitter.com/add/username</a>。
+
+而會有這樣的寫作傾向，援自於 ROR 有個好用的東西叫做 scaffold，一行指令 ruby script/generate scaffold modelname controllername，就幫你輕鬆建立 CRUD （Create / Read / Update / Delete ）四大功能的 controller config。
+
+以 scaffold 建立頁面的標準網址，通常是長這樣的 <a href="http://xxx.com/user/show/12345">http://xxx.com/user/show/12345</a> （國內某家社群網站好像連改都沒改，user profile 頁面網址就是這樣 ...）。因為這是一個很新的框架，在沒有多少參考範例的情況下，開發者在撰寫新功能時不是在 controller 改寫 scaffold 幫你自動建立的與法，就是照書或教學範例寫 code。結果造成了這樣的後遺症，從功能到 api 都長成這樣： <a href="http://xxx.com/model/function/numberid">http://xxx.com/model/function/numberid</a> 。</p>
+<p>下場是，抓資料不但很簡單，連惡搞都很方便。<strong>Twitter 傳送 direct message 都是採這種寫法（direct message 會送信到使用者信箱），大量寄送 spam 的門檻頓時變得非常非常非常的低，一行 curl 語法就能搞定 </strong>（不要寫信問我怎麼做 -_-）。
+
+在以 ROR 設計的網站上，這種情形實在太普遍。在傳統上，我們以 php / asp 自己一行一行打造的 code 較會閃開這種盲點，但是在 ROR 慣例優於配置的精神下，稍有不慎就很容易暴露商業機密、或資料輕鬆被整套被人爬回家分析。特別撰寫此文的原因，便是因為手法簡單以及弱點明顯，卻少有人重視與討論，與大家共分享之。</p>
+<p>-----</p><p>後記：以上的內容是 HIT 前發現的設計盲點。
+
+在我個人的感覺，以 PHP 和 ASP 純手工寫的網頁，功能像是自已規劃設計後一行一行添上去的。ROR 就比較像是用一包一包疊的，一整套給你，不要的再拿掉。這當然各有開發上的利弊。ROR 開發快，但是如果拿掉的不乾淨，同樣會寫 ROR 的人很快就可以知道怎樣玩這個網站。
+
+自己這幾天又發現的一個設計盲點，就大致屬於這一類。我這幾天玩到一個網站，站長還蠻有戒心的 (?)，show page 一律使用 username，又改了 mapping，想掃資料實在不好下手。最後是在一個地方破功：ROR 有一個好用的分頁功能 pagination，可以為輸出結果作分頁（各 ROR 網站常用這種設計）。這個網站也在它的排行榜採取了這種設計，而他設定了排行榜可以看前二十頁的使用者 ...破功的地方在於他有鎖網站 bar 上秀出來可看的頁數（20頁），卻未從 controller 裡設 筆數 Limit。對全站排序卻未鎖 limit，如果我可以看到第21頁，就表示可以看第 XXX 頁。如此一來，對著頁數掃，全站使用者列表與全站人數照樣手到擒來，username 的限制便一點用處都沒有了，口桀口桀。</p>

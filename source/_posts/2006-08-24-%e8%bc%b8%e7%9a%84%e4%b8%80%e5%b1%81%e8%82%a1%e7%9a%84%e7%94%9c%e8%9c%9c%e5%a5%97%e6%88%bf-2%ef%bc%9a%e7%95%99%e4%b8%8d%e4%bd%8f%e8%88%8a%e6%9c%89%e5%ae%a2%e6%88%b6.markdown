@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 80
+layout: post
+title: !binary |
+  6Ly455qE5LiA5bGB6IKh55qE55Sc6Jyc5aWX5oi/ICgyKe+8mueVmeS4jeS9
+  j+iIiuacieWuouaItg==
+
+date: 2006-08-24 23:21:24 +08:00
+wordpress_url: http://blog.xdite.net/?p=80
+---
+<br />而網路服務的提供，首重就是<strong>穩定性</strong>。筆者為了寫 xuite-joke 這個 blog，曾經詳盡了閱讀 xuite 所有月份的 Q&amp;A，才察覺到 Xuite舊用戶實在超級可憐。一個貼日記的地方，經常<strong>無預警暫停服務</strong>（就算有公告，也放在沒有人看到的地方，有貼公告就算數了?）不說，又常<strong>因為不明原因大爆炸造成操作上或使用上的困難</strong>。所有問題的發生只能仰賴貼到回應區，等待客服的回應。<br /><br />客服<strong>回應制式</strong>而且<strong>一天只回一次</strong>就算了。有些功能故障幾乎是萬年無解，這類問題通常會被選擇性跳過不答或是繼續回應罐頭訊息。而且某些重大的功能故障，修理期限常常是超過兩個禮拜的 ....（RSS 功能、國外連線、CSS 排版 ...）。誇張到難以忍受 ...<br /><br />一個常常 Denied Of Service的 Blog，如果不是累積大量文章難以搬家的舊用戶，誰會想繼續使用？<br />

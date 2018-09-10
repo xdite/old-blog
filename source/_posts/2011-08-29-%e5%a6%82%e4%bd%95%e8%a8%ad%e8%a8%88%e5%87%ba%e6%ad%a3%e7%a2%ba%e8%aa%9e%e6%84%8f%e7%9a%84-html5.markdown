@@ -1,0 +1,279 @@
+--- 
+wordpress_id: 3071
+layout: post
+title: !binary |
+  5aaC5L2V6Kit6KiI5Ye65q2j56K66Kqe5oSP55qEIEhUTUw1
+
+date: 2011-08-29 19:33:10 +08:00
+wordpress_url: http://blog.xdite.net/?p=3071
+---
+<p>最近在把玩由 <a href="http://gplus.to/evenwu">@evenwu</a> 介紹的 <a href="http://middlemanapp.com/">middleman</a>，middleman 是一個方便設計師設計 Ruby / Rails Web app theme 的工具，支援了 Bundler、Rack。</p>
+
+<p>anyway 這不是重點，重點是 middleman 也提供了 html5 layout 作為 default。而這個 default layout 是錯的。</p>
+
+<p>最近剛好翻修過一輪 <a href="http://www.techbang.com.tw">Techbang</a> 的 HTML，大幅修正了原先錯誤的 HTML5 語意。看到寫錯的 HTML 都很敏感。覺得忙完（前陣子公司 event、自己搬家、參加 Rubyconf ）後應該要來好好的整理一篇，第一個上班日，就看到錯的 default 值 orz。</p>
+
+<h1>常見錯誤</h1>
+
+<h2>錯誤 1：把 section 當成普通容器元素</h2>
+
+<p>與其將題目定為「<strong>如何設計出正確語意的 HTML5</strong>」，經過接近兩週的翻修 HTML 工作與研讀 HTML5 Spec 之後，我想本文主旨更貼近的是「<strong>如何避免設計錯誤語意的 HTML5</strong>」。</p>
+
+<p>middleman 產生的 layout.html.erb (最外圍的容器）  範例是</p>
+
+<pre>
+    &lt;section id=&quot;main&quot; role=&quot;main&quot;&gt;
+      &lt;%= yield %&gt;
+    &lt;/section&gt;
+</pre>
+
+<p>這也是最 common 的 mistake。</p>
+
+<div class="warning">
+請注意： "section" 並不是容器。
+</div>
+
+<p>更明白的說：</p>
+
+<ul>
+<li>section 是「一段」有意義的內容。</li>
+<li>如果你必須要使用 section 的話，它必須要有 heading</li>
+<li>如果你需要容器的話，請回去使用 div</li>
+</ul>
+
+<h2>錯誤 2：把 header 當成容器元素</h2>
+
+<p>header 可以使用在多處，標示為一段文件、一篇文章或者是一頁文件的標題。但是常見的一個設計錯誤是將 header 當做一段 header 「容器」。舉例來說：</p>
+
+<pre>
+    &lt;header id=&quot;header&quot;&gt;
+       # A LOT OF CODE HERE
+       &lt;h1&gt; first heading &lt;h1&gt;
+       &lt;nav&gt; foo &lt;/nav&gt;
+       &lt;p&gt; bar &lt;/p&gt;
+       &lt;h2&gt; second heading &lt;/h2&gt;
+    &lt;/header&gt;
+</pre>
+
+<p>header</p>
+
+<ul>
+<li>並不是一段 sectioning content</li>
+<li>header 並不會 follow outline algorithm</li>
+</ul>
+
+<p>如果你需要一個 header 「容器」，請使用 div。維持 header 內的單純。</p>
+
+<h2>錯誤 3: 將看得到的「列表」元素都包上 nav</h2>
+
+<p>nav 這個元素是「導航」的意思。表示這一段文件、一篇文章、一頁文件的導航 Link。也就是</p>
+
+<ul>
+<li>該站導覽 bar</li>
+<li>次專區導覽 bar</li>
+<li>文件導覽 bar</li>
+</ul>
+
+<p>都適合使用用 nav 標記</p>
+
+<p>常見錯誤的設計是將看的見的 ul li 外面都包上一層 nav。</p>
+
+<p>根據定義：</p>
+
+<p>a section of navigation links, either to other pages (site navigation) or to sections on the same page (eg a table of contents for long articles). This is for primary navigation blocks, not just for any group of links.</p>
+
+<p><strong>Don’t use &lt;nav&gt; unless you think &lt;section&gt; would also be appropriate, with an &lt;hx&gt;</strong></p>
+
+<p>所以以下這些元素是不適合用 nav 標記的：</p>
+
+<ul>
+<li>分頁標記</li>
+<li>social link</li>
+<li>TAG 與 Categories</li>
+</ul>
+
+<p>當然，我見過最離譜的設計是這樣的： </p>
+
+<pre>
+    &lt;header id=&quot;header&quot;&gt;
+       # A LOT OF CODE HERE
+       &lt;nav id=&quot;user-navigation&quot;&gt;
+        &lt;ul&gt;
+          &lt;li&gt; 登入&lt;/li&gt;
+          &lt;li&gt; 註冊 &lt;/li&gt;
+          &lt;li&gt; 關於本站 &lt;/li&gt;
+        &lt;/ul&gt;
+       &lt;/nav&gt;
+    &lt;/header&gt;
+</pre>
+
+<p>這一段 code 其實需要用 div 全部重寫。</p>
+
+<h1>常見誤區</h1>
+
+另外則是一些模糊誤區。
+
+<h2>誤區 1 ：以為只有 sidebar 才適用 aside</h2>
+
+<p>aside 的定義是：</p>
+
+<p>a section of a page that consists of content that is tangentially related—but separate—to the surrounding content. In print this would be a sidebar, pullquote or footnote. </p>
+
+<p>也就是跟主文沒那麼相關的都可以扔 aside 啦。</p>
+
+<h2>誤區 2 : 搞不清楚何時該使用 article / section / div ？</h2>
+
+<p>以下是它們的定義</p>
+
+<ul>
+<li><p>article : An article is an independent, stand-alone piece of discrete content. </p></li>
+<li><p>section : on the other hand, isn’t “a self-contained composition in a document, page, application, or site and that is intended to be independently distributable or reusable”. It’s either a way of sectioning a page into different subject areas, or sectioning an article into … well, sections.</p></li>
+<li><p>div : is only a block of content</p></li>
+</ul>
+
+<p>白話的解釋，如果你不知道該怎麼定義的話：可以先都使用 article 去定義一段文本。如果它是一段「相關文本」，可以使用 section。因為 article 的語意比較多樣，而 section 則窄的多。</p>
+
+<p>而如果這段內容它「沒有任何語意上」的意義，再使用 div。</p>
+
+<h2>誤區 3 : 哪一種元素要加 heading？不加可以嗎？</h2>
+
+<p>well，礙於 web design 元素排列的關係，其實不是每次你想加 heading 都可以加上去，有時候一加上去排版就爆炸了，還得另外寫 css 隱藏。即便這樣，但是有一些元素是強烈建議一定要加 header 或 hx 的（強烈到 **must** )。比如：</p>
+
+<ul>
+<li>article</li>
+<li>section</li>
+</ul>
+
+<p>至於 </p>
+
+<ul>
+<li>nav</li>
+<li>aside </li>
+</ul>
+
+<p>沒有 heading 倒沒有什麼太大的關係。</p>
+
+<h1>使用語意標記撰寫 HTML 有什麼好處？</h1>
+
+<p>在傳統的 HTML4 上，能夠拿來強調語意的只有 strong em hx p 等等...</p>
+
+<p>但在設計上這是遠不夠用的。比如說實作一個 CMS 好了。這是我們常見的 HTML 設計手法。</p>
+
+<pre>
+
+&lt;div class=&quot;header&quot;&gt;
+  &lt;h1&gt; SITENAME &lt;/h1&gt;
+&lt;/div&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;div class=&quot;article-header&quot;&gt;
+    &lt;h2&gt; POST TITLE &lt;/h2
+  &lt;/div&gt;
+
+  &lt;div class=&quot;social-link&quot;&gt;
+    SOCIAL LINKS HERE
+  &lt;/div&gt;
+
+  &lt;div class=&quot;article-content&quot;&gt;
+    # EDITOR's content here
+    &lt;h1&gt; First class heading &lt;/h1&gt;
+    &lt;p&gt; content here &lt;/p&gt;
+    &lt;h2&gt; Second class heading &lt;/h2&gt;
+    &lt;p&gt; content here &lt;/p&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;sidebar&quot;&gt;
+  &lt;div class=&quot;section&quot;&gt;
+    &lt;h2&gt; Widget Title &lt;/h2&gt;
+    &lt;div class=&quot;widget-content&quot;&gt;
+      WIDGET CONTENT HERE
+    &lt;/div&gt;
+&lt;/div&gt;
+
+</pre>
+
+<p>你會注意到的是：</p>
+
+<ul>
+<li>真正重要的 h1 被網站名稱搶走了。即便網站名稱在這份文件裡面 <strong>一點都不重要</strong></li>
+<li>雖然使用 h2 標記了文章的標題（本分文件最重要的標題）。但編輯或使用者自己撰寫的內容有可能也包含了 h1,h2,h3 等。搜尋引擎不知道哪一個 heading 才是最重要的。</li>
+<li>sidebar 也有 h2，這樣一來也更混亂了。</li>
+<li>social link 在正文的前面，有一定的機率被認為是文章正文。</li>
+</ul>
+
+<p>很困擾不是嗎？</p>
+
+<p>但如果你使用了 article / section / header / aside ... 等等標籤，搜尋引擎或其他語意判斷引擎就能明瞭你強調的重點了。</p>
+
+<p>對 SEO 將有極大的幫助。</p>
+
+<h1>現在就能進場使用 HTML5 語意標記了嗎？</h1>
+
+<p>一般來說，我不會建議一般人現在就使用 HTML5 語意標記撰寫你的 HTML。雖然已經有搜尋引擎 support 了 ( Yahoo ）。</p>
+
+<p>使用這些標記固然搜索上有加分，但是你一旦寫錯了，代價可是很大...</p>
+
+<p>之前我一個好友設計師 Eli 在幫我設計 HTML template 時，我一時大意沒有 review，就讓這東西上  production 了。後來在 Yahoo 的搜尋效果很糟糕，甚至我還看到令人 XD 的搜尋結果：</p>
+
+<p>不知道為何「內文」很少被 index 到，而標題竟然都被記載 "XXXX 主選單：YYYY "。</p>
+
+<p>剛開始本來以為 Yahoo  在發春，後來想通後才明白 Yahoo 非常照著 spec 在走，因此 HTML 內如果 一堆亂標的 section / nav header 之類的反而會誤導搜尋引擎，產生非我們期望的結果。</p>
+
+<p>加上原本這一份 html 是內部規範，底下的 RD 照著走，就越來越慘不忍睹了。我足足花了兩週才把整份 html 重寫到接近正確的樣子。（因為 style 還不能跑掉）</p>
+
+<h2>需要注意的事項</h2>
+
+<ul>
+<li><p>瀏覽器的支援：</p>
+
+<ul>
+<li>IE 不支援 HTML5。必須使用 <a href="http://code.google.com/p/html5shiv/">html5shiv</a> 去 enable html5 。 </li>
+<li>不管你想要支援何種瀏覽器，請都先使用 <a href="http://html5doctor.com/html-5-reset-stylesheet/">html5<em>doctor</em>reset.css</a> reset 樣式</li>
+</ul></li>
+<li><p>不要對任何語意 TAG 下 style </p>
+
+<ul>
+<li>語意 tag 只是用來描述語意的而已，如果真要下 style，請用非語意元素包裹，下在非語意元素上。</li>
+<li>硬是將 style 下在語意上，會造成之後想要調整語意順序時，有無法遇見的災難。（我就是被這件事情整到 ...改到都想要哭了）</li>
+</ul></li>
+<li><p>不要一開始就使用 html5 語意 TAG，寫完再翻修</p>
+
+<ul>
+<li>如果你想新編一份 html5，在撰寫文件時，我個人的建議是，請先用 html4 寫一份標準的 dom。之後再照語意用 html5 tag 去調整。 </li>
+<li>因為會發生的情形是 (1) 有時候你不是那麼熟悉語意 tag，你不知道用哪一個標記比較適當。甚至更可能的是，你被 html5 的 spec 弄糊塗了，你以為適用的情境完全是錯的。（這就是這次慘劇發生的主要原因）(2) 邊寫邊改會拖垮你的工作效率。(3) 過於對單一頁面執著語意，在寫另外一份頁面時會發現完全不適用。</li>
+</ul></li>
+<li>可以使用 Chrome 的 <a href="https://chrome.google.com/webstore/detail/afoibpobokebhgfnknfndkgemglggomo">html5outliner</a> 去檢視成果。</li>
+</ul>
+
+<h2>不知道如何判斷適用的語意 TAG 怎麼辦？</h2>
+
+<p>HTML5doctor 提供了一份<a href="http://html5doctor.com/happy-1st-birthday-us/">流程圖</a> 供你參考。</p>
+
+<h2>成果</h2>
+
+<p><a href="http://www.flickr.com/photos/xdite/6092153685/" title="螢幕快照 2011-08-29 下午7.18.18 by xdite, on Flickr"><img src="http://farm7.static.flickr.com/6082/6092153685_288ace0c51.jpg" width="397" height="500" alt="螢幕快照 2011-08-29 下午7.18.18"></a></p>
+
+<h1>參考資料</h1>
+
+<ul>
+<li><a href="http://html5doctor.com/avoiding-common-html5-mistakes/">http://html5doctor.com/avoiding-common-html5-mistakes/</a></li>
+<li><a href="http://html5doctor.com/the-article-element/">http://html5doctor.com/the-article-element/</a></li>
+<li><a href="http://html5doctor.com/the-section-element/">http://html5doctor.com/the-section-element/</a></li>
+<li><a href="http://www.brucelawson.co.uk/2010/html5-articles-and-sections-whats-the-difference/">http://www.brucelawson.co.uk/2010/html5-articles-and-sections-whats-the-difference/</a></li>
+<li><a href="http://boblet.tumblr.com/post/134732913/html5-structure3">http://boblet.tumblr.com/post/134732913/html5-structure3</a></li>
+<li><a href="http://html5doctor.com/aside-revisited/">http://html5doctor.com/aside-revisited/</a></li>
+<li><a href="http://html5doctor.com/nav-element/">http://html5doctor.com/nav-element/</a></li>
+<li><a href="http://html5doctor.com/the-header-element/">http://html5doctor.com/the-header-element/</a></li>
+<li><a href="http://www.w3.org/TR/html5/sections.html#the-header-element">http://www.w3.org/TR/html5/sections.html#the-header-element</a></li>
+</ul>
+
+<div class="note">
+
+廣告：
+
+喜歡我的文章的讀者，最近我的新書
+
+<a href= "http://rails-101.heroku.com/books/3-essential-rails-pattern"> Essential Rails Design Pattern for Beginners</a> 一書，開放預購了。原價 <del> 14.99 USD </del>。預購只要 9.99。本書將在九月底或十月初出版。歡迎捧場。
+
+</div>

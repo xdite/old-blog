@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 328
+layout: post
+title: !binary |
+  5pyJ57mz6Yyi55qE5omN5piv55So5oi2IT8=
+
+date: 2007-04-26 00:30:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=328
+---
+yes 。你沒看錯，最近已經過火到連<b>所有熱鍵都被限制成 VIP 才能使用</b>了。這跟前陣子的流量過大（還是資料庫負擔過大）根本沒什麼關係吧？<br /><br />什麼是「可以做的事」，現在都一一浮現出來了 :p<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/472553566/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/224/472553566_1a710cfd98_o.jpg" alt="vipfinction" height="314" width="424" /></a>

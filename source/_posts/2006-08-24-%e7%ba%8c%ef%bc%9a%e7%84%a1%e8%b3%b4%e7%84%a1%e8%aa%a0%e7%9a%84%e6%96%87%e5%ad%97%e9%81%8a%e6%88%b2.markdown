@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 78
+layout: post
+title: !binary |
+  57qM77ya54Sh6LO054Sh6Kqg55qE5paH5a2X6YGK5oiy
+
+date: 2006-08-24 16:36:37 +08:00
+wordpress_url: http://blog.xdite.net/?p=78
+---
+某有名大站經過白金會員強烈抗議後，終於做出了<a href="http://www.wretch.cc/hala/viewtopic.php?t=89613">可以重選回饋方案的選項</a>。<br />另外新增了一條：「<span style="font-weight: bold"><span style="color: red">保留 500 股認股權</span></span> ( 還要再花數萬元以上才能購買, 不是直接拿股票哦 )」<br /><br />奇怪，之前的「承諾」不是「<strong>至少 500股</strong>」，怎麼被縮水成了「<strong>500股</strong>」<br />

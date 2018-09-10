@@ -1,0 +1,73 @@
+--- 
+wordpress_id: 254
+layout: post
+title: !binary |
+  6K6T5aSn5a625pu05LqG6Kej54Sh5ZCN5bCP56uZPw==
+
+date: 2007-01-08 17:20:26 +08:00
+wordpress_url: http://blog.xdite.net/?p=254
+---
+1. 有名大站的新聞稿
+
+<blockquote>&nbsp;作者&nbsp; bbsFAQ (客服中心)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 看板&nbsp; 0VIP
+&nbsp;標題&nbsp; [01/08] 無名小站新聞說明
+&nbsp;時間&nbsp; Mon Jan&nbsp; 8 14:31:00 2007
+───────────────────────────────────────
+
+各位會員好,
+
+&nbsp;&nbsp;&nbsp; 今天關於無名小站的新聞
+&nbsp; &nbsp; <a href="http://udn.com/NEWS/NATIONAL/NAT4/3679248.shtml">http://udn.com/NEWS/NATIONAL/NAT4/3679248.shtml</a>
+
+&nbsp;&nbsp;&nbsp; 其中有許有不正確的資訊與誤解，以下是我們的說明:
+
+&nbsp;&nbsp;&nbsp; 無名小站從成立至搬出交大自組公司，其中過程一切合法
+&nbsp;&nbsp;&nbsp; 在交通大學的指導之下，我們一步一步按照合法的程序進行
+&nbsp;&nbsp;&nbsp; 除了技術移轉費之外，同時並有許多回饋交通大學的計劃在執行中
+&nbsp;&nbsp;&nbsp; 底下則是交通大學的說明新聞:
+
+&nbsp;&nbsp;&nbsp; <a href="http://tw.news.yahoo.com/article/url/d/a/070108/17/93gp.html">http://tw.news.yahoo.com/article/url/d/a/070108/17/93gp.html</a>
+
+&nbsp;&nbsp;&nbsp; 希望這樣說明<b>讓大家更了解無名小站</b>，謝謝大家
+
+</blockquote>&nbsp;
+
+
+2. <a href="http://tw.news.yahoo.com/article/url/d/a/070108/17/93gp.html">交通大學的說明新聞 </a>:
+
+<blockquote>而交大研發長林一平表示，<b>無名小站並未使用學術網路營利，反而協助學校招生</b>，後是因為加入的會員太多，<b>頻寬不足要求學校贊助遭拒</b>，於是在企業的協助與支付學校1千萬的技術移轉費後，另外成立公司。
+</blockquote>
+3. <a href="http://xdite.net/paste/1220-04.txt">[公告] wretch想和大家說的一段話</a>
+
+<blockquote>作者: wretch (我好想要馬子小組.3) 看板: 0Sysop
+標題: [公告] wretch想和大家說的一段話
+時間: <font color="#ff0000"><b>Wed Dec  1 05:34:25 2004</b></font>
+
+[deleted]
+<pre>無名小站的站長群不用給薪水為什麼無名這麼缺錢？
+因為成長速度太快，伺服器、硬碟、記憶體很快的又不夠用了。</pre>[deleted]
+
+比較之下，我覺得這條路會比留在學校好走。第一，至少可以給未來加入
+   無名小站管理團隊的人一個夢想，因為若經營的順利，無名小站可以有未來，
+   人事方面就比較好解決，錢事方面，<b>一開始燒錢是難免的。我預計是先接廣告</b>
+<b>   試看看能否儘量將成本打平</b>。
+
+<b>     <font color="#ff0000">最近大家也看到相簿出現了一些贊助商廣告，一方面贊助金可以解決一些</font></b>
+<b><font color="#ff0000">   無名小站的燃眉之急，另一方面我也在測試無名是否有接廣告的能力</font>。</b>
+
+<b>       如果廣告的收入打不平支出，收費也是難免的事</b>，我知道很多人一定不喜
+   歡無名收費，我不會抱怨，是我們沒本事，是我們沒本事讓無名活下去，如果
+   大家可以有免費的選擇，我會支持大家去那邊。
+
+[deleted]
+</blockquote>  
+4. <a href="http://vbb.twftp.org/archive/index.php/t-5154.html">TWFTP 無名後續 ...</a> 討論串
+
+<p><a href="http://www.flickr.com/photos/14765209@N00/350225052/" target="_blank"><img src="http://static.flickr.com/130/350225052_ee7cc9cb58.jpg" alt="wretchad02" /></a>
+</p><a href="http://www.flickr.com/photos/14765209@N00/350225075/" target="_blank"><img src="http://static.flickr.com/136/350225075_3cda63a525.jpg" alt="wretchad03" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/350225105/" target="_blank"><img src="http://static.flickr.com/135/350225105_4457f6cee9.jpg" alt="wretchad01" /></a>
+
+
+<p>延伸過往閱讀 ：
+</p><ol><li><h2><a href="http://blog.xdite.net/?p=233" rel="bookmark" title="Permanent Link: 無名小站告訴我們的是什麼？">無名小站告訴我們的是什麼？</a></h2></li><li><h2><a href="http://blog.xdite.net/?p=234" title="目前有 14 篇評論">續：無名小站告訴我們的是什麼？</a></h2></li></ol>

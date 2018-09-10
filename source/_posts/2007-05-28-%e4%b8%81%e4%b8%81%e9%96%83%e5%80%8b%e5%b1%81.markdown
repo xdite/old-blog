@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 361
+layout: post
+title: !binary |
+  5LiB5LiB6ZaD5YCL5bGB
+
+date: 2007-05-28 12:54:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=361
+---
+<br />剛剛讀者丟訊息通知丁丁大站全面改版，要筆者趕快去看。<br />是蠻好看的，可是版型害的筆者的眼睛很痛。<br /><br />明明左上才是一個網站的黃金區塊，相簿和網誌首頁右邊卻還擺一個一閃一閃的特大 Flash。 要搶使用者目光也不是這樣吧，這樣使用者眼睛不會扭到我輸你...<br /><br />丁丁大站的設計者，我真是猜不透你啊 :(<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/517531695/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/231/517531695_f29b21649a.jpg" alt="flashwretch" height="362" width="500" /></a>

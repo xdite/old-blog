@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 366
+layout: post
+title: !binary |
+  ZnVucCDmjqjmlofmjInpiJXosrzntJkgZm9yIHdvcmRwcmVzcw==
+
+date: 2007-06-01 01:08:30 +08:00
+wordpress_url: http://blog.xdite.net/?p=366
+---
+現在快凌晨一點，我腦袋其實已經沒有 CPU 資源可以消耗來寫文章了。只是剛剛睡前想也幫部落格裝個<a href="http://funp.com/"> funp</a> 推薦貼紙。仔細搜尋一下，發現它們的<a href="http://funp.com/pages/tools/">工具網址</a>還真難找，竟然在最右下角 orz。<br /><br />我一直覺得 funp 是個很強大的工具網站，但是卻具備許多小缺點待修（因為沒有 CPU 資源了，所以文略三千字）。例如動線亂，功能強大功能卻不好找或不好操作等 ... 好 ..stop ....不是這次的重點。<br /><br /><br />重點是剛剛在弄<a href="http://funp.com/pages/tools/buttongen.php">部落格推文貼紙</a>的時候，才發現一件事。它們沒有針對各個 blog 平台去設計貼紙語法，而且還讓人摸索半天才知道怎麼加。這讓我覺得是件頗神奇的事。要知道，blog 效應才是能造成野火燎原的關鍵元素啊。<br /><br /><br />原始設計是這樣：打了只會收指定網站，不打就是該頁網址。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/523465955/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/206/523465955_efc3aa5c44_o.jpg" alt="funpwp01" height="382" width="485" /></a><br /><br />害我在那邊研究 <a href="http://blog.ericsk.org">ericsk</a> 的 blog 半天，看他是怎樣做的。到底要怎樣才能在首頁讓貼紙曝光，而且針對個別網址去產生推薦按鈕？用了僅剩的 大腦 CPU 資源想了半天，才想到他應該是只有針對 single.php 去做了不寫指定網址的按鈕。在首頁好像沒解...<br /><br />不對，那<a href="http://www.hemidemi.com">黑米</a>是怎樣做的？再用力了搾乾資源才突然想起來 ...要在 wordpress 佈景裡的 index.php 做出可以針對每篇文章生出指定按鈕的語法應該是要這樣寫啊....<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/523466125/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/214/523466125_fe9cd67e8f_o.jpg" alt="funp02" height="373" width="502" /></a><br /><br />看來推推王還是要針對 user friendly 加加油 ....<br /><br />我真的要去睡了，嚴重睡眠不足。<br />
+
+----
+剛寫完 funp.com 就掛了，明天再把 script 重新掛上好了 -_-

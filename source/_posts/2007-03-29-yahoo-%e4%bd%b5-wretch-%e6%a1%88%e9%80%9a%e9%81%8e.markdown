@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 301
+layout: post
+title: !binary |
+  WWFob28g5L21IFdyZXRjaCDmoYjpgJrpgY4h
+
+date: 2007-03-29 12:11:20 +08:00
+wordpress_url: http://blog.xdite.net/?p=301
+---
+剛剛的消息，雅虎併無名小站 公平會附條件同意
+
+<a href="http://www.bcc.com.tw/news/newsview.asp?cde=425302">
+ http://www.bcc.com.tw/news/newsview.asp?cde=425302</a>
+
+<blockquote>入口網站雅虎奇摩併購社群網站無名小站，公平會今天同意結合。由於部分市場競爭者曾經批評雅虎奇摩信箱阻檔E-mail傳送、影響其他業者的權益，公平會特別提出不得濫用市場地位，阻擋電子郵件接收與傳送等附帶條件。</blockquote>
+
+其實，因為某有名大站不斷的一連串推出大動作與網站改版動作，筆者幾天前就隱隱約約覺得案子應該是會過了，因為沒有十足的把握是不可能這樣搞一連串耗費巨大資源的活動的。
+
+不過公平會的附帶條件也蠻神奇的，疑似故意掉信這種事要怎樣舉證和抗議(?)，豈不是有講跟沒講一樣。

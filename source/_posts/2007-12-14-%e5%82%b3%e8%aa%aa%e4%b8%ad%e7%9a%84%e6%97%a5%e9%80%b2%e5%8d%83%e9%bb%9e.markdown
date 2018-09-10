@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 511
+layout: post
+title: !binary |
+  5YKz6Kqq5Lit55qE5pel6YCy5Y2D6bue
+
+date: 2007-12-14 05:11:29 +08:00
+wordpress_url: http://blog.xdite.net/?p=511
+---
+這是我決定肥水不落外人田後。頭一次寫的三篇文章擠上同天的 funp 頭版，結果是日進千點紅利點數。
+
+<a href="http://www.flickr.com/photos/14765209@N00/2109574690/" title="Flickr 上 xuitejoke 的 funp1000"><img src="http://farm3.static.flickr.com/2175/2109574690_839e45b5bb.jpg" width="500" height="138" alt="funp1000" /></a>
+
+---
+其實是 1480 點。一篇文章上一次熱門有 100+40+15+4+1 =160 的額外點數，三篇就是 480 點。

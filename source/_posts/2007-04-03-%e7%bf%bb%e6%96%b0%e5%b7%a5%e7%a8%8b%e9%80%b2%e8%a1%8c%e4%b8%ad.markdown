@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 305
+layout: post
+title: !binary |
+  5paw54mI5Z6L54Sh6aCQ6K2m5LiK57eaPw==
+
+date: 2007-04-03 09:04:26 +08:00
+wordpress_url: http://blog.xdite.net/?p=305
+---
+blog 經歷大浩劫歸來，也是時候該翻新了。
+
+本站將會進行連續幾日的翻新工程。如果你對本站 theme 或 function 有任何的不滿。
+請一定要向我抱怨 :p
+
+[poll=1] 
+
+
+--
+
+update:連我自己都覺得壓迫。暫時先取下來放在 <a href="http://xdite.net.bblog/"> http://xdite.net.bblog/ 。</a>好了
+等改到不壓迫再上線。

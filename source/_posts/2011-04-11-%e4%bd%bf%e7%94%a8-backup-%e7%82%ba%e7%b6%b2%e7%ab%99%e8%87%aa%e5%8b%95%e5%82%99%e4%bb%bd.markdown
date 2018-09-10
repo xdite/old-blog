@@ -1,0 +1,36 @@
+--- 
+wordpress_id: 2190
+layout: post
+title: !binary |
+  5L2/55SoIGJhY2t1cCDngrrntrLnq5noh6rli5Xlgpnku70=
+
+date: 2011-04-11 12:27:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=2190
+---
+最近手頭上的機器噴了，於是在重新審視備份策略。剛好翻 RSS 翻到最近有被特別提起的這個 rubygem : <a href="https://github.com/meskyanichi/backup">backup</a>。出事之前原本就想 survey，出事之後就趕緊來翻一下，果然這東西不是普通的暴力...
+
+用相當清楚的 DSL 描述備份作業。支援自動 backup db，自動 backup file。接 s3 syncer 或 rsync，備份完畢甚至可以打 notifier 出去。
+
+想想之前為什麼要自己搞得那麼辛苦啊....
+
+提供一下我寫的 script example
+<script src="https://gist.github.com/913052.js?file=gistfile1.txt"></script>
+
+執行結果是長這樣...
+
+<a href="http://www.flickr.com/photos/xdite/5608933818/" title="螢幕快照 2011-04-11 下午12.16.38 by xdite, on Flickr"><img src="http://farm6.static.flickr.com/5302/5608933818_ee47a718f0_z.jpg" width="640" height="109" alt="螢幕快照 2011-04-11 下午12.16.38"></a>
+
+提醒：
+
+你必須先
+
+
+
+<blockquote>gem install backup
+gem install fog
+gem install s3sync
+echo "export AWS_CALLING_FORMAT=SUBDOMAIN" >> ~/.profile && . ~/.profile</blockquote>
+
+執行備份工作，則是 <strong>backup perform -t "jobname"</strong>
+
+config 則是寫在 ~/Backup/config.rb 

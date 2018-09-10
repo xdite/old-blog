@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 347
+layout: post
+title: !binary |
+  MjAwNCDmiYDorILnmoTnvLrpjKLli5/mrL4/
+
+date: 2007-05-09 01:09:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=347
+---
+<strong>update </strong>: <a href="http://web.archive.org/web/20041115011016/http://www.csie.nctu.edu.tw/~wkwu/wretch/donater.php">當年的贊助名單</a>。
+
+<strong>update </strong>: <a href="http://www.itmag.org.tw/magazine/article_single_140.htm">無名小站──簡志宇的創業驚奇</a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/490870382/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/200/490870382_bb686e76c4.jpg" width="500" height="59" alt="圖片 7.png" /></a>
+
+<br />這件事是在蔡神講出 2004 年 8 月有名大站挪用系計中硬碟空間高達 5T (5000GB) 之後，在 p2 引發的討論串所再度掀起的。<br /><br />有位熱心的 S 版友，想計算 5T 到底是多少顆硬碟，於是寫了<a href="http://xdite.net/paste/2004-5tb.txt">這篇文章</a>計算硬碟數。<br /><br />大意便是是當年若以 36G SCSI HD 做 RAID 5 大概估計需要 220 顆才夠用。但若是以丁丁站長一貫說法使用屆期報廢但堪用的硬碟來計算，便需要 577 顆 以上才夠。怎麼看都覺得很誇張。但是又有版友提出...以 250G 做 5T 的 RAID ，就不會那麼誇張了。<br /><br />筆者一直記得當時的硬碟並沒有那麼 250 G這種規格那麼大，報價也不低。想起了信箱裡還躺著一封去年九月就收到但是一直沒用上的的爆料信。是關於某偽吳大在 轉信 BBS 上拋售數十顆硬碟的文章，上面有硬碟容量與價錢。我將之貼上 p2。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/490025468/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/199/490025468_de124cf69a.jpg" alt="hd01" height="240" width="500" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/490025424/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/200/490025424_1de4bc9d27.jpg" alt="hd02" height="244" width="500" /></a><br /><br />此文一貼，立刻又有版友眼尖看到上面的日期（2004/10/18)很詭異，當時尚未搬出學校，也尚未跟廣大社會告急募款（那是 11~12 月的事）。它們既然<font color="#ff0000"><b>很缺錢擴充硬碟容量以及各項設備</b></font>，偽吳大為何要拋售數十顆 160G 全新硬碟？難道有新資金進駐可以換更好的硬體設備故拋售？<br /><br />而筆者被版友這番話猛然打醒，又記起本站大約幾個月前的 comment 和 之前收到的一封信、以及2004/12/01 <b><a href="http://xdite.net/paste/1220-04.txt">wretch 想和大家說的一段話存檔</a></b>。<br /><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/490067969/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/189/490067969_ecf3afe8a3.jpg" alt="39comment" height="500" width="278" /></a><br /><br /><a href="http://www.flickr.com/photos/14765209@N00/490062845/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/197/490062845_16286a907a.jpg" alt="2004nov" height="384" width="487" /></a><br /><br />與前幾篇蔡神文幾番對照之下，原來，當年的一番熱血，原來都是.....？<br />

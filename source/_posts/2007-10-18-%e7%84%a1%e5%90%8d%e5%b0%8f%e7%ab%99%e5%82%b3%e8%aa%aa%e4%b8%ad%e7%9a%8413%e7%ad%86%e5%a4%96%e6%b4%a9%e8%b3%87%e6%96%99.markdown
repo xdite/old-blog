@@ -1,0 +1,39 @@
+--- 
+wordpress_id: 476
+layout: post
+title: !binary |
+  54Sh5ZCN5bCP56uZ5YKz6Kqq5Lit55qEMTPnrYblpJbmtKnos4fmlpk=
+
+date: 2007-10-18 15:43:02 +08:00
+wordpress_url: http://blog.xdite.net/?p=476
+---
+最近在寫某些東西，需要一些 XSS 相關的資料作素材。於是筆者三不五時就去 Google 上翻找。不過因為只要以 XSS 或 無名小站，在台灣翻找，筆者的 rank 都比較高，讓我不勝苦惱。於是想嘗試不同地區的 Google，庫存索引與頁面是否會有新發現？
+
+剛剛在 Google.cn 找了一下這個關鍵字 <a href="http://www.google.cn/search?complete=1&hl=zh-CN&ie=GB2312&q=XSS+%9Fo%C3%FB%D0%A1%D5%BE&btnG=Google+%CB%D1%CB%F7&meta=&aq=o">"XSS 無名小站"</a>
+
+沒想到跳出來的第二筆結果便是 : <a href="https://forum.eviloctal.com/read-htm-tid-26114.html">[討論]號稱台灣最大的blog站點(無名小站)存在嚴重XSS漏洞</a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/1611989620/" title="相片分享"><img src="http://farm3.static.flickr.com/2150/1611989620_4235ad7121.jpg" width="500" height="214" alt="wretch-xss02" /></a>
+
+而且，而且，而且竟然附了附件!!! (PS. 對附件有興趣的話，請自行取得，本站不會提供下載)
+
+附件裡都是一些 XXXXXX_maintain.htm。數目恰好恰好就是<strong>傳說中的 13 !!</strong>。
+
+<a href="http://www.flickr.com/photos/14765209@N00/1611100881/" title="相片分享"><img src="http://farm3.static.flickr.com/2411/1611100881_a4044ead83.jpg" width="500" height="390" alt="wretch-xss03" /></a>
+
+回顧一下去年的這段新聞  <a href="http://www.libertytimes.com.tw/2006/new/nov/21/today-life4.htm">無名小站遇「駭」 個資流入中國</a>
+
+<blockquote>中國駭客竟仿效 連結下載個資
+
+警方已將兩人先以妨害電腦使用罪嫌送辦。不過，他們的手法似已引發中國駭客仿效，將取得的個人資料貼在中國的網站上，甚至還提供一個檔案連結，讓網友可以下載他所抓得的部分無名小站用戶資料。
+
+
+無名小站：被竊資料僅13筆
+
+與駭客激戰十多分鐘
+
+〔記者袁世忠／台北報導〕無名小站昨日證實，會員資料庫確實在今年八月間遭駭客入侵，竊走部分資料，當初因為工作人員發現後，和對方在網路上展開十幾分鐘的攻防，最後終於逼退對方，初步統計僅有十三筆資料在過程中被竊走，站方在這次教訓後，就立刻修補系統漏洞。</blockquote>
+
+這十三筆資料很明顯就是駭客放出來的demo，證明他的確取得了資料，而非僅僅被竊走十三筆。只是當時新聞裡提到的這篇 POST 很快就在網路上消失了。沒人知道無名小站被盜取了什麼資料以及詳細的情形。
+
+如今看來，當時無名小站的確是基於這個 無名小站.rar 編了一個漫天大 JOKE 啊 XD

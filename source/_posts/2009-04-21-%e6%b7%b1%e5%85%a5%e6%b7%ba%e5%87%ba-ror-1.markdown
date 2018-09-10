@@ -1,0 +1,48 @@
+--- 
+wordpress_id: 1155
+layout: post
+title: !binary |
+  5rex5YWl5re65Ye6IFJvUiAoMSk=
+
+date: 2009-04-21 00:13:23 +08:00
+wordpress_url: http://blog.xdite.net/?p=1155
+---
+身為一個 Rails Developer，常被人問的問題通常是這幾個。
+
+(1) <strong>請問要怎麼開始上手</strong>?
+(2) <strong>請問有沒有推薦的書</strong>?
+(3) <strong>請問有沒有推薦的開發工具</strong>?
+
+這些顯見都是新手亟欲求解的類型。
+
+這一些問題，若在一年多前都還存在著近似標準答案的解答。然而隨著 Rails 在版本以及架構變遷上的迅速更迭，我已經慢慢沒有沒有自信這麼迅速的對這些問題肯定給出解答。
+
+然而，經過這整整一年開發 Rails Application 的訓練下來，我覺得即使沒有辦法給出肯定的回答。但是對於一些開發和學習上的建議、我應該還是有辦法整理的出來。這就是寫這系列文章的初衷。
+
+------
+
+一般來說，Rails 給人的印象，就是「<strong>開發迅速</strong>」。然而「開發迅速」給人的下一個直覺反應就是「Rails 沒有門檻，很簡單」。
+
+如果這樣想，就錯了。
+
+「沒有門檻、很簡單」真的是只有 CRUD 動作（註）而已，也就是如果你要刻一個簡單的留言版。具有 Web Development 經驗的人，翻翻 Rails 書在一兩個小時，甚至十幾分鐘內就寫完是可能的事情。
+
+但是如果要更進階，比如說要在幾小時內撰寫一個可以供很多人開設自己留言版的站台、權限控制、巢狀結構、Group 權限等等。那就是除了 Web Developemt 經驗外，還要加上瞭解 Ruby Magic、 Rails Magic、自己經過長期開發累積了一些程式碼，才有辦法辦得到的事。
+
+一些 Rails 開發者的程式還卡在 Rails 1.x，除了因為 Rails 2.x 沒有中文書推廣的因素外，<strong>Rails 2.x 的 Web Application 撰寫，實際上是需要對整個 Rails 框架要有一點進階程度上的認識</strong>。
+
+（因為寫 Rails 1.x 可以像寫 php 那樣蠻幹，所以基本上會寫 php 就...)
+
+除去 SEO 的影響，框架上大幅度的改版及棄用語法，即使 Rails 2.x 相當美妙，但也不是誰都願意、有辦法改版上 Rails 2.x 的。
+
+
+因此，走筆至今。我要先給的第一個建議是：
+
+學習 Rails，必須建構在你有 Web Development 的 sense 以及 expierence 的前提上。沒有這些基礎，寫 Rails 並不會比寫 php 更快樂更容易。寫 Rails 很快樂，CRUD 很簡單，但 Rails 並不是只有 CRUD 和 scaffold （註）而已。
+
+
+註：CRUD is Create / Read / Update / Delete , DBMS(資料庫管理系統)中必要的4個基本功能
+註：在 Rails 裡下針對 model scaffold 指令，可以迅速打出一個 CRUD 的介面。
+
+原文：<a href="http://rails.pixnet.net/blog/post/22952852">http://rails.pixnet.net/blog/post/22952852</a>
+# This blog is written by me

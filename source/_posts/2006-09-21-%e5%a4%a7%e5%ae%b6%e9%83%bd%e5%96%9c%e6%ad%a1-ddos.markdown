@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 125
+layout: post
+title: !binary |
+  5aSn5a626YO95Zac5q2hIERET1MgPw==
+
+date: 2006-09-21 13:52:14 +08:00
+wordpress_url: http://blog.xdite.net/?p=125
+---
+其實我懷疑大家是不是都喜歡搞 DDOS 這一招？Xuite 搞 （<a title="Permanent Link: 佈景阻斷式攻擊" rel="bookmark" href="../../../../../?p=121">佈景阻斷式攻擊</a> ），無名也搞，上首頁之前都沒人過濾一下嗎？<br /><br />這張是凌晨 2:00 拍到的，相簿的說明文字都被搞糊了。<br /><br /><span style="text-decoration: underline;"><a title="Photo Sharing" href="http://www.flickr.com/photos/14765209@N00/248407680/"><img width="305" height="500" alt="ddos" src="http://static.flickr.com/95/248407680_1f9a9bfc6e.jpg" /></a></span>

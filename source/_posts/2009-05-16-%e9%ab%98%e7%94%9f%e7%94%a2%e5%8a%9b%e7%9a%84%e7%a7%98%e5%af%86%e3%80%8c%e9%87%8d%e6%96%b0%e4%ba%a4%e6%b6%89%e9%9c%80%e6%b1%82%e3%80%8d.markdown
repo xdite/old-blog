@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 1186
+layout: post
+title: !binary |
+  IOmrmOeUn+eUouWKm+eahOenmOWvhjrjgIzph43mlrDkuqTmtonpnIDmsYLj
+  gI0=
+
+date: 2009-05-16 14:27:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=1186
+---
+這是 RailsConf 2009 DHH 在 Rails3 Keynote 最後一段分享的「The Real Secret to High Productivity」 。
+
+他指出關鍵其實在大多數的開發者 <strong>treate requirements as "Stone Tablets"</strong>。
+
+<a href="http://www.flickr.com/photos/xdite/3535527346/" title="Flickr 上 xdite 的 Stone Tablets"><img src="http://farm4.static.flickr.com/3555/3535527346_e2b7100274_m.jpg" width="240" height="182" alt="Stone Tablets" /></a>
+
+雖然那些所謂的 Agile Developer 用了一堆「提高生產力」的技法試圖將這些 "Stone Tablets" 簡化 ...
+
+但他真正的建議的作法是 <strong>let us do something instead ...renegotiate what we thought the application should actually do </strong>.
+
+這個片段大概是從影片的第 45:00 開始，相當值得一看。
+
+<embed src="http://blip.tv/play/Af_XBIa8BA" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed> 

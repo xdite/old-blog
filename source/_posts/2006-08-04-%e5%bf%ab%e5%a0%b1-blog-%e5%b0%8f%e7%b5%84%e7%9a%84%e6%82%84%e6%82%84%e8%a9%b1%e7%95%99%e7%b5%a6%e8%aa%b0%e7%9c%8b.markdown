@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 42
+layout: post
+title: !binary |
+  W+W/q+WgsV0gQmxvZyDlsI/ntYTnmoTmgoTmgoToqbHnlZnntaboqrDnnIs/
+
+date: 2006-08-04 23:30:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=42
+---
+<p>筆者剛剛打開看<a href="http://blog.xuite.net/blog/baby/7508327">《Blog公告》日誌使用問題的發表處(95年08月)</a>留言，差一點笑岔了氣。因為筆者看到了這個：  <a href="http://www.flickr.com/photos/49274115@N00/206509474/" title="Photo Sharing"><img src="http://static.flickr.com/77/206509474_d9bf5cbc16_o.jpg" border="0" alt="adminjoke" width="890" height="117" /></a>  Blog 小組在自己的日誌留下悄悄話，到底有誰能夠看到呢？</p><p>   ----</p><p> 不過筆者在猜測，應該是 Blog 小組回了大家留言，又不小心按到悄悄話，才有慘劇發生。可惜Blog小組射後不理....空留一大堆氣炸的用戶在鬼叫</p><p>  話說....CSS 爆炸今天好像還沒修好吧 :P （記得日誌小組的承諾不是 8/2 號就會修好嗎? XD)   </p>

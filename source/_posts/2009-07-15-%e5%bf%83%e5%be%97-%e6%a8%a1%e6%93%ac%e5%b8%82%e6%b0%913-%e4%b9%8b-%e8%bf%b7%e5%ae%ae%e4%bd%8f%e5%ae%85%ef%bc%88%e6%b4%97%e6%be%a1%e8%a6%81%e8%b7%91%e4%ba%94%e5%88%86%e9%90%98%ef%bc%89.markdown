@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 1316
+layout: post
+title: !binary |
+  W+W/g+W+l10g5qih5pOs5biC5rCRMyDkuYsg6L+35a6u5L2P5a6F77yI5rSX
+  5r6h6KaB6LeR5LqU5YiG6ZCY77yJ
+
+date: 2009-07-15 23:56:25 +08:00
+wordpress_url: http://blog.xdite.net/?p=1316
+---
+我的朋友 <a href="http://twitter.com/evenwu">@EvenWu </a>今天下午手癢，花了幾個小時用模擬市民 3 蓋了一座迷宮住宅（他跟我靠北了很久他想蓋迷宮屋，終於得償所願）。做完以後馬上丟給我，看了小人衝刺洗澡實況一整個快笑死。
+
+從進門到能洗到澡，大概要跑整整五分鐘...囧。
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ldkVSGoIWtA&hl=zh_TW&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ldkVSGoIWtA&hl=zh_TW&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>

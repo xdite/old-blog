@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 526
+layout: post
+title: !binary |
+  5oiR5oeJ6Kmy5YiH6IW56Kyd572qLi4uLg==
+
+date: 2008-01-10 20:52:09 +08:00
+wordpress_url: http://blog.xdite.net/?p=526
+---
+<br />VeryXD 最近一上線，就受到大家熱烈的迴響，昨天單天就已破萬 pageview ...今天作品也達到千張。可是我始終覺得很奇怪，為什麼 publish 的作品只佔一成。<br /><br />今天林壽山也是向我回報一個 bug ，剛好是 curtis 昨天也講的，明明就有登入，卻看不到 publish 選項。林壽山很有耐心的跟我一對一的在測試，於是我才發現我很蠢的竟然忘記用 ie 測試 layout 畫面<br />。<br /><br />我在寫 publish 選項時 漏了一個 ><br /><br /><blockquote>&lt;fieldset class="submit"<br />&lt;input name="commit" type="submit" value="Publish" /&gt;<br />&lt;/fieldset&gt;</blockquote><br />這在 firefox 是正常的。問題是 IE6 和 IE7 就不接受這種寫法。所以使用 IE 的用戶會<big><big><b>完全看不見 publish 選項</b></big></big>。(PS.這個bug現在修好了)<br /><br />啊啊啊～～我對自己犯下這種嚴重的錯誤真是感到羞愧萬分，請接受我誠摯的道歉並且再給 <a href="http://g.veryxd.net">VeryXD</a> 一次機會啊。 &lt;(_ _)&gt;<br /><br />希望大家繼續愛用 <a href="http://g.veryxd.net">VeryXD</a>，感恩啊鄉親。<br /><br /><br />

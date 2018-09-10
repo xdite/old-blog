@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 580
+layout: post
+title: !binary |
+  VXBkYXRlIOS4gOS4i+i/keazgQ==
+
+date: 2008-05-04 16:32:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=580
+---
+
+近況：
+
+敝人近日加入了 「<a href="http://zh.handlino.com/">和多股份有限公司</a>」，擔任 Rails Developer。名片等印好有機會再發給大家。
+
+有任何 Web Developing 或者是 Consulting 的需求，<a href="http://zh.handlino.com/contact/">歡迎聯絡敝社</a>呀 :p

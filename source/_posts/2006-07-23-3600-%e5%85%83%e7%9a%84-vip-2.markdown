@@ -1,0 +1,35 @@
+--- 
+wordpress_id: 11
+layout: post
+title: "3600 \xE5\x85\x83\xE7\x9A\x84 VIP  (2)"
+date: 2006-07-23 20:48:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=11
+---
+嫌貴可以不要買啊!? ..... 又沒人拿槍逼著買
+
+ㄟ，不過....Xuite 當初成立就是要打倒有名小站吧
+VIP 訂這麼貴誰會買啊，囧
+
+...............什麼?你說不貴喔 ?
+那再看看下面這個 joke 吧
+
+<div> <a href="http://www.flickr.com/photos/49274115@N00/196078740/" title="photo sharing"><img src="http://static.flickr.com/68/196078740_67c6268061_o.jpg" alt="" /></a>
+</div>
+
+.............蛤，我以為現在 pop3/smtp 都是不用錢的耶? @_@"
+有 2G 空間，過濾垃圾信又超強的 gmail
+相比之下一年 300塊的 Xuite mail 收信服務.......
+
+媽媽說要節儉
+
+------
+
+阿，說到一年三百塊，想起了令人敬佩的 <a href="http://www.dreamhost.com">dreamhost</a> 空間
+今年初特價，一年只要 USD$9.24 ，好像折合台幣也是 300 塊吧
+
+送 1 個域名、20G 空間、每月1000G流量，還可以架一大堆有的沒的，塞一大堆有的沒的 (爆XD)
+有自己的 mail system、一鍵安裝 WordPress(Blog system)、Gallery (Album Ssytem) 等等
+
+就算沒特價，一年的價錢 USD$ 49.95 ，折合台幣 1600元
+還是比 Xuite 便宜許多
+米國人還是比較慷慨啊 (思)

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 391
+layout: post
+title: !binary |
+  54Sh5b+D5o+S5p+z5p+z5qmZ5rGB
+
+date: 2007-07-02 21:54:08 +08:00
+wordpress_url: http://blog.xdite.net/?p=391
+---
+Jun 26, 2007<br /><br /><div class="entry-body"><div id=""><ins class="item-body"><div><p>前情提要：</p><br /><p>筆者在 6/13 號對部落格做了一個小小的<a target="_blank" href="http://blog.xdite.net/?p=375">變革</a>。便是把最新文章標題和最新 comment 從側欄拉上置頂黃金版面。</p><br /><p>—-</p><br /><p>當初原用意大概有幾個：</p><br /><p>1. 我很懶的自己拉下去看。<br />2. 其他人拉下去看也很花時間<br />3. 要爆料，我開放讀者不用寄信等我刊，可以自己爆上去黃金板塊。</p><br /><p>簡單的歸納就是<b>懶</b>。</p><br /><p>—-</p><br /><p>不過筆者最近收到長官指派給我測試的玩具：一台 PDA 以及一台 3G 手機後，拿瀏覽器來無聊測試自己部落格時，才發現當初的無心插柳柳橙汁。</p><br /><p>現在配置，讓自己看 blog 文章和 comment 超級方便的啊 XDD</p><br /><p>寫這篇沒什麼用意，只是推廣大家如果開會很無聊的話，可以用 PDA 和 手機看筆者的部落格，接收笑話超方便的喔 XDD</p></div></ins></div></div><br />

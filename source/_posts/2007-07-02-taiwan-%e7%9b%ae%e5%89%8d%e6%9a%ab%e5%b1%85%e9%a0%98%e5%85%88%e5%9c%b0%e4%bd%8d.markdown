@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 380
+layout: post
+title: !binary |
+  VGFpd2FuIOebruWJjeaaq+WxhemgmOWFiOWcsOS9jQ==
+
+date: 2007-07-02 21:52:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=380
+---
+Jun 21, 2007 10:05 AM<br /><br /><div class="entry-body"><div id=""><ins class="item-body"><div><p>這大概是早上八點以前的圖，目前最新的數字大概是 台灣 5500 萬 日本 5100 萬。</p><br /><p>台灣分速約是 40 萬 click / min。這個數字讓日本大為稱奇。</p><br /><p>而越來越多國家加入這個遊戲，也使得官網幾乎每幾十分鐘就會被大量封包打掛掉一次 XD<br />要看 rank 圖幾乎可遇不可求，大概每個整點才有辦法順利連進去吧。</p><br /><p>本圖截自 PTT HOT_GAME</p><br /><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/578019097/" title="相片分享"><img src="http://farm2.static.flickr.com/1408/578019097_e71a25ff5f.jpg" alt="264102162921517pp5" height="375" width="500" /></a></p><br /><p>–</p><br /><p>update :<br /><br /><a target="_blank" href="http://www.pixnet.net/photo/verdant/56236808">鄉民 verdant 做的圖</a></p><br /><p><a target="_blank" href="http://www.flickr.com/photos/14765209@N00/578747446/" title="相片分享"><img src="http://farm2.static.flickr.com/1220/578747446_3119370fc4_o.gif" alt="1182398737" height="417" width="500" /></a></p></div></ins></div></div><br /><br /><br /><p class="poweredbyperformancing">Powered by <a href="http://scribefire.com/">ScribeFire</a>.</p>

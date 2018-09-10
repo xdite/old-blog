@@ -1,0 +1,48 @@
+--- 
+wordpress_id: 468
+layout: post
+title: !binary |
+  5aSp56m66YOo6JC95qC85Ye654++5Y+y5LiK5pyA5aSn5ryP5rSePw==
+
+date: 2007-10-04 01:20:39 +08:00
+wordpress_url: http://blog.xdite.net/?p=468
+---
+update: 剛剛有人跟我說，這是許多一般使用者「<a href="http://www.flickr.com/photo_zoom.gne?id=1477898031&size=o"><strong>把摘要（第一出現的大輸入格）當成主文格</strong>，而不知道追加內容（第二出現的大輸入格）才是真正主文</a>」輸入的後果。只要誰在"摘要"打了一些隱私性的文章，又出現鎖頭，根本就不會知道有鎖等於沒鎖。因為不管是哪一種狀態，第一格的內容都不會在主頁被鎖起來。而只有在單頁才會一併把摘要關起來。
+
+<font color="#ff0000">如果你是天空使用者，我會建議你<b>儘速砍除或清空你的私密部落格文章</b>。
+（筆者只能建議這個方法了）
+如果你是天空工程師，<b>請幫個忙儘速補好這個洞</b>。</font>
+
+
+首先請你先看一個看似正常的網址：<a href="http://blog.yam.com/xxddite/">這是為本篇文章所生的測試部落格</a>。
+
+（如果這個洞還沒被補起來的畫面是長這樣的）
+
+<a href="http://www.flickr.com/photo_zoom.gne?id=1478220526&amp;size=o" title="相片分享"><img src="http://farm2.static.flickr.com/1049/1478220526_11cf880961.jpg" alt="fullpicture" height="421" width="500" /></a>
+
+
+看似正常，但是如果我告訴你其實「<a href="http://blog.yam.com/xxddite/article/12002476">測試 02</a>」是<b>鎖了密碼</b>的文章。「<a href="http://blog.yam.com/xxddite/article/12002487">測試03</a>」是<b>僅有好友能觀看</b>的文章（也就是正常情況下連標題都不應該出現在這頁），你作何感想呢？。
+
+筆者沒有誆你，讀者可以看本圖右上角的登入狀態，以及自行直連文章。
+
+<a href="http://www.flickr.com/photos/14765209@N00/1477363115/" title="相片分享"><img src="http://farm2.static.flickr.com/1390/1477363115_1d9487aaa7_m.jpg" alt="test02" height="202" width="240" />&nbsp;&nbsp;&nbsp;&nbsp; </a><a href="http://www.flickr.com/photos/14765209@N00/1478222922/" title="相片分享"><img src="http://farm2.static.flickr.com/1180/1478222922_27eab8e2f0_m.jpg" alt="test03" height="202" width="240" /></a>
+-----
+
+
+故事是這樣開始的，筆者一個朋友最近跟我抱怨，他放在部落格上的文章被不該看到的人看到了，結果影響生活甚巨。奇怪的是，鎖上之後別人竟然還是繼續知道內容。筆者幫忙看以後，竟然發現文章鎖上之後，<a href="http://blog.yam.com/rss.php?blog_id=xxddite&amp;ver=2.0">RSS 上</a>竟然不會消失。當下大駭。
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/1477362837/" title="相片分享"><img src="http://farm2.static.flickr.com/1426/1477362837_17e6f59da4_m.jpg" alt="rssleak" height="205" width="240" /></a>
+
+
+本以為該朋友的文章是這樣洩漏出去的。後來為了因為筆者的鳥好奇心，想測試哪些情況下 RSS 並不會 LOCK 住，便把密碼和好友的測試一遍。換個沒登入過的瀏覽器測試後，竟駭然的發現，在天空個人部落格的主頁，不管是「好友僅限」或者是「密碼限制」，在主頁面並不會將鎖上，頂多就多一個鎖頭圖示。
+
+而 <b>網址主人再觀看網誌時往往是以登入狀態，看的到文章並不稀奇，出現了鎖頭圖示就放心的以為文章鎖上了。殊不知過客和主人均能檢視完整內容</b>。
+（筆者測了事前上鎖和事後上鎖結果皆一樣）
+
+此一結果令人震驚非常，而更不知此系統 bug 在筆者發現之前多久，便已經存在。而不知多少部落格文章已在這種情況下洩漏。
+
+請天空部落格有關人員儘速修補。
+
+
+

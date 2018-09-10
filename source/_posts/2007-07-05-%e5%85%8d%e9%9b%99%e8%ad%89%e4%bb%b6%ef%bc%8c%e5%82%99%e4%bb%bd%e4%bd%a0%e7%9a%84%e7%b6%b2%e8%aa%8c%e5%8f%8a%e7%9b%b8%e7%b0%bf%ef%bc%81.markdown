@@ -1,0 +1,46 @@
+--- 
+wordpress_id: 399
+layout: post
+title: !binary |
+  5YWN6ZuZ6K2J5Lu277yM5YKZ5Lu95L2g55qE57ay6KqM5Y+K55u457C/77yB
+
+date: 2007-07-05 10:06:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=399
+---
+本服務由 <a href="http://blog.gslin.org">Gslin</a> 大神提供。請大家膜拜他 &lt;( _ _ )&gt;
+
+因為現在各個 BSP 服務都需要驗證確定個人身份才能幫你搬家，否則將會有侵權問題。而目前提供的驗證法，幾乎都需要使用者登入去修改網誌標題或相簿標題，對於此次的情況非常不適用。（不提供雙證件，直接形同密碼失效，根本無法登入）
+
+當初設計來打包資料的這個服務就派上用場啦！（靠邀，這次事件才發現我忘記把因為 DH 停權時當初不見的教學擺回去...，只好重寫）
+
+<a href="http://backup.hasname.com/album/wretch/">相簿備份服務</a> （或使用 <a href="http://soft.ccn.tw/blog.asp?id=19">WretchXD</a> 打包）
+<a href="http://backup.hasname.com/blog/wretch/">網誌備份服務</a> （請選 MT 格式）
+
+
+註：MT 格式可以匯入絕大多數 BSP （Pixnet、Roodo ....）提供的網誌裡（包含文章內容與回應）。
+註：密碼鎖住的文章、迴響、相簿搬不了。
+
+--- 以下是圖片教學，不會搬的再點開，會持續更新 --- 
+
+<!--more--><big><big><b>備份網誌</b></big></big>
+
+<a href="http://www.flickr.com/photos/14765209@N00/721581240/" title="相片分享"><img src="http://farm2.static.flickr.com/1133/721581240_10960ea8f7.jpg" alt="backup-xdite" height="134" width="500" /></a>
+<b>
+<big><big>備份相簿</big></big></b>
+
+<a href="http://www.flickr.com/photos/14765209@N00/720738507/" title="相片分享"><img src="http://farm2.static.flickr.com/1024/720738507_7f9496431d_o.jpg" alt="backup-xditephoto" height="182" width="566" /></a>
+
+
+<big><big><b>搬網誌到 Pixnet</b></big></big>
+
+登入帳號後，直接到此網址 <a href="http://blog.pixnet.net/adm/index.php?op=bMove">http://blog.pixnet.net/adm/index.php?op=bMove</a>
+選 MT 格式匯入
+
+<a href="http://www.flickr.com/photos/14765209@N00/721580944/" title="相片分享"><img src="http://farm2.static.flickr.com/1286/721580944_4229b1d587.jpg" alt="wretchbmove" height="146" width="500" /></a>
+
+
+<big><big><b>搬家到 Blogger </b></big></big>
+
+
+請看<a href="http://blog.xdite.net/?p=401">這篇教學</a> 。
+還需要哪些地方的匯入教學請用推文告訴我 ...

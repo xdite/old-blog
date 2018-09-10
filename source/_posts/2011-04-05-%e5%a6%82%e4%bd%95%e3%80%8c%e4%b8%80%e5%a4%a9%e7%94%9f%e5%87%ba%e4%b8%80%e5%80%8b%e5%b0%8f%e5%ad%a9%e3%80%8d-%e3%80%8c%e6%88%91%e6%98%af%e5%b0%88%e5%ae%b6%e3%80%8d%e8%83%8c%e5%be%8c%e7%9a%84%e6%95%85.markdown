@@ -1,0 +1,75 @@
+--- 
+wordpress_id: 2153
+layout: post
+title: !binary |
+  5aaC5L2V44CM5LiA5aSp55Sf5Ye65LiA5YCL5bCP5a2p44CNLSDjgIzmiJHm
+  mK/lsIjlrrbjgI3og4zlvoznmoTmlYXkuos=
+
+date: 2011-04-05 22:19:31 +08:00
+wordpress_url: http://blog.xdite.net/?p=2153
+---
+Mark Suster 最近寫了一篇文章，<a href="http://www.bothsidesofthetable.com/2011/03/30/9-women-cant-make-a-baby-in-a-month/">9 Women Can’t Make a Baby in a Month</a>，「就算給你九個女人，也無法在一個月內搞出一個小孩」。大意是：「這世界上有很多事情，就是需要花那麼多時間去磨，即使你把再多錢、人力丟進去，也沒辦法改變。」
+
+看到這篇文章，想起來 <a href="http://blog.xdite.net/?p=1472">2009 Yahoo Open Hackday 與一群朋友惡搞做網站的故事</a>，我們如何<a href="http://chinesetrad.joelonsoftware.com/Articles/FireAndMotion.html">邊移動邊開火</a>：
+
+==
+
+2009 治國隊：（<a href="http://twitter.com/evenwu">evenwu</a> / <a href="http://twitter.com/othree">othree</a> / <a href="http://twitter.com/ihower">ihower</a> / <a href="http://twitter.com/xdite">xdite</a> )
+
+Day 0 
+
+<blockquote>
+報名了卻完全不知道要做什麼，於是比賽前一天晚上找了一間星巴克討論要做什麼（ihower 請假）。evenwu 帶了一個攜帶用小白板，最後得出了我們要做一個懶人編輯器並可以同步張貼到主流 BSP。結論只有兩張筆記紙
+
+* <strong>一個輸入框</strong>（首頁長成什麼樣 no idea）
+
+<a href="http://www.flickr.com/photos/xdite/4024366287/" title="我是專家 i'm expert by xdite, on Flickr"><img src="http://farm3.static.flickr.com/2591/4024366287_6ef18e3b3a.jpg" width="500" height="224" alt="我是專家 i'm expert"></a>
+
+* <strong>一個編輯器 UI</strong>（裡面什麼 feature 都還沒想出來）
+
+<a href="http://www.flickr.com/photos/xdite/4025161634/" title="我是治國專家 by xdite, on Flickr"><img src="http://farm4.static.flickr.com/3515/4025161634_80520a173f.jpg" width="500" height="287" alt="我是治國專家"></a>
+
+</blockquote>
+
+
+
+Day 1
+
+<blockquote><strong>第一階段</strong>
+
+到場告訴 ihower 我們要做這個鬼東西（錯愕）。開始任務分配
+
+* evenwu 根據兩張破爛的 mockup 畫圖
+* xdite 開始弄 SA，負責搞定 github, domain , deploy tool, CRUD, basic function 與搬走小石頭
+* ihower 負責去研究API，寫 Ruby wrapper，把抓回來的那些亂七八糟的東西精美的包裝起來，方便 Rails 呼叫。開始寫第一支 wrapper。
+* othree 開始弄 TinyMCE，自己獨立做一張空 html 把實際 UI 幹出來。
+
+<strong>第二階段</strong>：
+
+* evenwu 持續畫圖
+* xdite 與 othree 合作，把 UI 與編輯器實際搬上 rails project，並配合 rails convention
+* ihower 自己把 wrapper 塞上 rails project
+* ihower 與 othree 合作，調整右側 API partial 實際要吐 / 抓的內容
+
+<strong>第三階段</strong>
+
+* evenwu 根據已經有實際 dom 的網站，直接切版寫 css 與 js 特效，交給 xdite 套版。
+* xdite 跑去寫同步張貼到主流 BSP 的 API integration
+
+<a href="http://www.flickr.com/photos/xdite/4024435397/" title="我是專家 -- 同步 by xdite, on Flickr"><img src="http://farm3.static.flickr.com/2669/4024435397_568c91712a.jpg" width="500" height="156" alt="我是專家 -- 同步"></a>
+
+* othree 持續調整出更炫的 UI，以及 javascript debug
+* ihower 持續寫出 N+ 1 wrapper</blockquote>
+
+
+
+Day2 
+
+<blockquote>
+* evenwu, ihower, othree, xdite 持續進化/惡搞 application 以及跑去別桌擾亂別人的軍心.....
+* evenwu 與 xdite 最後決定<strong>加演惡搞總統府</strong>
+<a href="http://www.flickr.com/photos/xdite/4025205352/" title="我是專家 治國週記 by xdite, on Flickr"><img src="http://farm3.static.flickr.com/2528/4025205352_53246113a6.jpg" width="500" height="281" alt="我是專家 治國週記"></a>
+* xdite 留兩個小時出來寫上台的投影片
+</blockquote>
+
+

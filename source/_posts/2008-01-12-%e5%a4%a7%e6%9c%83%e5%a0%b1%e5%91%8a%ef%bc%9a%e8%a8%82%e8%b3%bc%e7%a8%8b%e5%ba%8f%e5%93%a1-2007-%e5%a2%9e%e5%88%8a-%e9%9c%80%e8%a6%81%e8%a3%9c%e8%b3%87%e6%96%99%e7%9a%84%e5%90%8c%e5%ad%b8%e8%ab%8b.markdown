@@ -1,0 +1,70 @@
+--- 
+wordpress_id: 527
+layout: post
+title: !binary |
+  5aSn5pyD5aCx5ZGK77ya6KiC6LO856iL5bqP5ZOhIDIwMDcg5aKe5YiKIOmc
+  gOimgeijnOizh+aWmeeahOWQjOWtuOiri+azqOaEjw==
+
+date: 2008-01-12 09:58:06 +08:00
+wordpress_url: http://blog.xdite.net/?p=527
+---
+幫 <a href="http://pocketshark.com/blog/page/cjin">偉大的叫母 cjin</a> 貼的訊息
+
+<a href="http://pocketshark.com/blog/page/cjin?entry=csdn20_need_email"><b>  程序員 2007 增刊：需要補資料的同學</b></a>
+
+<blockquote>程序員增刊的書已經從北京寄出, 估計下星期會到台北, 但我整理名單時, 還有幾位同學(當初用訂便當 dinbendon 登記) 需要請您 email 給我聯絡資料,
+請寄到 cjin @ liquable.com, 內容只需要寫上以下資料就好喔
+
+(有些同學寫好長的問候語或感謝的話, 會害我不回不好意思啦, 並請在email 標題上寫一下自己當初填的代號, 我比較好對照填入資料)
+
+以下為 email 的範例
+
+&nbsp;email 主題: csdn 訂購補資料 - xdite
+&nbsp;email 內容:    
+
+姓名: 真叉滴    
+email:    
+寄送地址: 台北市 115 .....
+聯絡電話(給快遞用的):  0920 ....
+
+需要補 email 給我的同學為:
+&nbsp;* trust    
+* xamous    
+* 吐奶小藍貓    
+* Bart    
+* BeMan    
+* cancel.pc@gmail    
+* cwweng    
+* FosterMeng    
+* Fox Chao    
+* hoamon    
+* hondalo    
+* hong    
+* HongYi    
+* KC Liu    
+* Keanu    
+* ken    
+* kikulu    
+* kome    
+* Mark    
+* maxchu    
+* MLChen    
+* OOBE    
+* othree    
+* RaffelMK    
+* refly    
+* rocbird    
+* rocksan    
+* Roland    
+* ryder918    
+* shawntsai    
+* SStar    
+* wretched    
+* y2chiu    
+* yurenju    
+* 楊淳森    
+* 許書邁    
+* 鄧慕凡 
+
+其他同學先請不用擔心, 我把書寄出去以後, 等你們收到書再匯款喔, 匯款登記我做了個表格, 我下週寄 email 給你們匯款帳號跟表格。</blockquote>
+<p class="poweredbyperformancing"></p>

@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 207
+layout: post
+title: !binary |
+  IuaWsOapn+WZqCLkuI3pjK/nmoTnqanlrprluqY/
+
+date: 2006-11-21 02:19:48 +08:00
+wordpress_url: http://blog.xdite.net/?p=207
+---
+0VIP 3978 bbsFAQ 針對客戶對這陣子狂出問題，對新機器何時上線提出質疑做出的回答。<a href="http://xdite.net/paste/1121.txt">原文備份</a>。<br /><br /><blockquote>作者  bbsFAQ (客服中心)                                    看板  0VIP<br /> 標題  Re: 關於新機器<br /> 時間  Mon Nov 20 09:06:33 2006<br />───────────────────────────────────────<br /><br />您好<br /><strong>新機器已經陸續上線一段時間了<br />上星期來看整個網站的穩定度就還算不錯</strong><br />再過一陣子如果連網路(Hinet peering)的問題都一併解決<br />應該會有更好的表現囉<br />另外一個月試用金卡僅限未使用過 VIP 的會員, 不好意思哦</blockquote><br />噗。穩定度還算不錯的標準到底在哪？難道是像下面這張圖這樣，<strong>廣告開的出來</strong>就叫穩定嗎？XD<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/282388252/" title="Photo Sharing"><img width="500" height="369" src="http://static.flickr.com/109/282388252_189a2dea91.jpg" alt="Q2" /></a><br /><br />照客服這樣的說法，原來自從<font color="#ff0000">維修中的紅字</font>取下時，就是新機器陸續上架的時機，筆者翻翻本站文章，推估大概是一週前紅字就已經被取下了。但以下情形還是存在甚至更嚴重：<br />
+<ol>
+    <li>網站動不動就因為爆量需要管控。(限制僅 VIP 用戶可登入）</li>
+    <li>動不動找不到網頁</li>
+    <li>網誌大規模的被脫衣服</li>
+    <li>文章持續的被機器吃掉</li>
+    <li>現在還多了，影片和照片傳不上去<br /></li>
+</ol>
+<br /><br />早知道新機器是這麼樣的<font color="#ff0000"><strong>穩定</strong></font>，我想當初應該沒有人會繼續等待下去 ....<br />

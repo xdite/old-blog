@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 236
+layout: post
+title: !binary |
+  R29vZ2xlIOS4jeiyt+acieWQjeWkp+ermeeahOWOn+WboD8=
+
+date: 2006-12-23 14:43:41 +08:00
+wordpress_url: http://blog.xdite.net/?p=236
+---
+<br />新聞來源：<a href="http://udn.com/NEWS/FINANCE/FIN3/3657324.shtml">李開復：Google員工誠信比學歷重要</a><br /><br />雖然據小道消息，google tw 完全沒跟有名大站接觸過，表示興趣的傳聞只是有名大站自抬身價的一個手段。不過這則新聞還蠻有趣的，似乎除了技術之外，某原因也是考量之一？<br /><br /><blockquote><font color="#0074ad"><strong>誠信有問題 不錄用</strong></font><br /><br />Google內部有一個自動化軟體、會針對每個應徵者的簡歷自動詢問可能認識他的公司員工，請他給予該應徵者評價。如有任何人表示他「誠信有問題」，這個人便不可能錄取。<br /><br />如果這位員工說謊呢？李開復說，Google的前提是假設所有員工都是誠信的，不會權威地要求員工忠心、服從，反而是放手全心信任，讓員工因此「珍惜公司給予的信任」，以自律、誠信回饋。</blockquote><br />所以六位年薪千萬的雅虎工程師? :P<br />

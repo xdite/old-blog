@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 450
+layout: post
+title: !binary |
+  6YCZ5piv5ZOq6ZaA5a2Q55qE5biz6Jmf5pW05ZCIPw==
+
+date: 2007-09-05 10:03:53 +08:00
+wordpress_url: http://blog.xdite.net/?p=450
+---
+著名的有名大站從上個月就宣布，9/3 起將整合啞唬帳號，強調一啞唬帳號對一有名帳號。大家聽到整合，理所當然的就是想到可以用「同一帳號」登入所有啞唬旗下所有服務，這是很合理的。
+
+結果沒想到，有名大站的「同一帳號」登入還硬是跟大家不一樣。在啞唬其他地方即使登入了，到他們那邊還是要再登入一次 ...（即使是同樣的帳號密碼）
+
+<a href="http://www.flickr.com/photos/14765209@N00/1326024614/" title="相片分享"><img src="http://farm2.static.flickr.com/1283/1326024614_9afedd05bf_o.jpg" width="334" height="147" alt="wretchlogin" /></a>
+
+在啞唬其他地方登出了，到他們那邊還是要手動登出一次....orz
+
+已 run 測試：
+
+1. 用 yahoo 登入，wretch 不會登入。
+2. 用 wretch 登入，yahoo 會登入。此時在 yahoo 登出，wretch 不會登出。
+3. 用 wretch 登入，yahoo 會登入。此時在 wretch 登出，yahoo 不會登出。
+
+看起來在整合 cookie 上還沒整好的樣子 -_-
+
+或者更陰謀論的想? 這個設計是怕 wretch 的 code 寫太爛？到時候出紕漏害 yahoo 也倒楣? XD

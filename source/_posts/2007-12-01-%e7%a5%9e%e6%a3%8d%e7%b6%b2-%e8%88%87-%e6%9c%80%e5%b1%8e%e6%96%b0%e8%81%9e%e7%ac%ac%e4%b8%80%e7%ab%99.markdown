@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 502
+layout: post
+title: !binary |
+  56We5qON57ayIOiIhyDmnIDlsY7mlrDogZ7nrKzkuIDnq5k=
+
+date: 2007-12-01 14:19:52 +08:00
+wordpress_url: http://blog.xdite.net/?p=502
+---
+還記得 <a href="http://blogblind.wraecca.info/">BlogBlind</a> ，這個台灣近年來創紀錄的推出後馬上爆紅，卻在兩天後關閉的短命站台嗎？<br /><br />本週來，國內衍生出兩大相關新創產品 <a href="http://beta.godstick.net/">神棍網</a>  與 <a href="http://www.shitnews.cc">最屎新聞第一站</a> 。<br /><br />神棍網 沿襲 blogblind，推出的依舊是針對站台的評論，只不過因為加入了紀錄 ip 機制，目前並未擦出爆量火花。<br /><br />而 Shitnews 的對象則改為針對 最爛的新聞，後勢續待觀察。<br /><br />大家可以過去玩看看 XD<br /><br /><a href="http://beta.godstick.net/" title="Flickr 上 xuitejoke 的 godstick"><img src="http://farm3.static.flickr.com/2178/2076808465_0428959f6f.jpg" alt="godstick" height="496" width="500" /></a><br /><br /><a href="http://www.shitnews.cc" title="Flickr 上 xuitejoke 的 shitenews"><img src="http://farm3.static.flickr.com/2345/2076808365_f0edad6832.jpg" alt="shitenews" height="496" width="500" /></a><br /><br />

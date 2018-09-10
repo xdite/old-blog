@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 404
+layout: post
+title: !binary |
+  54Sh5ZCN5pCs5a626IezIEJsb2dnZXIg56iL5byP77yI5rOo5oSP5LqL6aCF
+  77yJ
+
+date: 2007-07-08 00:42:51 +08:00
+wordpress_url: http://blog.xdite.net/?p=404
+---
+<font color="#ff0000"><b><big><big><big>注意：此方法已失效。請參考 <a href="http://blog.xdite.net/?p=861">無名小站部落格搬家懶人包</a>（最新）</big></big></big></b></font>
+
+<del datetime="2009-01-10T20:54:24+00:00">感謝大家對<a href="http://blog.xdite.net/?p=401">搬家到 Blogger 程式</a>的抬愛。目前不過目前據幾位 User 回報，有些人的 Blogger 備份檔，這支程式會無法分析並匯入，因為筆者缺乏樣本、修改程式功力也不夠。<br /><br />以下不是幫丁丁的對手故意打的廣告，如果你真的搬不過去，我會強烈建議您將備份檔搬至 <big><big><a href="http://blog.pixnet.net"><b>Pixnet</b></a> </big></big>或<big><big><b> <a href="http://blog.roodo.com">Roodo</a></b></big></big>。這兩站應該都有辦法完整匯入你的備份檔。<br /><br />當然，筆者比較建議的是 Pixnet ，因為 Pixnet 站方目前有辦法處理搬家而造成破圖的部分，可以節省你改連結的時間。（用 MT 搬的要另外到客服區去申請，用 Pixnet 搬家程式的會自動補圖，不過Pixnet搬家程式的前提是你要登的進無名帳號）<br /><br />---<br /><p><big><big><b>搬網誌到 <a href="http://blog.pixnet.net">Pixnet</a></b></big></big></p>
+<p>登入帳號後，直接到此網址 <a href="http://blog.pixnet.net/adm/index.php?op=bMove">http://blog.pixnet.net/adm/index.php?op=bMove</a><br />
+選 MT 格式匯入</p>
+<p><a href="http://www.flickr.com/photos/14765209@N00/721580944/" title="相片分享"><img src="http://farm2.static.flickr.com/1286/721580944_4229b1d587.jpg" alt="wretchbmove" height="146" width="500" /></a></p>
+<br /></del>

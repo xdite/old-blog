@@ -1,0 +1,27 @@
+--- 
+wordpress_id: 576
+layout: post
+title: HappyWebb 10 - 4 /26
+date: 2008-04-21 18:58:46 +08:00
+wordpress_url: http://blog.xdite.net/?p=576
+---
+就在這個週末 4/26 ，在 台北市松仁路7號7樓-微軟(捷運:市政府站) 。
+
+本次的主講者是 haska 以及 tempo
+
+
+<blockquote>
+Haska 是一個 flash 遊戲開發者, 我的遊戲口袋是 Haska 在紐約工作之餘, 以 PHP 架的小遊戲收集網站, 在 Haska 的經營下, 曾達到 Alexa 五千名的成績, 在台灣排行最高約 60 幾名。他將分享一年多來經營「我的遊戲口袋」的心得及成長, 背後的系統設計, 也包括網站廣告的心得。
+
+ 
+
+第二位則是由 Tempo 自己和大家分享這幾年小軟體公司創業期間曾經歷過的挑戰，如選擇創業題目、籌資、開發工具、軟體系統架構、找合作對象、中間做過的哪些錯誤決定、到用怎樣的網路架構等.. 希望可以減少大家如果要創業可能會走的冤枉路, 也希望能夠提供大家比較多 "真實" 的數據與資訊, 供大家經營網站時參考。
+</blockquote>
+
+
+
+
+按 continue reading 打開有報名 widget 
+
+<!--more--> 
+<br /><script type="text/javascript" src="http://happyweb.tw/eventWidget/eventWidgetInc.djs?width=380&amp;height=400&amp;type=side&amp;color=DDDDDD&amp;backgroundColor=FFFFFF"></script><br /><br />----<br /><br />

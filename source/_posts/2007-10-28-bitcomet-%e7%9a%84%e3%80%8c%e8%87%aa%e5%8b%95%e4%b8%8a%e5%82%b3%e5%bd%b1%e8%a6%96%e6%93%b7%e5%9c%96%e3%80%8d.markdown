@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 478
+layout: post
+title: !binary |
+  Qml0Q29tZXQg55qE44CM6Ieq5YuV5LiK5YKz5b2x6KaW5pO35ZyW44CN
+
+date: 2007-10-28 13:47:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=478
+---
+這是昨天在調校 Bitcomet 選項改進效能時，發現的新選項。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/1784102365/" title="相片分享"><img src="http://farm3.static.flickr.com/2312/1784102365_1a0c425f5c_o.jpg" alt="bitcomet" height="182" width="393" /></a><br /><br />會<b>自動上傳「下載狀況」與「影視檔擷圖」</b>。（其實也不是新選項了，我跑回去官方網誌看 changelog ，發現在 <a href="http://blog.mdbchina.com/post/180093/">2007/5 的 v0.87 就已經加入上傳擷圖這個選項</a>）<br /><br />預設當然通通都是打開的。表面上我們都會宣稱拿 BitComet 拉的都是正版 Linux ISO ，其實 99% 的時間用它拉的資源幾乎都是非法的東西。誰知道這個下載狀況統計會傳回什麼的「下載狀況」？筆者看到以後，當然是趕快通通把它關掉 -_-||| 。<br /><br /><br />不過加入把下載狀況傳回去供開發團隊分析 LOG 而改進服務的選項，尚可以被接受。<br /><br />但是<b>「上傳影視檔擷圖」回去改進服務這我就納悶了。我平常看什麼，載什麼關你改進這個軟體什麼事</b>呢？<br /><br /><br /><br />更晚一點，筆者在網路上想找一些日本的電影資訊與影評，逛到一個 <a href="www.mdbchina.com">mdbchina</a> 的網站（中國影視庫），這個網站除了影視資訊外，還提供 BT 下載的服務，使用的是一個第三方的 BT 資源搜尋引擎，叫做 <a href="http://www.didai.com/">didai </a>（地帶）。而地帶最神奇的地方就是它上面尚有種子的影視資源，竟然都有近十張的擷圖。<br /><br />地帶還蠻妙的，我還沒看過自動搜尋引擎找出來的還有一堆擷圖的（大部分都要人工整理）？<br /><br />再挖深一點，我又發現地帶的全名叫做「彗星地帶」，Bitcomet 的中文名又叫「比特彗星」。當影片沒有截圖時，didai 就會放送 BitComet 的廣告。<a href="http://blog.mdbchina.com/bitcomet/">BitComet 的官方日誌</a>本身也 host 在 mdbchina 上面。<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/1785392062/" title="相片分享"><img src="http://farm3.static.flickr.com/2354/1785392062_44aebc152a.jpg" alt="mdb" height="304" width="500" /></a><br /><br />看來很明顯了，上傳影視擷圖不是在改善 BitComet 的服務，而是 didai 的服務啊 XD<br /><br /><br /><br />

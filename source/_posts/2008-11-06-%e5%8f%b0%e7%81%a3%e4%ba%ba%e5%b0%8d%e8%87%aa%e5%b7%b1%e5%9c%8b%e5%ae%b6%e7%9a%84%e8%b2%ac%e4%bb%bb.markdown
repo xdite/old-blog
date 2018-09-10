@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 796
+layout: post
+title: !binary |
+  5Y+w54Gj5Lq65bCN6Ieq5bex5ZyL5a6255qE6LKs5Lu7
+
+date: 2008-11-06 03:18:57 +08:00
+wordpress_url: http://blog.xdite.net/?p=796
+---
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/iohG0cMVUmg&hl=zh_TW&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/iohG0cMVUmg&hl=zh_TW&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+看到今晚轉貼的新聞。我最難忘的是<del datetime="2008-11-05T19:19:45+00:00">法</del>美國人離開前講的這一句：<strong>各位，你們是台灣人，絕對不是中國人。這麼做是台灣人對自己國家的責任。</strong>
+
+悲傷的是這一句竟然是一個外國人對著我們國人大聲疾呼的...

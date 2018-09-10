@@ -1,0 +1,72 @@
+--- 
+wordpress_id: 323
+layout: post
+title: !binary |
+  6YCZ5bCx5piv44CM5Y+v5Lul5YGa55qE5LqL44CNPw==
+
+date: 2007-04-16 23:39:45 +08:00
+wordpress_url: http://blog.xdite.net/?p=323
+---
+剛剛正想去洗澡，結果看到 p2 個版，有讀者寫了篇抱怨文
+
+<blockquote> 作者  octobird (中書門下)                                        看板  XDite
+ 標題  Re: [無名]
+ 時間  Mon Apr 16 23:05:07 2007
+───────────────────────────────────────
+
+這還沒什麼
+想說要登入才看的到照片也就算了
+沒想到登入後，點閱相簿卻出現下列網頁：
+
+經無名機器人分析可能的原因如下
+很抱歉，目前時段流量過大
+為維護 VIP 會員的優先使用權，暫時僅提供 VIP 會員登入使用
+
+VIP 會員請點這裡登入   ( 其他會員請點這裡加入 VIP )
+
+---
+看了很想罵髒話
+無名是有缺錢缺會員缺的很嚴重嗎？
+都在用有划算價格的HiNet頻寬了
+還這樣刁難網路使用者......
+= =a
+
+--
+※ 發信站: 批踢踢兔(ptt2.cc)</blockquote>
+
+筆者心想，不會這麼扯吧。之前才發生過<a href="http://blog.xdite.net/?p=303">一次這種強制 user  登入的事情</a>， 這次又變本加厲？當下就馬上開了我妹的相簿（免費會員）測試。
+
+點進去，出現標準畫面。
+
+<a href="http://www.flickr.com/photos/14765209@N00/461607252/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/188/461607252_2f082dea02.jpg" alt="block01" height="340" width="500" /></a>
+
+登入之後，就可正常閱覽相簿了。
+
+<a href="http://www.flickr.com/photos/14765209@N00/461610842/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/182/461610842_6c9226c284.jpg" alt="blok02" height="263" width="500" /></a>
+
+
+<strong>不過，點縮圖要看大圖時，竟然出現了!?</strong>
+
+
+<!--more-->
+<a href="http://www.flickr.com/photos/14765209@N00/461607446/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/253/461607446_196aa3a29a.jpg" alt="block03" height="296" width="500" /></a>
+
+這真是太可惡了。
+<font color="#ff0000"><b>騙登入數就算了，現在又強迫要會員加入 VIP，才可以「正常被閱覽相簿」和「正常閱覽別人的相簿」。</b></font>
+這讓我想到了....昨天 經典的
+
+<a href="http://www.flickr.com/photos/14765209@N00/460788699/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/180/460788699_290ce50fde_o.jpg" alt="tv" height="256" width="542" /></a>
+
+<b><big><big>......原來這就是「傳說中，可以做的事」？</big></big></b>
+
+update ： ，<font color="#ff0000"><strong>自己相簿也開不了 orz </strong></font>...
+
+update ： 靠邀，<font color="#ff0000"><strong>剛剛在測 Blog 的時候，也發現看免費會員的 blog 也會出現因為流量過大的原因要大家登入的字樣</strong></font>!!...有沒有這麼誇張的 -_-
+---
+
+update ：剛剛鄉民提醒我今天 bbsFAQ 才在 0sysop 18206 ，做過以下承諾 XD
+
+<a href="http://www.flickr.com/photos/14765209@N00/461636343/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/241/461636343_ac6d952cb7.jpg" width="500" height="373" alt="block04" /></a>
+
+---
+

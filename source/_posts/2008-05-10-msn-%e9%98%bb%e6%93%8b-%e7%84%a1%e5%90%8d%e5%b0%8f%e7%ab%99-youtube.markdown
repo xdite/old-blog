@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 584
+layout: post
+title: !binary |
+  TVNOIOmYu+aTiyDnhKHlkI3lsI/nq5kgLyBZb3V0dWJlPw==
+
+date: 2008-05-10 19:19:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=584
+---
+<strong>[update: 5/11 MSN fixed ]</strong>
+
+這是今天發生的情形, 在 MSN 只要丟這兩家的網址一率都會被阻擋, 而且並非只有台灣區有這種問題 (問了其他國家的朋友都有一樣的情形). 對照<a href="http://www.flypig.org/002225.html">對岸 4/2 飛豬同學發現的 sohu 被 MSN 阻擋事件</a>, 微軟 是不是想偷偷幹什麼壞事啊? XD
+
+<a href="http://www.flickr.com/photos/xdite/2479604471/" title="Flickr 上 xdite 的 wretch"><img src="http://farm3.static.flickr.com/2016/2479604471_8cbb6890c3_m.jpg" width="195" height="240" alt="wretch" /></a>
+
+<a href="http://www.flickr.com/photos/xdite/2479604485/" title="Flickr 上 xdite 的 yourtube"><img src="http://farm4.static.flickr.com/3193/2479604485_4e55f8e7cb_m.jpg" width="240" height="104" alt="yourtube" /></a>
+
+---
+[update] <a href="http://blog.woixv.com">班大佐</a>也丟來一串在 <a href="http://www.mobile01.com/topicdetail.php?f=300&t=609501&last=5998549">m01 的延伸討論</a>.

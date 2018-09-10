@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 72
+layout: post
+title: !binary |
+  5b+D5oOF5YiG6aGe5aSx5pWI
+
+date: 2006-08-19 13:45:34 +08:00
+wordpress_url: http://blog.xdite.net/?p=72
+---
+圖一失效<br /><a href="http://www.flickr.com/photos/14765209@N00/218935436/" title="Photo Sharing"><img src="http://static.flickr.com/96/218935436_ae6ee22fce_o.jpg" alt="mood1" height="59" width="536" /></a><br /><br />圖二有效<br /><a href="http://www.flickr.com/photos/14765209@N00/218935418/" title="Photo Sharing"><img src="http://static.flickr.com/73/218935418_546f8db3d2_o.jpg" alt="mood2" height="133" width="447" /></a>

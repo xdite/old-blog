@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 1335
+layout: post
+title: !binary |
+  44CM5oOh5pCeXSDogb3oqqrjgIzoh6rnlLHlu6PloLTjgI3lj4jopoHmlLnl
+  kI3kuoYuLi4u
+
+date: 2009-07-20 00:55:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=1335
+---
+剛剛在八卦版看到一則新聞，大概是有關於中正紀念堂又要把「自由廣場」招牌拆掉的事。
+
+去年那個時候，因為老是在吵這件事 XD 所以我就做了一個網站「<a href="http://veryxd.net">VeryXD</a>」...讓大家可以自由掛招牌。看起來現在又可以派上用場了...lol
+
+歡迎網友自行取用空白素材惡搞 XD
+
+<a href="http://g.veryxd.net/gphotos/bbfb900" target=_blank><img src="http://photog.veryxd.net/gphotos/0010/9425/testfor1.gif" border="0"></a>
+
+ <a href="http://g.veryxd.net/gphotos/be167db" target=_blank><img src="http://photog.veryxd.net/gphotos/0010/9394/ac4e32afd16ce7fb98c113639c4b3ade.gif" border="0"></a>
+
+---
+關於 VeryXD 的故事可以看 tenz 寫的這篇文章：<a href="http://wp.tenz.net/archives/441">玩笑話＋執行力＝VeryXD 2.0</a>

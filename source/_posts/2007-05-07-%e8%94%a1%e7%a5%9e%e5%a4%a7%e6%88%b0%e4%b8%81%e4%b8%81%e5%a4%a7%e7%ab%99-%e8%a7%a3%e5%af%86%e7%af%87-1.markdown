@@ -1,0 +1,69 @@
+--- 
+wordpress_id: 343
+layout: post
+title: !binary |
+  6JSh56We5aSn5oiw5LiB5LiB5aSn56uZIOino+WvhuevhyAoMSk=
+
+date: 2007-05-07 19:59:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=343
+---
+本文根據站上舊文改寫加上<a href="http://rafb.net/p/TLBhUT55.nln.html">蔡神信件</a>補完。
+
+超長，要看請再點開。（暫時不鎖了，以免沒有被 google reader cache)
+
+
+
+節錄原始文章：<a href="http://blog.xdite.net/?p=233">無名小站告訴我們的是什麼？</a>
+
+<blockquote><p>無名小站的成立時間是在 1999 年，創站站長則是簡志宇。當時提供的服務僅有 BBS 一項。<strong>BBS 為不同於網頁形式的電子討論區</strong>，因為操作省時及順暢，深受大學學生喜愛。<strong>跟世界發展趨勢不同，BBS 的開發與發展為台灣獨有（大陸以 win32 firebird為主流，多與網頁介面綑綁）</strong>，1999 年前後各五年均是 BBS 興盛時期。</p><p>受 限於 BBS 的技術，當時只能存放文章，且不能與網頁接軌，BBS 成為獨立發展的一塊桃源。在 2003 年前後，無名小站與學術網路內其他幾個 BBS 都結合相簿程式開發出了 "只要有 BBS 帳號" 就可以同時享受該站提供的網路相簿服務。</p><p>當時，學網外也有一個服務叫做 <a href="http://www.taipeilink.net/">TaipeiLink</a>，提供網路相簿服務。幾個提供網路相簿服務的站台正是不滿 Taipei Link 速度過慢，故開發出了結合 BBS 帳號的相簿服務。當然速度過慢就是自資公司的致命傷，學術網路提供的相簿上的存取速度優勢，學網外的服務當然無法披敵。</p><p>前 幾段說到了這個時間點同時有幾個學術網路相簿存在。但是為什麼只有無名小站崛起呢，這大概也是鄉民朋友好奇的地方？筆者想，這個突出點，也算是它們雖然 現在被購併，留下的卻是眾多惡名的原因。當時無名小站擁有網路效能調校最精良的交大水管，但這只是其一，BBS 屬於 opensource code 的套件，在網路取得技術支援也不是很困難的問題，所以也不是技術壓倒勝的問題。而是在於機器資源 ….</p><p>現在 24~30 歲這一輩的新生代強者工程師大概都經歷過自己架設 BBS 站的階段，絕大部分人的 BBS 也是擺在自掏腰包買的機器或是實驗室的機器上，一大了可能要自己打工供養。無名小站當時壓倒勝大概就在這一點，它們在當時打出了號稱全國最大的網路、全國 最大的相簿空間 (50mb)，以及不縮圖的機制（不壓縮過的圖佔的空間是很可怕的）（見<a href="http://xdite.net/paste/1220-01.txt">附件一</a>），一般人根本養都養不起這樣的怪獸，可是無名小站做到了，因為<strong><a href="http://www.wretch.cc/blog/wretch&amp;article_id=1797046">它們不小心 向系計中借了太多機器還不回去</a></strong>， 導致剩下太多硬碟空間（拼湊淘汰且可用的機器最好有辦法湊出那麼多） XD。要說無心也好，蓄意也罷（當時不在創站團隊裡的 vvkvvu，時為系計中大總管）。總之，連學網內其他站台都敵不過無限資源以及超快網路的無名小站，於是無名小站獨霸了超大市場。當時相簿並不是主服 務，BBS 才是主服務。無名小站為了衝上站人數，越玩越過火，推出了上站滿 1 個月，相簿容量加倍 ( 100mb) （見<a href="http://xdite.net/paste/1220-02.txt">附件二</a>）。後來甚至推出了掛站滿 720 小時，相簿容量一舉提升為 500 mb（見<a href="http://xdite.net/paste/1220-03.txt">附件三</a>）。狂贈送空間，這是後來不僅僅是一般大學學生，連一般民眾加入會員的主因。</p><p>當然樹大招風，開始有人質疑無名小站這麼大的資源從哪來的，如此是否會造成不公平競爭。而上面也隨著林深鳥雜，站上充斥著不當的圖片資料，而開始被民眾對 教育部提出檢舉，這在當時的 <a href="http://groups.google.com.tw/group/nctu.talk?hl=zh-TW">NCTU Talk 連線看版</a>上都還保留著完整的討論串（<a href="http://tinyurl.com/yjw7w9">附件四</a>），當然不當圖片的事件最後是以學術計畫，提供民眾測試平息紛爭（<a href="http://tinyurl.com/st6cp">附件五</a>），無名小站的龐大不明硬體來源看起來 也以科學計畫這個說法解套（雖然<a href="http://0rz.tw/912cc">附件四</a>和<a href="http://tinyurl.com/st6cp">附件五</a>時間點明顯矛盾，硬體時間也完全兜不攏）。但是既然大人出來說話了，無名小站提供對鄉民來說這麼好的優良服 務也沒營利，大家也不願細究。但是隨之而來的<a href="http://xdite.net/paste/1220-04.txt">測試刊廣告實力的營利事件</a>（學網明訂不得使用學術資源營利），據說"迫使無名小站不得不遷出校園。 而搬出學網之後，創辦人林先生也因為一句「<a href="http://www.wretch.cc/blog/press&amp;article_id=1713980">這就好像你在你家住，媽媽跟你算房租</a>」反咬交大一口的精妙比喻轟動江湖。而 100 mb 與 500 mb 的相簿空間，也隨著遷出學網，無法藉著免費資源維持服務，而被片面取消，也徒留沒這個屁股卻吃那個瀉藥的話柄。</p></blockquote>      <p>--------------------------------------------------------------
+</p><p>以下開始合併閱讀：
+</p><p><a href="http://www.nctufamily.com.tw/nctu_club/2007/1-2/p01.asp">交大家族第四十九期</a>：
+</p><p>
+<a href="http://www.flickr.com/photos/14765209@N00/487952026/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/228/487952026_936f54a311_o.jpg" alt="2003start01" height="263" width="319" /></a>
+</p><p>
+信件：
+</p>
+<a href="http://www.flickr.com/photos/14765209@N00/487984123/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/207/487984123_d250ebc97b_o.jpg" alt="all01" height="213" width="632" /></a>
+
+
+quote : <b><font color="#ff0000">2003 年 暑假起 丁丁大站 即在師長不知情下存在系計中機房</font>。</b>
+
+2003/10/18 <a href="http://xdite.net/paste/1220-01.txt">丁丁大站提供每人 50 mb 相簿服務</a>。
+
+<a href="http://www.flickr.com/photos/14765209@N00/488069455/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/209/488069455_fd39e978ce_o.jpg" alt="2003start03" height="198" width="285" /></a>
+
+2004/05/12 <a href="http://xdite.net/paste/1220-02.txt">丁丁大站宣布相簿升級，容量加倍</a>。
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/487984125/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/224/487984125_e099c6eb66_o.jpg" alt="all02" height="101" width="632" /></a>
+
+<a href="http://www.nctufamily.com.tw/nctu_club/2007/1-2/p01.asp">交大家族第四十九期</a>：
+
+<a href="http://www.flickr.com/photos/14765209@N00/488050400/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/229/488050400_fe928072dd_o.jpg" alt="2004sell01" height="318" width="280" /></a>
+
+信件：
+
+<a href="http://www.flickr.com/photos/14765209@N00/488055164/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/196/488055164_8188984785_o.jpg" alt="2004sell02" height="131" width="536" /></a>
+
+<b><a href="http://xdite.net/paste/1220-04.txt">wretch 想和大家說的一段話存檔</a></b>
+
+<a href="http://www.flickr.com/photos/14765209@N00/488061074/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/222/488061074_406358ac16_o.jpg" alt="2004nostorage" height="199" width="588" /></a>
+
+
+<blockquote>當然樹大招風，開始有人質疑無名小站這麼大的資源從哪來的，如此是否會造成不公平競爭。而上面也隨著林深鳥雜，站上充斥著不當的圖片資料，而開始被民眾對 教育部提出檢舉，這在當時的 <a href="http://groups.google.com.tw/group/nctu.talk?hl=zh-TW">NCTU Talk 連線看版</a>上都還保留著完整的討論串（<a href="http://tinyurl.com/yjw7w9">附件四</a>），當然不當圖片的事件最後是以學術計畫，提供民眾測試平息紛爭（<a href="http://tinyurl.com/st6cp">附件五</a>），無名小站的龐大不明硬體來源看起來 也以科學計畫這個說法解套（雖然<a href="http://0rz.tw/912cc">附件四</a>和<a href="http://tinyurl.com/st6cp">附件五</a>時間點明顯矛盾，硬體時間也完全兜不攏）。
+</blockquote>
+
+<a href="http://www.flickr.com/photos/14765209@N00/488064634/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/225/488064634_754eeddf74_o.jpg" alt="2004PFLIN" height="247" width="588" /></a>
+
+
+
+信件：
+
+<a href="http://www.flickr.com/photos/14765209@N00/488086728/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/230/488086728_cf8e16ce7a_o.jpg" alt="2004-5tb" height="63" width="553" /></a>
+
+<b><a href="http://xdite.net/paste/1220-04.txt">wretch 想和大家說的一段話存檔</a>
+</b>
+再看一次。2004/5 月發生的&nbsp; <a href="http://xdite.net/paste/1220-02.txt">丁丁大站宣布相簿升級，容量加倍</a>。
+
+
+<a href="http://www.flickr.com/photos/14765209@N00/488081874/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/224/488081874_cad05af78a_o.jpg" alt="2004borrow" height="681" width="619" /></a>

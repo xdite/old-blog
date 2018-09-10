@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 555
+layout: post
+title: !binary |
+  5Lit6I+v5o6o54m55oeJ5o+05Yi25pyN5bGV56S65Y2A
+
+date: 2008-03-13 12:33:11 +08:00
+wordpress_url: http://blog.xdite.net/?p=555
+---
+這幾天因為八搶三戰打的正火熱，許多推友（<a href="http://twitter.com">twitter</a> 上的朋友）紛紛將自己的顯示符號改成 CT 版來應援。昨天<a href="http://www.bigsound.org/portnoy/">鄭龜先生</a>興起了一個想用推特 icon 做應援大圖的 idea，於是我也花了短短幾個小時，用 Rails 寫了這樣一個<a href="http://cticon.veryxd.net">應援制服的收集展示區</a>。
+
+<a href="http://www.flickr.com/photos/tenz1225/2323756897/">母體底稿可在這裡取得</a>。（感謝 tenz）
+
+<a href="http://cticon.veryxd.net"><img src="http://farm4.static.flickr.com/3038/2330857648_2b3dcc9fa6.jpg" width="500" height="422" alt="cticon" /></a>
+
+玩法非常的簡單，只要填入你在 twitter 的英文代號，並且上傳你<strong>*已經合成好*</strong>的圖示（請注意，這不是合圖機啊啊啊啊）。沒錯，並不能幹嘛，只是一片 icon 牆非常賞心悅目，而且將來可以留作紀念罷了。
+
+我將會把眾推友的制服打包給鄭龜先生製作大型應援服的！中華加油，打<del>爆韓國</del> 進奧運！
+
+---
+本次依舊感謝 seayat 幫忙美化 layout <(_ _)>

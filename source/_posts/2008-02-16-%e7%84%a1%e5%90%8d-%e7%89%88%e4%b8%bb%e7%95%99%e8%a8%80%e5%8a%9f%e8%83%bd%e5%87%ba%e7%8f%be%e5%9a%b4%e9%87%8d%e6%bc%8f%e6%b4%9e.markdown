@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 544
+layout: post
+title: !binary |
+  W+eEoeWQjV0g54mI5Li755WZ6KiA5Yqf6IO95Ye654++5Zq06YeN5ryP5rSe
+
+date: 2008-02-16 15:00:32 +08:00
+wordpress_url: http://blog.xdite.net/?p=544
+---
+這個漏洞是本格讀者昨天晚上發現並報給筆者的的。
+
+以下是以 XD 爸的 blog 截圖，筆者展現一個作子女的如何孝順的使用 firebug 幫爸爸代回粉絲 comment。請各位讀者勿以身試法，爸爸媽媽真的忙不過來，才可以幫他代回留言喔!
+
+<a href="http://www.flickr.com/photos/14765209@N00/2266681163/" title="Flickr 上 xuitejoke 的 wretch01"><img src="http://farm3.static.flickr.com/2235/2266681163_14f58e9389_m.jpg" width="240" height="174" alt="wretch01" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/2266681297/" title="Flickr 上 xuitejoke 的 wretch02"><img src="http://farm3.static.flickr.com/2259/2266681297_2441220700_m.jpg" width="240" height="174" alt="wretch02" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/2266681405/" title="Flickr 上 xuitejoke 的 wretch03"><img src="http://farm3.static.flickr.com/2417/2266681405_d4cd2be92f_m.jpg" width="240" height="174" alt="wretch03" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/2267470624/" title="Flickr 上 xuitejoke 的 wretch04"><img src="http://farm3.static.flickr.com/2416/2267470624_a273b08380_m.jpg" width="240" height="174" alt="wretch04" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/2266680921/" title="Flickr 上 xuitejoke 的 wretch05"><img src="http://farm3.static.flickr.com/2398/2266680921_c3a58b9a13_m.jpg" width="240" height="174" alt="wretch05" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/2267470168/" title="Flickr 上 xuitejoke 的 wretch06"><img src="http://farm3.static.flickr.com/2418/2267470168_3a82dc21cf_m.jpg" width="240" height="174" alt="wretch06" /></a>
+
+----
+
+第一次看到這麼誇張的漏洞 XD 
+
+請 Yahoo 快點修復吧，不然政治 blog 那麼多，一開打就不是鬧著好玩的了 XD

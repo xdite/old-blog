@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 445
+layout: post
+title: !binary |
+  UFRUIOWPsuS4iuacgOWkp+eDj+m+je+8gQ==
+
+date: 2007-08-22 02:31:16 +08:00
+wordpress_url: http://blog.xdite.net/?p=445
+---
+剛剛去沖涼，準備洗澡睡覺。回來就被幾個讀者狂丟水球。說我錯過史上最大 JOKE 。
+
+<strong>PTT 全站使用者升等站長事件</strong>
+
+約莫在 8/22 凌晨兩點，全站突然都擁有站長權限。
+
+以下是 duaye@ptt2.cc 提供的直擊照片。
+
+<a href="http://www.flickr.com/photos/14765209@N00/1196398708/" title="相片分享"><img src="http://farm2.static.flickr.com/1284/1196398708_84dddf4857.jpg" width="500" height="375" alt="bug" /></a>
+
+以下是 不願意具名仁兄 提供的直擊照片。
+
+<a href="http://www.flickr.com/photos/14765209@N00/1196388384/" title="相片分享"><img src="http://farm2.static.flickr.com/1403/1196388384_867fedf732.jpg" width="500" height="285" alt="圖片 2" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/1196388488/" title="相片分享"><img src="http://farm2.static.flickr.com/1143/1196388488_be481cc00a.jpg" width="500" height="283" alt="圖片 3" /></a>
+
+<a href="http://www.flickr.com/photos/14765209@N00/1196436796/" title="相片分享"><img src="http://farm2.static.flickr.com/1435/1196436796_09efeb46e8.jpg" width="500" height="375" alt="新增ACDSee BMP 圖像" /></a>
+
+到底是程式在線上改到爛還是遭入侵？...
+
+印象中這種修改不是都要重開機才會生效，或是清 SHM 砍 bbsd ？線上使用者通通生效的情形還沒遇過，真是一團謎。（HMM，只玩過 wd 和 maple-itoc，不太瞭解 ptt 的要不要重開）

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 284
+layout: post
+title: !binary |
+  T1NEQy50dyDplovmlL7loLHlkI0=
+
+date: 2007-02-19 20:10:19 +08:00
+wordpress_url: http://blog.xdite.net/?p=284
+---
+<br />2007 OSDC.tw <a href="http://register.osdc.tw">開放報名</a><br /><br />時間是 4/14（六）4/15（日），限額 180 人，<a href="http://osdc.tw/2007/02/post_7.html">詳細議程</a>在此。<br /><br /><br />-----<br /><br />不過 <a href="http://blog.bof.tw/">2007 BOF</a> 好像也在 4/14，看來不少人要傷腦筋了？ :p

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 409
+layout: post
+title: !binary |
+  5YWN6ZuZ6K2J5Lu277yM5pCs6LWw5L2g55qE5aW95Y+L5Yiw5paw56qp5Y67
+  77yB
+
+date: 2007-07-09 22:29:58 +08:00
+wordpress_url: http://blog.xdite.net/?p=409
+---
+今天來介紹一個好工具，叫做「<a href="http://www.diggirl.net/wretchfriend.jsp">無名好友搬家小工具</a>」<br /><br />這是一支可以將你的好友搬到新家的程式，即使你因為沒有換密碼而被擋在無名小站外也可以搬。<br /><br />請各位感謝 <a href="http://blog.qing.tw/">Qing</a> 與 <a href="http://www.wretch.cc/blog/phopicking">毒菇木</a> 兩位大神的實做 &lt;(_ _)&gt;。<br /><br />另外如果你的相簿因為太大，無法使用 Gslin 的備份相簿功能，可以考慮使用他們的產品<a href="http://www.diggirl.net/wretchfriend.jsp">GirlDigger</a>（你不是 Girl 也可以用），把自己的相片打包回家<br /><br />此工具 original idea 來自<a href="http://blog.xdite.net/?p=386">這篇</a>的<br /><blockquote><p>5. 我的朋友都在這裡 （無解，也最重要）</p><p> </p><p>為什麼我的朋友都在這裡，是最常見的問題。但我始終狐疑，你自己搬家就好，關別人什麼事？</p><p> </p><p>後來我在研究了很久以後，才明瞭<b>我的朋友都在這裡</b>的意思。一般使用者，他不會訂 RSS，無名的 RSS 也很爛。<a target="_blank" href="http://www.wretch.cc/friend/xdite">無名好友</a>更一整個很廢設計來不知道幹嘛。所以它們的意思是<b>如果他要看朋友最新動態的話，沒有那個下拉選單可以狂開朋友網誌、相簿很不方便，它的朋友也沒辦法一拉就看它的網誌</b>。</p></blockquote>  <br />簡單貼兩張圖當教學，不會用再點開。（毒菇木有寫一篇<a href="http://www.wretch.cc/blog/phopicking&amp;article_id=11048726">怎樣貼到 Pixnet 的教學</a>）<br /><!--more--><br /><a href="http://www.flickr.com/photos/14765209@N00/761684248/" title="相片分享"><img src="http://farm2.static.flickr.com/1104/761684248_0370032dd1.jpg" alt="movefriends" height="189" width="500" /></a><br /><br />預覽圖<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/761696078/" title="相片分享"><img src="http://farm2.static.flickr.com/1049/761696078_913c5dd5b4_o.jpg" alt="movefriends2" height="144" width="207" /></a>

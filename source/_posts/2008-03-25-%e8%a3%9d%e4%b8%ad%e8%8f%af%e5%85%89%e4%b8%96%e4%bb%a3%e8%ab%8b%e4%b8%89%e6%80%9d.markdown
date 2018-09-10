@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 562
+layout: post
+title: !binary |
+  6KOd5Lit6I+v5YWJ5LiW5Luj6KuL5LiJ5oCd
+
+date: 2008-03-25 01:12:40 +08:00
+wordpress_url: http://blog.xdite.net/?p=562
+---
+之前在鳥窩 BBS 看到長輩勸阻大家不要裝肛世代，本來還不明就裡。
+直到自己裝了才知道這東西有多鳥。
+
+出國看 YouTube 比 8M 慢不說，裝機完的兩週內爆炸了五次 ....
+光今天就炸了兩次，還挑我下班回家想上網的時候爆炸。（燈號正常但是停在撥號，關機重來也一樣）
+
+光打去請客服的 reset 電話就打了四次... 
+這玩意看起來真是裝不得...-_-
+
+真是在開用戶的玩笑（怒）
+
+<strong>[3/27 Update]</strong>
+
+我這台電腦 PPPOE 上 ADSL 及 DHCP 完全沒問題，但是換了 VDSL 後下班開電腦一撥號常卡在 678。（Zyxel P870H-51）非得要打去 412 REST 才能解除 678。前天換了數據機還是無解。
+最後我採取的作法是 硬撥+DHCP，昨天上網暫時穩定。

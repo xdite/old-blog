@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 3046
+layout: post
+title: !binary |
+  56ys5LiA5qyh5a24IFJhaWxzIOWwseS4iuaJi++8jOmZkOaZguS4gOmAseeJ
+  ueWDuSAkNC45OSBVU0Q=
+
+date: 2011-08-22 15:49:32 +08:00
+wordpress_url: http://blog.xdite.net/?p=3046
+---
+因應本週 8/26 , 8/27 是 <a href="http://rubyconf.tw/2011/">2011 RubyConf TW</a> ，且 8/27 是我生日的緣故。
+
+第一次學 Rails 就上手，特價 $4.99，限時一週。8/27 晚上就會關掉優惠。
+
+預購從速，請由底下 button 進行購買。
+
+
+<form action="http://transactions.digitaldeliveryapp.com/products/246/purchase" method="post"><input type="image" src="http://assets.digitaldeliveryapp.com/images/buttons/buy-now-green.png" border="0" name="submit"/></form>
+
+
+另外。提醒一下，<a href="https://registrano.com/events/rubyconf-taiwan-2011/registrations/new">RubyConf 還有剩票</a>，還沒報或是忘記報名 RubyConf 的也趕快來報名吧！

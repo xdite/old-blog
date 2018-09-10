@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 340
+layout: post
+title: !binary |
+  54mp5qW15b+F5Y+NID0gPw==
+
+date: 2007-05-05 02:53:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=340
+---
+這是在 PTT 上面看到的。使用 <a href="http://translate.google.com/translate_t">google translate 服務</a>，輸入「物極必反」再按 Chinese To English Beta 跑出來的結果。<br /><br />靠，這實在太銷魂了啊 XD<br /><br /><a href="http://www.flickr.com/photos/14765209@N00/484148233/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/216/484148233_1d9b23da40.jpg" alt="taiwanid" height="149" width="500" /></a>

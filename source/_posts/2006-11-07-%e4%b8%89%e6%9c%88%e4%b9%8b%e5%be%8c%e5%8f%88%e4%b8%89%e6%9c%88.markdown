@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 190
+layout: post
+title: !binary |
+  5LiJ5pyI5LmL5b6M5Y+I5LiJ5pyIPw==
+
+date: 2006-11-07 21:10:38 +08:00
+wordpress_url: http://blog.xdite.net/?p=190
+---
+不知道時候會升級成「三年之後又三年呢」? XD<br /><br />剛剛筆者在寫上篇文章時眼尖時看到11/07<a href="http://nopa.csie.org/640fb" onclick="javascript:urchinTracker ('/outbound/nopa.csie.org');">[說明] 流量超高時的暫時措施</a>裡的一段 <br /><blockquote><br />這只是暫時不得已的措施，我們已動用了明年的近億元預算<br /><br />購買了更多的機器，這批機器<font style="font-weight: bold; color: rgb(255, 0, 0);">估計三個月內送到並安裝好上線</font><br /><br />除了原本 VIP 的功能與保障不變外，也大幅增加了對一般會員的投資<br /><br />讓一般會員也能享有基本的服務</blockquote><br />對照 10/18 <a href="http://nopa.csie.org/f2fb5">[公告] 關於一般會員維修與空間擴充計劃</a><br /><br /><blockquote>二個月前我們就計劃更新這一批大硬碟<br /><br />更新為更高級的大硬碟，每一台也都是千萬級的可以負荷更大的流量<br /><br /><font style="font-weight: bold; color: rgb(255, 0, 0);">本來十月初就會到貨</font>，但廠商卻因為種種原因拖延出貨<br /><br />今天廠商保證說下星期一定會從美國上飛機<br /><br />所以十月底一定會到台灣<br /><br /><br />以下是我們規劃的時間表:<br /><br />十月底新的大硬碟裝好<br />11月初開始把剩下幾萬個用戶的資料搬到新的大硬碟<br />11月中陸續完成搬移開始使用<br /><font style="font-weight: bold; color: rgb(255, 0, 0);">11月底全部完成</font></blockquote><br />5天後 -&gt; 10月底 -&gt; 11 月底-&gt;三個月內 .....<br /><br />「<font style="font-weight: bold;">三月之後又三月</font>」、「<a href="../../../../../?p=171"><font style="font-weight: bold;">我只是想做個好人</font></a>」<br /><br /><font size="4" style="color: rgb(255, 0, 0); font-weight: bold;">看來使用有名大站，真是一場「無間道」呢</font> XD

@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 212
+layout: post
+title: !binary |
+  W+iBmuacg10gMTIvMyBIYXBweVdlYiAyIHwgMTIvMjAgMjAwNiDos4foqIrl
+  ronlhajnvqToi7HmnIM=
+
+date: 2006-11-27 21:57:26 +08:00
+wordpress_url: http://blog.xdite.net/?p=212
+---
+<font size="4"><strong><br /></strong></font><a href="http://www.pocketshark.com/blog/page/cjin?entry=happyweb2_on_12_3"><font size="4"><strong>HappyWeb 2</strong></font> 12/03</a><br /><br /><blockquote>12/3 (日) 下午 2:00 台北市伯朗咖啡南京店<br /><br />主講者: Gene@<a href="http://look.urs.tw">部落格觀察</a>、<a href="http://vista.tw">Vista</a><br /></blockquote><a href="http://samc.study-area.org/sa2006/"><br /><strong><font size="4">2006 資訊安全群英會</font></strong> 12/16</a> <br /><br /><blockquote>12/16 （六） 早上 8:30 台中縣靜宜大學<br /><br />Track:<br /><br />網路技術當紅炸子雞 AJAX 會帶來什麼危險？ by TT<br />Unix 資安通識 by Winggy<br />電腦鑑識與應變經驗談 by PK<br />Linux 核心安全弱點分析 by timhsu<br />Rootkit/Spyware 間諜軟體的防範技術 by Birdman<br /></blockquote>

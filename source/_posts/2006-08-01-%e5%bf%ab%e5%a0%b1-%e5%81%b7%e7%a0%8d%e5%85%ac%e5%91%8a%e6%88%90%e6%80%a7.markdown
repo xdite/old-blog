@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 34
+layout: post
+title: !binary |
+  W+W/q+WgsV0g5YG356CN5YWs5ZGK5oiQ5oCnIT8=
+
+date: 2006-08-01 16:01:00 +08:00
+wordpress_url: http://blog.xdite.net/?p=34
+---
+<p>Xuite 在剛剛又偷偷拿掉 CSS 大爆炸的公告了</p><p>  <img src="http://static.flickr.com/72/203671036_3ccb4cfed1_o.jpg" border="0" /></p><p>  <a href="http://www.flickr.com/photos/49274115@N00/203671038/" title="Photo Sharing"><img src="http://static.flickr.com/75/203671038_df9da9ac71_o.jpg" border="0" alt="postdelete02" width="240" height="192" /></a> </p><p>&nbsp;</p><p> ---  update：本篇文章確定被砍除  換成<a href="http://blog.xuite.net/blog/baby/7509064">這一篇</a></p>

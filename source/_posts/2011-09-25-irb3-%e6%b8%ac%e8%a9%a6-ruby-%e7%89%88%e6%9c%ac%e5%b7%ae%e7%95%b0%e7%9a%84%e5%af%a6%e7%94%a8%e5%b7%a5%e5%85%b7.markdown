@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 3166
+layout: post
+title: !binary |
+  aXJiMyAtIOa4rOippiBSdWJ5IOeJiOacrOW3rueVsOeahOWvpueUqOW3peWF
+  tw==
+
+date: 2011-09-25 15:30:27 +08:00
+wordpress_url: http://blog.xdite.net/?p=3166
+---
+這是週末在觀看 Peter Cooper 新上市教學：<a href="http://www.rubyinside.com/19walkthrough/">The Ruby Walkthrough</a> 時發現的工具。
+
+這套影片主要是在講解關於 Ruby 1.8, 1.9.x 的行為屆時會有何不同。而 Peter 在他的教學影片中使用了一套自己開發的工具，鍵入一個指令，可以直接觀看不同 Ruby 版本的差異。
+
+<a href="http://www.flickr.com/photos/xdite/6180539490/" title="螢幕快照 2011-09-25 下午3.22.33 by xdite, on Flickr"><img src="http://farm7.static.flickr.com/6171/6180539490_6b6f640c75.jpg" width="500" height="282" alt="螢幕快照 2011-09-25 下午3.22.33"></a>
+
+我從台詞中找到了這套工具 "<a href="https://gist.github.com/1226588">irb3</a>"，Peter 目前只把它放在一個 gist 裡，而不是一套 gem XDD。運行效果就如同截圖所示。

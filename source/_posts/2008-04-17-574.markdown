@@ -1,0 +1,51 @@
+--- 
+wordpress_id: 574
+layout: post
+title: !binary |
+  6ZaL55m8IFR3aXR0ZXIgYXBwIOacg+mBh+WIsOeahOS4gOS6m+Wwj+eLgOaz
+  gSAvIOino+azlQ==
+
+date: 2008-04-17 07:57:42 +08:00
+wordpress_url: http://blog.xdite.net/?p=574
+---
+昨天跟 cjin 聊了一下 twitter app 開發的甘苦（其實只有苦XD），不約而同對 twitter 的不穩有著極大的怨念。而自己看 log 發現這些意外狀況，害得原先 code 需要大幅度 refator 的情形亦時常發生。
+
+乾脆來寫一下當初開發當中沒預料到的事以及自己怎樣解決。
+
+<a href="http://groups.google.com/group/twitter-development-talk/web/api-documentation">Twitter API</a>
+
+會發生的問題：
+
+
+
+<blockquote>1. <strong>username 不是 unique。</strong>
+
+當初剛上線時只是簡單做做，拿大家登入時的名字當登入名稱。才上線一天就發現原來還是有人使用 e-mail 登入。這下大條了，個人頁會破掉，要重新判斷 ...。後來才發現不只如此，twitter的 username 是可以任意在原站 change 的。
+
+解法 : <strong>去抓 twitter 的個人 info 裡面的 unique twitter id(number) 作為判斷準則。</strong>
+
+2. <strong>twitter 不開放以 unique id 或者是 username 以外的方式查詢資訊。
+</strong>
+前面說到了，對付使用 username 任意改變的解法是抓 unique twitter id (number)。但是資料庫裡知前那幾筆以 e-mail 登入方式的使用者，我既沒有他的 username 也沒有它的 id，怎麼準確知道他的這兩個資訊？
+
+暴力解法：<strong>登入以後，可抓這個使用者的 public_timeline，上面會有使用者的 id，再用這個 id 把 name 一起抓出來。</strong>
+
+3. <strong>twitter 不穩
+</strong>
+twitter 因為本身極度不穩，以及有一個 user 一小時 70 次的存取限制。所以有時候第三方軟體會因為該 user 已經被 block，使用者自己又不知情（該使用者可能裝了 twitterfox / twhirl ..blah），導致去存取就會產生錯誤，然後就被怪罪....XD
+
+解法：<strong>不要相信 twitter 是可靠的，在任何需要與 twitter 交換資訊的動作都加上 try / catch 機制，發生錯誤就直接將 twitter 傳回的錯誤告知使用者（不要幫 twitter 扛，根本就扛不完）。</strong>
+
+（因此這支程式是我寫 rails 以來，明明 code 沒多少行，一開始就要寫 begin rescue ，而且 begin rescue 相對比例最高的程式 ...。）
+
+4. <strong>twitter 存取限制
+</strong>
+上面講過了，不過有時候寫的一些功能可能要配合 user 在 twitter 上的資訊。因為連第三方本身大量存取，twitter 也會阻擋。
+
+解法：<strong>開 table，cache 在自己這一端，頂多使用者每 login 一次時就更新一次。</blockquote></strong>
+
+
+
+---
+先寫到這裡，這些是一些簡單的基礎狀況（後面的不穩/ 存取限制簡直是強迫我戒掉以為第三方平台可靠所以可以晚點再 check exception 的壞習慣 XD），還有踩到新地雷再來 update。希望能節省一些大家開發 twitter 3rd party 時解地雷的時間。
+

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 265
+layout: post
+title: !binary |
+  5oiQ56uLV2ViIDIuMOWFqOawkeaUv+W6nD8=
+
+date: 2007-01-23 12:50:21 +08:00
+wordpress_url: http://blog.xdite.net/?p=265
+---
+奇文共賞：（<a href="http://www.libertytimes.com.tw/2007/new/jan/23/today-o4.htm">原文出處</a>）<br /><br /><blockquote><strong>Web 2.0 可以快速實現人民當家做主的機會，現有的總統府「阿扁電子報」、「總統信箱」、「副總統信箱」是一個人民發聲的 Web 2.0 管道</strong>，但若能更具體實踐 Web 2.0 精神，應該在總統府或行政院網站下，成立「Web 2.0 全民政府」，讓台灣人民關心的政治、經濟、民生等議題，不論是興利或揭弊，都可以不再經過代議政治的「利益過濾」之手，透明地攤在國人眼中。<br /><br />例如高鐵，如果有 Web 2.0 全民政府，相信有更多在全球各地搭過高鐵、新幹線、交通運輸的台灣人民，可以提出比高鐵局的資訊人員、營運流程部門、幕僚人員更好的運作機制。<br /></blockquote><br /><br />

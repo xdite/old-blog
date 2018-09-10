@@ -1,0 +1,38 @@
+--- 
+wordpress_id: 463
+layout: post
+title: !binary |
+  54Sh5Lq65Y+v6LaF6LaK55qE55qE6LOH5a6J5pS/562WIC0tIGVCYXk=
+
+date: 2007-09-29 14:31:55 +08:00
+wordpress_url: http://blog.xdite.net/?p=463
+---
+最近朋友 none 抱怨他收到了<a href="http://nopa.pixnet.tw/index.php?id=0bfc11af2f">一封詭異的信</a>。
+
+<blockquote>Subject: FPA NOTICE: eBay Registration Suspension - User Agreement - Abusing eBay - xxxx@gmail.com
+
+Dear xxx(xxxx@gmail.com)Your eBay account has been suspended.
+
+eBay took this action after determining that your account wasacting inconsistently with the letter or spirit of our policies.
+
+You are prohibited from using eBay in any way.This includes using another existing account or registering a new account.
+
+Any seller fees that are still owed are due to eBay immediately.eBay will charge any amounts that you have not previously disputedto the billing method that is currently on file.
+
+Sincerely,
+
+eBay Trust &amp; Safety</blockquote>
+登入的結果確發現被暫停了帳號。
+問了幾個台灣的朋友，沒想到也幾乎不約而同妙名奇妙的收到同封信。
+
+正當大家以為是太久沒登入，結果被停權的時候。BBS 鳥窩上有長輩寫信去問了，得到的回應是
+<blockquote>您好！歡迎您的來信！&nbsp; 很高興有機會回答您的疑問。 
+
+感謝您的來信，目前由於臺灣用戶帳戶頻繁受到黑客的侵入，利用盜用的帳戶進行詐騙。<b>為了保護用戶的個人信息及帳戶安全，目前對部分臺灣用戶的帳戶將進行一定的封存。</b>如果閣下有意在eBay上繼續交易請發送郵件至crossbordercn@ebay.com&nbsp; 咨詢，我們將提供您解除限制的方式。給您帶來的不便我們深表歉意。謝謝。
+
+香港 eBay 客戶服務代表</blockquote>
+另一位長輩，寫信過去得到的回應是，若要重新開通帳號，必須 fax 一堆證明文件到 ebay US。
+
+令人嘆為觀止啊，偉哉 eBay！
+
+

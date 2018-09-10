@@ -1,0 +1,63 @@
+--- 
+wordpress_id: 2752
+layout: post
+title: !binary |
+  6K6TIEdvb2dsZSBQbHVzIOiDveWkoOaKk+WIsOmDqOiQveagvOaWh+eroOat
+  o+eiuueahOWFp+aWhw==
+
+date: 2011-07-25 09:37:49 +08:00
+wordpress_url: http://blog.xdite.net/?p=2752
+---
+在分享連結時自動抓取文章內容，已經是公認社群網站必備的內建功能。Google Plus 不免俗也提供了類似功能。只是精度卻不如 Facebook 來得高，時常抓到不該抓的資訊。（把「推到 Plurk」、「推到 Facebook」這樣的字也收錄進來」）
+
+Google Plus: （收錄無關資訊）
+
+<a href="http://www.flickr.com/photos/xdite/5972527830/" title="螢幕快照 2011-07-25 上午8.54.49 by xdite, on Flickr"><img src="http://farm7.static.flickr.com/6142/5972527830_f6fa79ccde.jpg" width="500" height="314" alt="螢幕快照 2011-07-25 上午8.54.49"></a>
+
+Facebook : （比較聰明）
+<a href="http://www.flickr.com/photos/xdite/5972537372/" title="螢幕快照 2011-07-25 上午8.57.56 by xdite, on Flickr"><img src="http://farm7.static.flickr.com/6012/5972537372_e64ea33431.jpg" width="500" height="270" alt="螢幕快照 2011-07-25 上午8.57.56"></a> 
+
+其實無論是 Facebook 或者是 Google Plus，程式抓取內文的原則大約是按照這樣的優先順序：
+
+1. 是否有 og:description ( 僅 Facebook )
+2. 是否有 meta description tag
+3. 第一段內文
+
+而判斷該抓取的文字。
+
+也就是如果並沒有指定特殊 tag 時，bot 會去抓取「第一段內文」當做這張網頁的簡述內容。
+
+不過，遵循相似的規則。為什麼 Google Plus 的精度，為什麼會與 Facebook 的結果差這麼多呢？
+
+如果讀者有興趣翻開原始碼研究的話，可以發現根本的原因在於原因就在於： Facebook 是由從第一個 p tag 去抓資料，而 Google Plus 卻都是從第一個 div tag 開始判讀。
+
+但通常的情形是，網路上的一般使用者，在裝修自己的 Blog ( Wordpress ) 時，多數的習慣會是在文章正文前 （也就是第一個 p tag）前，先塞一些推文按鈕、廣告、其他文宣。 
+
+這也造成了 Google Plus 抓回來顯示的簡述內容往往慘不忍睹。
+
+那麼，又有什麼方法可以改善這樣的情形呢？
+
+我建議的改善方式是不要讓 Google Plus 自行猜測你這篇文章的「簡述」內容，直接告訴它在這張網頁，你想傳達的內容。也就是自行指定 meta description。
+
+<h3> 如何在自己的 Wordpress 加入自定的 meta description </h3>
+
+打開 Wordpress 的主題編輯器，修改 header.php。在 tltle tag 前。加入這一段：
+
+<script src="https://gist.github.com/1103365.js?file=gistfile1.php"></script>
+
+示意圖：
+
+<a href="http://www.flickr.com/photos/xdite/5972614856/" title="螢幕快照 2011-07-25 上午9.24.16 by xdite, on Flickr"><img src="http://farm7.static.flickr.com/6128/5972614856_64c38d3f6e.jpg" width="500" height="139" alt="螢幕快照 2011-07-25 上午9.24.16"></a>
+
+如此一來，以後其他讀者在 Google Plus 上轉貼你 Blog 的連結，就會正確的抓取該篇文章的簡述內容，而不會再出現一堆亂七八糟的裝飾。這樣也能提高大家分享該篇文章的意願。
+
+====
+
+註：會使用友站「<a href="http://briian.com">重灌狂人</a>」作為示意圖的原因，是因為我的 blog 修掉這個 bug 了。
+註：這篇文章寫作風格跟以前差很多，是因為在練習另外一種寫作筆法。
+
+====
+
+UPDATE : <a href="https://plus.google.com/108084961215908246598/posts/ES8yv1T9ExB">Google Plus 上有人分享更好的解法</a>
+
+<script src="https://gist.github.com/1103878.js?file=gistfile1.txt"></script>

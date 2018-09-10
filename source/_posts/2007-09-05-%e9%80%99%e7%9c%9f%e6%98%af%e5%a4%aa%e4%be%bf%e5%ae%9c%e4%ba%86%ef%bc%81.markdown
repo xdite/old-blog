@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 451
+layout: post
+title: !binary |
+  6YCZ55yf5piv5aSq5L6/5a6c5LqG77yB
+
+date: 2007-09-05 11:55:52 +08:00
+wordpress_url: http://blog.xdite.net/?p=451
+---
+<br />話說有名大站最近推出了<a href="http://www.wretch.cc/hala/viewtopic.php?t=408199">超級金卡方案</a>。這個方案實在是驚人的「便宜」，有多便宜呢？<br />我們可以比較一下啞唬旗下這兩個服務就知道...<br /><br /><br /><a href="http://www.wretch.cc/hala/viewtopic.php?t=408199" title="相片分享"><img src="http://farm2.static.flickr.com/1267/1326783480_f6e57672bf.jpg" alt="goldcard" height="230" width="500" /></a><br /><br /><big><b>再來比照一下 <a href="http://www.flickr.com/upgrade/">Flickr 的升級方案</a>：</b></big>（2007/9/5，24.95 USD = 826.5935 NTD）<br /><br /><a href="http://www.flickr.com/upgrade/" title="相片分享"><img src="http://farm2.static.flickr.com/1400/1326783692_0c44bdb0df.jpg" alt="flickrpro" height="251" width="500" /></a><br /><br /><br />不得不說，傑克，這實在是太神奇了...。「經典」的服務果然是要有相同「經典」的收費水平啊 XD<br /><br /><br />相關閱讀：<a href="http://www.wretch.cc/blog/Kennnnnnnnnn&amp;article_id=10806475">[無名超金卡]誰買了自己承認</a><br />
